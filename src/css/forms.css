@@ -1,0 +1,190 @@
+.forms {
+    width: var(--contentWidth);
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0;
+    min-height: 500px;
+    margin-bottom: 70px;
+}
+
+.forms form {
+    background-color: rgb(86, 79, 111, 0.5);
+    padding: 20px;
+    border-radius: 3px;
+}
+
+.forms h1,
+.forms h3,
+.forms h4 {
+    text-align: center;
+}
+
+.forms .accordion {
+    margin-bottom: 50px;
+}
+
+.forms .accordion p {
+    padding: 0 18px;
+    color: var(--backgroundColor);
+    font-size: 1rem;
+}
+
+.forms .accordion div.panel {
+    background-color: var(--textColor);
+}
+
+.forms .accordion button.title {
+    font-size: 1rem;
+    color: var(--textColor) !important;
+    background-color: var(--accentColor1) !important;
+    border: 1px solid var(--backgroundColor) !important;
+
+}
+
+.forms .accordion button.title:hover {
+    background-color: var(--highlightColor) !important;
+}
+
+.forms .guarantee {
+    color: var(--aColor);
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.forms .guarantee:hover {
+    color: var(--aColorHover);
+}
+
+.forms input {
+    width: 100%;
+    margin: 10px auto;
+    background-color: var(--textColor);
+    color: var(--backgroundColor);
+    padding: 10px 0;
+    font-family: var(--font);
+    font-size: 1.25rem;
+    border: none;
+    text-indent: 15px;
+}
+
+.forms textarea {
+    width: 100%;
+    margin: 10px auto;
+    background-color: var(--textColor);
+    color: var(--backgroundColor);
+    height: 150px;
+    padding: 10px 0 0 15px;
+    font-family: var(--font);
+    font-size: 1.25rem;
+    border: none;
+    box-sizing: border-box;
+}
+
+.forms .dvdFixAddress2Gap {
+    margin-bottom: 33px;
+}
+
+.sortFormSelect {
+    margin: 0px 10px 20px 10px;
+    padding: 8px;
+    background-color: var(--textColor);
+    font-size: 1.25rem;
+    color: var(--backgroundColor) !important;
+    border-radius: 3px;
+}
+
+.forms form button {
+    display: block;
+    margin: 30px auto;
+}
+
+.forms form p {
+    text-align: center;
+}
+
+.forms form p {
+    font-style: italic;
+    color: red;
+}
+
+.forms .hide,
+.forms .hideErrorMsg {
+    display: none;
+}
+
+.forms span.error {
+    display: block;
+    color: red;
+    font-style: italic;
+    text-align: center;
+}
+
+.forms .agreeToTerms {
+    display: inline;
+    width: 40px;
+    height: 40px;
+    margin: 5px 10px 0 0;
+    float: left;
+    border: 2px solid var(--highlightColor);
+    background-color: var(--textColor);
+}
+
+.forms .agreeToTermsSection {
+    padding: 20px 0;
+}
+
+.forms .agreeToTermsSection img {
+    width: 100%;
+}
+
+.forms .agreeToTermsSection p {
+    color: var(--backgroundColor);
+    font-style: normal;
+    text-align: left;
+}
+
+.forms .agreeToTermsSection h3 {
+    text-align: left;
+}
+
+.css-2b097c-container {
+    color: var(--backgroundColor);
+}
+
+.css-1hwfws3 {
+    padding: 0 8px;
+}
+
+.css-1rhbuit-multiValue {
+    background-color: var(--textColor) !important;
+}
+
+.select h3,
+.select h4 {
+    text-align: left;
+}
+
+.showSelect {
+    background-color: var(--textColor);
+    color: var(--backgroundColor);
+    padding: 5px 20px 15px 20px;
+    border-radius: 3px;
+    margin: 20px 0 0 0;
+}
+
+.hideSelect {
+    display: none;
+}
+
+@media screen and (max-width: 450px) {
+    .forms button {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    .sortFormSelect {
+        width: 100%;
+        margin: 10px 0;
+    }
+}

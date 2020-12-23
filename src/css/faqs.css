@@ -1,0 +1,54 @@
+.faqs {
+    width: var(--contentWidth);
+    margin: 0 auto;
+    padding-bottom: 75px;
+}
+
+
+.faqs p {
+    padding: 0 18px;
+    color: var(--backgroundColor);
+    font-size: 1rem;
+}
+
+.faqs div.panel {
+    background-color: var(--textColor);
+}
+
+.faqs button.title {
+    font-size: 1rem;
+    color: var(--textColor) !important;
+    background-color: var(--accentColor1) !important;
+    border: 1px solid var(--backgroundColor) !important;
+}
+
+.faqs button.title:hover {
+    background-color: var(--highlightColor) !important;
+}
+
+.faqs .popup button {
+    background-color: transparent;
+    border: none;
+    color: var(--highlightColor);
+    box-shadow: none;
+    padding: 0;
+    text-align: left;
+    text-decoration: underline;
+    text-transform: none;
+    font-size: 1rem;
+    margin: 0;
+}
+
+.faqs .popup button:hover {
+    color: var(--aColorHover);
+}
+
+.faqs li {
+    color: var(--backgroundColor);
+    padding: 0 18px;
+    font-size: 1rem;
+}
+
+.accordion .accordion-item.active .panel {
+    max-height: 1000px !important;
+}

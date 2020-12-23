@@ -1,0 +1,207 @@
+/* GLOBAL STYLES------------------------------------- */
+:root {
+  --backgroundColor: #2d283e;
+  --highlightColor: #802bb1;
+  --accentColor1: #564f6f;
+  --accentColor2: #4c495d;
+  --textColor: #d1d7e0;
+  --aColor: #ad35b8;
+  --aColorHover: #00d8b6;
+  --contentWidth: 90%;
+  --purpleShadow: 2px 2px 3px #2d283e;
+  --letterSpacing: 1px;
+  --font: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  --teal: #00d8b6;
+  --blue: #0074DF;
+  --brightBlue: #44d7ff;
+}
+
+html {
+  scroll-behavior: smooth;
+
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: var(--font);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-size: 18px;
+  background-image: url('../images/background_body.webp');
+  background-color: var(--backgroundColor);
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: var(--textColor);
+  box-sizing: border-box;
+}
+
+main {
+  padding-top: 80px;
+}
+
+header {
+  margin: 20px auto 50px auto;
+  text-align: center;
+}
+
+
+header h1 {
+  font-size: 3rem;
+  margin-bottom: 1rem;
+  color: var(--brightBlue);
+}
+
+header h3 {
+  font-size: 1.65rem;
+  font-weight: 400;
+}
+
+h2 {
+  color: var(--brightBlue);
+}
+
+h6 {
+  font-size: 1.25rem;
+  font-weight: 600;
+  margin: 15px 0;
+}
+
+a {
+  color: var(--aColor);
+  font-size: 1.1rem;
+  font-weight: 500;
+  letter-spacing: .05rem;
+  transition: 0.2s ease-in-out;
+}
+
+a:hover {
+  color: var(--aColorHover);
+}
+
+button {
+  cursor: pointer;
+  background-color: var(--aColor);
+  color: var(--textColor);
+  padding: 15px 0;
+  min-width: 180px;
+  box-shadow: 1px 2px 3px rgba(0, 0, 0, 0.5);
+  border: none;
+  transition: 0.3s ease-in-out;
+  font-size: 1rem;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: .05rem;
+}
+
+button:hover {
+  background-color: var(--aColorHover);
+  color: var(--backgroundColor);
+  /* box-shadow: none; */
+  /* border-color: rgba(0, 0, 0, 0.5); */
+}
+
+/* Overrides styles for bitcoin modals */
+.modal-content button {
+  min-width: 0;
+  box-shadow: none;
+}
+
+hr {
+  border: none;
+  height: 1px;
+  color: var(--textColor);
+  background-color: var(--textColor);
+}
+
+li {
+  margin: 10px 0;
+}
+
+input,
+textarea,
+button {
+  border-radius: 3px;
+}
+
+.usc2257,
+.custrec,
+.terms {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100%;
+  background-color: var(--backgroundColor);
+  overflow: auto;
+  padding: 0 50px;
+  text-align: justify;
+  z-index: 3;
+}
+
+/* banned section of videodetail.js and home.js */
+.hideWhy {
+  display: none;
+}
+
+
+
+/* MASONRY------------------------------------ */
+.masonry-grid {
+  /*display: -webkit-box; Not needed if autoprefixing */
+  /*display: -ms-flexbox; Not needed if autoprefixing */
+  display: flex;
+  margin-left: -30px;
+  width: auto;
+  margin-bottom: 50px;
+}
+
+.masonry-grid_column {
+  padding-left: 30px;
+  background-clip: padding-box;
+}
+
+.masonry-grid-modelDetail {
+  /*display: -webkit-box; Not needed if autoprefixing */
+  /*display: -ms-flexbox; Not needed if autoprefixing */
+  display: flex;
+  margin-left: -15px;
+  width: auto;
+}
+
+.masonry-grid_column-modelDetail {
+  padding-left: 15px;
+  background-clip: padding-box;
+}
+
+@media screen and (max-width: 1250px) {
+  header {
+    width: 80%;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  header {
+    width: 90%;
+  }
+
+  header h1 {
+    font-size: 2rem;
+  }
+
+  header h3 {
+    font-size: 1.2rem;
+  }
+
+  .masonry-grid {
+    display: block;
+    margin: 0 auto 50px auto;
+  }
+
+  .masonry-grid_column {
+    padding: 0;
+  }
+
+
+}

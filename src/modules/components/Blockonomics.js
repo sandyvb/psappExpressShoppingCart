@@ -1,11 +1,15 @@
-import logo from './logo.svg'
-import './App.css'
 import React, { useState, useEffect } from 'react'
+import ApiUtils from '../utilities/ApiUtils'
 import fetch from 'node-fetch'
 import axios from 'axios'
 
-function App() {
+const Blockonomics = (props) => {
   const [data, setData] = useState('')
+
+  const sendTitle = props.title
+  const sendProductDescription = props.productDescription
+  const sendPrice = parseFloat(props.price)
+  const sendDownloadLink = props.downloadLink || '0'
 
   useEffect(() => {
     sendProductData()
@@ -17,10 +21,10 @@ function App() {
   const sendProductData = async () => {
     await axios
       .post('/productData', {
-        title: 'the title',
-        productDescription: 'the description',
-        price: 2.99,
-        downloadLink: 'the download link',
+        title: sendTitle,
+        productDescription: sendProductDescription,
+        price: sendPrice,
+        downloadLink: sendDownloadLink,
       })
       .then((res) => console.log('data sent: ', res))
       .catch((e) => console.log(e))
@@ -36,19 +40,27 @@ function App() {
     return body
   }
 
+  const styles = {
+    button: {
+      display: 'block',
+      margin: '0px auto',
+      paddingLeft: '20px',
+      paddingRight: '20px',
+    },
+  }
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p className="App-intro">{data}</p>
-        <button className="blockoPayBtn" data-toggle="modal" data-uid={data}>
-          download
-        </button>
-      </header>
-    </div>
+    <button
+      style={styles.button}
+      className="blockoPayBtn"
+      data-toggle="modal"
+      data-uid={data}
+    >
+      download
+    </button>
   )
 }
 
-export default App
+export default Blockonomics
 
 // to run: from root/client: npm start

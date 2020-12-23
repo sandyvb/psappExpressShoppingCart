@@ -1,0 +1,175 @@
+.detail {
+    width: 90%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.data {
+    /* padding: 25px 5px 60px 5px; */
+    /* background-color: rgba(76, 73, 93, 0.2); */
+    /* box-shadow: 1px 2px 3px rgba(0, 0, 0, 0.5); */
+    margin-bottom: 50px;
+}
+
+.detail p {
+    text-align: justify;
+}
+
+.detail h1 {
+    color: var(--brightBlue);
+    font-size: 2.75rem;
+}
+
+.detail h3,
+.detail h4,
+.detail h5,
+.detail h6 {
+    text-align: left;
+}
+
+.detail h3 {
+    font-size: 1.7rem;
+}
+
+.detail h4>span {
+    float: right;
+}
+
+.detail li {
+    text-align: left;
+}
+
+.videoDetailsButtons {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 20px;
+}
+
+.card .videoDetailsButtons {
+    display: block;
+}
+
+.modelDetailsButtons {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 20px;
+}
+
+.card .modelDetailsButtons {
+    display: block;
+}
+
+.videoDetailsButtons button,
+.modelDetailsButtons button {
+    margin-top: 25px;
+    min-width: 100%;
+}
+
+
+.hazel {
+    padding-bottom: 45px;
+}
+
+.detail .oops {
+    width: 80%;
+    margin: 0 auto 50px auto;
+}
+
+.detail .homebtndiv {
+    background-color: var(--highlightColor);
+    width: 100%;
+    padding: 10px 0;
+    box-shadow: 1px 2px 3px rgba(0, 0, 0, 0.5);
+    transition: 0.3s ease-in-out;
+    border-radius: 3px;
+    margin-bottom: 25px;
+}
+
+.detail .homebtndiv:hover {
+    background-color: var(--accentColor1);
+    box-shadow: none;
+}
+
+.detail .homebtn {
+    color: var(--textColor);
+    text-decoration: none;
+    font-size: 1.5rem;
+}
+
+.prevnext {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding: 40px 0px;
+}
+
+.prevnext button {
+    font-size: .8rem;
+}
+
+
+.prevnext h1 {
+    margin: 0 10px;
+}
+
+.prevnext .prevbtn {
+    order: 1;
+}
+
+.prevnext .title {
+    order: 2;
+}
+
+.prevnext .nextbtn {
+    order: 3;
+}
+
+
+
+@media screen and (max-width: 1050px) {
+
+    .videoDetailsButtons,
+    .modelDetailsButtons {
+        display: block;
+    }
+}
+
+@media screen and (max-width: 830px) {
+
+    .data {
+        padding-bottom: 55px;
+    }
+}
+
+@media screen and (max-width: 633px) {
+    .prevnext {
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+
+    .prevnext h1 {
+        margin: 0;
+    }
+
+    .prevnext button {
+        margin: 10px;
+    }
+
+    .prevnext button.next {
+        margin: 15px 0 30px 0;
+    }
+
+    .prevnext .prevbtn {
+        order: 1;
+    }
+
+    .prevnext .title {
+        order: 3;
+    }
+
+    .prevnext .nextbtn {
+        order: 2;
+    }
+
+}

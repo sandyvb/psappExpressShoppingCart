@@ -1,0 +1,71 @@
+#slider {
+    width: 100%;
+    margin: 0 auto;
+    margin-bottom: 50px;
+}
+
+.slider {
+    /* line them up horizontally */
+    display: flex;
+
+    /* allow for scrolling */
+    overflow-x: auto;
+
+    /* make it smooth on iOS */
+    -webkit-overflow-scrolling: touch;
+
+    /* each slide snaps into place */
+    scroll-snap-points-x: repeat(300px);
+    scroll-snap-type: mandatory;
+}
+
+.slider>div {
+    /* make sure the width is honored */
+    flex-shrink: 0;
+    width: auto;
+    height: 500px;
+    padding: 0px 20px 25px 0px;
+}
+
+.slider img {
+    height: 100%;
+}
+
+#slider .hide {
+    display: none;
+}
+
+.slider video {
+    height: 100%;
+    max-width: 600px;
+}
+
+.slider::-webkit-scrollbar {
+    height: 20px;
+    /* height of horizontal scrollbar ← You're missing this */
+    /* width: 14px; */
+    /* width of vertical scrollbar */
+    border: 1px solid var(--textColor);
+}
+
+.slider::-webkit-scrollbar-thumb {
+    background-color: var(--aColor);
+}
+
+@media screen and (max-width: 800px) {
+    .slider>div {
+        height: 400px;
+    }
+}
+
+@media screen and (max-width: 589px) {
+    #slider .hide {
+        display: block;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .slider>div {
+        height: 300px;
+    }
+}

@@ -1,0 +1,134 @@
+.my-list {
+    margin-bottom: 70px;
+}
+
+.my-list ul {
+    list-style-type: none;
+    width: 50vw;
+    margin: 0 auto;
+    box-sizing: border-box;
+    padding: 0;
+}
+
+.my-list li {
+    background-color: var(--accentColor2);
+    background-color: rgba(76, 73, 93, 0.2);
+    border-radius: 3px;
+    margin: 20px auto;
+    padding: 20px;
+    display: grid;
+    grid-template-columns: 1fr 2fr 1fr;
+    grid-gap: 20px;
+    text-align: left;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.my-list img {
+    width: 100%;
+}
+
+.my-list h4 {
+    margin: 0 0 5px 0;
+}
+
+.my-list h3 {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.my-list p {
+    margin: 0 0 5px 0;
+}
+
+.my-list .note {
+    text-align: center;
+    width: 80%;
+    margin: 0 auto 50px auto;
+    font-style: italic;
+}
+
+.my-list button {
+    width: 100%;
+}
+
+.my-list .spanType {
+    font-size: 1rem;
+    font-weight: 100;
+}
+
+
+
+.my-list .heartImg {
+    width: 20px;
+    transform: translateY(10px);
+    margin: 0 5px 0 2px;
+}
+
+.purchase {
+    margin-right: 10px;
+}
+
+.purchase:hover {
+    cursor: pointer;
+}
+
+.checkbox {
+    background-image: url('../images/checkbox.webp');
+    background-size: cover;
+    background-color: transparent;
+    box-shadow: none;
+    border: none;
+    width: 20px;
+    height: 20px;
+    float: left;
+    margin: 2px 5px 0 0;
+    cursor: pointer;
+}
+
+.MT {
+    background-image: url('../images/MTcheckbox.webp');
+    background-size: cover;
+    background-color: transparent;
+    box-shadow: none;
+    border: none;
+    width: 20px;
+    height: 20px;
+    float: left;
+    margin: 2px 5px 0 0;
+    cursor: pointer;
+}
+
+
+
+@media screen and (max-width: 1200px) {
+    .my-list ul {
+        width: 65%;
+        margin: 0 auto 50px auto;
+    }
+}
+
+@media screen and (max-width: 800px) {
+    .my-list ul {
+        width: 80%;
+        margin: 0 auto 50px auto;
+    }
+
+    .my-list li {
+        display: block;
+        margin: 0 auto 20px auto;
+    }
+
+    .my-list img {
+        width: 100%;
+        margin-bottom: 15px;
+    }
+
+    .my-list .buydvd {
+        margin-top: 25px !important;
+    }   
+
+    .smallScreenMargin{
+        margin-bottom: 20px;
+    }
+}

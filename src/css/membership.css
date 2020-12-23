@@ -1,0 +1,33 @@
+.membership {
+    width: var(--contentWidth);
+    margin: 0 auto;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.gif {
+    width: 50%;
+    margin: 0 auto;
+}
+
+@media screen and (max-width: 850px) {
+    .gif {
+        width: 80%;
+    }
+}
+
+.membership .popup button {
+    margin: 10px;
+}
+
+
+@media screen and (max-width: 450px) {
+    .membership .popup button {
+        width: 100%;
+        margin-top: 25px;
+    }
+
+    .gif {
+        width: 100%;
+    }
+}

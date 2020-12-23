@@ -1,0 +1,18 @@
+.about {
+    width: var(--contentWidth);
+    margin: 0 auto;
+    padding-bottom: 50px;
+}
+
+.about h1 {
+    text-align: center;
+}
+
+.about p {
+    text-align: justify;
+}
+
+.about .emphasize {
+    text-transform: uppercase;
+    text-decoration: underline;
+}

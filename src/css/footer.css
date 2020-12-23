@@ -1,0 +1,153 @@
+/* FOOTER STYLES------------------------------------ */
+
+.footer {
+    width: 100%;
+}
+
+.footer .main {
+    padding: 50px 10%;
+    background-color: var(--textColor);
+    color: var(--backgroundColor);
+}
+
+.footer .columns {
+    display: flex;
+    flex-wrap: nowrap;
+    text-align: center;
+}
+
+.footer .column1 {
+    padding-right: 40px;
+    flex: 1;
+}
+
+.footer .column2 {
+    border-left: 1px solid var(--backgroundColor);
+    padding-left: 40px;
+    flex: 1;
+}
+
+.footer .column1 a,
+.footer .column2 a {
+    display: block;
+    text-align: left;
+    font-size: 1rem;
+    line-height: 170%;
+}
+
+.footer .cols {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.footer .cols1 a,
+.footer .cols2 a,
+.footer .cols3 a {
+    display: block;
+    font-size: 1rem;
+    line-height: 170%;
+}
+
+.footer .main button,
+.footer .paymentMethods {
+    width: 90%;
+    max-width: 350px;
+    line-height: 150%;
+}
+
+.footer h1 {
+    text-align: center;
+}
+
+.footer .guarantee {
+    width: 70px;
+}
+
+.footer a.sitemap {
+    text-transform: uppercase;
+}
+
+.copyright {
+    font-size: 0.9rem;
+    float: left;
+}
+
+.alexandra {
+    font-size: 0.9rem;
+    float: right;
+    margin-bottom: 60px;
+}
+
+.copyright-alexandra {
+    padding: 20px 0;
+}
+
+.footer .heart {
+    color: red;
+}
+
+.footer .disclaimer {
+    font-size: 0.9rem;
+    text-align: justify;
+    width: var(--contentWidth);
+    margin: 30px auto;
+}
+
+.footer .twitter button {
+    display: block;
+    margin: 0 auto;
+    padding: 0;
+    width: 40px;
+    background-color: transparent;
+    border: none;
+    box-shadow: none;
+    transform: translateY(40px);
+    cursor: default;
+}
+
+@media screen and (max-width: 450px) {
+    .footer .columns {
+        flex-wrap: wrap;
+        display: block;
+    }
+
+    .footer .column1 {
+        padding: 0;
+    }
+
+    .footer .column2 {
+        border: none;
+        padding: 0;
+    }
+
+    .alexandra {
+        float: left;
+    }
+
+    .footer .main button,
+    .footer .paymentMethods {
+        width: 100%;
+        max-width: 350px;
+    }
+
+    .footer .twitter button {
+        text-align: left;
+    }
+
+
+}
+
+@media screen and (max-width: 500px) {
+    .footer .twitter button {
+        width: 100%;
+        transform: translateY(5px);
+    }
+}
+
+@media screen and (max-width: 660px) {
+    .footer .otherWaysToPurchase button {
+        display: block;
+        width: 80%;
+        margin: 0 auto 25px auto;
+    }
+}

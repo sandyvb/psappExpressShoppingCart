@@ -1,0 +1,59 @@
+/* HOME STYLES-------------------------------------- */
+
+.home {
+    width: var(--contentWidth);
+    margin: 0 auto;
+}
+
+.home header {
+    width: 100%;
+}
+
+.home .home a.title {
+    text-decoration: none;
+}
+
+.home h3 {
+    font-size: 1.3rem;
+}
+
+.home .title h2:hover {
+    color: var(--aColorHover);
+}
+
+.home .popupBtn button {
+    width: 100%;
+}
+
+.home .popup button {
+    background-color: transparent;
+    border: none;
+    color: var(--aColor);
+    box-shadow: none;
+    padding: 0;
+    text-align: left;
+    text-decoration: underline;
+    text-transform: none;
+    font-size: 1.1rem;
+    margin: 0;
+}
+
+.home .popup button:hover {
+    color: var(--aColorHover);
+}
+
+.home section {
+    padding: 25px;
+    background-color: rgba(76, 73, 93, 0.2);
+    box-shadow: 1px 2px 3px rgba(0, 0, 0, 0.5);
+    margin-bottom: 30px;
+}
+
+.home section h2 {
+    text-align: left;
+    font-size: 2rem;
+}
+
+.home figure {
+    margin: 0;
+}

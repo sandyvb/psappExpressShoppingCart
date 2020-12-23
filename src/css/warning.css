@@ -1,0 +1,47 @@
+/* WARNING--------------------------------------------- */
+
+.warning {
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100%;
+    overflow: auto;
+    padding: 0 50px;
+    text-align: center;
+    background-image: url('../images/natalia.webp');
+    background-size: cover;
+    background-position: center top;
+    z-index: 3;
+}
+
+.warning h2 {
+    font-size: 2rem;
+    color: red;
+}
+
+.warning h3 {
+    color: red;
+}
+
+.ncs,
+.ncs a {
+    margin: 50px 0;
+    font-size: 1.65rem;
+}
+
+.warning ol,
+.warning p {
+    text-align: left;
+}
+
+.warning p {
+    text-transform: uppercase;
+}
+
+.warning button {
+    color: lime;
+    padding: 15px 0;
+    font-size: 1.75rem;
+    width: 100%;
+    font-weight: bold;
+}

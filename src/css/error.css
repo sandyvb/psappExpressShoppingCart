@@ -1,0 +1,35 @@
+/* ERROR PAGE-------------------------------------------------- */
+
+.errorPage {
+    width: var(--contentWidth);
+    text-align: center;
+    margin: 0 auto;
+    padding: 0;
+    min-height: 500px;
+}
+
+.errorPage .oops {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.errorPage .homebtndiv {
+    background-color: var(--highlightColor);
+    width: 100%;
+    padding: 10px 0;
+    box-shadow: 1px 2px 3px rgba(0, 0, 0, 0.5);
+    transition: 0.3s ease-in-out;
+    border-radius: 3px;
+    margin-bottom: 25px;
+}
+
+.errorPage .homebtndiv:hover {
+    background-color: var(--accentColor1);
+    box-shadow: none;
+}
+
+.errorPage .homebtn {
+    color: var(--textColor);
+    text-decoration: none;
+    font-size: 1.5rem;
+}

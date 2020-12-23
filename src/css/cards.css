@@ -1,0 +1,142 @@
+/* VIDEO & MODEL PAGES----------------------------------------- */
+.cards {
+    width: 90%;
+    margin: 0 auto;
+    margin-bottom: 50px;
+}
+
+.cards input {
+    width: 50%;
+    margin: 0 auto 40px auto;
+    display: block;
+    color: var(--backgroundColor);
+    font-family: var(--font);
+    font-size: 1.25rem;
+    background-color: var(--textColor);
+    padding: 9.3px 0 9.3px 15px;
+    border: none;
+}
+
+.cards h1,
+.cards h3 {
+    text-align: center;
+}
+
+.cards form {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.cards select,
+.cards option {
+    background-color: var(--textColor);
+    color: var(--backgroundColor);
+    padding: 5px 0;
+    border: none;
+    font-size: 1rem;
+}
+
+.showMoreBtn {
+    font-size: 1.2rem;
+    font-weight: 520;
+    display: block;
+    width: 50%;
+    margin: 50px auto;
+    border: 1px solid var(--textColor);
+    border-radius: none !important;
+}
+
+.hideShowMoreBtn {
+    display: none;
+}
+
+.card {
+    padding: 25px;
+    background-color: rgb(86, 79, 111, 0.2);
+    padding: 20px;
+    box-shadow: 1px 2px 3px rgba(0, 0, 0, 0.5);
+    margin-bottom: 30px;
+}
+
+.card h2 {
+    text-align: left;
+    font-size: 2rem;
+}
+
+.card h3 {
+    text-align: center;
+    margin: 10px 0;
+}
+
+.card h4>span {
+    float: right;
+}
+
+.card p {
+    text-align: justify;
+}
+
+.card img {
+    margin: 0;
+}
+
+.starring {
+    margin: 0;
+}
+
+.save {
+    display: block;
+    background-image: url('../images/heart.svg');
+    background-size: cover;
+    background-color: transparent;
+    box-shadow: none;
+    border: none;
+    width: 30px;
+    height: 30px;
+    float: right;
+    margin-right: 5px;
+}
+
+.save:hover {
+    background-image: url('../images/heartHover.svg');
+    cursor: pointer;
+}
+
+.save:focus {
+    border: none;
+}
+
+.saved {
+    display: block;
+    background-image: url('../images/redheart.svg');
+    background-size: cover;
+    background-color: transparent;
+    box-shadow: none;
+    border: none;
+    width: 30px;
+    height: 30px;
+    float: right;
+    margin-right: 5px;
+    cursor: pointer;
+}
+
+.priceAndHeart {
+    margin-bottom: 20px;
+}
+
+@media screen and (max-width: 850px) {
+    .cards header {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .showMoreBtn {
+        width: 100%;
+        margin-bottom: 50px;
+    }
+
+    .cards input {
+        width: 90%;
+    }
+}
