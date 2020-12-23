@@ -22,16 +22,16 @@ const VideoDetail = (props) => {
     : (thumb = 'https://powershotz.com/c4sImages/' + props.video.image)
 
   // remove html tags from clips & set variables
-  const description = props.video.description.replace(/<[^>]*>/g, '')
-  const title = props.video.title
+  let description = props.video.description.replace(/<[^>]*>/g, '')
+  let title = props.video.title
   let pz_code = props.video.pz_code || props.video.id
   let runtime = props.video.length || props.video.runtime
   let c4sCode = props.video.id
-  const price = props.video.price
+  let price = props.video.price
   // TODO: SET UP PREVIEW BUTTON AND PREVIEWS
   // const previewUrl = 'https://powershotz.com/previews/prev_'
-  const downloadLink = props.video.downloadLink
-  const productDescription = `Powershotz Video #${pz_code}`
+  let downloadLink = props.video.downloadLink
+  let productDescription = `Powershotz Video #${pz_code}`
 
   // are we on videos page (0) or detail page (-1)?
   const pathname = document.location.pathname.indexOf('/videos')

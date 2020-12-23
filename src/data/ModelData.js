@@ -1,3 +1,4 @@
+// eslint-disable-next-line
 export default [
   {
     model_name: 'Abbey',

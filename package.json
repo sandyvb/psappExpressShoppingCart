@@ -3,22 +3,22 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@fortawesome/fontawesome-svg-core": "^1.2.30",
-    "@fortawesome/free-solid-svg-icons": "^5.14.0",
-    "@fortawesome/react-fontawesome": "^0.1.11",
-    "@testing-library/jest-dom": "^5.11.4",
-    "@testing-library/react": "^11.1.0",
-    "@testing-library/user-event": "^12.1.10",
-    "axios": "^0.21.0",
+    "@fortawesome/fontawesome-svg-core": "^1.2.32",
+    "@fortawesome/free-solid-svg-icons": "^5.15.1",
+    "@fortawesome/react-fontawesome": "^0.1.14",
+    "@testing-library/jest-dom": "^5.11.6",
+    "@testing-library/react": "^11.2.2",
+    "@testing-library/user-event": "^12.6.0",
+    "axios": "^0.21.1",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-scripts": "4.0.1",
-    "web-vitals": "^0.2.4",
+    "web-vitals": "^1.0.1",
     "react-light-accordion": "^0.1.4",
     "react-masonry-css": "^1.0.14",
     "react-modal-image": "^2.5.0",
     "react-router-dom": "^5.2.0",
-    "react-select": "^3.1.0"
+    "react-select": "^3.1.1"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -45,7 +45,7 @@
       "last 1 safari version"
     ]
   },
-  "devDependencies": {   
+  "devDependencies": {
     "react-router-sitemap": "^1.2.0"
   },
   "proxy": "http://localhost:5000/"

@@ -1,3 +1,4 @@
+// eslint-disable-next-line
 export default [
   {
     vid_id: '19089423',

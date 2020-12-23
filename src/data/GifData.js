@@ -1,3 +1,4 @@
+// eslint-disable-next-line
 export default [
   'pzv001_nikki_pt2.gif',
   'pzv001_vanessa_pt1.gif',
