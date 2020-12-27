@@ -88,6 +88,7 @@ function ModelDetail(props) {
           <div>
             <BitcoinInfo />
             <Blockonomics
+              key={c4sCode}
               title={name}
               productDescription={productDescription}
               price={price}

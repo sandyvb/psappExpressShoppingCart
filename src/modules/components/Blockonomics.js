@@ -1,37 +1,32 @@
 import React, { useState, useEffect } from 'react'
-// import ApiUtils from '../utilities/ApiUtils'
 import fetch from 'node-fetch'
-import axios from 'axios'
 
 const Blockonomics = (props) => {
   const [data, setData] = useState('')
-
-  const sendTitle = props.title
-  const sendProductDescription = props.productDescription
-  const sendPrice = parseFloat(props.price)
-  const sendDownloadLink = props.downloadLink || '0'
+  const title = props.title
+  const productDescription = props.productDescription
+  const price = parseFloat(props.price)
+  const downloadLink = props.downloadLink || '0'
+  const parentUid = 'c410a2f48e2311ea'
 
   useEffect(() => {
-    sendProductData()
     callBlockonomics()
       .then((res) => setData(res.data))
       .catch((err) => console.log('callBlockonomics error: ', err))
   })
 
-  const sendProductData = async () => {
-    await axios
-      .post('/productData', {
-        title: sendTitle,
-        productDescription: sendProductDescription,
-        price: sendPrice,
-        downloadLink: sendDownloadLink,
-      })
-      .then((res) => console.log('data sent: ', res))
-      .catch((e) => console.log(e))
-  }
-
   const callBlockonomics = async () => {
-    const response = await fetch('/data', { todo: 'buy milk' })
+    const response = await fetch('https://app.powershotz.com/product', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        parent_uid: parentUid,
+        product_name: title,
+        product_description: productDescription,
+        value: price,
+        extra_data: downloadLink,
+      }),
+    })
     const body = await response.json()
 
     if (response.status !== 200) {
@@ -62,5 +57,3 @@ const Blockonomics = (props) => {
 }
 
 export default Blockonomics
-
-// to run: from root/client: npm start

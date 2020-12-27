@@ -18,10 +18,6 @@ const Footer = () => {
               Click on any "DOWNLOAD" button. Pay with Bitcoin. Check your
               email.
             </p>
-            <small style={{ color: 'red' }}>
-              If a "DOWNLOAD" button isn't working correctly, refresh your
-              browser. I'm working to fix it asap!
-            </small>
             <h3>How do I order multiple items?</h3>
             <button>Cart Coming Soon!</button>
             <h3>How can I pay?</h3>

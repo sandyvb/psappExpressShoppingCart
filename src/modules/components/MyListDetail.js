@@ -111,6 +111,7 @@ const MyListDetail = (props) => {
         </Link>
         <div style={{ marginBottom: '15px' }}>
           <Blockonomics
+            key={code}
             title={name}
             productDescription={productDescription}
             price={price}

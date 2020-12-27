@@ -62,7 +62,9 @@ const Home = () => {
         <section>
           <RandomGif />
           <h2>News & Updates</h2>
-          <h3 style={{ color: 'red' }}>REFRESH YOUR BROWSER OFTEN!</h3>
+          <h3 style={{ color: 'red' }}>
+            REFRESH YOUR BROWSER OFTEN! The images change!
+          </h3>
           <p>
             For the BEST experience, we recommend using a Chrome or Opera
             browser.
@@ -71,8 +73,7 @@ const Home = () => {
           <ul>
             <li>
               <p style={{ color: 'red' }}>
-                If a "DOWNLOAD" button isn't working correctly, refresh your
-                browser. I'm working to fix it asap!
+                If something isn't working correctly, please let me know!
               </p>
             </li>
             <li>

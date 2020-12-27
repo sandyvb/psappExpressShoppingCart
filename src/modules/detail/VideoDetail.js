@@ -28,10 +28,12 @@ const VideoDetail = (props) => {
   let runtime = props.video.length || props.video.runtime
   let c4sCode = props.video.id
   let price = props.video.price
-  // TODO: SET UP PREVIEW BUTTON AND PREVIEWS
-  // const previewUrl = 'https://powershotz.com/previews/prev_'
   let downloadLink = props.video.downloadLink
   let productDescription = `Powershotz Video #${pz_code}`
+
+  // TODO: SET UP PREVIEW BUTTON AND PREVIEWS
+  // const previewUrl = 'https://powershotz.com/previews/prev_'
+  // <span><Popup url={`${previewUrl}${c4sCode}.mp4`} msg={'PREVIEW'} /></span>
 
   // are we on videos page (0) or detail page (-1)?
   const pathname = document.location.pathname.indexOf('/videos')
@@ -60,6 +62,7 @@ const VideoDetail = (props) => {
       ) : (
         <h3 style={{ textAlign: 'center' }}>{title}</h3>
       )}
+
       <hr />
       <p>{description}</p>
       <VideoStars video={c4sCode} />
@@ -73,6 +76,7 @@ const VideoDetail = (props) => {
         <i>Price: ${price} USD</i>
         <Heart props={props.video} />
       </p>
+
       {pathname === 0 ? (
         <Link to={`/${c4sCode}`}>
           <button style={{ width: '100%' }}>More</button>
@@ -82,12 +86,14 @@ const VideoDetail = (props) => {
           <BitcoinInfo />
           <div style={{ marginBottom: '15px' }}>
             <Blockonomics
+              key={pz_code}
               title={title}
               productDescription={productDescription}
               price={price}
               downloadLink={downloadLink}
             />
           </div>
+
           {props.video.poster && (
             <div style={{ margin: '20px auto' }}>
               <Link to="/dvd">
@@ -95,9 +101,6 @@ const VideoDetail = (props) => {
               </Link>
             </div>
           )}
-          {/* <span>
-            <Popup url={`${previewUrl}${c4sCode}.mp4`} msg={'PREVIEW'} />
-          </span> */}
           <WhyBanned />
         </div>
       )}

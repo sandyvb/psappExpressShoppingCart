@@ -74,7 +74,7 @@ export default function BitcoinInfo() {
         </a>
         , or{' '}
         <a
-          href="https://www.buybitcoinworldwide.com/united-states/"
+          href="https://www.buybitcoinworldwide.com/"
           target="_blank"
           rel="noopener noreferrer"
         >
