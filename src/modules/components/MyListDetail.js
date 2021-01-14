@@ -9,6 +9,7 @@ const MyListDetail = (props) => {
   const { dispatch } = useContext(ListContext)
 
   let name
+  let lcName
   let type
   let price
   let code
@@ -40,45 +41,34 @@ const MyListDetail = (props) => {
     thumb = 'https://powershotz.com/c4sImages/' + props.item.image
     linkTo = props.item.id
   }
-  // TODO: correct all things Hazel
+
   if (props.item.model_name) {
-    let lcName = 'hazel'
-    if (props.item.model_name === 'Hazel I') {
-      name = 'Hazel'
-      type = ' (photo set I)'
-      price = props.item.price
-      code = props.item.id
-      productDescription = `${name}${type}`
-      downloadLink = props.item.downloadLink
-    } else if (props.item.model_name === 'Hazel II') {
-      name = 'Hazel'
-      type = ' (photo set II)'
-      price = props.item.price
-      code = props.item.id
-      productDescription = `${name}${type}`
-      downloadLink = props.item.downloadLink
-    } else {
-      name = props.item.model_name
-      type = ' (photo set)'
-      const model = PhotoData.find(
-        (item) => item.model_name === props.item.model_name
-      )
-      price = model.price
-      code = model.id
-      numberOfPhotos = model.num_photos
-      productDescription = `${numberOfPhotos} photos`
-      downloadLink = props.item.downloadLink
-      lcName = props.item.model_name.toLowerCase().replace(/ /g, '')
-    }
+    name = props.item.model_name
+    type = ' (photo set)'
+    const model = PhotoData.find(
+      (item) => item.model_name === props.item.model_name
+    )
+    price = model.price
+    code = model.id
+    numberOfPhotos = model.num_photos
+    productDescription = `${numberOfPhotos} photos`
+    downloadLink = props.item.downloadLink
+    lcName = props.item.model_name.toLowerCase().replace(/ /g, '')
     linkTo = name
     thumb = 'https://powershotz.com/models2/thumbs/' + lcName + '-1.jpg'
   }
 
   return (
     <li>
-      <Link to={`/${linkTo}`}>
-        <img src={thumb} alt={props.item.title || props.item.model_name} />
-      </Link>
+      <div onContextMenu={(e) => e.preventDefault()}>
+        <Link to={`/${linkTo}`}>
+          <img
+            src={thumb}
+            alt={props.item.title || props.item.model_name}
+            loading="eager"
+          />
+        </Link>
+      </div>
 
       <div className="smallScreenMargin">
         <h4>

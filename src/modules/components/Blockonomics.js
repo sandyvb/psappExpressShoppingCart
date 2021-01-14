@@ -1,38 +1,23 @@
 import React, { useState, useEffect } from 'react'
-import fetch from 'node-fetch'
 
 const Blockonomics = (props) => {
   const [data, setData] = useState('0')
 
+  // "Download"
+  const parentUid = 'dac8778e542911eb'
   const title = props.title
   const productDescription = props.productDescription
   const price = parseFloat(props.price)
   const downloadLink = props.downloadLink || '0'
-  const parentUid = 'c410a2f48e2311ea'
-
-  const styles = {
-    button: {
-      display: 'block',
-      margin: '0px auto',
-      paddingLeft: '20px',
-      paddingRight: '20px',
-    },
-  }
 
   useEffect(() => {
-    fetchData()
-    console.log(data)
+    callBlockonomics()
   })
 
-  async function fetchData() {
-    // await fetch('https://revoltwind.com/product', {
+  const callBlockonomics = async () => {
     await fetch('/product', {
-      // fetch('/product', {
       method: 'POST',
-      // mode: 'cors',
-      headers: {
-        // 'Content-Type': 'application/json',
-      },
+      headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({
         parent_uid: parentUid,
         product_name: title,
@@ -41,12 +26,18 @@ const Blockonomics = (props) => {
         extra_data: downloadLink,
       }),
     })
-      .then((response) => {
-        return response.text()
-      })
-      .then((data) => setData(data))
-      .then(console.log(data))
-      .catch((e) => console.log('fetch data error: ', e))
+      .then((response) => response.json())
+      .then((json) => setData(json.uid))
+      .catch((err) => console.log(err))
+  }
+
+  const styles = {
+    button: {
+      display: 'block',
+      margin: '0px auto',
+      paddingLeft: '20px',
+      paddingRight: '20px',
+    },
   }
 
   return (

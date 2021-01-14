@@ -16,7 +16,7 @@ export default [
     model_name: 'Alex',
     description:
       'Alex is an innocent 19 year old first time bondage beauty.  Very shy and sweet.  Her ass and her face are incredible.  Her flexible young body is perfect for strict bondage!',
-    ae_clip: 'alex_med.mp4',
+    ae_clip: 'alex_sm.mp4',
   },
   {
     model_name: 'Alex Del Monaco',
@@ -68,7 +68,7 @@ export default [
     model_name: 'Amy',
     description:
       "If you like platinum blondes with full red lips and flexible little bodies you'll love Amy.",
-    ae_clip: 'amy_med.mp4',
+    ae_clip: 'amy_sm.mp4',
   },
   {
     model_name: 'Andi',
@@ -253,7 +253,7 @@ export default [
     model_name: 'Celena',
     description:
       "If you like super-cute, innocent, a high voice, and extreme sensitivity, this gal is for you!  Not only is she cute, she's also got fantastic tits!  And she has an ass that just won't stop!",
-    ae_clip: 'celena_med.mp4',
+    ae_clip: 'celena_sm.mp4',
   },
   {
     model_name: 'Chanel',
@@ -339,7 +339,7 @@ export default [
     model_name: 'Delila Darling',
     description:
       "Big clear eyes and a sweet angelic face augment that perfect body to form this damsel delight.  Pin this one to the wall with a hard dick and hold her there.  She's a bit on the feisty side.",
-    ae_clip: 'delila_med.mp4',
+    ae_clip: 'delila_sm.mp4',
   },
   {
     model_name: 'Dillon',
@@ -401,7 +401,7 @@ export default [
     model_name: 'Hazel',
     description:
       "Cute little 19 year old with big clear eyes, cinchable elbows, and a perfect ass!  That puppy dog pout doesn't hurt one bit either.",
-    ae_clip: 'hazel.mp4',
+    ae_clip: 'hazel_sm.mp4',
   },
   {
     model_name: 'Heather',
@@ -413,7 +413,7 @@ export default [
     model_name: 'Heather Silk',
     description:
       'Knock down, drag out, drop dead gorgeous.  That pretty much sums it up in a nutshell.',
-    ae_clip: 'heathersilk_med.mp4',
+    ae_clip: 'heathersilk_sm.mp4',
   },
   {
     model_name: 'Ivory',
@@ -1012,13 +1012,13 @@ export default [
     model_name: 'Shelby',
     description:
       "Snatched this one fresh out of high school.  18 years old and she can't wait to be tied up.  I like that attitude.  Nice hot young body too.",
-    ae_clip: 'shelby_med.mp4',
+    ae_clip: 'shelby_sm.mp4',
   },
   {
     model_name: 'Shelena',
     description:
       'Gorgeous body... cute face... extremely horny... submissive posture and personality... perfect!',
-    ae_clip: 'shelena_med.mp4',
+    ae_clip: 'shelena_sm.mp4',
   },
   {
     model_name: 'Shonda',
@@ -1112,7 +1112,7 @@ export default [
     model_name: 'Tiki',
     description:
       'Strong young muscles... feisty... and super-tight!  She needs to be broken in... just right!',
-    ae_clip: 'tiki_med.mp4',
+    ae_clip: 'tiki_sm.mp4',
   },
   {
     model_name: 'Toni',
@@ -1159,7 +1159,7 @@ export default [
     model_name: 'Wendy',
     description:
       'This black-haired little vixen was a cheerleader in high school.  Super-hot body and innocent face make her a perfect pick for a poke.',
-    ae_clip: 'wendy.mp4',
+    ae_clip: 'wendy_sm.mp4',
   },
   {
     model_name: 'Wynter',

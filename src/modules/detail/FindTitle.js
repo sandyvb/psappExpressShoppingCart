@@ -23,7 +23,10 @@ function FindTitle(props) {
   }
 
   return (
-    <div style={{ display: 'flex', flexDirection: 'column' }}>
+    <div
+      style={{ display: 'flex', flexDirection: 'column' }}
+      onContextMenu={(e) => e.preventDefault()}
+    >
       {pathname !== '/photos' && (
         <img
           src={src}
@@ -33,6 +36,7 @@ function FindTitle(props) {
             borderTopLeftRadius: '3px',
             borderTopRightRadius: '3px',
           }}
+          loading="eager"
         />
       )}
       <div style={{ padding: '10px' }}>

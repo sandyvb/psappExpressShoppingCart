@@ -20,8 +20,8 @@ const RandomGif = () => {
   const gif = 'https://powershotz.com/gif/' + randomgif
 
   return (
-    <div>
-      <img src={gif} alt={pzcode} style={{ width: '100%' }} />
+    <div onContextMenu={(e) => e.preventDefault()}>
+      <img src={gif} alt={pzcode} style={{ width: '100%' }} loading="eager" />
       <Link to={`/${c4sid}`}>{pzcode}</Link>
     </div>
   )

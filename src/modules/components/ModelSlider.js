@@ -22,7 +22,7 @@ class ModelSlider extends Component {
       let imgSrc = 'https://powershotz.com/models2/' + lcName + '-' + i + '.jpg'
       photos.push(
         <div key={i}>
-          <img src={imgSrc} alt={name} />
+          <img src={imgSrc} alt={name} loading="eager" />
         </div>
       )
     }
@@ -44,14 +44,14 @@ class ModelSlider extends Component {
         gifSrc = 'https://powershotz.com/gif/' + this.state.gifdata[i]
         gifs.push(
           <div key={i}>
-            <img src={gifSrc} alt={name} />
+            <img src={gifSrc} alt={name} loading="eager" />
           </div>
         )
       }
     }
 
     return (
-      <div id="slider">
+      <div id="slider" onContextMenu={(e) => e.preventDefault()}>
         <div className="slider">
           {photos}
           {gifs}

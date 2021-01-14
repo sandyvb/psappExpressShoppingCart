@@ -6,7 +6,6 @@ import crypto from '../../images/crypto.webp'
 import { Link } from 'react-router-dom'
 import twitter from '../../images/twitter.webp'
 import RandomGif from '../components/RandomGif'
-import WhyBanned from '../components/WhyBanned'
 
 const Home = () => {
   const breakpointColumnsObj = {
@@ -34,53 +33,36 @@ const Home = () => {
       >
         <section>
           <RandomGif />
-          <h2>Banned Content</h2>
-          <p style={{ color: '#f0ad4e' }}>
-            <b>
-              As you may have noticed, all of our products are now only
-              available using Bitcoin, cash, check, or money order.
-            </b>
-          </p>
-          <p>
-            Recently, Clips4sale was forced by their credit card processor to
-            close 12 stores. Powershotz was one of those 12 stores. We have been
-            popular on clips4sale for 20 years are saddened by this closure.
-          </p>
-          <p>
-            Visa, Mastercard, and all other card companies have cited us for the
-            violation of their compliance guidelines.
-          </p>
-          <WhyBanned />
-          <p style={{ fontSize: '1.25rem', color: 'red' }}>
-            <em>
-              We are sorry for the inconvenience, the puritanical nature of our
-              society, and the legislation of your morality...
-            </em>
-          </p>
-        </section>
-
-        <section>
-          <RandomGif />
           <h2>News & Updates</h2>
           <h3 style={{ color: 'red' }}>
-            REFRESH YOUR BROWSER OFTEN! The images change!
+            There still may be issues with Bitcoin payment buttons. Please{' '}
+            <a href="mailto:alexandra@powershotz.com">email me</a> if you have
+            any issues!
           </h3>
           <p>
+            REFRESH YOUR BROWSER OFTEN! The images always change and there may
+            be new features!
+          </p>
+          <small>
+            Press CTRL+F5 (PC) or Apple Key+Shift+R (Mac) to get the latest
+            version of our site.
+          </small>
+          <small>
             For the BEST experience, we recommend using a Chrome or Opera
             browser.
-          </p>
+          </small>
+          <p>If something isn't working correctly, please let us know!</p>
           <p>What's new?</p>
           <ul>
+            <li>Preview buttons!</li>
             <li>
-              <p style={{ color: 'red' }}>
-                If something isn't working correctly, please let me know!
+              <p>
+                Purchase any product instantly by clicking a "DOWNLOAD" button.
               </p>
             </li>
             <li>
-              <p>Purchase any product by clicking a "DOWNLOAD" button.</p>
-            </li>
-            <li>
-              <p>Improved video and model searches.</p>
+              Please give us a positive rating for your checkout! Someone didn't
+              check their junk mail for their download link... :(
             </li>
             <li>
               Click on any heart to add a video or photo set to your{' '}
@@ -104,11 +86,6 @@ const Home = () => {
             <Link to="/videos">video</Link> download. Press any "PREVIEW" button
             to see a preview!
           </p>
-          <p>
-            If you want to buy DVDs or multiple items using a shopping cart,
-            please be patient as we are refactoring the site to include a
-            shopping cart.
-          </p>
         </section>
 
         <section>
@@ -125,10 +102,6 @@ const Home = () => {
             <Link to="/photos">photo set</Link>. Press any "PREVIEW" to see a
             preview!
           </p>
-          <p>
-            If you want to buy multiple items using a shopping cart, please be
-            patient as we are refactoring the site to include a shopping cart.
-          </p>
         </section>
 
         <section>
@@ -140,7 +113,10 @@ const Home = () => {
             />
             <h2>Buy with Bitcoin!</h2>
           </Link>
-          <p>Order downloads, DVDs, and photos using Bitcoin!</p>
+          <p>
+            Easy order downloads, DVDs, and photos using Bitcoin! After payment,
+            check your inbox for download links!
+          </p>
           <p>
             Click on any "DOWNLOAD" button or{' '}
             <a href="mailto:alexandra@powershotz.com">email me</a> for
@@ -194,7 +170,7 @@ const Home = () => {
           </a>
         </section>
 
-        <section>
+        {/* <section>
           <RandomImg />
           <h2>Adult Boutique Owners</h2>
           <p>
@@ -203,7 +179,7 @@ const Home = () => {
             your store, please <Link to="/contact">contact us</Link> for more
             information.
           </p>
-        </section>
+        </section> */}
       </Masonry>
     </div>
   )

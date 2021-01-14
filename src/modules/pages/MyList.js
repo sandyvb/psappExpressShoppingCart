@@ -62,7 +62,8 @@ const MyList = () => {
           }}
         >
           Click on any heart{' '}
-          <img src={heart} alt="heart" className="heartImg" /> to add a{' '}
+          <img src={heart} alt="heart" className="heartImg" loading="eager" />{' '}
+          to add a{' '}
           <Link to="/videos" style={{ fontSize: '1.5rem' }}>
             video
           </Link>{' '}

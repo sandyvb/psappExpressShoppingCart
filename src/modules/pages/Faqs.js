@@ -100,8 +100,8 @@ export default function Faqs() {
 
         <AccordionItem title="Help! The buttons don't work!">
           <p>
-            <b>Disable your browser's popup blocker for this site</b> or try a
-            different browser. If neither solution works, please{' '}
+            <b>Disable your browser's popup blocker for this site</b>, refresh
+            the page, or try a different browser. If nothing works, please{' '}
             <Link to="/contact">contact me</Link> or email me at{' '}
             <a href="mailto:alexandra@powershotz.com">
               alexandra@powershotz.com

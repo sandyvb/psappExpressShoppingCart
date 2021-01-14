@@ -3,9 +3,12 @@ import ReactDOM from 'react-dom'
 import { BrowserRouter } from 'react-router-dom'
 import './css/styles.css'
 import App from './modules/App'
-import * as serviceWorker from './serviceWorker'
+// import * as serviceWorker from './serviceWorker'
+import { unregister } from './serviceWorker'
 import ScrollToTop from './modules/components/ScrollToTop'
 import reportWebVitals from './reportWebVitals'
+
+unregister()
 
 ReactDOM.render(
   <BrowserRouter>
@@ -19,4 +22,4 @@ ReactDOM.render(
 // to log results (for example: reportWebVitals(console.log))
 // or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
 reportWebVitals()
-serviceWorker.unregister()
+// serviceWorker.unregister()

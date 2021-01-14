@@ -1,6 +1,5 @@
 import React from 'react'
 import VideoStars from './VideoStars'
-// import Popup from '../components/Popup'
 import VideoSlider from '../components/VideoSlider'
 import ModalImage from 'react-modal-image'
 import { Link } from 'react-router-dom'
@@ -8,6 +7,7 @@ import Heart from '../components/Heart'
 import Blockonomics from '../components/Blockonomics'
 import BitcoinInfo from '../components/BitcoinInfo'
 import WhyBanned from '../components/WhyBanned'
+import Preview from '../components/Preview'
 
 const VideoDetail = (props) => {
   // images for full-length or clip videos
@@ -23,6 +23,7 @@ const VideoDetail = (props) => {
 
   // remove html tags from clips & set variables
   let description = props.video.description.replace(/<[^>]*>/g, '')
+
   let title = props.video.title
   let pz_code = props.video.pz_code || props.video.id
   let runtime = props.video.length || props.video.runtime
@@ -30,10 +31,6 @@ const VideoDetail = (props) => {
   let price = props.video.price
   let downloadLink = props.video.downloadLink
   let productDescription = `Powershotz Video #${pz_code}`
-
-  // TODO: SET UP PREVIEW BUTTON AND PREVIEWS
-  // const previewUrl = 'https://powershotz.com/previews/prev_'
-  // <span><Popup url={`${previewUrl}${c4sCode}.mp4`} msg={'PREVIEW'} /></span>
 
   // are we on videos page (0) or detail page (-1)?
   const pathname = document.location.pathname.indexOf('/videos')
@@ -84,6 +81,9 @@ const VideoDetail = (props) => {
       ) : (
         <div>
           <BitcoinInfo />
+          <div style={{ marginBottom: '15px' }}>
+            <Preview key={pz_code} poster={poster} id={c4sCode} />
+          </div>
           <div style={{ marginBottom: '15px' }}>
             <Blockonomics
               key={pz_code}

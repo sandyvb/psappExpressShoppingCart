@@ -145,6 +145,11 @@ button {
   display: none;
 }
 
+/* previews at Preview.js */
+.hideModal {
+  display: none;
+}
+
 
 
 /* MASONRY------------------------------------ */

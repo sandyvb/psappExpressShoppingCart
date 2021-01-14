@@ -84,7 +84,7 @@ export default function BitcoinInfo() {
 
       <p style={styles.lime}>
         <i>
-          Shopping cart coming soon! Meanwhile,{' '}
+          Still working out a few bugs. Shopping cart coming soon! Meanwhile,{' '}
           <a href="mailto:alexandra@powershotz.com">email me</a> to order
           downloads by cash, check, or money order.
         </i>

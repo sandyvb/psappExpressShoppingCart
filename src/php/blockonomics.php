@@ -2,28 +2,7 @@
 header("Access-Control-Allow-Origin: *");
 header('Access-Control-Allow-Headers: Origin, X-Requested-With, Content-Type, Accept');
 
-// DO NOT RESET HTTP CALLBACK URL
-// This file is called at Payment Buttons/URL then Options then order hook url setting
-// Authorization header: 3t8D7CeQ3MDn2MLIrx48NQA5JljODRXMBM8iO4PADCI
-// GET /api/merchant_order/$addr
-// https://www.blockonomics.co/api/merchant_order/$addr
-// Data received from above line of code:
-// {
-// "emailid": "my@email.com", 
-// "status": 2, 
-// "code": "?????", 
-// "satoshi": 112, 
-// "timestamp": 1588699062, 
-// "value": 0.01, 
-// "txid": "transactionid", 
-// "currency": "USD", 
-// "address": "transactionaddr", 
-// "paid_satoshi": 6746, 
-// "data": {
-//     "emailid": "customer@email.com", 
-//     "extradata": "pz_code"}
-// }
-
+// DO NOT RESET HTTP CALLBACK 
 // blockonomic payment link if ever needed
 // https://www.blockonomics.co/pay-url/product_uid
 
@@ -63,6 +42,7 @@ $description = $response['description'];  // description or list (pz_code)
 $price = $response['value'];  // price
 $title = $response['name']; // title
 $download_link = $response['data']['extradata']; // download link
+$download = 'https://ln2.sync.com/dl/' . $download_link;
 $timeStamp = $response['timestamp']; // utc
 $date = date('m/d/y', $timeStamp); // date
 $currency = $response['currency']; // usd etc
@@ -93,7 +73,7 @@ $msg = "
     <p><b>Customer Email: </b> $customer_emailid</p>
     <p><b>Title: </b> $title</p>
     <p><b>Description: </b> $description</p>   
-    <p><b>Download Link: </b>$download_link</p>
+    <p><b>Download Link: </b>$download</p>
     <p><b>Code: </b> $code</p>
     <p><b>Errors: </b> $err</p>
     <hr />
@@ -112,7 +92,7 @@ $response_msg = "
     <body>
         <h1>YOUR POWERSHOTZ DOWNLOAD IS HERE!</h1>
         <hr/>
-        <h3><i>Thank you for your purchase!</i></h3>
+        <h3><i>Thank you for your order!</i></h3>
 
         <p>Title: $title</p>
         <p>Description: $description</p>
@@ -120,11 +100,9 @@ $response_msg = "
         <p>Order Date: $date</p>
         <p>Status: Paid</p>        
 
-        <h2><a href=$download_link>Click here to download your video!</a></h2>
-        <h3><i>If the above link doesn't work, it hasn't been encoded yet! You will be emailed your link shortly. We're working as fast as we can to correct this problem. Thank you for your patience!</i></h3>                
-        
-        <p>Contact me if you have any questions or problems with your download.</p>
-        <p>Thanks again for ordering from Powershotz and have a great day!
+        <h2><a href=$download>Click here to download your purchase!</a></h2>      
+        <p>Reply to this email if you have any questions or problems.</p>
+        <p>Thanks again from Powershotz and have a great day!
         <br/>
         <i>Alexandra</i>
         </p>

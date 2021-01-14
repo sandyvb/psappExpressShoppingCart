@@ -20,7 +20,7 @@ const VideoSlider = (props) => {
         gifSrc = 'https://powershotz.com/gif/' + gifdata[i]
         gifs.push(
           <div key={i}>
-            <img src={gifSrc} alt={pzcode} />
+            <img src={gifSrc} alt={pzcode} loading="eager" />
           </div>
         )
       }
@@ -28,10 +28,10 @@ const VideoSlider = (props) => {
   }
 
   return (
-    <div id="slider">
+    <div id="slider" onContextMenu={(e) => e.preventDefault()}>
       <div className="slider">
         <div style={{ display: 'block', margin: '0 auto' }}>
-          <img src={props.poster} alt={pzcode} />
+          <img src={props.poster} alt={pzcode} loading="eager" />
         </div>
         {gifs}
       </div>

@@ -252,13 +252,17 @@ class SingleDvd extends Component {
             </Link>
             .
           </p>
-          <p style={{
+          <p
+            style={{
               textAlign: 'center',
               fontSize: '1.1rem',
               fontStyle: 'normal',
               color: 'var(--textColor)',
-            }}>
-            Or, <a href="mailto:alexandra@powershotz.com">email me</a> to place an order.</p>
+            }}
+          >
+            Or, <a href="mailto:alexandra@powershotz.com">email me</a> to place
+            an order.
+          </p>
           <input
             placeholder="Your Name"
             onChange={this.handleChange}

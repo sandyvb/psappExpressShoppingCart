@@ -1,8 +1,7 @@
 import React from 'react'
 import ModelStarsIn from './ModelStarsIn'
 import PhotoData from '../../data/PhotoData'
-import Hazel from './Hazel'
-import Popup from '../components/Popup'
+// import Popup from '../components/Popup'
 import ModelSlider from '../components/ModelSlider'
 import ModalImage from 'react-modal-image'
 import ModelData from '../../data/ModelData'
@@ -11,6 +10,7 @@ import Heart from '../components/Heart'
 import BitcoinInfo from '../components/BitcoinInfo'
 import WhyBanned from '../components/WhyBanned'
 import Blockonomics from '../components/Blockonomics'
+import Iframe from '../components/Iframe'
 
 function ModelDetail(props) {
   const num = Math.floor(Math.random() * 4 + 1)
@@ -28,10 +28,6 @@ function ModelDetail(props) {
   const thumb =
     'https://powershotz.com/models2/thumbs/' + lcName + '-' + num + '.jpg'
 
-  // TODO: check if c4s still has these
-  const thumbnails =
-    'http://images4sale.com/store/popup/325/' + c4sCode + '/thumbnail'
-
   const pathname = window.location.pathname
   const isDetail = pathname === '/photos' ? false : true
 
@@ -41,52 +37,53 @@ function ModelDetail(props) {
     apostrophe = "'"
   }
 
-  if (name === 'Hazel') {
-    return <Hazel />
-  } else {
-    return (
-      <div>
-        {!isDetail ? (
-          <ModalImage
-            small={thumb}
-            large={poster}
-            alt={name}
-            hideDownload="true"
-          />
-        ) : (
-          <ModelSlider name={name} />
-        )}
+  return (
+    <div>
+      {!isDetail ? (
+        <ModalImage
+          small={thumb}
+          large={poster}
+          alt={name}
+          hideDownload="true"
+        />
+      ) : (
+        <ModelSlider name={name} />
+      )}
 
-        {!isDetail ? (
-          <Link to={`/${name}`}>
-            <h3>{props.model.model_name}</h3>
-          </Link>
-        ) : (
-          <h3 style={{ textAlign: 'center' }}>{props.model.model_name}</h3>
-        )}
+      {!isDetail ? (
+        <Link to={`/${name}`}>
+          <h3>{props.model.model_name}</h3>
+        </Link>
+      ) : (
+        <h3 style={{ textAlign: 'center' }}>{props.model.model_name}</h3>
+      )}
 
-        <hr />
+      <hr />
 
-        <p style={{ textAlign: 'left' }}>{description}</p>
+      <p style={{ textAlign: 'left' }}>{description}</p>
 
-        <hr />
+      <hr />
 
-        <h6 style={{ marginTop: '40px' }}>
-          {name}
-          {apostrophe} Photo Set
-        </h6>
-        <p style={{ textAlign: 'left' }}>
-          Includes {numPhotos} downloadable images
-        </p>
+      <h6 style={{ marginTop: '40px' }}>
+        {name}
+        {apostrophe} Photo Set
+      </h6>
+      <p style={{ textAlign: 'left' }}>
+        Includes {numPhotos} downloadable images
+      </p>
 
-        <p className="priceAndHeart">
-          <i>Price: ${price} USD</i>
-          <Heart props={props.model} />
-        </p>
+      <p className="priceAndHeart">
+        <i>Price: ${price} USD</i>
+        <Heart props={props.model} />
+      </p>
 
-        {isDetail && (
-          <div>
-            <BitcoinInfo />
+      {isDetail && (
+        <div>
+          <BitcoinInfo />
+          <div style={{ margin: '20px auto' }}>
+            <Iframe key={c4sCode} name={name} number={numPhotos} />
+          </div>
+          <div style={{ marginBottom: '20px' }}>
             <Blockonomics
               key={c4sCode}
               title={name}
@@ -94,29 +91,24 @@ function ModelDetail(props) {
               price={price}
               downloadLink={downloadLink}
             />
-            <div style={{ margin: '20px auto' }}>
-              <span>
-                <Popup url={thumbnails} msg={'Preview'} />
-              </span>
-            </div>
-            <WhyBanned />
           </div>
-        )}
+          <WhyBanned />
+        </div>
+      )}
 
-        <hr style={{ margin: '40px 0 40px 0' }} />
+      <hr style={{ margin: '40px 0 40px 0' }} />
 
-        {!isDetail ? (
-          <Link to={`/${name}`}>
-            <button style={{ width: '100%' }}>
-              More about {props.model.model_name}
-            </button>
-          </Link>
-        ) : (
-          <ModelStarsIn key={name} model={name} />
-        )}
-      </div>
-    )
-  }
+      {!isDetail ? (
+        <Link to={`/${name}`}>
+          <button style={{ width: '100%' }}>
+            More about {props.model.model_name}
+          </button>
+        </Link>
+      ) : (
+        <ModelStarsIn key={name} model={name} />
+      )}
+    </div>
+  )
 }
 
 export default ModelDetail
