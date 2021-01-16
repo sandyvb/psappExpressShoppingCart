@@ -27,7 +27,9 @@ export default function WhyBanned() {
 
   return (
     <div style={styles.whyDiv} onClick={handleWhy}>
-      <button style={styles.why}>Why can't I use a credit card?</button>
+      <button style={styles.why} title="Why do authorities hate good porn?">
+        Why can't I use a credit card?
+      </button>
       <div
         className={hideWhy ? 'hideWhy' : ''}
         style={{
@@ -36,6 +38,7 @@ export default function WhyBanned() {
           color: 'var(--backgroundColor)',
           padding: '5px 20px 15px 20px',
           marginBottom: '20px',
+          marginTop: '15px',
           borderRadius: '4px',
         }}
       >

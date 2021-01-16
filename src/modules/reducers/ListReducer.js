@@ -8,9 +8,11 @@ export const listReducer = (state, action) => {
 
     case 'REMOVE_ITEM':
       if (isNaN(action.item.id)) {
-        return state.filter(item => item.model_name !== action.item.model_name)
+        return state.filter(
+          (item) => item.model_name !== action.item.model_name
+        )
       } else {
-        return state.filter(item => item.id !== action.item.id)
+        return state.filter((item) => item.id !== action.item.id)
       }
     default:
       return state

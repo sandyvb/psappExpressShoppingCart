@@ -1,14 +1,18 @@
 import React, { useState, useEffect } from 'react'
 
-const Blockonomics = (props) => {
+const Blockonomics = ({
+  title,
+  productDescription,
+  price,
+  productTitles,
+  links,
+}) => {
   const [data, setData] = useState('0')
 
   // "Download"
   const parentUid = 'dac8778e542911eb'
-  const title = props.title
-  const productDescription = props.productDescription
-  const price = parseFloat(props.price)
-  const downloadLink = props.downloadLink || '0'
+  const parsedPrice = parseFloat(price)
+  console.log('Blockonomics.js 12 props: ', productTitles, links)
 
   useEffect(() => {
     callBlockonomics()
@@ -42,12 +46,13 @@ const Blockonomics = (props) => {
 
   return (
     <button
+      title="Pay with Bitcoin"
       style={styles.button}
       className="blockoPayBtn"
       data-toggle="modal"
       data-uid={data}
     >
-      download
+      pay with bitcoin
     </button>
   )
 }

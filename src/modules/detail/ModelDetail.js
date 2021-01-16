@@ -1,28 +1,24 @@
 import React from 'react'
 import ModelStarsIn from './ModelStarsIn'
 import PhotoData from '../../data/PhotoData'
-// import Popup from '../components/Popup'
 import ModelSlider from '../components/ModelSlider'
 import ModalImage from 'react-modal-image'
 import ModelData from '../../data/ModelData'
 import { Link } from 'react-router-dom'
 import Heart from '../components/Heart'
 import BitcoinInfo from '../components/BitcoinInfo'
-import WhyBanned from '../components/WhyBanned'
-import Blockonomics from '../components/Blockonomics'
 import Iframe from '../components/Iframe'
+import CartButton from '../cart/CartButton'
 
 function ModelDetail(props) {
   const num = Math.floor(Math.random() * 4 + 1)
   const name = props.model.model_name
   const model = PhotoData.find((item) => item.model_name === name)
   const price = model.price
-  const downloadLink = model.downloadLink
   const description = ModelData.find((item) => item.model_name === name)
     .description
   const c4sCode = model.id
   const numPhotos = model.num_photos
-  const productDescription = `${numPhotos} photos`
   const lcName = name.toLowerCase().replace(/ /g, '')
   const poster = 'https://powershotz.com/models2/' + lcName + '-' + num + '.jpg'
   const thumb =
@@ -84,26 +80,20 @@ function ModelDetail(props) {
             <Iframe key={c4sCode} name={name} number={numPhotos} />
           </div>
           <div style={{ marginBottom: '20px' }}>
-            <Blockonomics
-              key={c4sCode}
-              title={name}
-              productDescription={productDescription}
-              price={price}
-              downloadLink={downloadLink}
-            />
+            <CartButton item={model} />
           </div>
-          <WhyBanned />
         </div>
       )}
 
       <hr style={{ margin: '40px 0 40px 0' }} />
 
       {!isDetail ? (
-        <Link to={`/${name}`}>
-          <button style={{ width: '100%' }}>
-            More about {props.model.model_name}
-          </button>
-        </Link>
+        <div style={{ display: 'flex', justifyContent: 'space-between' }}>
+          <Link to={`/${name}`}>
+            <button>More</button>
+          </Link>
+          <CartButton item={model} />
+        </div>
       ) : (
         <ModelStarsIn key={name} model={name} />
       )}

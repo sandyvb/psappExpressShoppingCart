@@ -5,8 +5,6 @@ import Popup from '../modules/components/Popup'
 import '../css/footer.css'
 import twitterBird from '../images/twitter_bird.webp'
 
-// TODO: change twitter logo at very bottom
-
 const Footer = () => {
   return (
     <div className="footer">
@@ -15,11 +13,13 @@ const Footer = () => {
           <div className="column1">
             <h3>How do I order instant downloads?</h3>
             <p>
-              Click on any "DOWNLOAD" button. Pay with Bitcoin. Check your
-              email.
+              Click on any "ADD TO CART" button. Follow the directions in the
+              shopping cart.
             </p>
             <h3>How do I order multiple items?</h3>
-            <button>Cart Coming Soon!</button>
+            <Link to="/cart">
+              <button style={{ width: '100%' }}>use the shopping cart</button>
+            </Link>
             <h3>How can I pay?</h3>
             <p>Bitcoin, Cash, Check, or Money Order</p>
           </div>
@@ -63,8 +63,8 @@ const Footer = () => {
             <Link to="/photos" className="sitemap">
               Models/Photos
             </Link>
-            <Link to="/membership">Membership</Link>
-
+            <Link to="/cart">Shopping Cart</Link>
+            {/* <Link to="/membership">Membership</Link> */}
             <Link to="/contact">Contact</Link>
           </div>
         </div>

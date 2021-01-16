@@ -38,14 +38,23 @@ curl_close($curl);
 $code = $response['status'];
 $emailid = $response['emailid'];  // my email
 $customer_emailid = $response['data']['emailid'];  // customer email
-$description = $response['description'];  // description or list (pz_code)
+$description = $response['description'];  // description or list (titles)
 $price = $response['value'];  // price
 $title = $response['name']; // title
-$download_link = $response['data']['extradata']; // download link
-$download = 'https://ln2.sync.com/dl/' . $download_link;
+// $download_link = $response['data']['extradata']; // download link - orig
+// $download = "https://ln2.sync.com/dl/{$download_link}"; // orig
 $timeStamp = $response['timestamp']; // utc
 $date = date('m/d/y', $timeStamp); // date
 $currency = $response['currency']; // usd etc
+
+$download_links = $response['data']['extradata']; // download link array
+// $download_links_json = json_decode($download_links) // maybe need this?
+
+if (sizeof($download_links) > 1) {
+    $s = 's';
+} else {
+    $s = '';
+}
 
 $ip = $_SERVER['REMOTE_ADDR'];
 $subject = "POWERSHOTZ BITCOIN ORDER";
@@ -72,8 +81,17 @@ $msg = "
     <p><b>Price: </b> $price</p>
     <p><b>Customer Email: </b> $customer_emailid</p>
     <p><b>Title: </b> $title</p>
-    <p><b>Description: </b> $description</p>   
-    <p><b>Download Link: </b>$download</p>
+    <p><b>Description: </b> $description</p>";
+
+$msg .= "<p><b>Download Links:</b></p>
+        <ul>";
+
+$count = 0;
+foreach ($downloadLinks as $downloadLink) {
+    $msg .= "<li>{$description[$count]}:  https://ln2.sync.com/dl/{$downloadLink}</li>";
+}
+
+$msg .= "</ul>
     <p><b>Code: </b> $code</p>
     <p><b>Errors: </b> $err</p>
     <hr />
@@ -98,8 +116,18 @@ $response_msg = "
         <p>Description: $description</p>
         <p>Value: $price USD</p>
         <p>Order Date: $date</p>
-        <p>Status: Paid</p>        
+        <p>Status: Paid</p>
+        <h2>Click on the link$s below to download your purchase$s!</h2>
+        <ul>";
 
+$count = 0;
+foreach ($downloadLinks as $downloadLink) {
+    $link = "https://ln2.sync.com/dl/{$downloadLink}";
+    $response_msg .= "<li><a href =$link></a>$description[$count]</li>";
+    $count++;
+}
+
+$response_msg .= "</ul>
         <h2><a href=$download>Click here to download your purchase!</a></h2>      
         <p>Reply to this email if you have any questions or problems.</p>
         <p>Thanks again from Powershotz and have a great day!

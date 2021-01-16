@@ -190,9 +190,26 @@
   background-position: center;
 }
 
+.navbar .cart {
+  background: url('../images/cart.svg') no-repeat;
+  background-size: 80%;
+  background-position: center;
+  width: 50px;
+  height: 35px;
+  bottom: 183px;
+  right: 10px;
+}
+
+.navbar .cart:hover {
+  background: url('../images/cart_dark.svg') no-repeat;
+  background-size: 80%;
+  background-position: center;
+}
+
 .navbar .top,
 .navbar .bottom,
-.navbar .list {
+.navbar .list,
+.navbar .cart {
   cursor: pointer;
   background-color: var(--aColor);
   box-shadow: 1px 2px 3px rgba(0, 0, 0, 0.5);
@@ -215,7 +232,8 @@
 
 .navbar .top:hover,
 .navbar .bottom:hover,
-.navbar .list:hover {
+.navbar .list:hover,
+.navbar .cart:hover {
   background-color: var(--aColorHover);
 }
 

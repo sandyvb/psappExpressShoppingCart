@@ -3,7 +3,7 @@ import { ListContext } from '../contexts/ListContext'
 import { Link } from 'react-router-dom'
 import PhotoData from '../../data/PhotoData'
 import Checkbox from '../components/Checkbox'
-import Blockonomics from './Blockonomics'
+import CartButton from '../cart/CartButton'
 
 const MyListDetail = (props) => {
   const { dispatch } = useContext(ListContext)
@@ -18,7 +18,7 @@ const MyListDetail = (props) => {
   let linkTo
   let numberOfPhotos = 0
   let productDescription = 'Powershotz'
-  let downloadLink = '0'
+  let toCart
 
   if (props.item.poster) {
     name = props.item.title
@@ -26,10 +26,10 @@ const MyListDetail = (props) => {
     price = props.item.price
     pzcode = props.item.pz_code
     productDescription = `Powershotz Video #${pzcode}`
-    downloadLink = props.item.downloadLink
     code = props.item.pz_code
     thumb = 'https://powershotz.com/dvdlabels/thumbs/' + props.item.poster
     linkTo = props.item.id
+    toCart = props.item
   }
   if (props.item.image) {
     name = props.item.title
@@ -37,9 +37,9 @@ const MyListDetail = (props) => {
     price = props.item.price
     code = props.item.id
     productDescription = `Powershotz Video #${code}`
-    downloadLink = props.item.downloadLink
     thumb = 'https://powershotz.com/c4sImages/' + props.item.image
     linkTo = props.item.id
+    toCart = props.item
   }
 
   if (props.item.model_name) {
@@ -48,11 +48,11 @@ const MyListDetail = (props) => {
     const model = PhotoData.find(
       (item) => item.model_name === props.item.model_name
     )
+    toCart = model
     price = model.price
     code = model.id
     numberOfPhotos = model.num_photos
     productDescription = `${numberOfPhotos} photos`
-    downloadLink = props.item.downloadLink
     lcName = props.item.model_name.toLowerCase().replace(/ /g, '')
     linkTo = name
     thumb = 'https://powershotz.com/models2/thumbs/' + lcName + '-1.jpg'
@@ -100,13 +100,7 @@ const MyListDetail = (props) => {
           <button style={{ marginBottom: '15px' }}>Details</button>
         </Link>
         <div style={{ marginBottom: '15px' }}>
-          <Blockonomics
-            key={code}
-            title={name}
-            productDescription={productDescription}
-            price={price}
-            downloadLink={downloadLink}
-          />
+          <CartButton item={toCart} />
         </div>
 
         {pzcode !== 0 ? (

@@ -4,10 +4,9 @@ import VideoSlider from '../components/VideoSlider'
 import ModalImage from 'react-modal-image'
 import { Link } from 'react-router-dom'
 import Heart from '../components/Heart'
-import Blockonomics from '../components/Blockonomics'
 import BitcoinInfo from '../components/BitcoinInfo'
-import WhyBanned from '../components/WhyBanned'
 import Preview from '../components/Preview'
+import CartButton from '../cart/CartButton'
 
 const VideoDetail = (props) => {
   // images for full-length or clip videos
@@ -29,8 +28,6 @@ const VideoDetail = (props) => {
   let runtime = props.video.length || props.video.runtime
   let c4sCode = props.video.id
   let price = props.video.price
-  let downloadLink = props.video.downloadLink
-  let productDescription = `Powershotz Video #${pz_code}`
 
   // are we on videos page (0) or detail page (-1)?
   const pathname = document.location.pathname.indexOf('/videos')
@@ -75,9 +72,12 @@ const VideoDetail = (props) => {
       </p>
 
       {pathname === 0 ? (
-        <Link to={`/${c4sCode}`}>
-          <button style={{ width: '100%' }}>More</button>
-        </Link>
+        <div style={{ display: 'flex', justifyContent: 'space-between' }}>
+          <Link to={`/${c4sCode}`}>
+            <button>More</button>
+          </Link>
+          <CartButton item={props.video} />
+        </div>
       ) : (
         <div>
           <BitcoinInfo />
@@ -85,13 +85,7 @@ const VideoDetail = (props) => {
             <Preview key={pz_code} poster={poster} id={c4sCode} />
           </div>
           <div style={{ marginBottom: '15px' }}>
-            <Blockonomics
-              key={pz_code}
-              title={title}
-              productDescription={productDescription}
-              price={price}
-              downloadLink={downloadLink}
-            />
+            <CartButton item={props.video} />
           </div>
 
           {props.video.poster && (
@@ -101,7 +95,6 @@ const VideoDetail = (props) => {
               </Link>
             </div>
           )}
-          <WhyBanned />
         </div>
       )}
     </div>

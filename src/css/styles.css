@@ -140,12 +140,12 @@ button {
   z-index: 3;
 }
 
-/* banned section of videodetail.js and home.js */
-.hideWhy {
+/* shopping cart ---------------------------- */
+.hideWhy, .hideInvoice {
   display: none;
 }
 
-/* previews at Preview.js */
+/* previews at Preview.js ---------------------*/
 .hideModal {
   display: none;
 }

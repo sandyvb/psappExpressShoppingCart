@@ -3,7 +3,7 @@ import { listReducer } from '../reducers/ListReducer'
 
 export const ListContext = createContext()
 
-const ListContextProvider = props => {
+const ListContextProvider = (props) => {
   const [list, dispatch] = useReducer(listReducer, [], () => {
     const localData = localStorage.getItem('list')
     return localData ? JSON.parse(localData) : []

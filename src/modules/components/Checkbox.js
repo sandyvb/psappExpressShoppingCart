@@ -1,7 +1,7 @@
 import React, { useContext } from 'react'
 import { ListContext } from '../contexts/ListContext'
 
-const Checkbox = props => {
+const Checkbox = (props) => {
   const { dispatch } = useContext(ListContext)
   // console.log(props.props)
   let x = props.props

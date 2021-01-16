@@ -6,6 +6,7 @@ import x from '../images/x.webp'
 import { Link } from 'react-router-dom'
 import '../css/navbar.css'
 import list from '../images/list.webp'
+import cartImg from '../images/cart.svg'
 
 const Navbar = () => {
   const [closeMenu, setCloseMenu] = useState(true)
@@ -78,8 +79,11 @@ const Navbar = () => {
                 <Link to="/videos" style={{ fontSize: '1.25rem' }}>
                   VIDEOS
                 </Link>
-                <Link to="/membership" style={{ fontSize: '1rem' }}>
+                {/* <Link to="/membership" style={{ fontSize: '1rem' }}>
                   Membership
+                </Link> */}
+                <Link to="/cart" style={{ fontSize: '1rem' }}>
+                  Shopping Cart
                 </Link>
                 <Link
                   to={pathname}
@@ -106,6 +110,10 @@ const Navbar = () => {
           </div>
         </div>
       </div>
+      {/* TODO: flex this section */}
+      <Link to="/cart">
+        <div src={cartImg} title="Shopping Cart" className="cart"></div>
+      </Link>
 
       <Link to="/mylist">
         <div src={list} title="My List" className="list"></div>
