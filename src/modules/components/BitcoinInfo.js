@@ -3,24 +3,6 @@ import React from 'react'
 export default function BitcoinInfo() {
   // misc styles
   const styles = {
-    why: {
-      display: 'block',
-      margin: '30px auto',
-      paddingLeft: '20px',
-      paddingRight: '20px',
-    },
-    whyDiv: {
-      width: '100%',
-      margin: '0 auto',
-    },
-    p: {
-      margin: '10px',
-    },
-    whyP: {
-      color: 'red',
-      fontStyle: 'italic',
-      textAlign: 'center',
-    },
     whyCenter: {
       textAlign: 'center',
     },
@@ -30,11 +12,8 @@ export default function BitcoinInfo() {
       textAlign: 'center',
       marginBottom: '15px',
     },
-    lime: {
-      textAlign: 'center',
-      color: 'lime',
-    },
   }
+
   return (
     <div>
       <hr />
@@ -80,14 +59,6 @@ export default function BitcoinInfo() {
         >
           read this.
         </a>
-      </p>
-
-      <p style={styles.lime}>
-        <i>
-          Still working out a few bugs. Shopping cart coming soon! Meanwhile,{' '}
-          <a href="mailto:alexandra@powershotz.com">email me</a> to order
-          downloads by cash, check, or money order.
-        </i>
       </p>
     </div>
   )

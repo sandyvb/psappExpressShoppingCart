@@ -24,7 +24,40 @@ export default function Detail() {
   function chooseTag() {
     // if subString is a string
     if (isString) {
-      const formatSubString = subString.replace(/%20/g, '').toLowerCase()
+      let formatSubString = subString.replace(/%20/g, '').toLowerCase()
+
+      switch (formatSubString) {
+        case 'lexis':
+          formatSubString = 'lexislane'
+          break
+        case 'delila':
+          formatSubString = 'deliladarling'
+          break
+        case 'bianca':
+          formatSubString = 'biancapureheart'
+          break
+        case 'martina':
+          formatSubString = 'martinawarren'
+          break
+        case 'aubrytatum':
+          formatSubString = 'aubry&tatum'
+          break
+        case 'aubry':
+          formatSubString = 'aubry&tatum'
+          break
+        case 'tatum':
+          formatSubString = 'aubry&tatum'
+          break
+        case 'julie':
+          formatSubString = 'juliesimone'
+
+          break
+        case 'natalie':
+          formatSubString = 'natalierose'
+          break
+        default:
+          break
+      }
       // find model
       isModel = ModelData.find(
         (item) =>

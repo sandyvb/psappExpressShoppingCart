@@ -29,11 +29,14 @@ export default function Faqs() {
           </p>
           <ol>
             <li>
-              Click on any "DOWNLOAD" button located by the{' '}
+              Click on any "ADD TO CART" button located by the{' '}
               <Link to="/videos">video</Link> or{' '}
               <Link to="/photos">photo set</Link> that you want
             </li>
-            <li>Pay using Bitcoin.</li>
+            <li>
+              Go to the <Link to="/cart">shopping cart</Link>
+            </li>
+            <li>Pay with Bitcoin.</li>
             <li>Check your email for the download link.</li>
           </ol>
           <p>
@@ -53,11 +56,7 @@ export default function Faqs() {
               Go to the <Link to="/dvd">DVD order form</Link> and follow the
               directions
             </li>
-            <li>NEW shopping cart coming soon!</li>
           </ol>
-          <p>
-            <b>ALWAYS MAKE SURE YOU ALLOW POPUPS FROM THIS SITE!</b>
-          </p>
         </AccordionItem>
 
         <AccordionItem title="How do I download my videos?">

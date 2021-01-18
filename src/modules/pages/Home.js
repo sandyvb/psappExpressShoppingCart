@@ -34,11 +34,7 @@ const Home = () => {
         <section>
           <RandomGif />
           <h2>News & Updates</h2>
-          <h3 style={{ color: 'red' }}>
-            There still may be issues with Bitcoin payment buttons. Please{' '}
-            <a href="mailto:alexandra@powershotz.com">email me</a> if you have
-            any issues!
-          </h3>
+
           <p>
             REFRESH YOUR BROWSER OFTEN! The images always change and there may
             be new features!
@@ -47,19 +43,15 @@ const Home = () => {
             Press CTRL+F5 (PC) or Apple Key+Shift+R (Mac) to get the latest
             version of our site.
           </small>
-          <small>
-            For the BEST experience, we recommend using a Chrome or Opera
-            browser.
-          </small>
-          <p>If something isn't working correctly, please let us know!</p>
+
           <p>What's new?</p>
           <ul>
-            <li>Preview buttons!</li>
             <li>
-              <p>
-                Purchase any product instantly by clicking a "DOWNLOAD" button.
-              </p>
+              The <Link to="/cart">shopping cart</Link> is here! Click on the
+              icon in the lower-right corner for quick access to your list.
+              Please let me know if you run into a bug.
             </li>
+            <li>Preview buttons!</li>
             <li>
               Please give us a positive rating for your checkout! Someone didn't
               check their junk mail for their download link... :(
@@ -82,9 +74,10 @@ const Home = () => {
             Search <Link to="/videos">videos</Link> quickly and easily.
           </p>
           <p>
-            Press any "DOWNLOAD" button to purchase a{' '}
-            <Link to="/videos">video</Link> download. Press any "PREVIEW" button
-            to see a preview!
+            Press any "ADD TO CART" button then go to the{' '}
+            <Link to="/cart">cart</Link> to purchase a download or buy a{' '}
+            <Link to="/dvd">DVD</Link>. Press any "PREVIEW" button to see a
+            preview!
           </p>
         </section>
 
@@ -98,9 +91,9 @@ const Home = () => {
             models.
           </p>
           <p>
-            Press any "DOWNLOAD" button to purchase a{' '}
-            <Link to="/photos">photo set</Link>. Press any "PREVIEW" to see a
-            preview!
+            Press any "ADD TO CART" button then go to the{' '}
+            <Link to="/cart">cart</Link> to purchase a download. Press any
+            "PREVIEW" to see a preview!
           </p>
         </section>
 
@@ -116,11 +109,6 @@ const Home = () => {
           <p>
             Easy order downloads, DVDs, and photos using Bitcoin! After payment,
             check your inbox for download links!
-          </p>
-          <p>
-            Click on any "DOWNLOAD" button or{' '}
-            <a href="mailto:alexandra@powershotz.com">email me</a> for
-            additional purchasing options. Shopping cart is coming soon!
           </p>
         </section>
 

@@ -19,8 +19,8 @@ const SaveForLater = ({ item }) => {
 
   const handleClick = () => {
     changeItem = { item: { ...item, checked: !item.checked } }
-    dispatch({ type: 'REMOVE_ITEM', item: item })
-    dispatch({ type: 'CHANGE_ITEM', item: changeItem })
+    dispatch({ type: 'REMOVE_CART_ITEM', item: item })
+    dispatch({ type: 'CHANGE_CART_ITEM', item: changeItem })
   }
 
   return (

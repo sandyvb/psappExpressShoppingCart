@@ -1,12 +1,17 @@
 import React, { useContext } from 'react'
 import { CartContext } from '../contexts/CartContext'
-import { useHistory } from 'react-router-dom'
+import { Link } from 'react-router-dom'
 
-const ClearContinueButtons = () => {
-  const { dispatch } = useContext(CartContext)
-  const history = useHistory()
+const RemoveBackButtons = () => {
+  const { cart, dispatch } = useContext(CartContext)
+
   const screenWidth = window.screen.width
   const margin = screenWidth < 650 ? '10px' : '0'
+
+  const deleteItems = () =>
+    cart.map(
+      (item) => !item.checked && dispatch({ type: 'REMOVE_CART_ITEM', item })
+    )
 
   const styles = {
     clearCart: {
@@ -32,21 +37,15 @@ const ClearContinueButtons = () => {
         justifyContent: 'space-between',
       }}
     >
-      <button
-        style={styles.clearCart}
-        onClick={() => {
-          dispatch({
-            type: 'REMOVE_CART_ALL',
-          })
-        }}
-      >
-        Clear Cart
+      <button style={styles.clearCart} onClick={deleteItems}>
+        Remove from cart
       </button>
-      <button style={styles.continue} onClick={() => history.goBack()}>
-        continue shopping
-      </button>
+
+      <Link to="/cart">
+        <button style={styles.continue}>Go back to cart</button>
+      </Link>
     </div>
   )
 }
 
-export default ClearContinueButtons
+export default RemoveBackButtons

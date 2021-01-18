@@ -120,8 +120,10 @@
     cursor: pointer;
 }
 
-.priceAndHeart {
-    margin-bottom: 20px;
+.priceAndHeart {    
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 0 18px 0;
 }
 
 @media screen and (max-width: 850px) {

@@ -3,22 +3,20 @@ header("Access-Control-Allow-Origin: *");
 header('Access-Control-Allow-Headers: Origin, X-Requested-With, Content-Type, Accept');
 
 // DO NOT RESET HTTP CALLBACK 
-// blockonomic payment link if ever needed
 // https://www.blockonomics.co/pay-url/product_uid
 
 // GET DATA FROM BLOCKONOMICS API
-// Only proceed if payment is confirmed
+$addr = $_GET['addr'];
 $status = $_GET['status'];
+// Only proceed if payment is confirmed
 if ($status != 2) {
     return;
 }
 
-// VARS
-$addr = $_GET['addr'];
 $curl = curl_init();
 
 curl_setopt_array($curl, array(
-    CURLOPT_URL => "https://www.blockonomics.co/api/merchant_order/" . $addr,
+    CURLOPT_URL => "https://www.blockonomics.co/api/merchant_order/{$addr}",
     CURLOPT_RETURNTRANSFER => true,
     CURLOPT_TIMEOUT => 30,
     CURLOPT_HTTP_VERSION => CURL_HTTP_VERSION_1_1,
@@ -28,6 +26,7 @@ curl_setopt_array($curl, array(
     ),
 ));
 
+
 $response = curl_exec($curl);
 $response = json_decode($response, true); //because of true, it's in an array
 $err = curl_error($curl);
@@ -35,31 +34,34 @@ curl_close($curl);
 ///////////////////////////////////////////////
 
 // VARS
-$code = $response['status'];
-$emailid = $response['emailid'];  // my email
-$customer_emailid = $response['data']['emailid'];  // customer email
-$description = $response['description'];  // description or list (titles)
-$price = $response['value'];  // price
-$title = $response['name']; // title
-// $download_link = $response['data']['extradata']; // download link - orig
-// $download = "https://ln2.sync.com/dl/{$download_link}"; // orig
+$myEmail = $response['emailid'];
+$customerEmail = $response['data']['emailid'];
+$description = $response['description'];  // titles array
+$description = json_decode($description);
+$price = $response['value'];
+$price = number_format((float)$price, 2, '.', '');
+$title = $response['name']; // Powershotz Cart | # items
 $timeStamp = $response['timestamp']; // utc
-$date = date('m/d/y', $timeStamp); // date
+$date = date('m/d/y', $timeStamp);
 $currency = $response['currency']; // usd etc
+$downloadLinks = $response['data']['extradata']; // links array
+$downloadLinks = json_decode($downloadLinks);
+$checkOrder = "https://www.blockonomics.co/api/merchant_order/{$addr}";
+$test = "https://powershotz.com/php/blockonomics.php?status=2&addr={1NBruwPUC4itxBiw2BwaqGNYgN6gGa6W4n}";
+$code = $response['code'];
 
-$download_links = $response['data']['extradata']; // download link array
-// $download_links_json = json_decode($download_links) // maybe need this?
-
-if (sizeof($download_links) > 1) {
+if (sizeof($downloadLinks) > 1) {
+    $S = 'S';
     $s = 's';
+    $is = 'ARE';
 } else {
+    $S = '';
     $s = '';
+    $is = 'IS';
 }
 
 $ip = $_SERVER['REMOTE_ADDR'];
 $subject = "POWERSHOTZ BITCOIN ORDER";
-$to = "alexandra@powershotz.com";
-$from = $customer_emailid;
 
 // set response code - 200 OK
 http_response_code(200);
@@ -77,18 +79,24 @@ $msg = "
     <hr />    
     <p><b>Payment Status: </b> $status</p>
     <p><b>Date: </b>$date</p>
-    <p><b>Addr: </b> $addr</p>    
-    <p><b>Price: </b> $price</p>
-    <p><b>Customer Email: </b> $customer_emailid</p>
+    <p><b>Check Data: </b> $checkOrder</p>    
+    <p><b>Price: </b> $price $currency</p>
+    <p><b>Customer Email: </b> $customerEmail</p>
     <p><b>Title: </b> $title</p>
-    <p><b>Description: </b> $description</p>";
-
-$msg .= "<p><b>Download Links:</b></p>
-        <ul>";
+    <p><b>Download Links:</b></p>
+    <ul>";
 
 $count = 0;
 foreach ($downloadLinks as $downloadLink) {
-    $msg .= "<li>{$description[$count]}:  https://ln2.sync.com/dl/{$downloadLink}</li>";
+    if ($downloadLink === null) {
+        $downloadLink = 'Error!';
+    }
+    if ($description[$count] === null) {
+        $description[$count] = 'Error!';
+    }
+    $link = "https://ln2.sync.com/dl/{$downloadLink}";
+    $msg .= "<li>{$description[$count]}: <a href=$link>{$link}</a></li>";
+    $count++;
 }
 
 $msg .= "</ul>
@@ -96,7 +104,7 @@ $msg .= "</ul>
     <p><b>Errors: </b> $err</p>
     <hr />
     <small>User's ip address: $ip</small>
-    <small><a href='https://www.plus2net.com/php_tutorial/php_ip-demo2.php'>click for more info</a></small>
+    <small><a href='https://www.plus2net.com/php_tutorial/php_ip-demo2.php'> click for more info</a></small>
 </body>    
 </html>
 ";
@@ -105,34 +113,39 @@ $msg .= "</ul>
 $response_msg = "
 <html>
     <head>
-        <title>YOUR POWERSHOTZ DOWNLOAD</title>
+        <title>YOUR POWERSHOTZ DOWNLOAD$S</title>
     </head>
     <body>
-        <h1>YOUR POWERSHOTZ DOWNLOAD IS HERE!</h1>
+        <h1>YOUR POWERSHOTZ DOWNLOAD$S $is HERE!</h1>
         <hr/>
         <h3><i>Thank you for your order!</i></h3>
 
-        <p>Title: $title</p>
-        <p>Description: $description</p>
-        <p>Value: $price USD</p>
-        <p>Order Date: $date</p>
-        <p>Status: Paid</p>
-        <h2>Click on the link$s below to download your purchase$s!</h2>
+        <p><b>Order Date:</b> $date</p>
+        <p><b>Order Number:</b> $addr</p>
+        <p><b>Paid:</b> $$price $currency</p>
+        <h3>$title</h3>
+        <h2>Click on the link$s below to download your product$s!</h2>
         <ul>";
 
 $count = 0;
 foreach ($downloadLinks as $downloadLink) {
+    if ($downloadLink === null) {
+        $downloadLink = 'Error!';
+    }
+    if ($description[$count] === null) {
+        $description[$count] = 'Error! Please contact Alexandra :)';
+    }
     $link = "https://ln2.sync.com/dl/{$downloadLink}";
-    $response_msg .= "<li><a href =$link></a>$description[$count]</li>";
+    $response_msg .= "<li><h3><a href=$link>$description[$count]</a></h3></li>";
     $count++;
 }
 
 $response_msg .= "</ul>
-        <h2><a href=$download>Click here to download your purchase!</a></h2>      
-        <p>Reply to this email if you have any questions or problems.</p>
+     
+        <p>Please reply to this email if you have any questions or problems.</p>
         <p>Thanks again from Powershotz and have a great day!
         <br/>
-        <i>Alexandra</i>
+        <i>Alexandra</i> &hearts;
         </p>
     </body>
 </html>
@@ -141,18 +154,21 @@ $response_msg .= "</ul>
 // HEADERS TO ME
 $headers = "MIME-Version: 1.0\r\n";
 $headers .= "Content-type: text/html; charset=UTF-8\r\n";
-$headers .= "From: <" . $from . ">";
+$headers .= "From: <" . $customerEmail . ">";
 
 // HEADERS TO CUSTOMER
 $response_headers = "MIME-Version: 1.0\r\n";
 $response_headers .= "Content-type: text/html; charset=UTF-8\r\n";
-$response_headers .= "From: <" . $to . ">";
+$response_headers .= "From: <" . $myEmail . ">";
 
-// EMAILS SENT
-mail($to, $subject, $msg, $headers);
-mail($from, $subject, $response_msg, $response_headers);
+// SEND EMAILS
+mail($myEmail, $subject, $msg, $headers);
+mail($customerEmail, $subject, $response_msg, $response_headers);
 
-// ERRORS
 echo json_encode(array(
     "sent" => true
 ));
+// echo $msg;
+// echo $response_msg;
+// echo $description;
+// echo $downloadLinks;

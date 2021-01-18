@@ -66,17 +66,22 @@ const VideoDetail = (props) => {
         <span>{runtime} min</span>
       </h4>
       <hr />
-      <p className="priceAndHeart">
+      <div className="priceAndHeart">
         <i>Price: ${price} USD</i>
         <Heart props={props.video} />
-      </p>
+      </div>
 
       {pathname === 0 ? (
-        <div style={{ display: 'flex', justifyContent: 'space-between' }}>
-          <Link to={`/${c4sCode}`}>
-            <button>More</button>
-          </Link>
-          <CartButton item={props.video} />
+        <div>
+          <hr style={{ margin: '0 0 40px 0' }} />
+          <div style={{ display: 'flex', justifyContent: 'space-between' }}>
+            <div style={{ width: '49%' }}>
+              <Link to={`/${c4sCode}`}>
+                <button style={{ minWidth: '100%' }}>More</button>
+              </Link>
+            </div>
+            <CartButton item={props.video} width="49%" />
+          </div>
         </div>
       ) : (
         <div>

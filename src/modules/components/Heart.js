@@ -44,11 +44,11 @@ const Heart = (props) => {
   }
 
   return (
-    <span
+    <div
       className={classname}
       title={x !== undefined ? 'Remove from My List' : 'Save to My List'}
       onClick={handleClick}
-    ></span>
+    ></div>
   )
 }
 

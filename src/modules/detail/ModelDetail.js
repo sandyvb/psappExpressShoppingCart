@@ -68,10 +68,11 @@ function ModelDetail(props) {
         Includes {numPhotos} downloadable images
       </p>
 
-      <p className="priceAndHeart">
-        <i>Price: ${price} USD</i>
+      <hr />
+      <div className="priceAndHeart">
+        <div>Price: ${price} USD</div>
         <Heart props={props.model} />
-      </p>
+      </div>
 
       {isDetail && (
         <div>
@@ -85,14 +86,21 @@ function ModelDetail(props) {
         </div>
       )}
 
-      <hr style={{ margin: '40px 0 40px 0' }} />
+      <hr style={{ margin: '0 0 40px 0' }} />
 
       {!isDetail ? (
-        <div style={{ display: 'flex', justifyContent: 'space-between' }}>
-          <Link to={`/${name}`}>
-            <button>More</button>
-          </Link>
-          <CartButton item={model} />
+        <div
+          style={{
+            display: 'flex',
+            justifyContent: 'space-between',
+          }}
+        >
+          <div style={{ width: '49%' }}>
+            <Link to={`/${name}`}>
+              <button style={{ minWidth: '100%' }}>More</button>
+            </Link>
+          </div>
+          <CartButton item={model} width="49%" />
         </div>
       ) : (
         <ModelStarsIn key={name} model={name} />

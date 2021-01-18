@@ -94,7 +94,7 @@ const CartDetail = ({ item }) => {
             style={styles.delete}
             onClick={() => {
               dispatch({
-                type: 'REMOVE_ITEM',
+                type: 'REMOVE_CART_ITEM',
                 item: item,
               })
             }}

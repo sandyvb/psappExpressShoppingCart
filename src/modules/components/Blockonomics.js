@@ -1,18 +1,9 @@
 import React, { useState, useEffect } from 'react'
 
-const Blockonomics = ({
-  title,
-  productDescription,
-  price,
-  productTitles,
-  links,
-}) => {
+const Blockonomics = ({ name, description, price, links }) => {
   const [data, setData] = useState('0')
 
-  // "Download"
   const parentUid = 'dac8778e542911eb'
-  const parsedPrice = parseFloat(price)
-  console.log('Blockonomics.js 12 props: ', productTitles, links)
 
   useEffect(() => {
     callBlockonomics()
@@ -24,10 +15,10 @@ const Blockonomics = ({
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({
         parent_uid: parentUid,
-        product_name: title,
-        product_description: productDescription,
-        value: price,
-        extra_data: downloadLink,
+        product_name: name,
+        product_description: JSON.stringify(description),
+        value: parseFloat(price).toFixed(2),
+        extra_data: JSON.stringify(links),
       }),
     })
       .then((response) => response.json())

@@ -96,6 +96,12 @@ button {
   letter-spacing: .05rem;
 }
 
+/* @media screen and (max-width: 420px) {
+  button {
+    min-width: '155px' !important;
+  }
+} */
+
 button:hover {
   background-color: var(--aColorHover);
   color: var(--backgroundColor);

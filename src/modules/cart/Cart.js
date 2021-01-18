@@ -3,9 +3,10 @@ import CartDetail from './CartDetail'
 import Blockonomics from '../components/Blockonomics'
 import '../../css/mylist.css'
 import WhyBanned from '../components/WhyBanned'
-import SendInvoice from './SendInvoice'
+// import SendInvoice from './SendInvoice'
 import ClearContinueButtons from './ClearContinueButtons'
 import { CartContext } from '../contexts/CartContext'
+import { Link } from 'react-router-dom'
 
 const Cart = () => {
   const { cart } = useContext(CartContext)
@@ -16,7 +17,6 @@ const Cart = () => {
   let width = screenWidth < 650 ? '100%' : screenWidth < 1300 ? '80%' : '50%'
   let totals = screenWidth > 650 ? 'flex' : 'block'
   let spanFont = screenWidth < 1000 ? '1.2rem' : '1.3rem'
-  let fontSz = screenWidth < 650 && '13px'
 
   let sortedList = cart.sort((a, b) => {
     if (
@@ -61,8 +61,6 @@ const Cart = () => {
     }
   })
 
-  console.log('Cart.js 64 titles: ', titles)
-
   const saveForLaterList = saveForLaterArray.map((item) => {
     return (
       <div key={item.id}>
@@ -100,6 +98,11 @@ const Cart = () => {
       fontSize: spanFont,
       paddingRight: '5px',
     },
+    videoPhotoButton: {
+      display: 'flex',
+      margin: '0 auto 50px auto',
+      justifyContent: 'center',
+    },
   }
 
   return (
@@ -128,7 +131,16 @@ const Cart = () => {
 
       {itemCount > 0 && (
         <div style={{ width: width, margin: '0 auto' }}>
+          <ul style={{ margin: '0 0 25px 0' }}>
+            <li style={{ margin: '0' }}>Use this cart to order downloads</li>
+            <li style={{ margin: '0' }}>Pay with Bitcoin</li>
+            <li style={{ margin: '0' }}>
+              Get an email with your download links
+            </li>
+          </ul>
           <ClearContinueButtons />
+          <div style={{ height: '20px' }}></div>
+
           <ul style={styles.ul}>{generateList}</ul>
           <hr style={{ backgroundColor: 'lime' }} />
           <div style={styles.totals}>
@@ -147,12 +159,11 @@ const Cart = () => {
               marginBottom: '30px',
             }}
           >
-            <div style={{ marginRight: '7px', flexGrow: '1' }}>
+            <div>
               <Blockonomics
-                title="Powershotz Cart"
-                productDescription={`${itemCount} Items`}
+                name={`Powershotz Cart | ${itemCount} item${s}`}
+                description={titles}
                 price={amtDue}
-                productTitles={titles}
                 links={downloadLinks}
               />
             </div>
@@ -161,7 +172,7 @@ const Cart = () => {
             </div> */}
           </div>
 
-          <div style={{ marginBottom: '125px' }}>
+          <div style={{ margin: '0 15px 30px 15px' }}>
             <WhyBanned />
           </div>
         </div>
@@ -169,12 +180,22 @@ const Cart = () => {
       {saveForLaterList.length > 0 && (
         <div style={{ width: width, margin: '75px auto' }}>
           <hr />
-          <h2 style={{ textAlign: 'center' }}>Saved For Later</h2>
+          <h2 style={{ textAlign: 'center', fontSize: '2rem' }}>
+            Saved For Later
+          </h2>
           <ul style={styles.ul}>{saveForLaterList}</ul>
           <hr style={{ marginBottom: '20px' }} />
           <ClearContinueButtons />
         </div>
       )}
+      <div style={styles.videoPhotoButton}>
+        <Link to="/videos">
+          <button style={{ marginRight: '15px' }}>more Videos</button>
+        </Link>
+        <Link to="/photos">
+          <button style={{ marginLeft: '15px' }}>more Photos</button>
+        </Link>
+      </div>
     </div>
   )
 }

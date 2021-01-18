@@ -33,6 +33,14 @@ const MyList = () => {
     return <MyListDetail key={item.id || item.model_name} item={item} />
   })
 
+  const styles = {
+    videoPhotoButton: {
+      display: 'flex',
+      margin: '0 auto 50px auto',
+      justifyContent: 'center',
+    },
+  }
+
   return (
     <div className="my-list">
       <header>
@@ -74,6 +82,14 @@ const MyList = () => {
           to your list
         </h5>
       )}
+      <div style={styles.videoPhotoButton}>
+        <Link to="/videos">
+          <button style={{ marginRight: '15px' }}>more Videos</button>
+        </Link>
+        <Link to="/photos">
+          <button style={{ marginLeft: '15px' }}>more Photos</button>
+        </Link>
+      </div>
     </div>
   )
 }
