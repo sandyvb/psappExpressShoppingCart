@@ -21,7 +21,7 @@ const CartButton = ({ item, width }) => {
       ? setShouldAdd(false)
       : setShouldAdd(true)
     // eslint-disable-next-line
-  }, [item.id])
+  }, [item.id, cart])
 
   const handleClick = () => {
     shouldAdd === true

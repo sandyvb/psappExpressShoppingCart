@@ -27,7 +27,7 @@ const MyListDetail = (props) => {
     pzcode = props.item.pz_code
     productDescription = `Powershotz Video #${pzcode}`
     code = props.item.pz_code
-    thumb = 'https://powershotz.com/dvdlabels/thumbs/' + props.item.poster
+    thumb = 'https://powershotz.com/c4sImages/thumbs/' + props.item.poster
     linkTo = props.item.id
     toCart = props.item
   }

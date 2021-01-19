@@ -191,7 +191,7 @@
 }
 
 .navbar .cart {
-  background: url('../images/cart.svg') no-repeat;
+  background: url('../images/cart.png') no-repeat;
   background-size: 80%;
   background-position: center;
   width: 50px;
@@ -201,7 +201,7 @@
 }
 
 .navbar .cart:hover {
-  background: url('../images/cart_dark.svg') no-repeat;
+  background: url('../images/cart2.png') no-repeat;
   background-size: 80%;
   background-position: center;
 }

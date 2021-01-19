@@ -14,7 +14,7 @@ function FindTitle(props) {
   if (arrays.find((item) => item.id === props.number).image) {
     url = 'https://powershotz.com/c4sImages/'
   } else {
-    url = 'https://powershotz.com/dvdlabels/thumbs/'
+    url = 'https://powershotz.com/c4sImages/thumbs/'
   }
   const src = url + img
   let code = props.number

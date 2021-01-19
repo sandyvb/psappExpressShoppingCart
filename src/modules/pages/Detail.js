@@ -135,7 +135,7 @@ export default function Detail() {
     let previd
     let nextid
     // combine powershotz and c4s json data and sort
-    let combine = CombineArrays()
+    const combine = CombineArrays()
     let finalArray = combine.sort((a, b) => {
       if (a.title > b.title) {
         return 1

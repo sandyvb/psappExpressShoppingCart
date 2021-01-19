@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import React, { useState, useContext } from 'react'
 import logo from '../images/logo.svg'
 import logo2 from '../images/logo2.svg'
 import burger from '../images/burger.webp'
@@ -6,10 +6,13 @@ import x from '../images/x.webp'
 import { Link } from 'react-router-dom'
 import '../css/navbar.css'
 import list from '../images/list.webp'
-import cartImg from '../images/cart.svg'
+import cartImg from '../images/cart.png'
+import { CartContext } from './contexts/CartContext'
 
 const Navbar = () => {
   const [closeMenu, setCloseMenu] = useState(true)
+  const { cart } = useContext(CartContext)
+  let itemsInCart = cart.length
 
   const pathname = window.location.pathname
 
@@ -112,7 +115,28 @@ const Navbar = () => {
       </div>
       {/* TODO: flex this section */}
       <Link to="/cart">
-        <div src={cartImg} title="Shopping Cart" className="cart"></div>
+        <div src={cartImg} title="Shopping Cart" className="cart">
+          {cart.length > 0 && (
+            <div
+              style={{
+                backgroundColor: 'white',
+                color: 'var(--backgroundColor)',
+                fontSize: '12px',
+                fontWeight: 'bold',
+                borderRadius: '50px',
+                height: '24px',
+                width: '24px',
+                textAlign: 'center',
+                padding: '2.5px',
+                fontFamily: 'cursive',
+                border: '1px solid var(--backgroundColor)',
+                transform: 'translateY(-25px)',
+              }}
+            >
+              {itemsInCart}
+            </div>
+          )}
+        </div>
       </Link>
 
       <Link to="/mylist">

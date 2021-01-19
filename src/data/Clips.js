@@ -19,9 +19,10 @@ export default [
   },
   {
     id: '21783895',
-    title: 'Gettin Done What Needs Gettin Done (VL020)',
+    pz_code: 'VL020',
+    title: 'Gettin Done What Needs Gettin Done',
     description:
-      "Hazel's been wearing that hot little uniform and showing way too much belly and cleavage. The neighbor boy has been watching Hazel's physical development and has decided to take it upon himself to spare the learning institution she attends the need to discipline her for violating dress compliance guidelines. He'll take care of that himself. Her parents don't get home until 6pm... and here it is only 3. Plenty of time to get done what needs gettin done. When she walks into class bow legged her friends will understand. Selena goes strutting out the door in platform pumps and mini skirt again. Guess she was looking for some attention. She found it. I guess she should have been more careful about her choice of dress. Captured and caged, chained to the bed, vibrated, deep throat trained and spanked, bit gagged and forced to become a sex toy. Got that bitch taught pretty quick. Finally Tiki gets her gettin for strutting her hot ass in public when she is bound to the bench on her hands and knees in complete nudity with her gorgeous young bottom sticking right up in the air where he can conveniently manipulate each taught virgin muscle and nerve ending. She's been flaunting that hot ass just a bit too frequently. Time to get it fucked. Strong clothesline cording holds those hands out of the way while her ass is lubricated, probed and fucked along with her pussy and of course that sassy little mouth. Super hot stuff! VL020",
+      "Hazel's been wearing that hot little uniform and showing way too much belly and cleavage. The neighbor boy has been watching Hazel's physical development and has decided to take it upon himself to spare the learning institution she attends the need to discipline her for violating dress compliance guidelines. He'll take care of that himself. Her parents don't get home until 6pm... and here it is only 3. Plenty of time to get done what needs gettin done. When she walks into class bow legged her friends will understand. Selena goes strutting out the door in platform pumps and mini skirt again. Guess she was looking for some attention. She found it. I guess she should have been more careful about her choice of dress. Captured and caged, chained to the bed, vibrated, deep throat trained and spanked, bit gagged and forced to become a sex toy. Got that bitch taught pretty quick. Finally Tiki gets her gettin for strutting her hot ass in public when she is bound to the bench on her hands and knees in complete nudity with her gorgeous young bottom sticking right up in the air where he can conveniently manipulate each taught virgin muscle and nerve ending. She's been flaunting that hot ass just a bit too frequently. Time to get it fucked. Strong clothesline cording holds those hands out of the way while her ass is lubricated, probed and fucked along with her pussy and of course that sassy little mouth. Super hot stuff! ",
     categoryid: '403',
     keywords:
       '18 & 19 YRS OLD, DOMINATION, ANAL, CORPORAL PUNISHMENT, DAMSEL IN DISTRESS     Gettin er Done, Hazel, Selena, Tiki, VL020, Gettin Done What Needs, Gettin Don, schoolgirl, discipline, forced orgasm, cage, spanking, struggling, blowjob, whipping',
@@ -29,6 +30,7 @@ export default [
     date: '2019-07-20 18:36:29',
     name: 'vl020_1.mp4',
     image: 'vl020compliant.jpg',
+    poster: 'vl020coverad.jpg',
     displayorder: '1963',
     length: '01:54:38',
     resolution: '1440x1080',
@@ -36,7 +38,8 @@ export default [
   },
   {
     id: '21783645',
-    title: 'ThreeFer (VL019)',
+    pz_code: 'VL019',
+    title: 'ThreeFer',
     description:
       "Three bopable babes in bitchin bondage are shown strict discipline and corporal punishment. First Andi gets bitch stripped, dominated, cuffed and over the shouldered inside where she is put on a table for topping in wrist to ankle ass up bondage and ball gagged. Then Stacie is slave trained in heavy leather restraints and ball gag harness. She is bound kneeling to the leaning post where she is nipple clamped and whipped, strapped to the backboard and vibrated. Finally, Alex is grabbed, submitted with solvent, tied down, and savored before being rudely awakened with her bare pussy and ass sticking straight up. Poor girl. Later a man approaches with a hard on. It's in her mouth... it's in her pussy... she's upside down.. right side up... turned and rolled. He gets her every way he can. Then in inverted suspension, he approaches... she sucks... she begs... she gags... he squirts. It's hot!",
     categoryid: '4',
@@ -46,6 +49,7 @@ export default [
     date: '2019-07-20 17:24:22',
     name: 'vl019_1.mp4',
     image: 'vl019compliant.jpg',
+    poster: 'vl019coverad.jpg',
     displayorder: '1961',
     length: '01:52:45',
     resolution: '1440x1080',
@@ -104,9 +108,10 @@ export default [
   },
   {
     id: '20928029',
-    title: 'PZV051 IJK',
+    pz_code: 'PZV051',
+    title: 'IJK',
     description:
-      "Stars Ivory, Jessy and Katherine in a catch and carry, bitch strip, tie 'em up and slave train 'em trilogy. In round 1, Ivory is grabbed in her own building and taken into sexual slavery to be used as a bondage sex toy. In round 2, Jessy is taken in the same building as Ivory. Only this time by a huge brute who has plans to make her gag on cock and take his huge cock up her tight little asshole. And then in round 3, we find poor glamour model Katherine bound with her arms overhead so the would be photographer that scammed her into posing for some glamour shots can lube up that fine body and slap that fine face and ass before getting some hot bondage pics. She'll be the next superstar anal queen by the time she is finished up posing for this gig. Perhaps if they had made better life choices they wouldn't be in such close proximity to horny men with a lot of time on their hands.  PZV051",
+      "Stars Ivory, Jessy and Katherine in a catch and carry, bitch strip, tie 'em up and slave train 'em trilogy. In round 1, Ivory is grabbed in her own building and taken into sexual slavery to be used as a bondage sex toy. In round 2, Jessy is taken in the same building as Ivory. Only this time by a huge brute who has plans to make her gag on cock and take his huge cock up her tight little asshole. And then in round 3, we find poor glamour model Katherine bound with her arms overhead so the would be photographer that scammed her into posing for some glamour shots can lube up that fine body and slap that fine face and ass before getting some hot bondage pics. She'll be the next superstar anal queen by the time she is finished up posing for this gig. Perhaps if they had made better life choices they wouldn't be in such close proximity to horny men with a lot of time on their hands.  ",
     categoryid: '463',
     keywords:
       'BONDAGE, SPANKING, SUBMISSIVE / SLAVE TRAINING, DOMINATION, FACE SLAPPING     PZV051, IJK, Ivory, Jessy, Katherine, capture, brunette, redhead, long hair, struggling, damsel, bitch strip, corporal punishment, discipline',
@@ -121,9 +126,10 @@ export default [
   },
   {
     id: '20829477',
-    title: 'PZV061 Bitch Tits',
+    pz_code: 'PZV061',
+    title: 'Bitch Tits',
     description:
-      "Stars 5 Bitchin' Bitches with bitch ass tits gettin' their well deserved comeuppance with the help of some strong restraints. Big tit Lucy's fine fat ass looks fantastic rippling under the impact of that bare hand or whip and those leather cuffs keep those hot limbs held tight to keep the bitch from fightin' back. The big fat ball gags those gorgeous blowjob lips so she can squeal to her hearts content and let that drool run. When this is over she'll take a big hard cock up the ass without a hint of disrespect. Tee n tart Alex is hung upside down by her ankles with her legs spread and her arms bound behind her back. The little cock tease is kept hanging so she won't attract roaming studs with her fertile little body. When she's not hanging out she's kept in the wooden stocks on her knees with her ass sticking out so the breeding stud can have at her without hurting himself. Ashleigh's tits are free to swing in the breeze because she's bound bent forward with a concrete block attached to a collar around her neck while another concrete block pulls on a rope that runs right over her anus, up through her pussy and around her waist. The crotch rope, spreader bars and the weight around her neck keep her up on her toes to work those gorgeous calves. High school senior Angelica won't be missing her homework because she's bound kneeling to the whipping post with her pert little titties under wraps. And Samantha's wrists are cuffed to her ankles because her ass is needed sticking straight out in the open to be spread, spanked or fucked without the need to hold her down. It's a bitchin' bitch flick for anyone that enjoys watching bitches squeal. PZV061",
+      "Stars 5 Bitchin' Bitches with bitch ass tits gettin' their well deserved comeuppance with the help of some strong restraints. Big tit Lucy's fine fat ass looks fantastic rippling under the impact of that bare hand or whip and those leather cuffs keep those hot limbs held tight to keep the bitch from fightin' back. The big fat ball gags those gorgeous blowjob lips so she can squeal to her hearts content and let that drool run. When this is over she'll take a big hard cock up the ass without a hint of disrespect. Tee n tart Alex is hung upside down by her ankles with her legs spread and her arms bound behind her back. The little cock tease is kept hanging so she won't attract roaming studs with her fertile little body. When she's not hanging out she's kept in the wooden stocks on her knees with her ass sticking out so the breeding stud can have at her without hurting himself. Ashleigh's tits are free to swing in the breeze because she's bound bent forward with a concrete block attached to a collar around her neck while another concrete block pulls on a rope that runs right over her anus, up through her pussy and around her waist. The crotch rope, spreader bars and the weight around her neck keep her up on her toes to work those gorgeous calves. High school senior Angelica won't be missing her homework because she's bound kneeling to the whipping post with her pert little titties under wraps. And Samantha's wrists are cuffed to her ankles because her ass is needed sticking straight out in the open to be spread, spanked or fucked without the need to hold her down. It's a bitchin' bitch flick for anyone that enjoys watching bitches squeal. ",
     categoryid: '4',
     keywords:
       'SPANKING, SUSPENSION, WHIPPING, PREDICAMENT BONDAGE, BALLGAGGED     pzv061, Bitch Tits, Lucy, Alex, Ashleigh, Angelica, leather cuffs, squealing, drooling, inversion, stocks, cinder block, crotch rope, Samantha, forced stripping',
@@ -138,9 +144,10 @@ export default [
   },
   {
     id: '20559971',
-    title: 'PZV070  Schoolgirl Slavegirl',
+    pz_code: 'PZV070',
+    title: 'Schoolgirl Slavegirl',
     description:
-      "Little school girl Lizzie is sitting in class wearing the required school girl uniform... except it is clearly last year's skirt because her perfectly pure and lily-white skin can be seen all the way up to her ass! She's dripping in hormones and begging to be fucked (which she is going to be if she doesn't get her mind back on homework). A good hard whipping, a gag to shut her up (so she can't be heard squealing), and a good talking to will fix this little bitch. Maybe some hard manhandling, face slapping, tits, ass, and pussy slapping, riding crop whipping, crotch rope cinching, and bare-handed bottom spanking (until that perfect white ass glows red) will show her what her life will be like if she doesn't get that pretty fucking head off of cock and back in the game.\r\nThen along comes home working girl Leah who unlocks her door and is locked down by a stranger who must have observed her comings and goings and decided to take her out of the work force and into his private sex worker force by force! It requires some kicking and squirming at first, but when her frail limbs fail... she accepts her new position with open mouthed enthusiasm. First her mouth is opened by a nice fat ball gag, at the end it flies open in perfect timing with her asshole as she feels her sphincter stretching and is in awe of the sensation. Her new job will require the training of each of her bodily orifices to accept her Masters large penis while stimulating it to the maximum extent possible so that his ejaculation will be complete and satisfying. Gagging and choking on cock will take some getting used to and taking it up the ass will leave her sore and swollen but her reward will come in the form of being available 24/7 to service his demanding cock. Includes some kick-ass anal training and penetration scenes!\r\n<br />PZV070",
+      "Little school girl Lizzie is sitting in class wearing the required school girl uniform... except it is clearly last year's skirt because her perfectly pure and lily-white skin can be seen all the way up to her ass! She's dripping in hormones and begging to be fucked (which she is going to be if she doesn't get her mind back on homework). A good hard whipping, a gag to shut her up (so she can't be heard squealing), and a good talking to will fix this little bitch. Maybe some hard manhandling, face slapping, tits, ass, and pussy slapping, riding crop whipping, crotch rope cinching, and bare-handed bottom spanking (until that perfect white ass glows red) will show her what her life will be like if she doesn't get that pretty fucking head off of cock and back in the game.\r\nThen along comes home working girl Leah who unlocks her door and is locked down by a stranger who must have observed her comings and goings and decided to take her out of the work force and into his private sex worker force by force! It requires some kicking and squirming at first, but when her frail limbs fail... she accepts her new position with open mouthed enthusiasm. First her mouth is opened by a nice fat ball gag, at the end it flies open in perfect timing with her asshole as she feels her sphincter stretching and is in awe of the sensation. Her new job will require the training of each of her bodily orifices to accept her Masters large penis while stimulating it to the maximum extent possible so that his ejaculation will be complete and satisfying. Gagging and choking on cock will take some getting used to and taking it up the ass will leave her sore and swollen but her reward will come in the form of being available 24/7 to service his demanding cock. Includes some kick-ass anal training and penetration scenes!",
     categoryid: '1322',
     keywords:
       'SCHOOL UNIFORM, BALLGAGGED, 18 & 19 YRS OLD, FACE SLAPPING, WHIPPING     PZV070, Schoolgirl Slavegirl, Lizzie, Leah, schoolgirl, slavegirl, slapping, crotch rope, spanking, bare hand spanking, stranger, struggling, penetration, anal training, domination',
@@ -155,9 +162,10 @@ export default [
   },
   {
     id: '20477027',
-    title: 'PZV071  Born for Bondage',
+    pz_code: 'PZV071',
+    title: 'Born for Bondage',
     description:
-      "Stars Innocent young Kylie, fitness model Lee, coeds Jessy and Harley, and barely legal Brook. 5 young breeding age females that were born to be tied up, whipped, spanked, gagged and taught to pay attention so they can achieve their destiny of satisfying Master's cock while producing attractive offspring. 18 year old Kylie needed fast cash to get out of trouble. She responded to an ad offering paid modeling jobs. It would have been easy for the photographer to overpower the bitch and stud her out. Instead, she is forced to endure steel cuffs, ball gags, a hemp rope hog tie and a humiliating nose hook along with invasive manhandling, spanking and dominating discipline. Hopefully she will learn something from it. Next shows up super hot fitness model Lee. From the look of that toned and muscular body you would think she would be pretty tough. But when push comes to shove she puts up some nice begging and pleading in that sweet little high voice as she endures her bondage discipline punishment for coming to a shoot without an escort. Then the hits just keep on coming as Jessy and Harley get their asses up for slapping. And black bottom Brook... she just turned 18 the day before and can't wait to take that paid modeling gig. The drool leaks around her ball gag as she pulls against the wrist cuffs restraining her to the whipping post while her ass cheeks ripple with impact. The drool leaves stains that should remind her of how lucky she was not to be fucked pregnant by some talent agency stud. Finally, a medley of scenes from previous bondage discipline sessions show other attractive breeding specimens that are punished for poor life choices and corrected to prevent a repeat of the offending behavior. PZV071",
+      "Stars Innocent young Kylie, fitness model Lee, coeds Jessy and Harley, and barely legal Brook. 5 young breeding age females that were born to be tied up, whipped, spanked, gagged and taught to pay attention so they can achieve their destiny of satisfying Master's cock while producing attractive offspring. 18 year old Kylie needed fast cash to get out of trouble. She responded to an ad offering paid modeling jobs. It would have been easy for the photographer to overpower the bitch and stud her out. Instead, she is forced to endure steel cuffs, ball gags, a hemp rope hog tie and a humiliating nose hook along with invasive manhandling, spanking and dominating discipline. Hopefully she will learn something from it. Next shows up super hot fitness model Lee. From the look of that toned and muscular body you would think she would be pretty tough. But when push comes to shove she puts up some nice begging and pleading in that sweet little high voice as she endures her bondage discipline punishment for coming to a shoot without an escort. Then the hits just keep on coming as Jessy and Harley get their asses up for slapping. And black bottom Brook... she just turned 18 the day before and can't wait to take that paid modeling gig. The drool leaks around her ball gag as she pulls against the wrist cuffs restraining her to the whipping post while her ass cheeks ripple with impact. The drool leaves stains that should remind her of how lucky she was not to be fucked pregnant by some talent agency stud. Finally, a medley of scenes from previous bondage discipline sessions show other attractive breeding specimens that are punished for poor life choices and corrected to prevent a repeat of the offending behavior.",
     categoryid: '31',
     keywords:
       'BONDAGE, SPANKING, DOMINATION, BALLGAGGED, WHIPPING     Kylie, Lee, Jessy, Harley, Brook, Born for Bondage, PZV071, corporal punishment, breeders, discipline, handcuffs, hemp, nose hook, begging, ebony',
@@ -172,9 +180,10 @@ export default [
   },
   {
     id: '20368215',
-    title: 'PZV060  Ivory Dancer',
+    pz_code: 'PZV060',
+    title: 'Ivory Dancer',
     description:
-      "Ivory is paid for a private strip and shows up with an attitude that needs correction. When she turns her back to wiggle her hot ass over his crotch he takes matters into his own hands. It only takes a few seconds of strong back arching, butt slapping, hand over mouth persuasion to turn her into an obedient little fuck toy. Strict arm binder bondage holds her in panic distress as she struggles to free herself while he takes his leave. But she exhausts herself struggling and submits easily to the ridged nylon crotch rope that splits her vulva, rubs against her clitoris and cinches against her anus while it holds her in an upright position to be fondled spanked and whipped. She gags nicely on the riding crop and jumps at its sting. Next we find slaveteen Angelica in happy baby yoga pose. Only she isn't wearing yoga pants. And she's bound with rope in the position. When she's on her back she can be easily throated or fucked in the pussy or ass. When she is rolled onto her knees the pose leaves her perfect ripe bottom sticking up high and wide. Her virgin anus revealed by her spread ass cheeks. Spend some quality time sliding up and back through her pussy before popping that tight ass. Once she's been reamed out a few dozen times her sphincter will lose it's ability to clutch and her squeals of pain will become moans of pleasure. PZV060",
+      "Ivory is paid for a private strip and shows up with an attitude that needs correction. When she turns her back to wiggle her hot ass over his crotch he takes matters into his own hands. It only takes a few seconds of strong back arching, butt slapping, hand over mouth persuasion to turn her into an obedient little fuck toy. Strict arm binder bondage holds her in panic distress as she struggles to free herself while he takes his leave. But she exhausts herself struggling and submits easily to the ridged nylon crotch rope that splits her vulva, rubs against her clitoris and cinches against her anus while it holds her in an upright position to be fondled spanked and whipped. She gags nicely on the riding crop and jumps at its sting. Next we find slave teen Angelica in happy baby yoga pose. Only she isn't wearing yoga pants. And she's bound with rope in the position. When she's on her back she can be easily throated or fucked in the pussy or ass. When she is rolled onto her knees the pose leaves her perfect ripe bottom sticking up high and wide. Her virgin anus revealed by her spread ass cheeks. Spend some quality time sliding up and back through her pussy before popping that tight ass. Once she's been reamed out a few dozen times her sphincter will lose it's ability to clutch and her squeals of pain will become moans of pleasure. ",
     categoryid: '175',
     keywords:
       'COCK TEASE, FORCED STRIPPING, SPANKING, BONDAGE, DOMINATION     PZV060, Ivory Dancer, Ivory, Angelica, slave training, posture collar, escape attempt, rest, crop, crotch rope, nipple clamps, heels, 18 & 19, redhead, suspension',
@@ -189,9 +198,10 @@ export default [
   },
   {
     id: '20230013',
-    title: 'PZV027  Tiffani - Bookworm Bitch',
+    pz_code: 'PZV027',
+    title: 'Tiffani - Bookworm Bitch',
     description:
-      'Bookworm Tiffani in tight bun and conservative skirt that shows a little too much leg is taken at her desk and indoctrinated into sexual servitude after a leg kicking, bitch stripping dance that puts her firmly in her place. Strict crotch rope bondage, ball gag, duct tape, riding crop and leather collar enslave the cock toy so she can be used to provide service as required. PZV027',
+      'Bookworm Tiffani in tight bun and conservative skirt that shows a little too much leg is taken at her desk and indoctrinated into sexual servitude after a leg kicking, bitch stripping dance that puts her firmly in her place. Strict crotch rope bondage, ball gag, duct tape, riding crop and leather collar enslave the cock toy so she can be used to provide service as required. ',
     categoryid: '222',
     keywords:
       'SCHOOL UNIFORM, STRUGGLING, REDHEADS, FORCED STRIPPING, SUBMISSIVE / SLAVE TRAINING     PZV027, Tiffani, Bookworm Bitch, sexual servitude, kicking, bitch strip, crotch rope, bondage, ballgagged, duct tape, crop, leather, collar, service, domination',
@@ -206,9 +216,10 @@ export default [
   },
   {
     id: '20207093',
-    title: 'PZV006  Rayne - Grabbed, Bound and Slave Trained',
+    pz_code: 'PZV006',
+    title: 'Rayne - Grabbed, Bound and Slave Trained',
     description:
-      'No beating around the bush here. Rayne is one of the cutest bondagettes in history. Her firm and toned legs and buttocks are incredible. See her taken, hooded, chair bound, stripped, spanked, whipped, dominated, humiliated, hog tied cleave gagged, ball gagged, duct taped, mouth stuffed, pouting and struggling that fine little ass off as she is trained in sexual servitude and submission. Awesome reality bondage and oozing sexuality! PZV006',
+      'No beating around the bush here. Rayne is one of the cutest bondagettes in history. Her firm and toned legs and buttocks are incredible. See her taken, hooded, chair bound, stripped, spanked, whipped, dominated, humiliated, hog tied cleave gagged, ball gagged, duct taped, mouth stuffed, pouting and struggling that fine little ass off as she is trained in sexual servitude and submission. Awesome reality bondage and oozing sexuality! ',
     categoryid: '1322',
     keywords:
       'BRUNETTE, WHIPPING, FORCED STRIPPING, DOMINATION, SPANKING     PZV006, Rayne, Grabbed Bound and Slave, bondage, grabbed, hood, chair bondage, humiliation, hog, cleave, ballgagged, duct tape, mouth stuffing, struggling, submission',
@@ -223,9 +234,10 @@ export default [
   },
   {
     id: '20198879',
-    title: "PZV076  Rayne's Return",
+    pz_code: 'PZV076',
+    title: "Rayne's Return",
     description:
-      'Gorgeous SlaveTeen Rayne returns to face punishment. She is allowed back only under the condition that she undergo strict steel cuff bondage and hard ass discipline. She is collared, harness gagged, whipped, stripped nude and chained up. Forced to hold posture, hooded and stuffed. Super hot young body on this fine breeder will fetch a high price when she is sold at auction. For now the bitch is going to get whipped... and will service the Master at his discretion as required. PZV076',
+      'Gorgeous SlaveTeen Rayne returns to face punishment. She is allowed back only under the condition that she undergo strict steel cuff bondage and hard ass discipline. She is collared, harness gagged, whipped, stripped nude and chained up. Forced to hold posture, hooded and stuffed. Super hot young body on this fine breeder will fetch a high price when she is sold at auction. For now the bitch is going to get whipped... and will service the Master at his discretion as required. ',
     categoryid: '1322',
     keywords:
       "18 & 19 YRS OLD, WHIPPING, BONDAGE, BRUNETTE, DOMINATION     PZV076, Rayne's Return, Rayne, punishment, steel cuff, discipline, collar, harness, struggling, chains, posture, hood, stuffed, breeder, Master slave",
@@ -233,6 +245,7 @@ export default [
     date: '2018-09-01 23:33:21',
     name: 'pzv076_1.mp4',
     image: 'pzv076cover.jpg',
+    poster: 'pzv076coverad.jpg',
     displayorder: '1807',
     length: '01:54:46',
     resolution: '1440x1080',
@@ -240,9 +253,10 @@ export default [
   },
   {
     id: '20192979',
-    title: 'PZV093  Binding Dilemma',
+    pz_code: 'PZV093',
+    title: 'Binding Dilemma',
     description:
-      'Page is grabbed off the street in broad daylight and thrown into the back of a panel truck where she is zip tied tight and gagged. She is taken to his place where she is forced to strip, then hog roped and mouth stuffed. She is then duct taped and stool bound before being bent over that stool, ball gagged, and spanked hard on that bad little bare ass. Nice belt whipping. She is laid on the table and hog roped, mouth stuffed and gagged, then she is tossed on the mattress and rubber tube hog tied with nose hook. If you like skinny young tattoo free babes grabbed, bound, and dominated hard this one is for you! PZV093',
+      'Page is grabbed off the street in broad daylight and thrown into the back of a panel truck where she is zip tied tight and gagged. She is taken to his place where she is forced to strip, then hog roped and mouth stuffed. She is then duct taped and stool bound before being bent over that stool, ball gagged, and spanked hard on that bad little bare ass. Nice belt whipping. She is laid on the table and hog roped, mouth stuffed and gagged, then she is tossed on the mattress and rubber tube hog tied with nose hook. If you like skinny young tattoo free babes grabbed, bound, and dominated hard this one is for you! ',
     categoryid: '463',
     keywords:
       'BONDAGE, BALLGAGGED, MOUTH STUFFING, SPANKING, DUCT TAPE FETISH     pzv093, Binding Dilemma, Page, zip tie, gag, hogtie, stool, belt, whipping, rope, rubber tube, nose hook, skinny, blonde, domination',
@@ -250,6 +264,7 @@ export default [
     date: '2018-08-31 20:21:01',
     name: 'pzv093_1.mp4',
     image: 'pzv093cat.jpg',
+    poster: 'pzv093coverad.jpg',
     displayorder: '1808',
     length: '01:55:12',
     resolution: '1440x1080',
@@ -257,9 +272,10 @@ export default [
   },
   {
     id: '20186371',
-    title: 'PZV007  Mysti: Grabbed and Bound',
+    pz_code: 'PZV007',
+    title: 'Mysti: Grabbed and Bound',
     description:
-      "Mysti is apprehended at the door where she is quickly dominated into submission and roped up tight. She is taken inside for an afternoon of strict bondage and hard ass discipline. From hog tie to ball gag to riding crop and bare assed slapping that flesh will ripple and bounce as she is put through the rigorous discipline session. Sweat on her brow...flared nostrils... and the fear of penetration. Maybe it would be a relief for her to get fucked. Unfortunately for her... all she gets is a hog tie and a hard whipping in this bitchin' flick. PZV007",
+      "Mysti is apprehended at the door where she is quickly dominated into submission and roped up tight. She is taken inside for an afternoon of strict bondage and hard ass discipline. From hog tie to ball gag to riding crop and bare assed slapping that flesh will ripple and bounce as she is put through the rigorous discipline session. Sweat on her brow...flared nostrils... and the fear of penetration. Maybe it would be a relief for her to get fucked. Unfortunately for her... all she gets is a hog tie and a hard whipping in this bitchin' flick. ",
     categoryid: '3',
     keywords:
       'BONDAGE, BIG TITS, BALLGAGGED, SUBMISSIVE / SLAVE TRAINING, WHIPPING     PZV007, Mysti, Grabbed and Bound, discipline, rope, hog, hog tie, crop, slapping, sweat, fear, stripping, duct tape, blindfold, elbow cinching',
@@ -274,9 +290,10 @@ export default [
   },
   {
     id: '20164467',
-    title: 'PZV030  Slave Trained Girls',
+    pz_code: 'PZV030',
+    title: 'PZV030  Slave Trained Teens',
     description:
-      'Gorgeous 18 year old Mia is taken captive in her hotel room and forced into submissive servitude, bondage, and sexual slavery using corporal punishment and firm domination. From cock tease to cock sucker through controlled exploitation and firm discipline she is programmed to perform. Head harness and ball gag prepare her to suck cock. Over 1 hour of Mia... next comes senior high dance team member Rayne... bound in strict spread eagle nudity on the table... face up... face down... riding cropped and forced to flex those strong young muscles. This chick has curves in all the right places and the release of all those horny young hormones when those rough hands have their way with her hyper sensitive naked skin has her wondering whether she should be screaming for hard cock instead of trying to get loose. almost 1 hour 50 minutes of under 20 bondage and discipline.  PZV030',
+      'Gorgeous 18 year old Mia is taken captive in her hotel room and forced into submissive servitude, bondage, and sexual slavery using corporal punishment and firm domination. From cock tease to cock sucker through controlled exploitation and firm discipline she is programmed to perform. Head harness and ball gag prepare her to suck cock. Over 1 hour of Mia... next comes senior high dance team member Rayne... bound in strict spread eagle nudity on the table... face up... face down... riding cropped and forced to flex those strong young muscles. This chick has curves in all the right places and the release of all those horny young hormones when those rough hands have their way with her hyper sensitive naked skin has her wondering whether she should be screaming for hard cock instead of trying to get loose. almost 1 hour 50 minutes of under 20 bondage and discipline.  ',
     categoryid: '31',
     keywords:
       "BONDAGE, DOMINATION, FACE SLAPPING, SUBMISSIVE / SLAVE TRAINING, SPANKING     PZV030, Slave Trained Girls, Slave Trained Youngin's, Mia, discipline, exploitation, head harness, Rayne, spread eagle, crop, brunette",
@@ -291,9 +308,10 @@ export default [
   },
   {
     id: '20160103',
-    title: 'PZV033  3 Bondage Virgins I',
+    pz_code: 'PZV033',
+    title: '3 Bondage Virgins I',
     description:
-      'Three super hot 18 year old babes are shown the ropes, disciplined and gagged like bitches in this cock toy display. First Parker, early Powershotz footage of this glamour model gone bad. She is duct taped and gagged in jeans, nude hog cuffed, ball gagged, rubber strapped, head harnessed and ring gagged. Then school girl Spring, chained arms overhead after class. Ball gagged stripped and dominated. Then strict leather thongs and heavy metal horse bit adorn that skinny little bitch body so she can stare at you with those big clear babydolls. Hog roped on the couch in platform sandals and ball gagged for keeping. Then Megan... walking down a country road with her book bag... offered a ride by a stranger. Perhaps she secretly wanted to be taken into the woods where she could be roped up, ball gagged, riding cropped and denigrated in hot sweaty fashion before being bound to a tree, fondled, ball gagged and left to sweat in the heat. "Poor pitiful me" pout only serves to deepen the aggression of her antagonist as her naked body is used as a sex object. Hot subjugates! PZV033',
+      'Three super hot 18 year old babes are shown the ropes, disciplined and gagged like bitches in this cock toy display. First Parker, early Powershotz footage of this glamour model gone bad. She is duct taped and gagged in jeans, nude hog cuffed, ball gagged, rubber strapped, head harnessed and ring gagged. Then school girl Spring, chained arms overhead after class. Ball gagged stripped and dominated. Then strict leather thongs and heavy metal horse bit adorn that skinny little bitch body so she can stare at you with those big clear babydolls. Hog roped on the couch in platform sandals and ball gagged for keeping. Then Megan... walking down a country road with her book bag... offered a ride by a stranger. Perhaps she secretly wanted to be taken into the woods where she could be roped up, ball gagged, riding cropped and denigrated in hot sweaty fashion before being bound to a tree, fondled, ball gagged and left to sweat in the heat. "Poor pitiful me" pout only serves to deepen the aggression of her antagonist as her naked body is used as a sex object. Hot subjugates! ',
     categoryid: '31',
     keywords:
       'BONDAGE, OUTDOORS, BALLGAGGED, FORCED STRIPPING, DOMINATION     PZV033, 3 Bondage Virgins, Parker, Megan, Spring, discipline, jeans, hog, rubber strap, head harness, ring gag, schoolgirl, horse bit, sweat, crop',
@@ -301,6 +319,7 @@ export default [
     date: '2018-08-24 22:25:37',
     name: 'pzv033_1.mp4',
     image: 'pzv033cat.jpg',
+    poster: 'pzv033coverad.jpg',
     displayorder: '1811',
     length: '01:59:18',
     resolution: '1440x1080',
@@ -308,9 +327,10 @@ export default [
   },
   {
     id: '20152115',
-    title: 'PZV032  Megan as Shrubb',
+    pz_code: 'PZV032',
+    title: 'Megan as Shrubb',
     description:
-      "Megan is relieved of her boring phone conversation by a masked man who intends to punish the little hottie for deliberately teasing the young men with her smokin' hot breeder body in a too short, too tight workout suit that looks even better when it's laying on the floor collecting the drool from her gag while she is bare ass belt whipped over the stool. After a sufficient period of fondling xand wetness inducing pussy and ass fingering under the crop and the rope she is hand cuffed, thrown over the shoulder and taken to bed to be rolled, slapped, oiled, frog tied, ring gagged, ass upped and left to be fucked. PZV032",
+      "Megan is relieved of her boring phone conversation by a masked man who intends to punish the little hottie for deliberately teasing the young men with her smokin' hot breeder body in a too short, too tight workout suit that looks even better when it's laying on the floor collecting the drool from her gag while she is bare ass belt whipped over the stool. After a sufficient period of fondling xand wetness inducing pussy and ass fingering under the crop and the rope she is hand cuffed, thrown over the shoulder and taken to bed to be rolled, slapped, oiled, frog tied, ring gagged, ass upped and left to be fucked. ",
     categoryid: '17',
     keywords:
       'SWALLOWING/DROOLING, SHOULDER CARRY, BALLGAGGED, DOMINATION, HANDCUFF AND SHACKLE FETISH     PZV032, Megan as Shrubb, Megan, punishment, tease, over the stool, fingering, crop, rope, rolled, slapped, oiled, frog tie, ring gag, ass up',
@@ -325,9 +345,10 @@ export default [
   },
   {
     id: '20141459',
-    title: "PZV058  M & M's",
+    pz_code: 'PZV058',
+    title: "M & M's",
     description:
-      "Martina Warren and Matilda star in this bondage and discipline compilation. First Martina... Pajama bound Penthouse Pet. Those gorgeous lips wrap that ball with the perfect degree of precision. Deep throat training this hottest of hoglettes is reserved for royalty. One can only imagine how fine it would be to release a hard snake on that glamour girl body as she is bound in captive runner girl scene and ass up wrist to ankle bitted on sheepskin to protect that milky white purity from scratching during periods of heavy repetitive thrusting. Next Matilda. The plain and simple servant. With long and strong legs made lean by years of hard work. That ass tight as a drum. Whipped to tears while drooling on ball gag is her reward. Then roped wrist to ankle and rolled into position with her begging for cock pussy throbbing with anticipation and her praying it won't happen ass all scrunched up tight. 1:15 minutes plus 30 minutes of previews from early releases.  PZV058",
+      "Martina Warren and Matilda star in this bondage and discipline compilation. First Martina... Pajama bound Penthouse Pet. Those gorgeous lips wrap that ball with the perfect degree of precision. Deep throat training this hottest of hoglettes is reserved for royalty. One can only imagine how fine it would be to release a hard snake on that glamour girl body as she is bound in captive runner girl scene and ass up wrist to ankle bitted on sheepskin to protect that milky white purity from scratching during periods of heavy repetitive thrusting. Next Matilda. The plain and simple servant. With long and strong legs made lean by years of hard work. That ass tight as a drum. Whipped to tears while drooling on ball gag is her reward. Then roped wrist to ankle and rolled into position with her begging for cock pussy throbbing with anticipation and her praying it won't happen ass all scrunched up tight. 1:15 minutes plus 30 minutes of previews from early releases.  ",
     categoryid: '4',
     keywords:
       "BLONDES, WHIPPING, BALLGAGGED, CRYING, DEEP THROAT     PZV058, M & M's, Martina, Martina Warren, Matilda, discipline, pajama, bit gag, wirst to ankle, begging, deep throat training, capture, tears, domination",
@@ -342,9 +363,10 @@ export default [
   },
   {
     id: '20137023',
-    title: 'PZV035  Maria & Vanessa - Buxom Bondagettes',
+    pz_code: 'PZV035',
+    title: 'Maria & Vanessa - Buxom Bondagettes',
     description:
-      "Maria finds out the hard way never to drink the wine at a photo shoot. She hadn't planned on doing nude bondage. Oh well. Sure looks good tied spread eagle face down on a mattress about to take hard cock on camera. Don't worry. She'll get paid. Paid in full. Full up full. Next Vanessa sits in front of the mirror prettying up when she gets picked up by a horny intruder who likes her pretty face almost as much as she does. Only he wants a gag in it. After he quiets her down with a little asphyxiant therapy in hand over mouth form and carries her off. The ropes around her arms, legs and neck will hold her securely so he can fill her other pretty little holes. Hot stuff! No they don't actually get fucked. It's a bondage movie for crying out loud. If you want to see them penetrated to the maximum extent allowed by law these days go to the VL series.  PZV035",
+      "Maria finds out the hard way never to drink the wine at a photo shoot. She hadn't planned on doing nude bondage. Oh well. Sure looks good tied spread eagle face down on a mattress about to take hard cock on camera. Don't worry. She'll get paid. Paid in full. Full up full. Next Vanessa sits in front of the mirror prettying up when she gets picked up by a horny intruder who likes her pretty face almost as much as she does. Only he wants a gag in it. After he quiets her down with a little asphyxiant therapy in hand over mouth form and carries her off. The ropes around her arms, legs and neck will hold her securely so he can fill her other pretty little holes. Hot stuff! No they don't actually get fucked. It's a bondage movie for crying out loud. If you want to see them penetrated to the maximum extent allowed by law these days go to the VL series.  ",
     categoryid: '431',
     keywords:
       'LIFT & CARRY, STRUGGLING, BONDAGE, DOMINATION, BALLGAGGED     PZV035, Maria, Vanessa, Buxom Bondagettes, spread eagle, intruder, nose hook, blonde, brunette, stockings, heels, gagging, hog, rope, leather',
@@ -359,7 +381,8 @@ export default [
   },
   {
     id: '20133579',
-    title: "PZV105  S & M'zz",
+    pz_code: 'PZV105',
+    title: "S & M'zz",
     description:
       '18 year old Serene must crash in an old warehouse for the night. Unfortunately, the old warehouse had an owner, who wakes up Serene in hand over mouth fashion, then proceeds to strip her down and handcuff her, after which she is taken inside, hog tied, ball gagged and thoroughly fondled on the table. She will pay for that free couch crash with her ass. Next we find Mahoghani bound to the wall, arms spread. Her dress is cut away and she is fondled. Cuffed kneeling to the bench in complete nudity, her fine ass is spanked, and her eyes go wide to reveal her undivided attention. Posing in bondage was way too much for her. As it was for the gorgeous Mercedes. Who is overcome by the photographer in a modeling shoot and forced into bondage modeling. Only it gets a little more personal when she must also submit to complete nudity and a bare hand on her bare ass. Awesome body hog cuffed elbow cinched and ball gagged, then fondled. So embarrassing for the young girl. If you like young, innocent, tattoo free bodies and smooth skin... this one is for you. A real sleeper...',
     categoryid: '31',
@@ -369,6 +392,7 @@ export default [
     date: '2018-08-19 17:07:46',
     name: 'pzv105_1.mp4',
     image: 'pzv105cat.jpg',
+    poster: 'pzv105coverad.jpg',
     displayorder: '1815',
     length: '01:54:48',
     resolution: '1440x1080',
@@ -376,9 +400,10 @@ export default [
   },
   {
     id: '20128143',
-    title: 'PZV045  Lucy Looped',
+    pz_code: 'PZV045',
+    title: 'Lucy Looped',
     description:
-      'Lucy is taken in the bathroom kicking and squealing with a solvent soaked rag held firmly over those gorgeous cock sucking lips. She is hustled off and bound spread eagle to a mattress where she is forcibly fondled. Then she is hung up and stretched out. During her time in captivity she undergoes strict hog roping, fondling and spanking, duct tape and ball gagging... and ass up crotch rope humiliation. Bondage virgin Stephanie undergoes a brief but strict hard introduction to the hog tie with head harness before hi tailing it out that door to return to her formerly secure life. Now that these breeders have been introduced to the rope they can be used as sex toys for the breeding pleasure of the Master and gagged to prevent protestation when he makes the point... and drives it home. PZV045',
+      'Lucy is taken in the bathroom kicking and squealing with a solvent soaked rag held firmly over those gorgeous cock sucking lips. She is hustled off and bound spread eagle to a mattress where she is forcibly fondled. Then she is hung up and stretched out. During her time in captivity she undergoes strict hog roping, fondling and spanking, duct tape and ball gagging... and ass up crotch rope humiliation. Bondage virgin Stephanie undergoes a brief but strict hard introduction to the hog tie with head harness before hi tailing it out that door to return to her formerly secure life. Now that these breeders have been introduced to the rope they can be used as sex toys for the breeding pleasure of the Master and gagged to prevent protestation when he makes the point... and drives it home. ',
     categoryid: '486',
     keywords:
       'KICKING, BALLGAGGED, BONDAGE, DUCT TAPE FETISH, SPANKING     PZV045, Lucy Looped, Lucy, Stephanie, squealing, solvent, hand over mouth, hung, stretched, hog, crotch rope, humiliation, head harness, suspension, fondling',
@@ -393,9 +418,10 @@ export default [
   },
   {
     id: '20124051',
-    title: 'PZV120  Wanting It',
+    pz_code: 'PZV120',
+    title: 'Wanting It',
     description:
-      'A snatch, rope rap and gag, bitch slap and punish, slave training drama starring big tit beauty Lexis Lane. This is one hot bondage video. Involuntary reactions and contractions during tickle torture and anal training reveal how good a fuck she will be. PZV120',
+      'An abduction and slave training drama starring Lexis.  As she describes her bondage and abduction fantasies you get to watch what is going on in her head.  From her initial roadside abduction, stripping and bondage... to her spread eagle tied to the bed orgasm and tickle torture... to her face down spread eagle anal training.  This is one hot bondage video.  Involuntary reactions and contractions are the highlight of this video.  Incredible body... incredibly devious mind.  She wants it... and she gets it.  Every woman should have the chance to live out her bondage and abduction fantasy... if it is what she wants.',
     categoryid: '1322',
     keywords:
       'BONDAGE, TICKLING, FORCED STRIPPING, ANAL, FORCED ORGASMS     pzv120, wanting it, lexis, lexis lane, spread eagle, anal training, tickle torture, outdoor, duct tape, blindfold, domination, damsel, blonde, over the shoulder, shoulder carry',
@@ -403,6 +429,7 @@ export default [
     date: '2018-08-17 14:46:41',
     name: 'pzv120_1.mp4',
     image: 'pzv120cat.jpg',
+    poster: 'pzv120coverad.jpg',
     displayorder: '1817',
     length: '01:52:29',
     resolution: '1440x1080',
@@ -410,9 +437,10 @@ export default [
   },
   {
     id: '20118457',
-    title: 'PZV126  Three Bitches',
+    pz_code: 'PZV126',
+    title: 'Three Bitches',
     description:
-      "Three little bitches need a stripping and a whipping. Naomi St. Claire... stuck up little blonde with a perfectly fuckable body and a pretty little mouth that needs a big ball and a load of drool... cf'd and forced into bondage modeling. Disciplined where needed to correct performance. Rayna... hung up and stretched out. A healthy and young muscular ass and bow tie lips that need wrapped on cock. Disciplined for her misbehavior. A spanking will do her good. Fitness model Lee... bitch stripped and reduced to a state of begging submission for allowing herself to show up at a shoot where she was way out of her fitness model league. Nothing like ass up begging to break a gals hubris. Nice! Preview PZV126",
+      'Three little bitches need a stripping and a whipping. Naomi St. Claire... stuck up little blonde with a perfectly fuckable body and a pretty little mouth that needs a big ball and a load of drool... chloroformed and forced into bondage modeling. Disciplined where needed to correct performance. Rayna... hung up and stretched out. A healthy and young muscular ass and bow tie lips that need wrapped on cock. Disciplined for her misbehavior. A spanking will do her good. Fitness model Lee... bitch stripped and reduced to a state of begging submission for allowing herself to show up at a shoot where she was way out of her fitness model league. Nothing like ass up begging to break a gals hubris. Nice! ',
     categoryid: '17',
     keywords:
       'FORCED STRIPPING, SUSPENSION, BALLGAGGED, DOMINATION, SWALLOWING/DROOLING     PZV126, Naomi, Rayna, Lee, blonde, brunette, short hair, long hair, discipline, spanking, muscular, begging, submission, Three Bitches, hand over mouth',
@@ -427,9 +455,10 @@ export default [
   },
   {
     id: '20114291',
-    title: 'PZV130  Captured Copulettes',
+    pz_code: 'PZV130',
+    title: 'Captured Copulettes',
     description:
-      'Two young hotties, Stacie and Lana, are bitch stripped and enslaved in this hot female snatching drama. Dominated into submission using firm discipline, riding crop, leash, cage and good old fashioned bare handed ass slapping. Lana gets grabbed in the garage, bitch stripped and dominated with ass slapping and hand over mouth submission holds that really show off that smokin hot body. She gets hog tied on the couch, then transferred to the whipping post blind folded for some tit cropping and a much needed bare ass bottom spanking. Next Stacie gets caught on the porch in an outfit that is way to sexually provocative for her own good. That muscular lean body looks great in a hard back arch with her head pulled back by a hand over her mouth and those heels clicking while her legs kick. Some time in the cage with a leash and collar before being let out to be roped up. A biting crotch rope and taught rope around the neck secure her arms in the small of her back leaving that hot ass all open and available to be used as a target before the crotch rope is removed and that pussy and ass used for their intended purpose. Clutching hard cock. PVZ130',
+      'Two young hotties, Stacie and Lana, are bitch stripped and enslaved in this hot female snatching drama. Dominated into submission using firm discipline, riding crop, leash, cage and good old fashioned bare handed ass slapping. Lana gets grabbed in the garage, bitch stripped and dominated with ass slapping and hand over mouth submission holds that really show off that smokin hot body. She gets hog tied on the couch, then transferred to the whipping post blind folded for some tit cropping and a much needed bare ass bottom spanking. Next Stacie gets caught on the porch in an outfit that is way to sexually provocative for her own good. That muscular lean body looks great in a hard back arch with her head pulled back by a hand over her mouth and those heels clicking while her legs kick. Some time in the cage with a leash and collar before being let out to be roped up. A biting crotch rope and taught rope around the neck secure her arms in the small of her back leaving that hot ass all open and available to be used as a target before the crotch rope is removed and that pussy and ass used for their intended purpose. Clutching hard cock. ',
     categoryid: '463',
     keywords:
       'SUBMISSIVE / SLAVE TRAINING, WHIPPING, DOMINATION, BALLGAGGED, SPANKING     PZV130, Captured Copulettes, Lana, Stacie, bitch strip, snatching, discipline, crop, leash, hog, cage, begging, crotch rope, outdoor, grab',
@@ -444,9 +473,10 @@ export default [
   },
   {
     id: '20106865',
-    title: "PZV079  Kylie's Dream Date",
+    pz_code: 'PZV079',
+    title: "Kylie's Dream Date",
     description:
-      "Kylie tosses and turns on the bed in a restless dreamlike state. Wanting desperately do be fucked. She imagines being taken in the garage on her way from her car, then enslaved in bondage so that her horny captor can use her body to it's fullest extent. Post whipped and dildo'd. Bound to the bench doggie and forced to suck cock after a hair comb and vibe ride. She falls resting over her paperwork in class, and must see the headmaster after class to be punished for her unruly behavior and flaunting dress. Punishment that includes an over the table cum from behind. Then she is slapped and oiled in full nudity on the table. Arms bound up and out of the way as her body is man handled in oil. It's a kick butt show with a kick butt blondie that needs a kick in the butt before a dick in the butt. Includes a passle of previews from other Powershotz titles. PZV079",
+      "Kylie tosses and turns on the bed in a restless dreamlike state. Wanting desperately do be fucked. She imagines being taken in the garage on her way from her car, then enslaved in bondage so that her horny captor can use her body to it's fullest extent. Post whipped and dildo'd. Bound to the bench doggie and forced to suck cock after a hair comb and vibe ride. She falls resting over her paperwork in class, and must see the headmaster after class to be punished for her unruly behavior and flaunting dress. Punishment that includes an over the table cum from behind. Then she is slapped and oiled in full nudity on the table. Arms bound up and out of the way as her body is man handled in oil. It's a kick butt show with a kick butt blondie that needs a kick in the butt before a dick in the butt. Includes a passle of previews from other Powershotz titles. ",
     categoryid: '1460',
     keywords:
       "BONDAGE, DILDOS, SUBMISSIVE / SLAVE TRAINING, BLOW JOBS, WHIPPING     PZV079, Kylie's Dream Date, Kylie, enslaved, post, vibrator, hair brushing, punishment, slapping, oil, blonde, domination, damsel, bench, begging",
@@ -461,9 +491,10 @@ export default [
   },
   {
     id: '20105095',
-    title: 'PZV011  Taken, Bound and Spanked',
+    pz_code: 'PZV011',
+    title: 'Taken, Bound and Spanked',
     description:
-      "Kick ass forced-grabbing, bondage and discipline with one of the hottest blondes ever. Taken, forced stripping, hog cuffing, rope binding, ball gagging, cleave gagging, mouth stuffing, over the stool whipping, crotch roped hog tie, ball tie, nose hook and neck rope. It's a classic folks. 2:15 long! PZV011",
+      "Kick ass abduction bondage and discipline with one of the hottest blondes ever.  Abduction, forced stripping, hog cuffing, rope binding, ball gagging, cleave gagging, mouth stuffing, over the stool whipping, crotch roped hog tie, ball tie, nose hook and neck rope.  It's a classic folks.  2:15 long!",
     categoryid: '4',
     keywords:
       'PZV011, Taken Bound and Spank, kristalee, discipline, bitch strip, hog, cuff, rope, binding, cleave gag, mouth stuffing, over the',
@@ -478,9 +509,10 @@ export default [
   },
   {
     id: '20095187',
-    title: 'PZV012  Miranda  Kristalee  Trixie',
+    pz_code: 'PZV012',
+    title: 'Miranda  Kristalee  Trixie',
     description:
-      "Three hot babes are forcibly taken, put into Bondage and slave trained. Miranda postal worker disruptus. Kristalee glamour shoot gone wrong. Trixie **** titty topping. It's all about the body... and the ball... and the big eyed bitchling. Includes shoot footage of Kristalee posing and older customer funded scenes. PZV012",
+      "Abduction Bondage and Slave Training fantasy with three hot babes.  Miranda postal worker disruptus.  Kristalee glamour shoot gone wrong.  Trixie teen titty topping.  It's all about the body... and the ball... and the big eyed bitchling.  Includes shoot footage of Kristalee posing and older customer funded scenes.  1:30 long.",
     categoryid: '1322',
     keywords:
       'PZV012, Miranda, Kristalee, Trixie, grabbed, stockings, nipple play, struggling, handcuffs, blonde, brunette',
@@ -495,12 +527,13 @@ export default [
   },
   {
     id: '20092029',
-    title: "PZV008  Katherine's Perils",
+    pz_code: 'PZV008',
+    title: "Katherine's Perils",
     description:
-      'Gorgeous red head Katherine is twice c-formed in this bondage and stripping adventure. In scene one, she is taken as she exits the elevator, out in seconds, laid out on a board where her clothing is carefully cut off, then bound to the table. In scene 2, she enters a room where a stalker has been waiting and is c-formed into silence, then bound overhead upright, her head hanging down, until she is awakened and stripped nude. The final scene contains historic shoot footage of this once in a lifetime cutie in her dirty floor hogtie. 90 minutes PZV008',
+      'Gorgeous red head Katherine is twice c-formed in this bondage and stripping adventure. In scene one, she is taken as she exits the elevator, out in seconds, laid out on a board where her clothing is carefully cut off, then bound to the table. In scene 2, she enters a room where a stalker has been waiting and is c-formed into silence, then bound overhead upright, her head hanging down, until she is awakened and stripped nude. The final scene contains historic shoot footage of this once in a lifetime cutie in her dirty floor hogtie. 90 minutes ',
     categoryid: '463',
     keywords:
-      "BONDAGE, SPANKING, DOMINATION, REDHEADS, DAMSEL IN DISTRESS     PZV008, Katherine's Perils, kathereine, cf, overhead, hogtie, cleave gag, rest, fiesty, bitch, stockings, clothing cut away, clothing cut off, discipline, submission",
+      "BONDAGE, SPANKING, DOMINATION, REDHEADS, DAMSEL IN DISTRESS     PZV008, Katherine's Perils, kathereine, cf, chloroform, overhead, hogtie, cleave gag, rest, fiesty, bitch, stockings, clothing cut away, clothing cut off, discipline, submission",
     price: '34.99',
     date: '2018-08-10 22:01:11',
     name: 'pzv008_1.mp4',
@@ -512,9 +545,10 @@ export default [
   },
   {
     id: '20086137',
-    title: 'PZV123  Horny Hitch Hiker Hijack',
+    pz_code: 'PZV123',
+    title: 'Horny Hitch Hiker Hijack',
     description:
-      "Hitch hiking cheerleader strutting her stuff down a country road may have been trying to get laid, but I'm sure she wasn't expecting to get grabbed, hog tied and ball gagged in the back of a van, and taken to be severely disciplined for the risky behavior of hitch hiking. The pig tailed cutie finds herself strangely aroused by the intensity of her discipline when she discovers that she will not be harmed. Over the stool spanking, strict rope bondage, heavy fondling, ball cleave rope and duct tape gags. When properly disciplined, her submissive side is awakened. PZV123",
+      "Hitch hiking cheerleader strutting her stuff down a country road may have been trying to get laid, but I'm sure she wasn't expecting to get grabbed, hog tied and ball gagged in the back of a van, and taken to be severely disciplined for the risky behavior of hitch hiking. The pig tailed cutie finds herself strangely aroused by the intensity of her discipline when she discovers that she will not be harmed. Over the stool spanking, strict rope bondage, heavy fondling, ball cleave rope and duct tape gags. When properly disciplined, her submissive side is awakened. ",
     categoryid: '176',
     keywords:
       'BALLGAGGED, SKINNY WOMEN, DOMINATION, SPANKING, BONDAGE     PZV123, Horny Hitch Hiker Hijack, Jewel, grabbed, cheerleader, hogtied, discipline, pigtails, over the stool, duct tape, fondling, cleave gag, tape gag, damsel, blonde',
@@ -529,9 +563,10 @@ export default [
   },
   {
     id: '20082191',
-    title: 'PZV116  Three Reasons',
+    pz_code: 'PZV116',
+    title: 'Three Reasons',
     description:
-      "Three good reasons for the rope... Jessy, Mia, and Sable... they need to be dominated, tied up, gagged, and disciplined. Sometimes you just gotta get that rope out and use it for what it was meant for. There's nothing like tight rope on bare skin and a gag to take care of business. PZV116",
+      "Three good reasons for the rope... Jessy, Mia, and Sable... they need to be dominated, tied up, gagged, and disciplined. Sometimes you just gotta get that rope out and use it for what it was meant for. There's nothing like tight rope on bare skin and a gag to take care of business. ",
     categoryid: '3',
     keywords:
       'BONDAGE, ROPE BONDAGE, BALLGAGGED, OUTDOORS, 18 & 19 YRS OLD     PZV116, Three Reasons, Jessy, Mia, Sable, discipline, glasses, blindfold, drool, inflatables, struggling, hand over mouth, hogtie, damsel, spanking',
@@ -546,9 +581,10 @@ export default [
   },
   {
     id: '20076471',
-    title: 'PZV052  Luscious Legettes',
+    pz_code: 'PZV052',
+    title: 'Luscious Legettes',
     description:
-      'Stars Jessie and Leigh as two hot legged horny honeys. A good hand over mouth back arching grip gets those feet in the air and those legs kicking like a motorboat. Stripping her naked, binding those limbs tight and getting that naked ass up high and wide puckering for cock is the only thing that can settle down these smooth skinned cocktail dress cock sockets. Ball gag, whipping and slave training help to get it done. PZV052',
+      'Stars Jessie and Leigh as two hot legged horny honeys. A good hand over mouth back arching grip gets those feet in the air and those legs kicking like a motorboat. Stripping her naked, binding those limbs tight and getting that naked ass up high and wide puckering for cock is the only thing that can settle down these smooth skinned cocktail dress cock sockets. Ball gag, whipping and slave training help to get it done. ',
     categoryid: '431',
     keywords:
       'FORCED STRIPPING, WHIPPING, BONDAGE, SUBMISSIVE / SLAVE TRAINING, BALLGAGGED     PZV052, Luscious Legettes, Jessie, Leigh, back arching, kicking, legs, domination, damsel in distress, struggling',
@@ -563,12 +599,13 @@ export default [
   },
   {
     id: '20069133',
-    title: 'PZV017  Gia & Gina',
+    pz_code: 'PZV017',
+    title: 'Gia & Gina',
     description:
-      "Bondage first timers, Gia and Gina are given needed discipline, dominating, ass slapping, face slapping, neck restricting, hands behind the back roped to ass splitting crotch rope. They are bit gagged, ball gagged, spreader bit gagged and made to gag fashion. Over the mouth hand holding with rag soaked in eyeball roll inducing solvent is required to get Gia into those taught leather cords. Gina gets a little teary eyed during deep throat training with the gag bit but she'll get through it and in the long run be much better off. 2:20 minutes of virgin binding drama!  PZV017",
+      "Bondage first timers, Gia and Gina are given needed discipline, dominating, ass slapping, face slapping, neck restricting, hands behind the back roped to ass splitting crotch rope. They are bit gagged, ball gagged, spreader bit gagged and made to gag fashion. Over the mouth hand holding with rag soaked in eyeball roll inducing solvent is required to get Gia into those taught leather cords. Gina gets a little teary eyed during deep throat training with the gag bit but she'll get through it and in the long run be much better off. 2:20 minutes of virgin binding drama!",
     categoryid: '3',
     keywords:
-      'FACE SLAPPING, HAND OVER MOUTH, BONDAGE, CRYING, BALLGAGGED     discipline, ass slapping, neck restriction, crotch rope, bit gag, spreader bit, gag, cf, leather cord, deep throat training, gag bit, pzv017, Gia & Gina, Gia, Gina',
+      'FACE SLAPPING, HAND OVER MOUTH, BONDAGE, CRYING, BALLGAGGED     discipline, ass slapping, neck restriction, crotch rope, bit gag, spreader bit, gag, cf, chloroform leather cord, deep throat training, gag bit, pzv017, Gia & Gina, Gia, Gina',
     price: '34.99',
     date: '2018-08-06 12:06:49',
     name: 'pzv017_1.mp4',
@@ -580,9 +617,10 @@ export default [
   },
   {
     id: '20066417',
-    title: 'PZV014  Vanessa & Genesis',
+    pz_code: 'PZV014',
+    title: 'Vanessa & Genesis',
     description:
-      "Two under 20 somethings, Vanessa and Genesis, come in for a modeling shoot and are offered some mild bondage. They embarrassingly accept the offer... and soon find themselves being stripped, man handled, felt up, ball gagged, hog tied, nipple clamped strung up overhead, harness gagged and spanked. Watch these hotties freak as their bodies are used in ways they'd only dreamed of until now. They'll make fine sex toys for some lucky owner. HOT! 2:20 long. Early Powershotz video.  PZV014",
+      "Two under 20 somethings, Vanessa and Genesis, come in for a modeling shoot and are offered some mild bondage. They embarrassingly accept the offer... and soon find themselves being stripped, man handled, felt up, ball gagged, hog tied, nipple clamped strung up overhead, harness gagged and spanked. Watch these hotties freak as their bodies are used in ways they'd only dreamed of until now. They'll make fine sex toys for some lucky owner. HOT! 2:20 long. Early Powershotz video.  ",
     categoryid: '31',
     keywords:
       'BONDAGE, SPANKING, FORCED STRIPPING, DOMINATION, BALLGAGGED     PZV014, Vanessa, Genesis, embarrassment, manhandled, fondling, hog, nipple clamps, overhead, harness gag, damsel',
@@ -597,12 +635,13 @@ export default [
   },
   {
     id: '20060955',
-    title: 'PZV016  Gabby Glamour',
+    pz_code: 'PZV016',
+    title: 'Gabby Glamour',
     description:
-      "Glamour model Gabby gets in over her head and ends up hanging at the end of a rope naked. Awesome reality bondage and capture fantasy with a little chemical asphyxiant thrown in along with some nipple clamps, a crotch rope, electrical wire, duct tape and a nose hook. Poor girl. It's going to be a rough job.  PZV016",
+      "Glamour model Gabby gets in over her head and ends up hanging at the end of a rope naked. Awesome reality bondage and capture fantasy with a little chemical asphyxiant thrown in along with some nipple clamps, a crotch rope, electrical wire, duct tape and a nose hook. Poor girl. It's going to be a rough job.  ",
     categoryid: '428',
     keywords:
-      'BONDAGE, DOMINATION, NIPPLE PLAY, REDHEADS, DUCT TAPE FETISH     PZV016, Gabby Glamour, Gabby, damsel in distress, capture, cf, nipple clamps, crotch rope, electrical wire, nose hook, discipline, struggling',
+      'BONDAGE, DOMINATION, NIPPLE PLAY, REDHEADS, DUCT TAPE FETISH     PZV016, Gabby Glamour, Gabby, damsel in distress, capture, cf, chloroform nipple clamps, crotch rope, electrical wire, nose hook, discipline, struggling',
     price: '34.99',
     date: '2018-08-04 15:53:56',
     name: 'pzv016_1.mp4',
@@ -614,9 +653,10 @@ export default [
   },
   {
     id: '20054133',
-    title: 'PZV043  Erika & Consuela',
+    pz_code: 'PZV043',
+    title: 'Erika & Consuela',
     description:
-      "Two boppable bitches are bound for the ball gag in this strip 'em naked, dominate in bondage and forced open mouth extravaganza of female porkin' flesh. First Erika, Norwegian heritage big blonde with a nice fat ass and smooth white skin. She gets bitch stripped hog cuffed and hog roped in two scenes. The ball stuffs that mouth perfectly so her other holes can be stuffed without needless biting or chewing at the rope. Then Consuela, skinny and defiant with a ton of energy and a flexible body that makes her a thrill to watch as she struggles in vain and is broken to begging bitch with a big fat ball in her mouth and a nose hook holding her head up so those big eyes can beg for cock. Have her salvage the drool that builds up behind that ball and spit it in a cup. It makes a fine home brew anal lube. These big eyed breeders are no supermodels... but they'll make fine treats when kept on a short leash and instructed in proper performance.  PZV043",
+      "Two boppable bitches are bound for the ball gag in this strip 'em naked, dominate in bondage and forced open mouth extravaganza of female porkin' flesh. First Erika, Norwegian heritage big blonde with a nice fat ass and smooth white skin. She gets bitch stripped hog cuffed and hog roped in two scenes. The ball stuffs that mouth perfectly so her other holes can be stuffed without needless biting or chewing at the rope. Then Consuela, skinny and defiant with a ton of energy and a flexible body that makes her a thrill to watch as she struggles in vain and is broken to begging bitch with a big fat ball in her mouth and a nose hook holding her head up so those big eyes can beg for cock. Have her salvage the drool that builds up behind that ball and spit it in a cup. It makes a fine home brew anal lube. These big eyed breeders are no supermodels... but they'll make fine treats when kept on a short leash and instructed in proper performance.  ",
     categoryid: '463',
     keywords:
       'BALLGAGGED, STRUGGLING, DOMINATION, SWALLOWING/DROOLING, BONDAGE     PZV043, Erika, Consuela, bitch strip, blonde, skinny, fat ass, hog, cuff, rope, mouth stuffing, nose hook, begging, discipline, damsel',
@@ -624,6 +664,7 @@ export default [
     date: '2018-08-03 10:49:06',
     name: 'pzv043_1.mp4',
     image: 'pzv043cat.jpg',
+    poster: 'pzv043coverad.jpg',
     displayorder: '1830',
     length: '02:01:44',
     resolution: '1440x1080',
@@ -631,9 +672,10 @@ export default [
   },
   {
     id: '20048557',
-    title: 'PZV131  Bitch Breaker',
+    pz_code: 'PZV131',
+    title: 'Bitch Breaker',
     description:
-      "Three young bitches, each with their own set of issues. The first, Clarissa, going to a nude modeling shoot. Luckily she came across a guy that is only going to strip her bare ass naked, feel her up, lock her up, flog her heavily, and make her horny as a goat with a wetness check. Jennifer, home alone again. Her husband always away. Now she's duct taped to a chair and gagged while a stranger puts her own handicam on a tripod to record her captivity as a gift for the old man. After cutting away her clothing and fondling her shamelessly, she is taken up to bed, spreader bar hogged, ball gagged... and the dildo she keeps in her drawer to fill in for the missing husband is tossed on the bed with her. I wonder how it will feel in the hands of a stranger? Finally Stacie comes trotting along and drops trou to take a piss on private property. She won't make that mistake again. Problem is she'll be on a breeder farm for the next few years. The guy that grabbed her ass had so much fun stripping, ripping the clothes off, binding her to a tree, and feeling up that hot body, that he decided to add her to his stable of breeders. This one needs to be fucked hard on a regular basis until she's been plumped up. PZV131",
+      "Three young bitches, each with their own set of issues. The first, Clarissa, going to a nude modeling shoot. Luckily she came across a guy that is only going to strip her bare ass naked, feel her up, lock her up, flog her heavily, and make her horny as a goat with a wetness check. Jennifer, home alone again. Her husband always away. Now she's duct taped to a chair and gagged while a stranger puts her own handicam on a tripod to record her captivity as a gift for the old man. After cutting away her clothing and fondling her shamelessly, she is taken up to bed, spreader bar hogged, ball gagged... and the dildo she keeps in her drawer to fill in for the missing husband is tossed on the bed with her. I wonder how it will feel in the hands of a stranger? Finally Stacie comes trotting along and drops trou to take a piss on private property. She won't make that mistake again. Problem is she'll be on a breeder farm for the next few years. The guy that grabbed her ass had so much fun stripping, ripping the clothes off, binding her to a tree, and feeling up that hot body, that he decided to add her to his stable of breeders. This one needs to be fucked hard on a regular basis until she's been plumped up. ",
     categoryid: '623',
     keywords:
       'DOMINATION, FLOGGING, OUTDOORS, DUCT TAPE FETISH, FORCED STRIPPING     PZV131, Clarissa, Jennifer, Stacie, gagged, fondling, spreader bar, hog, dildo, filming, pissing, breeding farm, tree, bondage, bdsm',
@@ -648,9 +690,10 @@ export default [
   },
   {
     id: '20043841',
-    title: 'PZV090  Pretty Little Prisoners',
+    pz_code: 'PZV090',
+    title: 'Pretty Little Prisoners',
     description:
-      "Skinny little Page takes a good hard ass whipping when she emerges from the bathroom flaunting her hot little ass. She admits she is a virgin when she is bound on hands and knees in complete nudity. When she is head harnessed and ball gagged she squeals for someone to come rescue her. He has already taken an interest in her virgin tight anus and she is hoping that somebody will hear before that powerful urge to release out her ass is stimulated by the insertion of a big hard cock. Big brown eyed, baby-faced Victoria is dominated, slave trained and bound. Her lean and muscular young legs are incredible! This bitch works out hard on the football field cheering on the boys. Now at last one is going to show her how it feels to submit and take it. Christine begs nice a loud when her ass is threatened... and spanked... but the binding will remain strict and the drooling bit gag will reinforce the message over and over again until she gets it. That drool will make real good lubricant. Three pretty little prisoners to punish, shame and body slam. Get this one for Victoria's pretty little mouth... PZV090",
+      "Skinny little Page takes a good hard ass whipping when she emerges from the bathroom flaunting her hot little ass. She admits she is a virgin when she is bound on hands and knees in complete nudity. When she is head harnessed and ball gagged she squeals for someone to come rescue her. He has already taken an interest in her virgin tight anus and she is hoping that somebody will hear before that powerful urge to release out her ass is stimulated by the insertion of a big hard cock. Big brown eyed, baby-faced Victoria is dominated, slave trained and bound. Her lean and muscular young legs are incredible! This bitch works out hard on the football field cheering on the boys. Now at last one is going to show her how it feels to submit and take it. Christine begs nice a loud when her ass is threatened... and spanked... but the binding will remain strict and the drooling bit gag will reinforce the message over and over again until she gets it. That drool will make real good lubricant. Three pretty little prisoners to punish, shame and body slam. Get this one for Victoria's pretty little mouth... ",
     categoryid: '1322',
     keywords:
       'DOMINATION, BALLGAGGED, BONDAGE, SPANKING, WHIPPING     PZV090, Pretty Little Prisoners, Victoria, Page, Christine, skinny, blonde, brunette, training harness, begging, binding, drooling, bit gag',
@@ -658,6 +701,7 @@ export default [
     date: '2018-08-01 14:25:55',
     name: 'pzv090_1.mp4',
     image: 'pzv090cat.jpg',
+    poster: 'pzv090coverad.jpg',
     displayorder: '1832',
     length: '01:53:53',
     resolution: '1440x1080',
@@ -665,9 +709,10 @@ export default [
   },
   {
     id: '20037123',
-    title: 'PZV019  Jenna & Candy',
+    pz_code: 'PZV019',
+    title: 'Jenna & Candy',
     description:
-      'Jenna and Candy. A MILF in need of a hard dick and a spoiled brat in need of a hard smack on that fine pampered ass round out this bitch stripping, hog roping, ball gagging bitch flick. Jenna gets a good stripping and hog roping. Followed by board certification in ring gag submission. Candy goes below her station to take a modeling gig and bitches about her discomfort until a gag shuts that cock sucking mouth up. Keep this one in the bedroom closet and fuck her pregnant quickly. Lots of behind-the-scenes footage included. PZV019',
+      'Jenna and Candy. A MILF in need of a hard dick and a spoiled brat in need of a hard smack on that fine pampered ass round out this bitch stripping, hog roping, ball gagging bitch flick. Jenna gets a good stripping and hog roping. Followed by board certification in ring gag submission. Candy goes below her station to take a modeling gig and bitches about her discomfort until a gag shuts that cock sucking mouth up. Keep this one in the bedroom closet and fuck her pregnant quickly. Lots of behind-the-scenes footage included. ',
     categoryid: '40',
     keywords:
       'BONDAGE, FORCED STRIPPING, MILF, GAGGED WOMEN, BRAT GIRLS     PZV019, Jenna, Candy, Jenna & Candy, spanking, ring gag, hog rope, ballgagged, domination, damsel',
@@ -682,16 +727,18 @@ export default [
   },
   {
     id: '20031605',
-    title: 'PZV097  Comely Cockettes',
+    pz_code: 'PZV097',
+    title: 'Comely Cockettes',
     description:
-      "This video is all about ass! Hot nude tied up ass. Two comely cutie faced blonde girls, bound up in positions where the ass is not only accessible, but there isn't a damn thing she can do to cover it up. In part one Cammi is carried in bound hand and foot over the shoulder, tossed down on the bed where she is heavily fondled, then put to rest with a rag over mouth. While out, she is bound in leather restraints and spreader bar. Now standing bound spread eagle she is again heavily fondled. Gorgeous tits and ass ripple and bounce nicely. Then she is ass upped, transferred to the discipline bench... and rubber hose frog tied. Next cute little naked Page is steel cuffed on the same discipline bench. She is forced to present her bottom straight up where it can be cropped, fondled, spanked, or penetrated as desired. Then she is flipped over on her back and left begging in bondage. Contains preview video clips from other Powershotz releases.  PZV097",
+      "This video is all about ass! Hot nude tied up ass. Two comely cutie faced blonde girls, bound up in positions where the ass is not only accessible, but there isn't a damn thing she can do to cover it up. In part one Cammi is carried in bound hand and foot over the shoulder, tossed down on the bed where she is heavily fondled, then put to rest with a rag over mouth. While out, she is bound in leather restraints and spreader bar. Now standing bound spread eagle she is again heavily fondled. Gorgeous tits and ass ripple and bounce nicely. Then she is ass upped, transferred to the discipline bench... and rubber hose frog tied. Next cute little naked Page is steel cuffed on the same discipline bench. She is forced to present her bottom straight up where it can be cropped, fondled, spanked, or penetrated as desired. Then she is flipped over on her back and left begging in bondage. Contains preview video clips from other Powershotz releases.  ",
     categoryid: '739',
     keywords:
-      'BLONDES, REST FETISH, BONDAGE, HANDCUFF AND SHACKLE FETISH, SHOULDER CARRY     pzv097, Comely Cockettes, cammi, leather, restraints, spreader bar, spread eagle, bench, rubber hose, frog tie, crop, spanking, begging, page, cf',
+      'BLONDES, REST FETISH, BONDAGE, HANDCUFF AND SHACKLE FETISH, SHOULDER CARRY     pzv097, Comely Cockettes, cammi, leather, restraints, spreader bar, spread eagle, bench, rubber hose, frog tie, crop, spanking, begging, page, cf, chloroform',
     price: '34.99',
     date: '2018-07-30 10:28:23',
     name: 'pzv097_1.mp4',
     image: 'pzv097cat.jpg',
+    poster: 'pzv097coverad.jpg',
     displayorder: '1834',
     length: '01:58:31',
     resolution: '1440x1080',
@@ -699,9 +746,10 @@ export default [
   },
   {
     id: '20026853',
-    title: 'PZV122  Trio of Trollops',
+    pz_code: 'PZV122',
+    title: 'Trio of Trollops',
     description:
-      'A trio of gorgeous damsels in bondage. Lexis Lane walks into the room naked, wads up a piece of newspaper and sticks it in her mouth, tapes it over with clear tape, and waits for the Master to come in, duct tape her tightly, dominate that fine piece of tits and ass, and finally wrap her up in newspaper and hog tape her. Scene 2 stars Jewel in her first bondage excursion. She is grabbed, stripped, dominated, roped to a chair, gag reflex tested and ball gagged. In scene 3, Cammi is bound spread eagle face down on the table and left begging. Fine white ass and perfect smooth skin. PZV122',
+      'A trio of gorgeous damsels in bondage. Lexis Lane walks into the room naked, wads up a piece of newspaper and sticks it in her mouth, tapes it over with clear tape, and waits for the Master to come in, duct tape her tightly, dominate that fine piece of tits and ass, and finally wrap her up in newspaper and hog tape her. Scene 2 stars Jewel in her first bondage excursion. She is grabbed, stripped, dominated, roped to a chair, gag reflex tested and ball gagged. In scene 3, Cammi is bound spread eagle face down on the table and left begging. Fine white ass and perfect smooth skin.',
     categoryid: '1322',
     keywords:
       'BONDAGE, FORCED STRIPPING, DOMINATION, GAG REFLEX, TAPE BONDAGE     pzv122, trio of trollops, lexis lane, jewel, cammi, mouth stuffing, tape gag, grabbed, bitch strip, ballgagged, spread eagle, blonde, redhead, damsel, begging',
@@ -716,9 +764,10 @@ export default [
   },
   {
     id: '19977677',
-    title: 'PZV063  Pajama Party with Katherine, First Timer Brook',
+    pz_code: 'PZV063',
+    title: 'Pajama Party with Katherine, First Timer Brook',
     description:
-      'In part one Katherine is bound to a chair in pajamas and talks directly to the camera in frustration. Shot as a pajama fetish custom request. Katherine is smoking hot with gorgeous flowing red hair. Then Brook. 18 Year old spoiled black brat. Taken as she enters the room and dominated easily into submission. Then taped up tight in red duct tape. Her gorgeous round bottom and strong thighs will make her a hard working mama if you use the whip on her. Then back to Katherine. This time in spread eagle hanging rack bondage. As long as she could take it. Super hot! Lily White! 1:20 long plus a passel of previews.  PZV063',
+      'In part one Katherine is bound to a chair in pajamas and talks directly to the camera in frustration. Shot as a pajama fetish custom request. Katherine is smoking hot with gorgeous flowing red hair. Then Brook. 18 Year old spoiled black brat. Taken as she enters the room and dominated easily into submission. Then taped up tight in red duct tape. Her gorgeous round bottom and strong thighs will make her a hard working mama if you use the whip on her. Then back to Katherine. This time in spread eagle hanging rack bondage. As long as she could take it. Super hot! Lily White! 1:20 long plus a passel of previews.  ',
     categoryid: '4',
     keywords:
       'REDHEADS, DOMINATION, EBONY, SUSPENSION, 18 & 19 YRS OLD     Pajama Party with Katheri, pzv063, katherine, brook, pajamas, submission, duct tape, whipping, spread eagle, hanging rack',
@@ -733,9 +782,10 @@ export default [
   },
   {
     id: '19970711',
-    title: 'PZV064  Brook, Jessy, Ivory, Rayne',
+    pz_code: 'PZV064',
+    title: 'Brook, Jessy, Ivory, Rayne',
     description:
-      "18 Year old bondage virgin Brook is taken through the ropes. She is introduced to strict post bondage, ball gag, riding crop and spanking. Ass up nude roll on the rug with her wrists bound to her ankles. Jessy... bound to the post and dominated. Her pure white flesh and long flowing hair accentuate her submissive pout. Rayne's cameo anal penetration scene (face only). A real and intense reality moment for the young girl. Then Ivory... her long lean limbs perfect for strict bondage and those lovely eyes and lips made for begging. Includes 3 preview videos. Preview PZV064",
+      "18 Year old bondage virgin Brook is taken through the ropes. She is introduced to strict post bondage, ball gag, riding crop and spanking. Ass up nude roll on the rug with her wrists bound to her ankles. Jessy... bound to the post and dominated. Her pure white flesh and long flowing hair accentuate her submissive pout. Rayne's cameo anal penetration scene (face only). A real and intense reality moment for the young girl. Then Ivory... her long lean limbs perfect for strict bondage and those lovely eyes and lips made for begging. Includes 3 preview videos.",
     categoryid: '31',
     keywords:
       'BONDAGE, DOMINATION, BALLGAGGED, SUBMISSIVE / SLAVE TRAINING, SPANKING     pzv064, brook, jessy, ivory, rayne, kiya, renata, riding crop, wrist to ankle, long hair, whipping post, struggling, ebony, brunette, blonde',
@@ -743,6 +793,7 @@ export default [
     date: '2018-07-18 09:12:41',
     name: 'pzv064_1.mp4',
     image: 'pzv064cat.jpg',
+    poster: 'pzv064coverad.jpg',
     displayorder: '1837',
     length: '01:54:15',
     resolution: '1440x1080',
@@ -750,9 +801,10 @@ export default [
   },
   {
     id: '19967441',
-    title: 'PZV135  First Time Last Time',
+    pz_code: 'PZV135',
+    title: 'First Time Last Time',
     description:
-      "August, Kelly, Kristina and Lynn star in this cf, bitch grab, bondage fantasy flick. These gals never did bondage and never will again. First time did the trick. When you've been bitch stripped, butt slapped, dominated hard, over the shouldered, whipped, gagged, fondled and in Kristina's case deep throated like a whore while cuffed on the couch you tend to avoid a repeat. Big fat ball and strict rope hogging convince Lynn she'll never do it again and Kelly's throbbing continues long after the vibrator throbbing applied to her clit. It's best they got out before they got in over their head... giving head.  PZV135",
+      "August, Kelly, Kristina and Lynn star in this chloroform, bitch grab, bondage fantasy flick. These gals never did bondage and never will again. First time did the trick. When you've been bitch stripped, butt slapped, dominated hard, over the shouldered, whipped, gagged, fondled and in Kristina's case deep throated like a whore while cuffed on the couch you tend to avoid a repeat. Big fat ball and strict rope hogging convince Lynn she'll never do it again and Kelly's throbbing continues long after the vibrator throbbing applied to her clit. It's best they got out before they got in over their head... giving head.  ",
     categoryid: '463',
     keywords:
       'SPANKING, WHIPPING, DOMINATION, GAGGING, SHOULDER CARRY     First Time Last Time, pzv135, august, kelly, kristina, lynn, deep throat, grabbed, bitch strip, slapping, over the shoulder, fondling, hog, vibrator, blowjob',
@@ -767,9 +819,10 @@ export default [
   },
   {
     id: '19961513',
-    title: 'PZV026  Ashleigh & Vanessa',
+    pz_code: 'PZV026',
+    title: 'Ashleigh & Vanessa',
     description:
-      'First Ashleigh, caught snooping around the bondage studio and punished for it with a bitch stripping butt slapping, hog roping, drool gagging photo session with a pervert that has designs on her ass. Gags, harnesses, heels, hog rope and drooling submission go good with her back arch and apple bottom. Buxom big tit Vanessa gets a bitch stripping before being bound ass out on the chair and nipple clamped, then forced in head harness to face the pole with spreader bar on ankles while she lets the drool run. Hot baby-fat ass! Then Ashleigh gets a strappado strapping over the stool with a head harness ball gagging that leaves her broken. Very sensitive these two. PZV026',
+      'First Ashleigh, caught snooping around the bondage studio and punished for it with a bitch stripping butt slapping, hog roping, drool gagging photo session with a pervert that has designs on her ass. Gags, harnesses, heels, hog rope and drooling submission go good with her back arch and apple bottom. Buxom big tit Vanessa gets a bitch stripping before being bound ass out on the chair and nipple clamped, then forced in head harness to face the pole with spreader bar on ankles while she lets the drool run. Hot baby-fat ass! Then Ashleigh gets a strappado strapping over the stool with a head harness ball gagging that leaves her broken. Very sensitive these two. ',
     categoryid: '463',
     keywords:
       'SWALLOWING/DROOLING, SUBMISSIVE / SLAVE TRAINING, HIGH HEELS, DOMINATION, NIPPLE PLAY     pzv026, ashleigh & vanessa, ashleigh, vanessa, bitch strip, slapping, hog, gagging, head harness, submission, back arch, spreader bar, strappado, ballgagged, over the stool',
@@ -784,9 +837,10 @@ export default [
   },
   {
     id: '19957271',
-    title: 'PZV059  The Naughty Little School Girl',
+    pz_code: 'PZV059',
+    title: 'The Naughty Little School Girl',
     description:
-      'Rayne is delivered to Ashleigh to be disciplined after a rash of naughty behavior. Her first step is to restrain the young bitch and inform her of who is in charge with a bottom spanking. Rayne tries to get loose and must be bound and gagged in various states of undress until fully nude. At one point she and Ashleigh get into a scrap that ends up with Ashleigh on top and Rayne in a choke hold. In the end, Ashleigh decides that Rayne needs her bottom cleaned out and administers a nice rush of cold water. One hour and twenty minutes of preview videos are included with this one hour long bitch fight. Incredibly gorgeous and tattoo free body on cute 18 year old girl Rayne. PZV059',
+      'Rayne is delivered to Ashleigh to be disciplined after a rash of naughty behavior. Her first step is to restrain the young bitch and inform her of who is in charge with a bottom spanking. Rayne tries to get loose and must be bound and gagged in various states of undress until fully nude. At one point she and Ashleigh get into a scrap that ends up with Ashleigh on top and Rayne in a choke hold. In the end, Ashleigh decides that Rayne needs her bottom cleaned out and administers a nice rush of cold water. One hour and twenty minutes of preview videos are included with this one hour long bitch fight. Incredibly gorgeous and tattoo free body on cute 18 year old girl Rayne. ',
     categoryid: '222',
     keywords:
       'BONDAGE, SPANKING, CAT FIGHTING, BALLGAGGED, ENEMA     PZV059, Naughty Little Schoolgirl, school girl, rayne, ashleigh, discipline, brunette, domination',
@@ -801,9 +855,10 @@ export default [
   },
   {
     id: '19953815',
-    title: 'PZV124  Private Property',
+    pz_code: 'PZV124',
+    title: 'Private Property',
     description:
-      "Two hot babes wander onto private property to take a piss. Pants around the ankles make excellent leg restraints for an attacker. Shelby is quickly anesthetized while April is hand over mouth back arched into submission before being thrown over the shoulder and carried off to fuck. They are taken back to the Master's lair where they are tied up, gagged, whipped, and slave trained. Shelby is clear taped and awakened with a cloth rag gag before being ass and pussy slapped. April is carried in, stripped, cuffed, gagged and taken through full body fondling dominating back arching fully nude bondage with head harness and nose hook. Shelby gets her clothing torn off and spanked hard at the whipping post. These two will have a greater respect for private property when they are released after this little pissing trip. 1:35 minutes long. Awesome video! Preview PZV124",
+      "Two hot babes wander onto private property to take a piss. Pants around the ankles make excellent leg restraints for an attacker. Shelby is quickly anesthetized while April is hand over mouth back arched into submission before being thrown over the shoulder and carried off to fuck. They are taken back to the Master's lair where they are tied up, gagged, whipped, and slave trained. Shelby is clear taped and awakened with a cloth rag gag before being ass and pussy slapped. April is carried in, stripped, cuffed, gagged and taken through full body fondling dominating back arching fully nude bondage with head harness and nose hook. Shelby gets her clothing torn off and spanked hard at the whipping post. These two will have a greater respect for private property when they are released after this little pissing trip. 1:35 minutes long. Awesome video! ",
     categoryid: '3',
     keywords:
       'DAMSEL IN DISTRESS, SHOULDER CARRY, SUBMISSIVE / SLAVE TRAINING, FORCED STRIPPING, TAPE BONDAGE     pzv124, private property, shelby, april, peeing, grabbed, discipline, cuff, gag, fondling, back arching, head harness, nose hook, spanking, whipping',
@@ -818,9 +873,10 @@ export default [
   },
   {
     id: '19950111',
-    title: 'PZV132  Hard Lessons',
+    pz_code: 'PZV132',
+    title: 'Hard Lessons',
     description:
-      "Three young lovelies stray off course and must be set straight. First April... bird watching on private land. Turns out the property owner was watching her strut her feathers and liked what he saw well enough to grab her, bind her to the trailer, tape gag her, and drive her off into the sunset. She needs to be repositioned twice for the long trip. Once with the stocks and a black ball gag, once spread eagle face down with a stick gag. Then Samantha.... goes to a modeling gig without checking out the photographer first. He strips her, dominates her into submission, strappado cuffs her, binds her kneeling to the post, ball gags her, nipple clamps and fondles. Then on to the whipping post for a good hard bare ass flogging followed by a nipple clamped tit whipping. Candy... lovely kitchenette.... with that water running and the door unlocked she is setting herself up for a good stripping followed by a trip upstairs. Nice kick ass little struggler. Hopefully they'll learn their lessons from this experience.  PZV132",
+      "Three young lovelies stray off course and must be set straight. First April... bird watching on private land. Turns out the property owner was watching her strut her feathers and liked what he saw well enough to grab her, bind her to the trailer, tape gag her, and drive her off into the sunset. She needs to be repositioned twice for the long trip. Once with the stocks and a black ball gag, once spread eagle face down with a stick gag. Then Samantha.... goes to a modeling gig without checking out the photographer first. He strips her, dominates her into submission, strappado cuffs her, binds her kneeling to the post, ball gags her, nipple clamps and fondles. Then on to the whipping post for a good hard bare ass flogging followed by a nipple clamped tit whipping. Candy... lovely kitchenette.... with that water running and the door unlocked she is setting herself up for a good stripping followed by a trip upstairs. Nice kick ass little struggler. Hopefully they'll learn their lessons from this experience. ",
     categoryid: '4',
     keywords:
       'TAPEGAGGED, FORCED STRIPPING, STRUGGLING, DOMINATION, BALLGAGGED     pzv132, hard lessons, april, samantha, candy, bird watching, grabbing, stocks, spread eagle, stick gag, submission, strappado, nipple clamps, flogging, whipping',
@@ -835,9 +891,10 @@ export default [
   },
   {
     id: '19943503',
-    title: 'PZV068  4 2 Fuck',
+    pz_code: 'PZV068',
+    title: '4 2 Fuck',
     description:
-      'A Foursome of fine felines. Bound in strict bondage for breeding without bitching. Anne, Lana, Arianna,  Spring are secured in ropes, leather, and steel. Then gagged to keep those pretty little mouths occupied until they can be put to better use. PZV068',
+      'A Foursome of fine felines. Bound in strict bondage for breeding without bitching. Anne, Lana, Arianna,  Spring are secured in ropes, leather, and steel. Then gagged to keep those pretty little mouths occupied until they can be put to better use. ',
     categoryid: '4',
     keywords:
       'BREEDING, HANDCUFF AND SHACKLE FETISH, ROPE BONDAGE, GAGGED WOMEN, LEATHER     pzv068, 4 2 fuck, strict bondage, anne, lana, arianna, spring, rope, leather, steel, gag, domination, slave training',
@@ -852,9 +909,10 @@ export default [
   },
   {
     id: '19938329',
-    title: 'PZV092  Bitch Strip Boogie',
+    pz_code: 'PZV092',
+    title: 'Bitch Strip Boogie',
     description:
-      "Stars hot first time bondage model Cammi! Her gymnast body fondled and bitch stripped, spanked, pump gagged, hog harnessed and dominated hard. Her heavy breathing reveals her heavy wanting. Then Page... Another under twenty something hottie. Zip tied and chained to the wall, She is stripped, spanked and ravaged wearing duct tape gag. Incredible skinny body and nice tight ass... Then Anna... Chair stripped, bit gagged and big bottom butt slapped. Awesome bondage models. Don't miss it!  PZV092",
+      "Stars hot first time bondage model Cammi! Her gymnast body fondled and bitch stripped, spanked, pump gagged, hog harnessed and dominated hard. Her heavy breathing reveals her heavy wanting. Then Page... Another under twenty something hottie.  Zip tied and chained to the wall, She is stripped, spanked and molested wearing duct tape gag.  Incredible skinny body and nice tight ass... Then Anna... Chair stripped, bit gagged and big bottom butt slapped. Awesome bondage models. Don't miss it!",
     categoryid: '463',
     keywords:
       'SPANKING, 18 & 19 YRS OLD, GAGGED WOMEN, DUCT TAPE FETISH, DOMINATION     pzv092, Bitch Strip Boogie, cammi, anna, page, fondling, bitch strip, pump gag, hog, harness, zip tie, chain, tape gag, bit gag, slap',
@@ -862,6 +920,7 @@ export default [
     date: '2018-07-11 11:58:30',
     name: 'pzv092_1.mp4',
     image: 'pzv092cat.jpg',
+    poster: 'pzv092coverad.jpg',
     displayorder: '1844',
     length: '01:54:11',
     resolution: '1440x1080',
@@ -869,9 +928,10 @@ export default [
   },
   {
     id: '19933061',
-    title: "PZV100 Cammi's Conundrum",
+    pz_code: 'PZV100',
+    title: "Cammi's Conundrum",
     description:
-      "What you get with Cammi is a tattoo free, gymnast's body with ample natural breasts, smooth and flawless skin... and a perfectly fuckable ass. She is captured and induced to reveal the whereabouts of her lover with a series of strict bondage positions. Mostly steel bondage. Chair cuffed, pole bound and crotch roped, cuffed in the toilet, bent over the stool and spanked nice and hard on that fine white ass. A strict steel hog cuffing, duct taped mouth and finally a zip tied neck to wrists bondage tie finally break her. Then she is hung upside down by the feet. Next we find American Indian girl Anna... fully oiled, fondled, and dominated while kneeling, arms bound overhead. Finally, bondage first timer Ariel endures strict bondage and ball gag. Two hours and 13 minutes of hard bondage fun. PZV100",
+      "What you get with Cammi is a tattoo free, gymnast's body with ample natural breasts, smooth and flawless skin... and a perfectly fuckable ass. She is captured and induced to reveal the whereabouts of her lover with a series of strict bondage positions. Mostly steel bondage. Chair cuffed, pole bound and crotch roped, cuffed in the toilet, bent over the stool and spanked nice and hard on that fine white ass. A strict steel hog cuffing, duct taped mouth and finally a zip tied neck to wrists bondage tie finally break her. Then she is hung upside down by the feet. Next we find American Indian girl Anna... fully oiled, fondled, and dominated while kneeling, arms bound overhead. Finally, bondage first timer Ariel endures strict bondage and ball gag. Two hours and 13 minutes of hard bondage fun. ",
     categoryid: '4',
     keywords:
       "NATIVE AMERICAN, SPANKING, DOMINATION, INTERROGATION, SUSPENSION     pzv100, cammi's conundrum, cammi, anna, ariel, capture, chair, pole, crotch rope, toilet, redhead, steel cuffs, hog, duct tape, zip tie",
@@ -879,6 +939,7 @@ export default [
     date: '2018-07-10 15:27:17',
     name: 'pzv100_1.mp4',
     image: 'pzv100cat.jpg',
+    poster: 'pzv100coverad.jpg',
     displayorder: '1845',
     length: '02:01:08',
     resolution: '1440x1080',
@@ -886,9 +947,10 @@ export default [
   },
   {
     id: '19921811',
-    title: 'PZV111  Stripped for Discipline',
+    pz_code: 'PZV111',
+    title: 'Stripped for Discipline',
     description:
-      "Four lovely ladies... Andi, Beth, Lexis Lane, and Victoria... stripped nude and shackled up tight so they can be properly dealt with. Each of these scenes is of historical significance to any serious bondage collector. The Lexis discipline scene and Beth at the whipping post scenes are incredible. Victoria's smooth muscular body is revealed when the strings are pulled on her bikini as she is tied spread eagle to the table, and Andi gets a serious dominating hog fondle with nose hook and ball gag. Incredible stuff! Get it before they make it illegal! PZV111",
+      "Four lovely ladies... Andi, Beth, Lexis Lane, and Victoria... stripped nude and shackled up tight so they can be properly dealt with. Each of these scenes is of historical significance to any serious bondage collector. The Lexis discipline scene and Beth at the whipping post scenes are incredible. Victoria's smooth muscular body is revealed when the strings are pulled on her bikini as she is tied spread eagle to the table, and Andi gets a serious dominating hog fondle with nose hook and ball gag. Incredible stuff! Get it before they make it illegal! ",
     categoryid: '3',
     keywords:
       'BONDAGE, BIKINI, FORCED STRIPPING, 18 & 19 YRS OLD, WHIPPING     ballgag, nude, whipping post, muscular, spread eagle, discipline, nose hook, fondling, pzv111, stripped for discipline, andi, beth, lexis lane, victoria',
@@ -896,6 +958,7 @@ export default [
     date: '2018-07-08 09:02:41',
     name: 'pzv111_1.mp4',
     image: 'pzv111cat.jpg',
+    poster: 'pzv111coverad.jpg',
     displayorder: '1846',
     length: '01:56:31',
     resolution: '1440x1080',
@@ -903,16 +966,18 @@ export default [
   },
   {
     id: '19918695',
-    title: 'PZV036  Bondage Newbies',
+    pz_code: 'PZV036',
+    title: 'Bondage Newbies',
     description:
-      "Never been tied up with a body like that? Damn shame. Time for these 4 hotties to find out what it's like. Amber... snatch snatched and stripped... forced to crawl doggie... then hung on high for ham inspection. Marie's reluctant submission to the Headmaster upon graduation. Bound like a bundle of cord wood and big ball gagged like a bitch. Her schooling isn't near completed. Juliette... chemically seduced to silence... then medically taped and ball gagged. Spread eagle bedded and bit bitted. Her face down on dick... then held face down on pillow and plowed. Parker's model experiment with bondage... she got out just in time.  PZV036",
+      "Never been tied up with a body like that? Damn shame. Time for these 4 hotties to find out what it's like. Amber... snatched and stripped... forced to crawl doggie... then hung on high for ham inspection. Marie's reluctant submission to the Headmaster upon graduation. Bound like a bundle of cord wood and big ball gagged like a bitch. Her schooling isn't near completed. Juliette... chemically seduced to silence... then medically taped and ball gagged. Spread eagle bedded and bit bitted. Her face down on dick... then held face down on pillow and plowed. Parker's model experiment with bondage... she got out just in time.",
     categoryid: '4',
     keywords:
-      'FORCED STRIPPING, BALLGAGGED, CRAWLING, SCHOOL UNIFORM, DOMINATION     pzv036, bondage newbies, amber, snatched, grabbed, hung, marie, graduation, juliette, cf, tape, spread eagle, bit gag, parker, face down',
+      'FORCED STRIPPING, BALLGAGGED, CRAWLING, SCHOOL UNIFORM, DOMINATION     pzv036, bondage newbies, amber, snatched, grabbed, hung, marie, graduation, juliette, cf, chloroform tape, spread eagle, bit gag, parker, face down',
     price: '34.99',
     date: '2018-07-07 13:42:06',
     name: 'pzv036_1.mp4',
     image: 'pzv036cat.jpg',
+    poster: 'pzv036coverad.jpg',
     displayorder: '1847',
     length: '01:59:34',
     resolution: '1440x1080',
@@ -920,9 +985,10 @@ export default [
   },
   {
     id: '19913299',
-    title: 'PZV018  Alma as Carol',
+    pz_code: 'PZV018',
+    title: 'Alma as Carol',
     description:
-      'Young model Alma is enlisted to play the role of a young female sportster who is taken in the elevator on her way home from a run and taken through the loops. The loops of rope that restrain the bitch so she can be whipped, gagged, cropped, spanked, fondled up, ass upped and choked with a big thick cock while hog tied like a pig. Big begging eyes and pleading only lead to a more strict punishment for this immature brat. PZV018',
+      'Young model Alma is enlisted to play the role of a young female sportster who is taken in the elevator on her way home from a run and taken through the loops. The loops of rope that restrain the bitch so she can be whipped, gagged, cropped, spanked, fondled up, ass upped and choked with a big thick cock while hog tied like a pig. Big begging eyes and pleading only lead to a more strict punishment for this immature brat. ',
     categoryid: '17',
     keywords:
       'BALLGAGGED, DOMINATION, SPANKING, STRUGGLING, BONDAGE     pzv018, alma as carol, alma, sports, elebator, restraint, crop, fondling, choking, hog tie, hogtie, begging, punishment, brunette, bdsm',
@@ -937,9 +1003,10 @@ export default [
   },
   {
     id: '19906917',
-    title: 'PZV107  Hard Ass Discipline II',
+    pz_code: 'PZV107',
+    title: 'Hard Ass Discipline II',
     description:
-      'A smooth, white skinned innocent is given a good dominating session in this strict bondage and hard discipline saga. First Ally is taken from hand over mouth domination to strict rope hog tie with mouth stuffing. Fully nude, ass up electrical wire bondage on the table, duct tape on bare skin, elbow cinching, over the stool, ball gagged, spanked, and rubber tube hog tied on a bare mattress. Riding crop discipline, rope choke, and firm redress. Then she is cuffed to the whipping post in the nude, where Lexis Lane is made to dominate her hard. Lexis must either dominate Ally... or watch as she is dominated. What results is a kick ass girl on girl scene.  PZV107',
+      'A smooth, white skinned innocent is given a good dominating session in this strict bondage and hard discipline saga. First Ally is taken from hand over mouth domination to strict rope hog tie with mouth stuffing. Fully nude, ass up electrical wire bondage on the table, duct tape on bare skin, elbow cinching, over the stool, ball gagged, spanked, and rubber tube hog tied on a bare mattress. Riding crop discipline, rope choke, and firm redress. Then she is cuffed to the whipping post in the nude, where Lexis Lane is made to dominate her hard. Lexis must either dominate Ally... or watch as she is dominated. What results is a kick ass girl on girl scene.',
     categoryid: '3',
     keywords:
       'BONDAGE, DUCT TAPE FETISH, HAND OVER MOUTH, SPANKING, MOUTH STUFFING     pzv107, hard ass discipline, ally, lexis lane, lexislane, lexis, dix, hog tie, ass up, electrical wire, elbow cinching, over the stool, ball gag, rubber tube, whipping',
@@ -947,6 +1014,7 @@ export default [
     date: '2018-07-05 10:39:37',
     name: 'pzv107_1.mp4',
     image: 'pzv107cat.jpg',
+    poster: 'pzv107coverad.jpg',
     displayorder: '1849',
     length: '01:54:56',
     resolution: '1440x1080',
@@ -954,9 +1022,10 @@ export default [
   },
   {
     id: '19902579',
-    title: 'PZV101  3 Bondage Virgins II',
+    pz_code: 'PZV101',
+    title: '3 Bondage Virgins II',
     description:
-      "Bondage Virgin... someone that has never been tied up. Three hot young females get to find out what its like to be strictly bound, ball gagged, dominated hard, hand over mouthed into submission and disciplined with riding crop and bare handed ass slapping. Lexis slapped, oiled and hog fondled is a worthy piece of domination that any true lover of bondage will find well worth the price. Innocent Ally cannot hide when the Master singles her out for domination, and the two guy capture and hog tie of Heather put that little stripper girl into a place she's never been before... a place where she's needed to go for some time... drooling submission. Then hang that bitch up until she begs properly for release! This one's a classic.   PZV101",
+      "Bondage Virgin... someone that has never been tied up. Three hot young females get to find out what its like to be strictly bound, ball gagged, dominated hard, hand over mouthed into submission and disciplined with riding crop and bare handed ass slapping. Lexis slapped, oiled and hog fondled is a worthy piece of domination that any true lover of bondage will find well worth the price. Innocent Ally cannot hide when the Master singles her out for domination, and the two guy capture and hog tie of Heather put that little stripper girl into a place she's never been before... a place where she's needed to go for some time... drooling submission. Then hang that bitch up until she begs properly for release! This one's a classic.  ",
     categoryid: '4',
     keywords:
       'BALLGAGGED, SPANKING, DOMINATION, SUBMISSIVE / SLAVE TRAINING, HAND OVER MOUTH     submission, discipline, riding crop, lexis lane, lexis, ally, heather, pzv101, 3 bondage virgins, capture, hogtie, stripper, drooling, begging, blonde',
@@ -964,6 +1033,7 @@ export default [
     date: '2018-07-04 12:18:15',
     name: 'pzv101_1.mp4',
     image: 'pzv101cat.jpg',
+    poster: 'pzv101coverad.jpg',
     displayorder: '1850',
     length: '01:54:02',
     resolution: '1440x1080',
@@ -971,9 +1041,10 @@ export default [
   },
   {
     id: '19899805',
-    title: 'PZV083  Bootie Call',
+    pz_code: 'PZV083',
+    title: 'Bootie Call',
     description:
-      'The fabulous Alex Del Monaco is captured, stripped, whipped, bound, gagged and disciplined in various stages of undress. You want to see her bent over a stool, whipped and spanked hard? How about clothes pins on the nipples, mouth stuffing, hog roped or handcuffed? Get HD TV for this one...  PZV083',
+      'The fabulous Alex Del Monaco is captured, stripped, whipped, bound, gagged and disciplined in various stages of undress. You want to see her bent over a stool, whipped and spanked hard? How about clothes pins on the nipples, mouth stuffing, hog roped or handcuffed? Get this one... ',
     categoryid: '463',
     keywords:
       'WHIPPING, SPANKING, BONDAGE, NIPPLE PLAY, BALLGAGGED     Bootie Call, pzv083, alex Del Monaco, alexdelmonaco, alex, captured, discipline, domination, over the stool, whipped, clothes pins, mouth stuffing, hog rope, handcuff, blonde',
@@ -988,9 +1059,10 @@ export default [
   },
   {
     id: '19892667',
-    title: 'PZV108  Bondage Made to Order',
+    pz_code: 'PZV108',
+    title: 'Bondage Made to Order',
     description:
-      "Starring Alex Del Monaco, Lexis Lane and Ally. The three men playing poker know she is coming to deliver the pizza and are prepared to deliver her a night she won't forget which begins with a hand over mouth body flexing struggle strip by two strong men followed by rope bondage to the table to be used as a game table until the winner claims her as his prize. Next captive schoolgirls Ally and Lexis Lane are rope bound standing beside one another. A taught crotch rope splits Lexus vulva and presses against her anus. If her legs falters the crotch rope will bite deeper into their pussy. Shamelessly shocking fondling with no regard for personal dignity and sharp stinging pain from the impact of his bare hand have a remarkable effect on the two girls. And when it is found that they are ticklish it becomes a torture session complete with pig grunting and snorting inhales. Then we find Lexis wearing only her bedtime slippers bound to the whipping post...begging and pleading to be released. Poor girl. When he is ready to relieve his sexual frustration by tying her up and having his way with her mouth pussy and ass she will be the first to know. PZV108",
+      "Starring Alex Del Monaco, Lexis Lane and Ally. The three men playing poker know she is coming to deliver the pizza and are prepared to deliver her a night she won't forget which begins with a hand over mouth body flexing struggle strip by two strong men followed by rope bondage to the table to be used as a game table until the winner claims her as his prize. Next captive schoolgirls Ally and Lexis Lane are rope bound standing beside one another. A taught crotch rope splits Lexus vulva and presses against her anus. If her legs falters the crotch rope will bite deeper into their pussy. Shamelessly shocking fondling with no regard for personal dignity and sharp stinging pain from the impact of his bare hand have a remarkable effect on the two girls. And when it is found that they are ticklish it becomes a torture session complete with pig grunting and snorting inhales. Then we find Lexis wearing only her bedtime slippers bound to the whipping post...begging and pleading to be released. Poor girl. When he is ready to relieve his sexual frustration by tying her up and having his way with her mouth pussy and ass she will be the first to know.",
     categoryid: '463',
     keywords:
       'STRUGGLING, SUBMISSIVE / SLAVE TRAINING, TICKLING, DOMINATION, BONDAGE     Bondage Made to Order, pzv108, alex del monaco, alexdelmonaco, alex, lexis, lexis lane, lexislane, ally, struggle strip, crotch rop, arm binder, whipping post, overhead cuff, blonde',
@@ -998,6 +1070,7 @@ export default [
     date: '2018-07-02 13:13:06',
     name: 'pzv108_1.mp4',
     image: 'pzv108cats.jpg',
+    poster: 'pzv108coverad.jpg',
     displayorder: '1852',
     length: '01:57:03',
     resolution: '1440x1080',
@@ -1005,9 +1078,10 @@ export default [
   },
   {
     id: '19886691',
-    title: 'PZV110  Silver Nightmares',
+    pz_code: 'PZV110',
+    title: 'Silver Nightmares',
     description:
-      "Part I features the lovely Alex Del Monaco in a dream state capture and duct tape fantasy. Part II features knockout Andi... captured, taped up, and done on the floor. Totally hot bodies bound in positions where penetration isn't an option... it's a requirement. Don't miss this bitch flick!  PZV110",
+      "Part I features the lovely Alex Del Monaco in a dream state capture and duct tape fantasy. Part II features knockout Andi... captured, taped up, and done on the floor. Totally hot bodies bound in positions where penetration isn't an option... it's a requirement. Don't miss this bitch flick!",
     categoryid: '1426',
     keywords:
       'BONDAGE, DOMINATION, REST FETISH, STRUGGLING, DAMSEL IN DISTRESS     pzv110, silver nightmares, alex, alex del monaco, alexdelmonaco, andi, andi adams, blonde, brunette, discipline, hand over mouth, duct tape dilemma',
@@ -1022,9 +1096,10 @@ export default [
   },
   {
     id: '19883003',
-    title: 'PZV039  Ally Spankette',
+    pz_code: 'PZV039',
+    title: 'Ally Spankette',
     description:
-      "5 Hot young models star in this bound breeder bonanza. Marilyn Monroe look alike Ally is captured and hog tied in her hotel room. Stripped, duct taped, mouth stuffed, rope hogged, bare ass spanked and hog cuffed in full nudity. Then Jessy's first bondage scene, no sound to obscure background voices as she is done up in a strict hog rope with ball gag, bottom slap and riding crop. After surviving her first hogging the little bopette is strictly bound in thin leather cord and bone bit. This time with sound. Next 18 year old Rayne. Pretty little prisoner is leathered up and bishop harnessed. Hung high and wide in suspension bondage fully nude. A real keeper. Includes a short but sweet girl on girl scene with Katie and Alanna in some of the earliest Powershotz footage. 1:43 long plus previews.  PZV039",
+      "5 Hot young models star in this bound breeder bonanza. Marilyn Monroe look alike Ally is captured and hog tied in her hotel room. Stripped, duct taped, mouth stuffed, rope hogged, bare ass spanked and hog cuffed in full nudity. Then Jessy's first bondage scene, no sound to obscure background voices as she is done up in a strict hog rope with ball gag, bottom slap and riding crop. After surviving her first hogging the little bopette is strictly bound in thin leather cord and bone bit. This time with sound. Next 18 year old Rayne. Pretty little prisoner is leathered up and bishop harnessed. Hung high and wide in suspension bondage fully nude. A real keeper. Includes a short but sweet girl on girl scene with Katie and Alanna in some of the earliest Powershotz footage. 1:43 long plus previews.  ",
     categoryid: '4',
     keywords:
       '18 & 19 YRS OLD, SPANKING, FORCED STRIPPING, BALLGAGGED, MOUTH STUFFING     pzv039, ally spankette, breeder, ally, alanna, rope hog, slapping, riding crop, bonde bit, ally2, jessy, rayne, bishop harness, suspension bondage, katie',
@@ -1039,9 +1114,10 @@ export default [
   },
   {
     id: '19872943',
-    title: 'PZV088  AAA Bondage',
+    pz_code: 'PZV088',
+    title: 'AAA Bondage',
     description:
-      "This ones worth it just to see cute little Angelica... Pregnant, nude and locked up in the cellar. However Alanna and Anna have some fine breading hips and aren't pregnant yet... yet. Best get them ready to get fucked... No need to put up with anything.  PZV088",
+      "This ones worth it just to see cute little Angelica... Pregnant, nude and locked up in the cellar.  However Alanna and Anna have some fine breading hips and aren't pregnant yet... yet.  Best get them ready to get fucked... No need to put up with any shit.",
     categoryid: '4',
     keywords:
       'PREGNANT, STRUGGLING, DOMINATION, DAMSEL IN DISTRESS, SPANKING     pzv088, aaa bondage, humiliation, breeder, angelica, alanna, anna, ball gag, hand cuffs, Hog Tie, bit gag, hand over mouth, gagging',
@@ -1049,6 +1125,7 @@ export default [
     date: '2018-06-28 14:32:02',
     name: 'pzv088_1.mp4',
     image: 'pzv088cover.jpg',
+    poster: 'pzv088coverad.jpg',
     displayorder: '1855',
     length: '01:55:33',
     resolution: '1440x1080',
@@ -1056,12 +1133,13 @@ export default [
   },
   {
     id: '19868029',
-    title: 'PZV086  Intruder Alert',
+    pz_code: 'PZV086',
+    title: 'Intruder Alert',
     description:
-      "6 hot models round out this kick ass capturing drama. 3 models... Alex Del Monaco, Kylie, and Jessy come for a photo shoot. They are captured, stripped, mo lested, and bound. Then transported to a garage where they beg for sex in order to gain their freedom. Alanna is cf'd and duct taped, then positioned for anal sex. Chlsea is grabbed, bagged, and bound bare butt naked to a chair. Christine... strictly hog tied, ball gagged and tormented on the table. If you like multiple models and capture fantasy, this video is for you! PZV086",
+      '6 hot models round out this kick ass capturing drama. 3 models... Alex Del Monaco, Kylie, and Jessy come for a photo shoot. They are captured, stripped, mo lested, and bound. Then transported to a garage where they beg for sex in order to gain their freedom. Alanna is chloroformed and duct taped, then positioned for anal sex. Chlsea is grabbed, bagged, and bound bare butt naked to a chair. Christine... strictly hog tied, ball gagged and tormented on the table. If you like multiple models and capture fantasy, this video is for you! ',
     categoryid: '463',
     keywords:
-      'BONDAGE, STRUGGLING, DOMINATION, 18 & 19 YRS OLD, BALLGAGGED     pzv086, intruder alert, alanna, alex del monaco, chlsea, christine, jessy, kylie, capture, cf, mo lest, begging, hog tie, torment, bdsm',
+      'BONDAGE, STRUGGLING, DOMINATION, 18 & 19 YRS OLD, BALLGAGGED     pzv086, intruder alert, alanna, alex del monaco, chlsea, christine, jessy, kylie, capture, cf, chloroform mo lest, begging, hog tie, torment, bdsm',
     price: '34.99',
     date: '2018-06-27 17:30:29',
     name: 'pzv086_1.mp4',
@@ -1073,9 +1151,10 @@ export default [
   },
   {
     id: '19835959',
-    title: 'PZV104  Sin Sisters',
+    pz_code: 'PZV104',
+    title: 'Sin Sisters',
     description:
-      "Cammi, Heather, and Serene. Three girls behaving badly. In scene one, a drug dealer finds out the hard way that police protection is not an option. One customer holds her while the other strips her naked, she is tied on the table top and thoroughly disciplined. Scene two, a call girl is taken by surprise, bitch stripped, spanked and bound. Then hung spread eagle on the hanging rack and disciplined. Scene three, a passed out party girl is broken from her drugged slumber with hard ass slapping and full body fondling. Just when she thinks she's going to get fucked... she is bound naked to the whipping post and punished. Rough way to ride out a hangover. Lessons learned the hard way are often the best lessons. PZV104",
+      "Cammi, Heather, and Serene.  Three girls behaving badly.  In scene one, a drug dealer finds out the hard way that police protection is not an option.  One customer holds her while the other strips her naked, she is tied on the table top and thoroughly disciplined.  Scene two, a call girl is taken by surprise, bitch stripped, spanked and bound.  Then hung spread eagle on the hanging rack and disciplined.  Scene three, a passed out party girl is broken from her drugged slumber with hard ass slapping and full body fondling.  Just when she thinks she's going to get fucked... she is bound naked to the whipping post and punished.  Rough way to ride out a hangover.  Lessons learned the hard way are often the best lessons.",
     categoryid: '463',
     keywords:
       'BONDAGE, FACE SLAPPING, SUSPENSION, WHIPPING, REST FETISH     sin sisterss, pzv104, cammi, Heather, serene, discipline, call girl, bitch strip, spread eagle, slapping, passed out, fondling, domination, capture, captive',
@@ -1090,9 +1169,10 @@ export default [
   },
   {
     id: '19829139',
-    title: 'PZV082  Porn Star Abductions',
+    pz_code: 'PZV082',
+    title: 'Porn Star Abductions',
     description:
-      "Starring two gorgeous female starlets... Alex Del Monaco and Alanna. It begins with Alex Del Monaco in her first bondage adventure. Grabbed as she exits her car, bitch stripped, dominated heavily and handcuffed, then carried inside nude and introduced to slavery with strict steel cuff bondage and a nice fat ball gag in that hot little mouth. She drools heavily and cries. Next we find gorgeous Alanna, grabbed at a modeling session, dominated with corporal punishment and strictly rope bound to the leaning post where she is stripped and big ball gagged. She nearly passes out and before being taken down and cropped. Next she is moved to the Master's Suite, where she is rope bound in sexy negligee, hog tied, cropped, ball gagged, and fondled. The nose hook is used to insure her continued submission into slavery. You don't want to miss this flick! PZV082",
+      "Starring two gorgeous female starlets... Alex Del Monaco and Alanna. It begins with Alex Del Monaco in her first bondage adventure. Grabbed as she exits her car, bitch stripped, dominated heavily and handcuffed, then carried inside nude and introduced to slavery with strict steel cuff bondage and a nice fat ball gag in that hot little mouth. She drools heavily and cries. Next we find gorgeous Alanna, grabbed at a modeling session, dominated with corporal punishment and strictly rope bound to the leaning post where she is stripped and big ball gagged. She nearly passes out and before being taken down and cropped. Next she is moved to the Master's Suite, where she is rope bound in sexy negligee, hog tied, cropped, ball gagged, and fondled. The nose hook is used to insure her continued submission into slavery. You don't want to miss this flick!",
     categoryid: '1322',
     keywords:
       'BLONDES, DOMINATION, BONDAGE, HANDCUFF AND SHACKLE FETISH, FORCED STRIPPING     porn star abductions, ballgag, alex del monaco, drooling, crying, corporal punishment, cp, rope, whipping, crop, negligee, hogtie, nose hook, alanna, pzv082',
@@ -1107,9 +1187,10 @@ export default [
   },
   {
     id: '19813939',
-    title: 'PZV127  Subjugator',
+    pz_code: 'PZV127',
+    title: 'Subjugator',
     description:
-      "Introducing 18 yo Zee in her first and only bondage release. She is captured, stripped, cuffed, and carried inside where she is thrown down on the bed, dominated, fondled, hog cuffed, ball gagged and nose hooked. Awesome! Then she is taken to another room where she is rope bound, hog tied and gagged. Awesome ass, nice bare bottom spank. In part two... April walks to the barn wearing boots and bikini. A stranger enters and commands her to raise her arms in the air, she wisely does as she is told, she is rope bound and led down the path, where she is forced to kneel on a tarp, rope bound, ball gagged, and fondled. She is rolled ass up and her bikini is cut away, then she is repositioned and bound in a position where sex will be easily accomplished. She is ball gagged and butt slapped... shivering cold and breathing hard. If you like hot naked bodies in bondage you'll like this video.  PZV127",
+      "Introducing 18 yo Zee in her first and only bondage release. She is captured, stripped, cuffed, and carried inside where she is thrown down on the bed, dominated, fondled, hog cuffed, ball gagged and nose hooked. Awesome! Then she is taken to another room where she is rope bound, hog tied and gagged. Awesome ass, nice bare bottom spank. In part two... April walks to the barn wearing boots and bikini. A stranger enters and commands her to raise her arms in the air, she wisely does as she is told, she is rope bound and led down the path, where she is forced to kneel on a tarp, rope bound, ball gagged, and fondled. She is rolled ass up and her bikini is cut away, then she is repositioned and bound in a position where sex will be easily accomplished. She is ball gagged and butt slapped... shivering cold and breathing hard. If you like hot naked bodies in bondage you'll like this video.",
     categoryid: '31',
     keywords:
       'BONDAGE, SPANKING, FORCED STRIPPING, GAGGING, DOMINATION     pzv127, subjugator, zee, april, rope, hog tie, nose hook, barn, bikini, kneeling, ball gag, fondling, clothing cut away, outdoor, bdsm',
@@ -1124,9 +1205,10 @@ export default [
   },
   {
     id: '19779401',
-    title: 'PZV049 3 2 Bop',
+    pz_code: 'PZV049',
+    title: '3 2 Bop',
     description:
-      "3 Boppable Bitchletts are bitch stripped, bound, ball gagged, bitted and begging in this take em down, tie em up and teach em right tart topping trilogy. Chrystyne's forced submission requires a dressing down the hard way followed by a hard ass spanking and one of the cruelest drooling bit gaggings ever. A little Asian persuasion takes Emily to a state of standing tall, calve stretching spreader bar ball gag nude bondage so she can be bopped like a bitch after she gets bitch stripped. Then Jenna gets a first timer frog roping. Includes previews from previous releases. PZV049",
+      "3 Boppable Bitchletts are bitch stripped, bound, ball gagged, bitted and begging in this take em down, tie em up and teach em right tart topping trilogy.  Chrystyne's forced submission requires a dressing down the hard way followed by a hard ass spanking and one of the cruelest drooling bit gaggings ever.  A little Asian persuasion takes Emily to a state of standing tall, calve stretching spreader bar ball gag nude bondage so she can be bopped like a bitch after she gets bitch stripped.  Then Jenna gets a first timer frog roping.  Includes previews from previous releases.",
     categoryid: '463',
     keywords:
       'BONDAGE, SPANKING, BALLGAGGED, SWALLOWING/DROOLING, DOMINATION     pzv049, 3 2 Bop, Chrystyne, Emily, Jenna, bit gag, spreader bar, frog rope, blonde, brunette, asian, slave training, begging, drooling',
@@ -1134,6 +1216,7 @@ export default [
     date: '2018-06-10 17:30:06',
     name: 'pzv049_1.mp4',
     image: 'pzv049cat.jpg',
+    poster: 'pzv049coverad.jpg',
     displayorder: '1860',
     length: '02:00:21',
     resolution: '1440x1080',
@@ -1141,9 +1224,10 @@ export default [
   },
   {
     id: '19774259',
-    title: 'PZV118 Good Time Girls',
+    pz_code: 'PZV118',
+    title: 'Good Time Girls',
     description:
-      'Two hot babes (Brandi  Rayna) just wanted to have a good time. But they got grabbed, stripped, spanked, tied up, fondled, hog tied, ball gagged, dominated hard, Brandi was tied to a chair and forced to watch as Rayna took it hard in the next room. They tried to run, got chased down, brought back all dirty and had to be hosed down with freezing cold water. And to top off their day, they will be given long and hard massages. Internal massages... PZV118',
+      'This is just a good old fashion bondage flick complete with two hot babes (Brandi & Rayna) that just want to have a good time getting grabbed, stripped, spanked, tied up, fondled, hog tied, ball gagged, dominated hard and chased down in the woods to be brought back and washed down with cold water.  After a day of this treatment... these good time girls will give their Master a good time.  Nobody gets hurt in a Powershotz video.  That is our motto.',
     categoryid: '4',
     keywords:
       'FORCED STRIPPING, DOMINATION, SPANKING, SUBMISSIVE / SLAVE TRAINING, BALLGAGGED     pzv118, good time girls, rayna, brandi, capture, grab, fondling, bitch strip, outdoor, barn, woods, cold water, master slave, slave training',
@@ -1151,6 +1235,7 @@ export default [
     date: '2018-06-09 12:43:24',
     name: 'pzv118_1.mp4',
     image: 'pzv118cat.jpg',
+    poster: 'pzv118coverad.jpg',
     displayorder: '1861',
     length: '01:54:59',
     resolution: '1440x1080',
@@ -1158,12 +1243,13 @@ export default [
   },
   {
     id: '19768437',
-    title: 'PZV113 Alone in Her Hotel Room',
+    pz_code: 'PZV113',
+    title: 'Alone in Her Hotel Room',
     description:
-      "Cute young Abbey left her hotel room door ajar by mistake and now she is going to have to face the consequences. He found her door ajar, peeked inside and saw her laying on the bed talking to her teddy bear and that was all he needed to see. He hops right on it... her... stifles her call for help and secures her hot body with tape. Then he checks out that fine ass, takes her to his car for a hog tied ride through the city streets until he gets her home, carries her in, and begins punishing her for her obviously foolish behavior. She must now endure strict bondage, hard ass spanking, caning, zip tie restraints on bare skin, latex rubber hog tie bondage, head harness ball gag trainer, heavy fondling, sexual harassment, and behavior modification therapy that will make her a compliant little fuck toy. That hot body will make a great cum receptacle. And she's got a pretty little mouth, a nice tight pussy, and a super taught little anal sphincter that needs a poppin. PZV113",
+      "Cute young Abbey left her hotel room door ajar by mistake and now she is going to have to face the consequences. He found her door ajar, peeked inside and saw her laying on the bed talking to her teddy bear and that was all he needed to see. He hops right on it... her... stifles her call for help and secures her hot body with tape. Then he checks out that fine ass, takes her to his car for a hog tied ride through the city streets until he gets her home, carries her in, and begins punishing her for her obviously foolish behavior. She must now endure strict bondage, hard ass spanking, caning, zip tie restraints on bare skin, latex rubber hog tie bondage, head harness ball gag trainer, heavy fondling, sexual harassment, and behavior modification therapy that will make her a compliant little fuck toy. That hot body will make a great cum receptacle. And she's got a pretty little mouth, a nice tight pussy, and a super taught little anal sphincter that needs a poppin.",
     categoryid: '1322',
     keywords:
-      'BLONDES, SPANKING, DUCT TAPE FETISH, BALLGAGGED, BONDAGE     Alone in Her Hotel Room, Abbey, pzv113, cf, inspection, strict, caning, zip tie, latex rubber, head harness, fondling, submission, behavior modification, submission, Master slave',
+      'BLONDES, SPANKING, DUCT TAPE FETISH, BALLGAGGED, BONDAGE     Alone in Her Hotel Room, Abbey, pzv113, cf, chloroform inspection, strict, caning, zip tie, latex rubber, head harness, fondling, submission, behavior modification, submission, Master slave',
     price: '34.99',
     date: '2018-06-08 07:43:12',
     name: 'pzv113_1.mp4',
@@ -1175,9 +1261,10 @@ export default [
   },
   {
     id: '19747415',
-    title: 'pzv069  Cheerleader Training Camp',
+    pz_code: 'PZV069',
+    title: 'Cheerleader Training Camp',
     description:
-      'Starring 18 year old Angelica. Cheerleader on her way home from training is captured, zipped up and taken for a ride. The ride includes being hooded and gagged, hogtied and whipped, leather strapped, fondled, neck roped and humiliated into subservience. Forced stripping, strict bondage and hard discipline will prepare her to cheer up those horny fans the way they need cheered up! Hot little clear white body on this bondage bundled fuck toy. PZV069',
+      'Starring 18 year old Angelica. Cheerleader on her way home from training is captured, zipped up and taken for a ride. The ride includes being hooded and gagged, hogtied and whipped, leather strapped, fondled, neck roped and humiliated into subservience. Forced stripping, strict bondage and hard discipline will prepare her to cheer up those horny fans the way they need cheered up! Hot little clear white body on this bondage bundled fuck toy.',
     categoryid: '31',
     keywords:
       'CHEERLEADERS, HUMILIATION, BALLGAGGED, FORCED STRIPPING, WHIPPING     Cheerleader Training Camp, angelica, pzv069, zip tie, hoods, hogtie, leather strap, fondling, neck rope, slave training, strict bondage, hard discipline, fuck toy, capture, struggling',
@@ -1192,9 +1279,10 @@ export default [
   },
   {
     id: '19736389',
-    title: 'PZV031  Keri & Alma',
+    pz_code: 'PZV031',
+    title: 'Keri & Alma',
     description:
-      "Keri, stripper for hire, goes to dance at a strange man's house and ends up enslaved in bondage. Strict bondage and discipline will teach her a trick or two. Then Alma... napping beauty... awakens only briefly in a moment of panic... then back to slumber for handcuffs... waking up to ball gag... strict head harness and deep throat trainer bit to make her gag in hogtie distress. Then down on her knees to service Master cock with the aid of the nose hook. Classic early Powershotz footage. 1:34 long plus 10 minutes of previews. Preview PZV031",
+      "Keri, stripper for hire, goes to dance at a strange man's house and ends up enslaved in bondage. Strict bondage and discipline will teach her a trick or two. Then Alma... napping beauty... awakens only briefly in a moment of panic... then back to slumber for handcuffs... waking up to ball gag... strict head harness and deep throat trainer bit to make her gag in hogtie distress. Then down on her knees to service Master cock with the aid of the nose hook. Classic early Powershotz footage. 1:34 long plus 10 minutes of previews. ",
     categoryid: '1322',
     keywords:
       'STRIPPERS, LIMP FETISH, BALLGAGGED, BONDAGE     pzv031, pov, keri, alma, discipline, handcuffs, head harness, deep throat, gagging, hogtie, distress, knees, nosehook, blowjob, limp',
@@ -1202,6 +1290,7 @@ export default [
     date: '2018-06-02 10:58:10',
     name: 'pzv031_1.mp4',
     image: 'pzv031cat.jpg',
+    poster: 'pzv031coverad.jpg',
     displayorder: '1864',
     length: '01:59:11',
     resolution: '1440x1080',
@@ -1209,9 +1298,10 @@ export default [
   },
   {
     id: '19725877',
-    title: 'PZV117  Private Security',
+    pz_code: 'PZV117',
+    title: 'Private Security',
     description:
-      "Andi and Shelby are caught shop lifting by mall security. But the cops are never called. The security guards find the two young thieves to be in immediate need of correction. They are cuffed to the floor board and driven into the country for a quick and effective punishment regimen that will insure that they'll never again stray from the straight and narrow. Bottom spanking, stripping, domination, ball gag, rough rope up and riding crop are combined with efficient mental domination to correct their behavior. In the end they are left tied up naked on the side of the road...their clothes are thrown out... and they are left to get loose... get dressed... and go free. Their relationship changed forever. Next we find Audrey and Abbey chained in the basement in a small room. They are led upstairs where Audrey is handcuffed nude to a chair and forced to watch and wait her turn while Abbey is savaged on the bed before her. PZV117",
+      "Andi and Shelby are caught shop lifting by mall security. But the cops are never called. The security guards find the two young thieves to be in immediate need of correction. They are cuffed to the floor board and driven into the country for a quick and effective punishment regimen that will insure that they'll never again stray from the straight and narrow. Bottom spanking, stripping, domination, ball gag, rough rope up and riding crop are combined with efficient mental domination to correct their behavior. In the end they are left tied up naked on the side of the road...their clothes are thrown out... and they are left to get loose... get dressed... and go free. Their relationship changed forever. Next we find Audrey and Abbey chained in the basement in a small room. They are led upstairs where Audrey is handcuffed nude to a chair and forced to watch and wait her turn while Abbey is savaged on the bed before her. ",
     categoryid: '222',
     keywords:
       'SPANKING, BALLGAGGED, FORCED STRIPPING, ROPE BONDAGE, DOMINATION     riding crop, capture, mind fuck, punishment, discipline, ass smacking, andi, shelby, abby, audrey, slave training, handcuffs, chains, pzv117, private security',
@@ -1226,9 +1316,10 @@ export default [
   },
   {
     id: '19720373',
-    title: 'PZV057  Two Tarts Topped',
+    pz_code: 'PZV057',
+    title: 'Two Tarts Topped',
     description:
-      'Two first time under 20 somethings star in this snatch and grab, strip and bind, slap and gag slave training flick. 18 year old Angelica, scared and embarrassed cheerleader, is man handled bitch stripped and dominated into handcuffed obedience, then ball gagged, riding cropped, leg ironed, and hog cuffed on the table to wait for hard dick to light her up. Next we find hot little bikini babe Natalia going door to door trying to sell products when a potential customer offers her a job doing some modeling. Of course it required her being grabbed, stripped, dominated, spanked, handcuffed and gagged to get her to cooperate. She is cuffed overhead and hoisted, cropped and spun around. That long lithe body stretched out nice and tight. Then she is hung spread eagle from the hanging rack, transferred to whipping post where she is locked in and harness gagged, nipple clamped and collared. Finally she is stood up at the whipping post and reduced to tears with strict discipline and a stifling ball gag. When she begs for cock she will be taken down. If you are into scared first time bondage and super hot tattoo free bodies this flick is for you. Already a classic... PZV057',
+      'Two first time under 20 somethings star in this snatch and grab, strip and bind, slap and gag slave training flick. 18 year old Angelica, scared and embarrassed cheerleader, is man handled bitch stripped and dominated into handcuffed obedience, then ball gagged, riding cropped, leg ironed, and hog cuffed on the table to wait for hard dick to light her up. Next we find hot little bikini babe Natalia going door to door trying to sell products when a potential customer offers her a job doing some modeling. Of course it required her being grabbed, stripped, dominated, spanked, handcuffed and gagged to get her to cooperate. She is cuffed overhead and hoisted, cropped and spun around. That long lithe body stretched out nice and tight. Then she is hung spread eagle from the hanging rack, transferred to whipping post where she is locked in and harness gagged, nipple clamped and collared. Finally she is stood up at the whipping post and reduced to tears with strict discipline and a stifling ball gag. When she begs for cock she will be taken down. If you are into scared first time bondage and super hot tattoo free bodies this flick is for you. Already a classic...',
     categoryid: '1322',
     keywords:
       'BONDAGE, CHEERLEADERS, 18 & 19 YRS OLD, FORCED STRIPPING, HANDCUFF AND SHACKLE FETISH     capture, handcuff, submission, ballgagged, two tarts topped, humiliation, suspension, whipping post, harness gag, nipple clamps, collars, crying, natalia, angelica, pzv057',
@@ -1243,9 +1334,10 @@ export default [
   },
   {
     id: '19716833',
-    title: 'PZV087  Third Times a Charm',
+    pz_code: 'PZV087',
+    title: 'Third Times a Charm',
     description:
-      'First Gina, then Joanna are grabbed in a parking garage. They are stripped nude, fondled, forced to submit and handcuffed. He takes them to his lair, where he strictly binds and disciplines the young girls. Using riding crop, bare handed spanking, bondage and ball gags, he breaks them down and tenderizes them. Gina is sold, while Joanna is kept for further slave training. Which includes strict hog tie, ball gag and nose hook discipline. Brooke is then brought in kicking and struggling. She too is stripped, looked over, bound, whipped, and fondled. She is hog tied, ball gagged, crotch roped, butt spanked and disciplined until broken. 1:35 minutes of abduction and slave training fantasy including previews of other Powershotz productions. This is kick ass stuff!  PZV087',
+      'First Gina, then Joanna are grabbed in a parking garage. They are stripped nude, fondled, forced to submit and handcuffed. He takes them to his lair, where he strictly binds and disciplines the young girls. Using riding crop, bare handed spanking, bondage and ball gags, he breaks them down and tenderizes them. Gina is sold, while Joanna is kept for further slave training. Which includes strict hog tie, ball gag and nose hook discipline. Brooke is then brought in kicking and struggling. She too is stripped, looked over, bound, whipped, and fondled. She is hog tied, ball gagged, crotch roped, butt spanked and disciplined until broken. 1:35 minutes of abduction and slave training fantasy including previews of other Powershotz productions. This is kick ass stuff!',
     categoryid: '463',
     keywords:
       'DOMINATION, BALLGAGGED, SPANKING, SUBMISSIVE / SLAVE TRAINING, BONDAGE     Third Times a Charm, pzv087, gina, joanna, brooke, fondling, discipline, riding crop, handcuffs, struggling, hogtie, kicking, nose hook, whipping',
@@ -1253,6 +1345,7 @@ export default [
     date: '2018-05-29 16:19:49',
     name: 'pzv087_1.mp4',
     image: 'pzv087cat.jpg',
+    poster: 'pzv087coverad.jpg',
     displayorder: '1867',
     length: '01:56:05',
     resolution: '1440x1080',
@@ -1260,9 +1353,10 @@ export default [
   },
   {
     id: '19711925',
-    title: 'PZV119  Second Interview',
+    pz_code: 'PZV119',
+    title: 'Second Interview',
     description:
-      'Two little hotties were called back for a second interview and informed that they had the job. They were sent to the bathroom to collect a urine sample for testing. When they emerged, they were greeted by the new boss and put to work immediately. Sadly they failed to read the fine print which would have informed them that their "new positions" meant "new sexual positions of sexual servitude." Oh well you live and learn the hard way in business. And there is nothing like a hard glass lubricated rod preparing a virgin ass for frequent pounding to learn that lesson. Being bound, ball gagged, butt slapped, deep throat trained, forced to position your body for sex or display and fucked frequently in the mouth, pussy or ass are additional requirements of the job but on the plus side it pays pretty well. Shelena is brought to an awesome orgasm under the careful pressure applied by Bryce on her clitoris with a powerful vibrating probe... and Bryce is broken in with a vibrating probe anal training after laughing and calling the Master a pussy. For which she is right and soundly bare handed on that tight little butt. In the end Shelena is made to bark like a dog. Nice first day on the job! This video is one you will not want to miss! PZV119',
+      'Two little hotties were called back for a second interview and informed that they had the job. They were sent to the bathroom to collect a urine sample for testing. When they emerged, they were greeted by the new boss and put to work immediately. Sadly they failed to read the fine print which would have informed them that their "new positions" meant "new sexual positions of sexual servitude." Oh well you live and learn the hard way in business. And there is nothing like a hard glass lubricated rod preparing a virgin ass for frequent pounding to learn that lesson. Being bound, ball gagged, butt slapped, deep throat trained, forced to position your body for sex or display and fucked frequently in the mouth, pussy or ass are additional requirements of the job but on the plus side it pays pretty well. Shelena is brought to an awesome orgasm under the careful pressure applied by Bryce on her clitoris with a powerful vibrating probe... and Bryce is broken in with a vibrating probe anal training after laughing and calling the Master a pussy. For which she is right and soundly bare handed on that tight little butt. In the end Shelena is made to bark like a dog. Nice first day on the job! This video is one you will not want to miss! ',
     categoryid: '1322',
     keywords:
       '18 & 19 YRS OLD, CORPORAL PUNISHMENT, BONDAGE, ANAL, FORCED STRIPPING     anal training, humiliation, bryce, shelena, pzv119, second interview, discipline, brunette, two girls, barking',
@@ -1270,6 +1364,7 @@ export default [
     date: '2018-05-28 16:18:24',
     name: 'pzv119_1.mp4',
     image: 'pzv119cat.jpg',
+    poster: 'pzv119coverad.jpg',
     displayorder: '1868',
     length: '01:58:00',
     resolution: '1440x1080',
@@ -1277,12 +1372,13 @@ export default [
   },
   {
     id: '19706657',
-    title: 'PZV129  Home Invasion!',
+    pz_code: 'PZV129',
+    title: 'Home Invasion!',
     description:
-      "Three first time bondagettes star in this home invasion fantasy. A stranger boldly enters Jennifer's house and bedroom where he overpowers her as she is preparing for a night out on the town. Now she'll be staying in... stripped, bound, ball gagged, and disciplined. Nice legs! Then first timer Maria... scared and embarrassed as an intruder cuffs her, then puts her down. She is taken to his lair and cuffed arms overhead, stripped nude, dominated and fondled, then gagged, nose hooked and spanked. Finally Toni... waking up to leg kicking, rag held over mouth panic... and waking up again... this time roped to the post and head harnessed. Her nipples are clamped and she is forced to squeal... she is cropped and titty slapped... then taken to bed to be fully enjoyed at his leisure. Great first timer reality reactions in this one! Over 1:40 long.  PZV129",
+      "Three first time bondagettes star in this home invasion fantasy.  A stranger boldly enters Jennifer's house and bedroom where he overpowers her as she is preparing for a night out on the town.  Now she'll be staying in... stripped, bound, ball gagged, and disciplined.  Nice legs!  Then first timer Maria... scared and embarrassed as an intruder cuffs her, then chloroforms her.  She is taken to his lair and cuffed overhead, stripped nude, dominated and fondled, then gagged, nose hooked and spanked.  Finally Toni... waking up to leg kicking chloroform panic... and waking up again... this time roped to the post and head harnessed.  Her nipples are clamped... she is cropped... then broken... taken to bed.  Great first timer reality reactions in this one!  Over 1:40 long.",
     categoryid: '463',
     keywords:
-      'BONDAGE, HANDCUFF AND SHACKLE FETISH, BALLGAGGED, DOMINATION, HUMILIATION     intruder, discipline, cf, fondling, nose hook, spanking, head harness, nipple clamps, cropping, home invasion, pzv129, jennifer, maria2, maria, toni',
+      'BONDAGE, HANDCUFF AND SHACKLE FETISH, BALLGAGGED, DOMINATION, HUMILIATION     intruder, discipline, cf, chloroform fondling, nose hook, spanking, head harness, nipple clamps, cropping, home invasion, pzv129, jennifer, maria2, maria, toni',
     price: '34.99',
     date: '2018-05-27 16:52:08',
     name: 'pzv129_1.mp4',
@@ -1294,9 +1390,10 @@ export default [
   },
   {
     id: '19696307',
-    title: 'PZV015  Rag Dolled Red',
+    pz_code: 'PZV015',
+    title: 'Rag Dolled Red',
     description:
-      'Gorgeous 18 yo Gabby in her virgin bondage appearance. No genital contact in this video. Only pure hard assed domination of that incredible body, struggle strip take down, CF bedtime story, school girl spank and hog cuff. Leg kicking, back arching, body writhing, squealing, moaning funk. PZV015',
+      'Gorgeous 18 yo Gabby in her virgin bondage appearance. No genital contact in this video. Only pure hard assed domination of that incredible body, struggle strip take down, chloroform bedtime story, school girl spank and hog cuff. Leg kicking, back arching, body writhing, squealing, moaning funk.',
     categoryid: '31',
     keywords:
       'STRUGGLING, SPANKING, FORCED STRIPPING, SCHOOL UNIFORM, DOMINATION     Gabby, virgin, bondage, hog cuff, kicking, squealing, moaning, Rag Dolled Red, pzv015, schoolgirl, powershotz, redhead, back arch, writhing',
@@ -1311,9 +1408,10 @@ export default [
   },
   {
     id: '19691617',
-    title: 'PZV109  Dynamite Damsels',
+    pz_code: 'PZV109',
+    title: 'Dynamite Damsels',
     description:
-      'Starring Beth, Lee, and Victoria. Awesome chase down and capture of Victoria, then tied up, dominated, hog tied on the table. Big breasted Lee strictly hog cuffed and big balled, arms over head dominated, Supermodel Beth in sexy negligee... dominated hog tied and ball gagged. This video is a body display delight. PZV109',
+      'Starring Beth, Lee, and Victoria. Awesome chase down and capture of Victoria, then tied up, dominated, hog tied on the table. Big breasted Lee strictly hog cuffed and big balled, arms over head dominated, Supermodel Beth in sexy negligee... dominated hog tied and ball gagged. This video is a body display delight.',
     categoryid: '4',
     keywords:
       'DOMINATION, LINGERIE, BIG TITS, DAMSEL IN DISTRESS, BALLGAGGED     chase, capture, hogtie, hogcuff, lingerie, negligee, beth, lee, victoria, pzv109, dynamite damsels, damsel, powershotz, rope',
@@ -1321,6 +1419,7 @@ export default [
     date: '2018-05-24 12:57:36',
     name: 'pzv109_1.mp4',
     image: 'pzv109cat.jpg',
+    poster: 'pzv109coverad.jpg',
     displayorder: '1871',
     length: '01:54:07',
     resolution: '1440x1080',
@@ -1328,9 +1427,10 @@ export default [
   },
   {
     id: '19686971',
-    title: 'PZV099  Penitent Posers',
+    pz_code: 'PZV099',
+    title: 'Penitent Posers',
     description:
-      "Finding good bondage models often requires a little extra effort. In part I, Lexi is chained about the neck and forced to endure steel bondage until she agrees to pose nude. After leg irons and ball gag are applied for a sufficient time period she reluctantly agrees. Under the condition that she be allowed to go free after. The photographer agrees... she poses nude... and he fulfills his promise, by leaving her the key... in a block of ice. Poor Lexi must now use her naked body to melt that huge chunk of ice. In part II, Lean and muscular Lee shows up for a business interview, only when she gets there, she finds out that the job is bondage modeling. She also discovers that she has the job... and that whether she likes it or not... she's going to play sex slave for the Master. Hot business girl bondage scene with big fat ball gag to stuff that big eyed face. PZV099",
+      "Finding good bondage models often requires a little extra effort. In part I, Lexi is chained about the neck and forced to endure steel bondage until she agrees to pose nude. After leg irons and ball gag are applied for a sufficient time period she reluctantly agrees. Under the condition that she be allowed to go free after. The photographer agrees... she poses nude... and he fulfills his promise, by leaving her the key... in a block of ice. Poor Lexi must now use her naked body to melt that huge chunk of ice. In part II, Lean and muscular Lee shows up for a business interview, only when she gets there, she finds out that the job is bondage modeling. She also discovers that she has the job... and that whether she likes it or not... she's going to play sex slave for the Master. Hot business girl bondage scene with big fat ball gag to stuff that big eyed face. ",
     categoryid: '4',
     keywords:
       'HANDCUFF AND SHACKLE FETISH, STRUGGLING, SUBMISSIVE / SLAVE TRAINING, DOMINATION, BALLGAGGED     PZV099, Penitent Posers, lexi, lee, powershotz, chains, steel bondage, nude modeling, ice, capture, sex slave, Master slave, discipline, punish, predicament',
@@ -1338,6 +1438,7 @@ export default [
     date: '2018-05-23 14:36:50',
     name: 'pzv099_1.mp4',
     image: 'pzv099cat.jpg',
+    poster: 'pzv099coverad.jpg',
     displayorder: '1872',
     length: '01:55:46',
     resolution: '1440x1080',
@@ -1345,9 +1446,10 @@ export default [
   },
   {
     id: '19685359',
-    title: 'PZV098 6 Pack of Bondage',
+    pz_code: 'PZV098',
+    title: '6 Pack of Bondage',
     description:
-      "Six gorgeous models are featured in this kick ass adventure. Two garage scene captures with bitch stripping (Lana and Victoria). Bondage mama Beth is ball gagged, dominated hard in steel cuff bondage and given a good firm spanking. American Indian Anna is leathered up and ball gag trainer harnessed. Lana is whipped at the post in one of the best shocking spank scenes ever, then black slave Mahoghani is benched doggie style, ball gagged and butt slapped. Finally one of the best school girl bondage, spanking and domination scenes ever with cutie faced Page. Spanked hard and forced into submission for failing a test. This flick has got it all. Don't miss it! PZV098",
+      "Six gorgeous models are featured in this kick ass adventure.  Two garage scene abductions with bitch stripping (Lana and Victoria).  Bondage mama Beth is ball gagged, dominated hard in steel cuff bondage and given a good firm spanking.  American Indian Anna is leathered up and ball gag trainer harnessed.  Lana is whipped at the post in one of the best shocking spank scenes ever, then black slave Mahoghani is benched doggie style, ball gagged and butt slapped. Finally one of the best school girl bondage, spanking and domination scenes ever with cutie faced Page.  Spanked hard and forced into submission for failing a test.  This flick has got it all.  Don't miss it!",
     categoryid: '463',
     keywords:
       'BALLGAGGED, LEATHER, HANDCUFF AND SHACKLE FETISH, WHIPPING, SPANKING     schoolgirl, domination, submission, slave training, punishment, pzv098, 6 pack of bondage, lana, victoria, beth, anna, mahoghani, page, capture, bondage',
@@ -1355,6 +1457,7 @@ export default [
     date: '2018-05-23 08:59:46',
     name: 'pzv098_1.mp4',
     image: 'pzv098cover.jpg',
+    poster: 'pzv098coverad.jpg',
     displayorder: '1873',
     length: '01:34:00',
     resolution: '1440x1080',
@@ -1362,9 +1465,10 @@ export default [
   },
   {
     id: '19685105',
-    title: 'PZV121  Repressed Desire',
+    pz_code: 'PZV121',
+    title: 'Repressed Desire',
     description:
-      "Two hot young girls are taken to be shown the ropes and groped before pokin. In part one, an invader enters Lexis Lane's home and takes her into custody. She is roped up, slapped up bound and dominated in legendary fashion. Wrist to ankle ass up then taken upstairs to be chair tied and nipple clamped, spread eagle wire racked, crotch roped arms over head frog legged, and hog roped on the arch. In part two, Lexis and Shelby are anal trained. First Lexis on the discipline bench takes a digit in her virgin ass, then Shelby is given special attention in a face down spread eagle cuff with vibrator penetration of her pussy and anus, followed by a discipline bench anal penetration. Awesome squealing and moaning! Their smooth round bottoms are lubricated and penetrated in dominating fashion. Their facial expressions reveal the depth of their submission as they are bottom slapped and internally stimulated. Preview PZV121",
+      "Two hot young girls are taken to be shown the ropes and groped before pokin. In part one, an invader enters Lexis Lane's home and takes her into custody. She is roped up, slapped up bound and dominated in legendary fashion. Wrist to ankle ass up then taken upstairs to be chair tied and nipple clamped, spread eagle wire racked, crotch roped arms over head frog legged, and hog roped on the arch. In part two, Lexis and Shelby are anal trained. First Lexis on the discipline bench takes a digit in her virgin ass, then Shelby is given special attention in a face down spread eagle cuff with vibrator penetration of her pussy and anus, followed by a discipline bench anal penetration. Awesome squealing and moaning! Their smooth round bottoms are lubricated and penetrated in dominating fashion. Their facial expressions reveal the depth of their submission as they are bottom slapped and internally stimulated.",
     categoryid: '3',
     keywords:
       'BONDAGE, SUBMISSIVE / SLAVE TRAINING, ANAL, SPANKING, VIBRATOR     wrist to ankle, nipple clamps, spread eagle, wire rack, crotch rope, hog roped, anal training, discipline, blondes, pzv121, repressed desire, powershotz, shelby, lexis lane, struggling',
@@ -1379,9 +1483,10 @@ export default [
   },
   {
     id: '19682467',
-    title: 'PZV078  A Triflings Trepidation',
+    pz_code: 'PZV078',
+    title: 'A Triflings Trepidation',
     description:
-      "It begins when our cute, innocent coed Jessy is grabbed off the street, wire bound and gagged for a ride. She is hooded and taken to his lair where she is roped to the post, fondled, mouth stuffed and strictly gagged. Her taught leg muscles nearly bursting from those too tight jeans as her gag reflex causes lubricant to flow. Over the stool whipping, taught rope bondage and strict nude hog tie with latex tubing. Nose hook and ball gag await. In the end a blindfold and heavy hang man's noose about the neck convince the young girl that she won't be walking the streets alone at night in dark neighborhoods again. This trifling needed some serious trepidation to set her head on straight. Preview PZV078",
+      "It begins when our cute, innocent coed Jessy is grabbed off the street, wire bound and gagged for a ride. She is hooded and taken to his lair where she is roped to the post, fondled, mouth stuffed and strictly gagged. Her taught leg muscles nearly bursting from those too tight jeans as her gag reflex causes lubricant to flow. Over the stool whipping, taught rope bondage and strict nude hog tie with latex tubing. Nose hook and ball gag await. In the end a blindfold and heavy hang man's noose about the neck convince the young girl that she won't be walking the streets alone at night in dark neighborhoods again. This trifling needed some serious trepidation to set her head on straight.",
     categoryid: '3',
     keywords:
       '18 & 19 YRS OLD, BLINDFOLDS, BONDAGE, WHIPPING, BALLGAGGED     pzv078, a triflings trepidation, jessy, powershotz, wire bondage, hoods, whipping post, fondling, mouth stuffing, gag reflex, whipping, gagging, latex tubing, nosehook, hogtie',
@@ -1396,9 +1501,10 @@ export default [
   },
   {
     id: '19674845',
-    title: 'PZV106  Hard Ass Discipline',
+    pz_code: 'PZV106',
+    title: 'Hard Ass Discipline',
     description:
-      'It begins with Lexis Lane and Ally zip tied and gagged in the back of the van on their way to the captors lair. Then Lexis is singled out for punishment. She is dominated using riding crop, leather belt, nylon rope, latex tubing, electrical wire, cleave gag and ball gag. She is forced to strip, man handled to look her over, constrict that neck, slap that face and fine ass, and feel up those massive hooters. She gets bound bent over the stool for a nice hard spanking and belt whipping. She gets put up on the table to be wired up and get that ass up where it can be examined in detail with her hands out of the way. Bound in latex rubber tubing and forced to struggle. Bound in hog tied position and gagged to wear herself out so when the fun is over she will be compliant when the Master decides to have a good time using that hot cheerleader body for its intended purpose... breeding! This one will throw attractive offspring for future generations to fuck. PZV106',
+      'It begins with Lexis Lane and Ally zip tied and gagged in the back of the van on their way to the captors lair. Then Lexis is singled out for punishment. She is dominated using riding crop, leather belt, nylon rope, latex tubing, electrical wire, cleave gag and ball gag. She is forced to strip, man handled to look her over, constrict that neck, slap that face and fine ass, and feel up those massive hooters. She gets bound bent over the stool for a nice hard spanking and belt whipping. She gets put up on the table to be wired up and get that ass up where it can be examined in detail with her hands out of the way. Bound in latex rubber tubing and forced to struggle. Bound in hog tied position and gagged to wear herself out so when the fun is over she will be compliant when the Master decides to have a good time using that hot cheerleader body for its intended purpose... breeding! This one will throw attractive offspring for future generations to fuck.',
     categoryid: '1322',
     keywords:
       'BONDAGE, DOMINATION, 18 & 19 YRS OLD, STRUGGLING, DAMSEL IN DISTRESS     ally, lexis lane, lexis, powershotz, pzv106, hard ass discipline',
@@ -1406,6 +1512,7 @@ export default [
     date: '2018-05-21 12:14:33',
     name: 'pzv106_1.mp4',
     image: 'pzv106cat.jpg',
+    poster: 'pzv106coverad.jpg',
     displayorder: '1870',
     length: '01:54:56',
     resolution: '1440x1080',
@@ -1413,9 +1520,10 @@ export default [
   },
   {
     id: '19670959',
-    title: 'PZV073  Two Bondagettes',
+    pz_code: 'PZV073',
+    title: 'Two Bondagettes',
     description:
-      'Two of the hottest first timers ever tied up and dominated into submission. 18 year old Kylie... beautiful blonde with slender wrists and ankles... hemp roped and hogged... Jerzi... one hot 18 year old dynamite babe, glamour girl face... elbow cuffed and ball gagged. Certified bondage virgins feeling the bite of the cuff... and biting on ball... Slave Trainable and Fuckable! A Collectors Classic! PZV073',
+      'Two of the hottest first timers ever tied up and dominated into submission. 18 year old Kylie... beautiful blonde with slender wrists and ankles... hemp roped and hogged... Jerzi... one hot 18 year old dynamite babe, glamour girl face... elbow cuffed and ball gagged. Certified bondage virgins feeling the bite of the cuff... and biting on ball... Slave Trainable and Fuckable! A Collectors Classic! ',
     categoryid: '31',
     keywords:
       'DOMINATION, ROPE BONDAGE, SUBMISSIVE / SLAVE TRAINING, BALLGAGGED, BLONDES     hemp rope, hogtie, elbow cuff, virgin, slave training, bondage, jerzi, kylie, powershotz, pzv073, two bondagettes, discipline, struggling, first time, brunette',
@@ -1430,9 +1538,10 @@ export default [
   },
   {
     id: '19665391',
-    title: 'PZV096  Page Turner',
+    pz_code: 'PZV096',
+    title: 'Page Turner',
     description:
-      'It starts with our sweet young Page just walking down the street when she is stalked by a dark man. She enters a building to evade him, and runs straight into his counterpart. Pickled between the two men, she is lifted bodily and carried in. They hold her down on the table, and tear her clothing away, using it to bind her legs. Her panties are torn away... and she is butt-slapped, oiled, dominated, hog tied, and spun on the slippery table like a top. Then she is bound in steel wire standing full spread eagle. Completely nude and begging. Next we find lovely Lexi, bound in steel wire on a bare mattress... she is fondled, dominated, bound spread eagle, and duct tape gagged. She is turned over, and made fully aware of her vulnerability to intercourse. Finally, young black model Mahoghani is shocked by the intensity of a bondage shoot as she is stripped nude, forced to position her body, tied up... and ball gagged with a big pink ball. Awesome black body! PZV096',
+      'It starts with our sweet young Page just walking down the street when she is stalked by a dark man. She enters a building to evade him, and runs straight into his counterpart. Pickled between the two men, she is lifted bodily and carried in. They hold her down on the table, and tear her clothing away, using it to bind her legs. Her panties are torn away... and she is butt-slapped, oiled, dominated, hog tied, and spun on the slippery table like a top. Then she is bound in steel wire standing full spread eagle. Completely nude and begging. Next we find lovely Lexi, bound in steel wire on a bare mattress... she is fondled, dominated, bound spread eagle, and duct tape gagged. She is turned over, and made fully aware of her vulnerability to intercourse. Finally, young black model Mahoghani is shocked by the intensity of a bondage shoot as she is stripped nude, forced to position her body, tied up... and ball gagged with a big pink ball. Awesome black body! ',
     categoryid: '463',
     keywords:
       'BONDAGE, DOMINATION, 18 & 19 YRS OLD, BALLGAGGED, SPANKING     page, lexi, mahoghani, PZV096, Page Turner, powershotz, carry, hogtie, steel wire bondage, spread eagle, begging, fondling, duct tape, damsel in distress, punishment',
@@ -1440,6 +1549,7 @@ export default [
     date: '2018-05-19 10:28:56',
     name: 'pzv096_1.mp4',
     image: 'pzv096cat.jpg',
+    poster: 'pzv096coverad.jpg',
     displayorder: '1872',
     length: '01:53:41',
     resolution: '1440x1080',
@@ -1447,9 +1557,10 @@ export default [
   },
   {
     id: '19661237',
-    title: 'PZV103 Strippers Repent',
+    pz_code: 'PZV103',
+    title: 'Strippers Repent',
     description:
-      "Stripper Lexi is coming home from work and is grabbed as she exits her car, she is thrown into a van and taken to a strange place, where she is forced to do a little strip tease in private. Only problem is that she won't be getting paid for this gig. She'll be taught a lesson instead. Using domination, corporal punishment, arm binders, nipple clamps, a vibrating crotch rope, and heavy handed tactics, her captor convinces her to seek other career options. In scene two, bondage first-timer Ally, only 18 years old, is taken through a very strict elbow cinching, crotch rope hog tie with ball gag and nose hook. Those fine white thighs look fantastic as she struggles her virgin ass off in strict rope bondage. Heavy fondling and domination top this bitch off. PZV103",
+      "Stripper Lexi is coming home from work and is grabbed as she exits her car, she is thrown into a van and taken to a strange place, where she is forced to do a little strip tease in private. Only problem is that she won't be getting paid for this gig. She'll be taught a lesson instead. Using domination, corporal punishment, arm binders, nipple clamps, a vibrating crotch rope, and heavy handed tactics, her captor convinces her to seek other career options. In scene two, bondage first-timer Ally, only 18 years old, is taken through a very strict elbow cinching, crotch rope hog tie with ball gag and nose hook. Those fine white thighs look fantastic as she struggles her virgin ass off in strict rope bondage. Heavy fondling and domination top this bitch off.",
     categoryid: '3',
     keywords:
       'STRIPPERS, DAMSEL IN DISTRESS, 18 & 19 YRS OLD, FORCED STRIPPING, CORPORAL PUNISHMENT     arm binder, nipple clamps, crotch rope, punishment, elbow cinching, hogtie, nose hook, struggling, rope bondage, bondage, fondling, lexi, ally, PZV103, Strippers Repent',
@@ -1464,12 +1575,13 @@ export default [
   },
   {
     id: '19653311',
-    title: 'PZV021  Katherine - Taken and Bound',
+    pz_code: 'PZV021',
+    title: 'Katherine - Taken and Bound',
     description:
-      'Red-headed sportster Katherine showed a little too much lily white thigh meat and will end up laid out naked in a strict hog tie with a taught crotch rope splitting her soaking wet pussy while it rubs hard against her puckering anus before this disciplinary action is complete. Mouth stuffing, forced stripping, over the stool spanking, neck restriction hang up and riding crop domination are required to facilitate the breaking of the bitch. Get this one off the street and fuck her pregnant before she runs off. PZV021',
+      'Red-headed sportster Katherine showed a little too much lily white thigh meat and will end up laid out naked in a strict hog tie with a taught crotch rope splitting her soaking wet pussy while it rubs hard against her puckering anus before this disciplinary action is complete. Mouth stuffing, forced stripping, over the stool spanking, neck restriction hang up and riding crop domination are required to facilitate the breaking of the bitch. Get this one off the street and fuck her pregnant before she runs off.',
     categoryid: '463',
     keywords:
-      'SPANKING, REDHEADS, WHIPPING, BONDAGE, DOMINATION     hogtie, crotch rope, discipline, mouth stuffing, neck restriction, riding crop, over the stool spanking, PZV021, Katherine, Abd***ed and Bound, powershotz, damsel in distress, bdsm, gagging, tickling',
+      'SPANKING, REDHEADS, WHIPPING, BONDAGE, DOMINATION     hogtie, crotch rope, discipline, mouth stuffing, neck restriction, riding crop, over the stool spanking, PZV021, Katherine, Abducted and Bound, powershotz, damsel in distress, bdsm, gagging, tickling',
     price: '34.99',
     date: '2018-05-17 09:26:31',
     name: 'pzv021_1.mp4',
@@ -1481,9 +1593,10 @@ export default [
   },
   {
     id: '19649413',
-    title: 'PZV037  Rayne Dance',
+    pz_code: 'PZV037',
+    title: 'Rayne Dance',
     description:
-      "Starring knockout Rayne as an outcall stripper who believes her client when he explains to her that the hood is to protect his celebrity status. Only problem is he plans to take her captive and bitch strip, cuff, rope, nipple clamp, spank and crotch rope the little horn dog so she can be kept till after work. Then Jasmyne... snooping around in a bondage studio where she's got no business. Surprised when she finds herself being bitch stripped and dominated into submission. Perhaps now its time to find out what that gear is all about. Rayne's body is just downright breedable. Preview PZV037",
+      "Starring knockout Rayne as an outcall stripper who believes her client when he explains to her that the hood is to protect his celebrity status. Only problem is he plans to take her captive and bitch strip, cuff, rope, nipple clamp, spank and crotch rope the little horn dog so she can be kept till after work. Then Jasmyne... snooping around in a bondage studio where she's got no business. Surprised when she finds herself being bitch stripped and dominated into submission. Perhaps now its time to find out what that gear is all about. Rayne's body is just downright breedable.",
     categoryid: '463',
     keywords:
       'HANDCUFF AND SHACKLE FETISH, SPANKING, ROPE BONDAGE, 18 & 19 YRS OLD, NIPPLE PLAY     crotch rope, domination, submission, bondage gear, PZV037, Rayne Dance, Powershotz, rayne, jasmyne, captivity, bdsm, stripper, struggling, whipping, bitch strip',
@@ -1498,9 +1611,10 @@ export default [
   },
   {
     id: '19642741',
-    title: 'PZV005  Jan & Magdelena',
+    pz_code: 'PZV005',
+    title: 'Jan & Magdelena',
     description:
-      "In part I, Jan shows up to cater a party, and ends up the main course in a private party that she hadn't planned. Bitch stripped and dominated into bondage, she is placed in strict arm binder with training collar, nipple clamped... and forced to straddle a tight rope that splits her vulva and ass. Cute little turned up nose on this hottie. In part II, one of the hottest models ever to pose in bondage, Magdelena, traditionally a high fashion and glamour model, poses in strict bondage. Incredible legs, tits, ass, and that submissive face. This gal deserves it... and gets it. Hog cuff, strappado, steel cuffed to chair, ball gagged, and blue jean shorts roped up submissive. Incredible stuff! PZV005",
+      "In part I, Jan shows up to cater a party, and ends up the main course in a private party that she hadn't planned. Bitch stripped and dominated into bondage, she is placed in strict arm binder with training collar, nipple clamped... and forced to straddle a tight rope that splits her vulva and ass. Cute little turned up nose on this hottie. In part II, one of the hottest models ever to pose in bondage, Magdelena, traditionally a high fashion and glamour model, poses in strict bondage. Incredible legs, tits, ass, and that submissive face. This gal deserves it... and gets it. Hog cuff, strappado, steel cuffed to chair, ball gagged, and blue jean shorts roped up submissive. Incredible stuff!",
     categoryid: '463',
     keywords:
       'DOMINATION, 18 & 19 YRS OLD, DAMSEL IN DISTRESS, SUBMISSIVE / SLAVE TRAINING, BONDAGE     arm binder, PZV005, Jan & Magdelena, jan, magdelena, powershotz, collar, nipple clamps, crotch rope, steel cuffs, ballgagged, bdsm, blondes, discipline, posture collar',
@@ -1515,9 +1629,10 @@ export default [
   },
   {
     id: '19637525',
-    title: 'PZV004 Personally Trained',
+    pz_code: 'PZV004',
+    title: 'Personally Trained',
     description:
-      'Miranda shows up to do some personal training and ends up getting personally trained herself. Abducted... bound in rough hemp... stripped... over-the-stool spanked... deliciously fondled... mouth stuffed... cleave gagged... belt whipped... hog tied... cuffed and chastised. Nice buxom bondage at its finest. Get it!  PZV004',
+      'Miranda shows up to do some personal training and ends up getting personally trained herself. Abducted... bound in rough hemp... stripped... over-the-stool spanked... deliciously fondled... mouth stuffed... cleave gagged... belt whipped... hog tied... cuffed and chastised. Nice buxom bondage at its finest. Get it!  ',
     categoryid: '463',
     keywords:
       'BONDAGE, CORPORAL PUNISHMENT, SPANKING M/F, BRUNETTE, WHIPPING     PZV004, miranda, Personally Trained, powershotz, rough rope, fondling, mouth stuffing, cleave gag, belt whipped, hogtie, cuffs, big tits, domination, discipline',
@@ -1532,9 +1647,10 @@ export default [
   },
   {
     id: '19636489',
-    title: 'VL074 Comes a Time',
+    pz_code: 'VL074',
+    title: 'Comes a Time',
     description:
-      'Stars Jade and Lizzie in a slave training fantasy. Jade is tricked by her boyfriend into primping up for a meeting with a man who after meeting her at the door, chases her up the stairs and binds her in coat hanger wire, then carries her off to be prepped for sale. She makes a run for it, gets run down instead, taken down with cleaning solvent and hoisted up and duct taped for an inverted suspension blow job. Then Lilly white Lizzie with her perfectly white skin undergoes an awesome domination, bondage, ball gagging, gag reflex testing, leg show domination session. Hot! Finally Jade gets anal trained, forced oral, butt plugged with crotch rope to hold it snug and boxed for shipment. A short bondage blowjob scene with Gia tops off this chick topping flick. VL074',
+      'Stars Jade and Lizzie in a slave training fantasy. Jade is tricked by her boyfriend into primping up for a meeting with a man who after meeting her at the door, chases her up the stairs and binds her in coat hanger wire, then carries her off to be prepped for sale. She makes a run for it, gets run down instead, taken down with cleaning solvent and hoisted up and duct taped for an inverted suspension blow job. Then Lilly white Lizzie with her perfectly white skin undergoes an awesome domination, bondage, ball gagging, gag reflex testing, leg show domination session. Hot! Finally Jade gets anal trained, forced oral, butt plugged with crotch rope to hold it snug and boxed for shipment. A short bondage blowjob scene with Gia tops off this chick topping flick.',
     categoryid: '484',
     keywords:
       'SUBMISSIVE / SLAVE TRAINING, SUSPENSION, BONDAGE, BLOW JOBS, DUCT TAPE FETISH     wire bondage, over the shoulder, inverted suspension, domination, ballgagged, choking, anal training, forced blowjob, buttplug, crotch rope, jade, lizzie, gia, VL074, Comes a Time',
@@ -1549,9 +1665,10 @@ export default [
   },
   {
     id: '19629117',
-    title: 'VL073 Bitch on a Block',
+    pz_code: 'VL073',
+    title: 'Bitch on a Block',
     description:
-      "Black slave girl Kitty comes snooping around looking for something to steal when she gets absconded herself. Now she gets to find out what it's like to be a stolen piece of property. Cuffed, Stripped, Gagged, Clipped, Taped, Whipped, Hog Strapped, Elbow Cinched, Ass Lubed and Dildo'd. She may not be able to go but at least she'll get to cum. Includes cameo appearances showing an orgasmic interlude with captive cheerleader Bobbi being taken in steel cuffed wrist to ankle, blow cock, and doggie fuck. Then Dani gets a back arching tit whipping after being cut bare ass naked bound to the arch as punishment for wearing sexually provocative clothing with her thumb out. The dogbone bit will give her something to bite on until she can curl up in the fetal position with that thumb in her mouth when this is over. VL073",
+      "Black slave girl Kitty comes snooping around looking for something to steal when she gets abducted herself. Now she gets to find out what it's like to be a stolen piece of property. Cuffed, Stripped, Gagged, Clipped, Taped, Whipped, Hog Strapped, Elbow Cinched, Ass Lubed and Dildo'd. She may not be able to go but at least she'll get to cum. Includes cameo appearances showing an orgasmic interlude with captive cheerleader Bobbi being taken in steel cuffed wrist to ankle, blow cock, and doggie fuck. Then Dani gets a back arching tit whipping after being cut bare ass naked bound to the arch as punishment for wearing sexually provocative clothing with her thumb out. The dogbone bit will give her something to bite on until she can curl up in the fetal position with that thumb in her mouth when this is over. ",
     categoryid: '1322',
     keywords:
       'ESCAPING, FORCED ORGASMS, HANDCUFF AND SHACKLE FETISH, BALLGAGGED, FORCED STRIPPING     VL073, Bitch on a Block, kitty, bobbi, dani, struggling, damsel in distress, domination, duct tape, whipping, hog strapped, elbow cinch, anal, cheerleader, blowjob',
@@ -1566,9 +1683,10 @@ export default [
   },
   {
     id: '19622823',
-    title: 'VL072 Hard Times',
+    pz_code: 'VL072',
+    title: 'Hard Times',
     description:
-      'When times get tough the breeders need to be sold off to raise cash. Dani, Renae, Layne, and Candy find that out the hard on way. If they show well they could be bought by an older wealthy gentlemen with a limp dick. Perhaps he will write her into his will if she performs correctly. No need to share her with the staff. Video length: 1 hour 29 minutes and 12 minutes of previews VL072',
+      'When times get tough the breeders need to be sold off to raise cash. Dani, Renae, Layne, and Candy find that out the hard on way. If they show well they could be bought by an older wealthy gentlemen with a limp dick. Perhaps he will write her into his will if she performs correctly. No need to share her with the staff. Video length: 1 hour 29 minutes and 12 minutes of previews.',
     categoryid: '1322',
     keywords:
       'FORCED ORGASMS, DAMSEL IN DISTRESS, FORCED STRIPPING, 18 & 19 YRS OLD, DOMINATION     dani, renae, layne, candy, hard times, vl072, fucking, discipline, butt plug, blowjob, gags, bondage, struggling, master slave, spanking',
@@ -1583,9 +1701,10 @@ export default [
   },
   {
     id: '19615801',
-    title: 'VL071 Closing the Deal',
+    pz_code: 'VL071',
+    title: 'Closing the Deal',
     description:
-      "Real estate agent Spring gives up her ass to close the deal on this property. Unfortunately it wasn't her decision. He used ropes and gags to get her done up right so she can cash in on the big fat commission. Pounding on the table during negotiations might have helped. But the mouth washing she gets after and the sincere thank you reveal her true success. Then Pandora. One fine black specimen. After hanging on tight while her feet try to find purchase she is knelt on the ground and fed. Apparently she doesn't like the taste much but it will get her a higher price. After nearly choking on her meal she is whipped to improve her posture. The ripples on her black bottom are all the customer needs to see to know that he'll be getting his money worth out of this package when he gets her home. Kick Butt Stuff! VL071",
+      "Real estate agent Spring gives up her ass to close the deal on this property. Unfortunately it wasn't her decision. He used ropes and gags to get her done up right so she can cash in on the big fat commission. Pounding on the table during negotiations might have helped. But the mouth washing she gets after and the sincere thank you reveal her true success. Then Pandora. One fine black animal. After hanging on tight while her feet try to find purchase she is knelt on the ground and fed. Apparently she doesn't like the taste much but it will get her a higher price. After nearly choking on her meal she is whipped to improve her posture. The ripples on her black bottom are all the customer needs to see to know that he'll be getting his money worth out of this package when he gets her home. Kick Butt Stuff!",
     categoryid: '1039',
     keywords:
       '18 & 19 YRS OLD, WHIPPING, BONDAGE, GAGGING, BONDAGE BLOWJOBS     VL071, spring, pandora, closing the deal, powershotz, kneeling, slave training, domination, punishment, black, blonde, posture, choking',
@@ -1600,9 +1719,10 @@ export default [
   },
   {
     id: '19611197',
-    title: 'VL070 Cherry Pop',
+    pz_code: 'VL070',
+    title: 'Cherry Pop',
     description:
-      "Bondage first timer Chanel shows up for an adult modeling audition and is taken into bondage to be sold on the net. After being settled down with a hand over mouth holding session she is hog roped for a van ride. Then taken into a building where she is stripped nude, disciplined and bound in a strict frog tie with ball gag on the table. Cameras are set up so that online customers may watch her reactions as they bid on the bitch. She is bound to the whipping post, tits and ass whipped, ball gagged and dildo'd. Then she is benched doggie style and anal trained. Watching her own ass and face on television as she vexes under the rod and the bare handed ass slap. After an ass rodding she is ball gagged and anal hooked, forced to maintain proper posture. Her ass is being guaged to accept cock. She'll make a fine and tight little cock sucker for some lucky buyer. VL070",
+      "Bondage first timer Chanel shows up for an adult modeling audition and is taken into bondage to be sold on the net. After being settled down with a hand over mouth holding session she is hog roped for a van ride. Then taken into a building where she is stripped nude, disciplined and bound in a strict frog tie with ball gag on the table. Cameras are set up so that online customers may watch her reactions as they bid on the bitch. She is bound to the whipping post, tits and ass whipped, ball gagged and dildo'd. Then she is benched doggie style and anal trained. Watching her own ass and face on television as she vexes under the rod and the bare handed ass slap. After an ass rodding she is ball gagged and anal hooked, forced to maintain proper posture. Her ass is being guaged to accept cock. She'll make a fine and tight little cock sucker for some lucky buyer. ",
     categoryid: '13',
     keywords:
       'BONDAGE, DOMINATION, FORCED STRIPPING, WHIPPING, SUBMISSIVE / SLAVE TRAINING     VL070, Cherry Pop, Chanel, forced, hand over mouth, discipline, frog tie, bid, dildo, anal training, whipping, anal hook, spanking, tit whipping, ballgagged',
@@ -1617,9 +1737,10 @@ export default [
   },
   {
     id: '19578073',
-    title: 'VL069 Hippie Trails',
+    pz_code: 'VL069',
+    title: 'Hippie Trails',
     description:
-      "Dani and Dixie star in this hip bitch pick punish and poke presentation. First Dani, those hippie clothes and that hippie doo were designed for one purpose. To get the hippie studs humping. Unfortunately she's gone off course. Her cell connection to the hippie hangout isn't working, and the dude who's property she is trespassing on is reacting to her outfit... and her attitude. A run down, chain drag, hang up, buckboard binding, head dunking, deck washing, hog tie, blow suck, wrist to ankle banging before butt plug and box up will straighten her out. Love that little girl squeal. Next Dixie, that tight black body hugging mini is clearly designed to induce a semi-psychosis in the male viewer. She'll need to be whipped for it. But not before being hung upside down. The eye bulging she experiences from the head rush and the ball gag is nothing compared to the eye bulging she experiences when that gag reflex forces a body clutch that fails to keep fluid from squirting down her throat. A good bare ass and bare breast flogging should help to relieve her stress. Nice legs. Kick ass! VL069",
+      "Dani and Dixie star in this hip bitch pick punish and poke presentation. First Dani, those hippie clothes and that hippie doo were designed for one purpose. To get the hippie studs humping. Unfortunately she's gone off course. Her cell connection to the hippie hangout isn't working, and the dude who's property she is trespassing on is reacting to her outfit... and her attitude. A run down, chain drag, hang up, buckboard binding, head dunking, deck washing, hog tie, blow suck, wrist to ankle banging before butt plug and box up will straighten her out. Love that little girl squeal. Next Dixie, that tight black body hugging mini is clearly designed to induce a semi-psychosis in the male viewer. She'll need to be whipped for it. But not before being hung upside down. The eye bulging she experiences from the head rush and the ball gag is nothing compared to the eye bulging she experiences when that gag reflex forces a body clutch that fails to keep fluid from squirting down her throat. A good bare ass and bare breast flogging should help to relieve her stress. Nice legs. Kick ass!",
     categoryid: '11',
     keywords:
       '18 & 19 YRS OLD, DOMINATION, SUSPENSION, DAMSEL IN DISTRESS, WHIPPING     punish fuck, VL069, Hippie Trails, Dani, Dixie, outdoor, tresspassing, hogtie, black, white, ballgagged, gagging, drooling, tit whipping, flogging',
@@ -1634,9 +1755,10 @@ export default [
   },
   {
     id: '19557361',
-    title: 'VL068  ATM',
+    pz_code: 'VL068',
+    title: 'ATM',
     description:
-      "Ashley's cheerleader hazing continues as she is butt plugged, flogged, crotch roped and ball gagged. Then hot wired on the recliner before being hogged up tight and gagged nude on the floor. Then Tory is carried in by her captor in blindfold and wrist scarf bondage. She is thrown down on the couch... ass lubed... ass rodded... then fucked mouth, pussy and ass. Finally cheerleader Montez seeks a modeling portfolio with a low cost photographer and ends up posing in nude bondage against her will. Apparently he wasn't as low cost as she had intended. Oh well. A good subjugating ass spanking and mental domination should improve her ability to perform on the field in the future. A good whipping will set her straight. Preview VL068",
+      "Ashley's cheerleader hazing continues as she is butt plugged, flogged, crotch roped and ball gagged. Then hot wired on the recliner before being hogged up tight and gagged nude on the floor. Then Tory is carried in by her captor in blindfold and wrist scarf bondage. She is thrown down on the couch... ass lubed... ass rodded... then fucked mouth, pussy and ass. Finally cheerleader Montez seeks a modeling portfolio with a low cost photographer and ends up posing in nude bondage against her will. Apparently he wasn't as low cost as she had intended. Oh well. A good subjugating ass spanking and mental domination should improve her ability to perform on the field in the future. A good whipping will set her straight.",
     categoryid: '17',
     keywords:
       'CHEERLEADERS, BALLGAGGED, BUTT PLUG, 18 & 19 YRS OLD, FLOGGING     crotch rope, ashley, tory, montez, atm, powershotz, VL068, blindfold, anal, domination, fucking, spanking, blowjob, damsel, anal training',
@@ -1644,6 +1766,7 @@ export default [
     date: '2018-04-30 08:07:00',
     name: 'vl068_1.mp4',
     image: 'vl068coverad.jpg',
+    poster: 'vl068coverad.jpg',
     displayorder: '1884',
     length: '01:28:46',
     resolution: '1440x1080',
@@ -1651,9 +1774,10 @@ export default [
   },
   {
     id: '19553571',
-    title: 'VL067  Ready to Party',
+    pz_code: 'VL067',
+    title: 'Ready to Party',
     description:
-      "In from out of town to attend a costume party, Ashley chooses an old cheerleader outfit to wear. It's a bit tight but still fits and will show those old boyfriends what they missed out on. Only problem is she won't be going to the party. The old boyfriend turned out to be the old boy at the hotel that saw her walking down the hallway in that too short skirt. He takes matters into his own hands and takes Ashley's head down on cock. But not until she's taken, hog tied, spanked, gagged and butt plugged the bitch to prepare that ass for cock. He zip ties her to the floor rails and hauls that hot ass into the country where those \"haze me\" panties can be taken to the floor and that fine muscular ass set to rippling with a hard ass paddling. Strict hog tie and tape gag and more crotch rope to snug in that butt plug get her fine ass ready to party hard.  VL067",
+      "In from out of town to attend a costume party, Ashley chooses an old cheerleader outfit to wear. It's a bit tight but still fits and will show those old boyfriends what they missed out on. Only problem is she won't be going to the party. The old boyfriend turned out to be the old boy at the hotel that saw her walking down the hallway in that too short skirt. He takes matters into his own hands and takes Ashley's head down on cock. But not until she's taken, hog tied, spanked, gagged and butt plugged the bitch to prepare that ass for cock. He zip ties her to the floor rails and hauls that hot ass into the country where those \"haze me\" panties can be taken to the floor and that fine muscular ass set to rippling with a hard ass paddling. Strict hog tie and tape gag and more crotch rope to snug in that butt plug get her fine ass ready to party hard.",
     categoryid: '1017',
     keywords:
       '18 & 19 YRS OLD, BALLGAGGED, CHEERLEADERS, BUTT PLUG, SPANKING     VL067, ashley, ready to party, powershotz, hog tie, forced stripping, anal, zip ties, paddles, tape gag, crotch rope, domination, damsel in distress, bdsm',
@@ -1668,9 +1792,10 @@ export default [
   },
   {
     id: '19549569',
-    title: "VL066  Workin' Out",
+    pz_code: 'VL066',
+    title: "Workin' Out",
     description:
-      'When these two hotties are seen working out doors... they are given the extra male attention they were looking for. First Dixie... run down in the woods, hog-roped, tree bound, bench anal trained and hog tied for cock sucking. Then Candy is taken in her room after a kick session. Then she is carried off to be hung up, bitch whipped, and hog tied. Finally Aubrie gets a stressful oiling while bound in back arching distress. A hand over mouth to shut the bitch up while the fingers work the lube between her swollen vulva. Nice! VL066',
+      'When these two hotties are seen working out doors... they are given the extra male attention they were looking for. First Dixie... run down in the woods, hog-roped, tree bound, bench anal trained and hog tied for cock sucking. Then Candy is taken in her room after a kick session. Then she is carried off to be hung up, bitch whipped, and hog tied. Finally Aubrie gets a stressful oiling while bound in back arching distress. A hand over mouth to shut the bitch up while the fingers work the lube between her swollen vulva. Nice! ',
     categoryid: '11',
     keywords:
       'ESCAPING, BLOW JOBS, OUTDOORS, WHIPPING, ANAL     Workin out, powershotz, dixie, candy, aubrie, hog rope, anal training, struggling, damsel in distress, hand over mouth, domination, bondage, bdsm, VL066',
@@ -1685,9 +1810,10 @@ export default [
   },
   {
     id: '19543291',
-    title: "VL064  Payback's a Bitch",
+    pz_code: 'VL064',
+    title: "Payback's a Bitch",
     description:
-      "When the debt needs to be paid and there isn't enough cash... a piece of ass will often suffice. Krystal is traded off to a worker as payment for a job well done. If she hadn't been bathing nude on the deck it wouldn't have happened. Oh well. A strong piece of rope around the hitch of the 4 wheeler takes her off to be trained in anal servitude before the meet up and exchange. Of course she needs to be tried to consummate the deal. Next sweet virgin Nicole is sold to raise cash. Her ripe young body and sweet little innocent face will bewitch a horny buyer into paying top dollar. VL064",
+      "When the debt needs to be paid and there isn't enough cash... a piece of ass will often suffice. Krystal is traded off to a worker as payment for a job well done. If she hadn't been bathing nude on the deck it wouldn't have happened. Oh well. A strong piece of rope around the hitch of the 4 wheeler takes her off to be trained in anal servitude before the meet up and exchange. Of course she needs to be tried to consummate the deal. Next sweet virgin Nicole is sold to raise cash. Her ripe young body and sweet little innocent face will bewitch a horny buyer into paying top dollar.",
     categoryid: '13',
     keywords:
       "BALLGAGGED, DOMINATION, SPANKING, 18 & 19 YRS OLD, BONDAGE     VL064, powershotz, payback's a bitch, nicole, krystal, damsel in distress, discipline, anal training, slave training, outdoor, over the shoulder, rope, crotch rope, dildo, gagged",
@@ -1702,9 +1828,10 @@ export default [
   },
   {
     id: '19537557',
-    title: 'VL062  Doggie Downer',
+    pz_code: 'VL062',
+    title: 'Doggie Downer',
     description:
-      "Penni and Krystal are morphed from hominid to canine using standard leash, collar and corporal discipline techniques that quickly render them vulnerable to studding out by horny breeding studs. Krystal's tight white ass roses red from a good hard over the knee spanking complete with ass goosing and leg restraint to prevent kicking. It gets her ready for the anal finisher the stud is going to reward her with after he's doggie dicked that pussy real good. Penni is prepped for delivery to a breeding farm with a big slippery stick up the ass. She needs to learn what to expect and be ready for when the stud's cock goes off course. With an ass that fine, it will happen frequently. Body posture and eye contact during oral need to be taught so that she can learn to make her Master cum quickly... avoiding a hard and long ass fucking. VL062",
+      "Penni and Krystal are morphed from hominid to canine using standard leash, collar and corporal discipline techniques that quickly render them vulnerable to studding out by horny breeding studs. Krystal's tight white ass roses red from a good hard over the knee spanking complete with ass goosing and leg restraint to prevent kicking. It gets her ready for the anal finisher the stud is going to reward her with after he's doggie dicked that pussy real good. Penni is prepped for delivery to a breeding farm with a big slippery stick up the ass. She needs to learn what to expect and be ready for when the stud's cock goes off course. With an ass that fine, it will happen frequently. Body posture and eye contact during oral need to be taught so that she can learn to make her Master cum quickly... avoiding a hard and long ass fucking.",
     categoryid: '222',
     keywords:
       'DOGGYSTYLE, SUBMISSIVE / SLAVE TRAINING, OTK SPANKING, BLOW JOBS, ANAL     leash, collar, penni, krystal, VL062, powershotz, domination, damsel in distress, anal training, bare hand spanking, fucking, discipline, choking, outdoor, spanking',
@@ -1719,9 +1846,10 @@ export default [
   },
   {
     id: '19526615',
-    title: 'VL061  Dress Code Enforcement Bureau',
+    pz_code: 'VL061',
+    title: 'Dress Code Enforcement Bureau',
     description:
-      "The mission of the Dress Code Enforcement Bureau is to prevent the wearing of inappropriate clothing that could lead to unwanted lust on the part of the male population. Casey is given a stern reminder of the importance of appropriate attire when she flaunts her bra-less mini in the hotel hallway. A duct tape capture with pillowcase over the head, then taken off to be hung up, whipped, bitch stripped and over the knee spanked. She thinks that begging for cock will help but it only gets her spreader barred and cocked up the ass in the end. Then cute little Daisy flaunts a little too much belly and those jeans are just too tight. They'll come off under the blade so the little cock sucker can be whipped hard on her bare tits, belly and ass. Humiliating and embarrassing wetness checks remind her of her vulnerability and the need to dress appropriately in the future. Its a tough job regulating women's clothing. Pity so many young girls require it these days. VL061",
+      "The mission of the Dress Code Enforcement Bureau is to prevent the wearing of inappropriate clothing that could lead to unwanted lust on the part of the male population. Casey is given a stern reminder of the importance of appropriate attire when she flaunts her bra-less mini in the hotel hallway. A duct tape capture with pillowcase over the head, then taken off to be hung up, whipped, bitch stripped and over the knee spanked. She thinks that begging for cock will help but it only gets her spreader barred and cocked up the ass in the end. Then cute little Daisy flaunts a little too much belly and those jeans are just too tight. They'll come off under the blade so the little cock sucker can be whipped hard on her bare tits, belly and ass. Humiliating and embarrassing wetness checks remind her of her vulnerability and the need to dress appropriately in the future. Its a tough job regulating women's clothing. Pity so many young girls require it these days.",
     categoryid: '11',
     keywords:
       'FORCED STRIPPING, OTK SPANKING, DUCT TAPE FETISH, DOMINATION, WHIPPING     VL061, powershotz, daisy, casey, begging, spreader bar, anal, bitch strip, tit whipping, bare hand spanking, embarrassment, damsel in distress, bondage, discipline, blowjob',
@@ -1736,9 +1864,10 @@ export default [
   },
   {
     id: '19513497',
-    title: 'VL060  Exchange Traded Fun',
+    pz_code: 'VL060',
+    title: 'Exchange Traded Fun',
     description:
-      "Hitch hiking Maria is seen by a man with a debt to pay. Time to get her some needed discipline and take care of that debt at the same time. Her ride takes her off course and by the time she figures it out she's been ab-ducted, zip tied, bitch stripped and whipped over the horse tits and ass, hog chained, hog gagged on cock, ass lubed, butt plugged, block gagged, crotch roped and hammered like a hoe by exchange trader hard on. She is going to be sore for a few days but the experience will set her on the straight and narrow right quick.  VL060",
+      "Hitch hiking Maria is seen by a man with a debt to pay. Time to get her some needed discipline and take care of that debt at the same time. Her ride takes her off course and by the time she figures it out she's been abducted, zip tied, bitch stripped and whipped over the horse tits and ass, hog chained, hog gagged on cock, ass lubed, butt plugged, block gagged, crotch roped and hammered like a hoe by exchange trader hard on. She is going to be sore for a few days but the experience will set her on the straight and narrow right quick.  ",
     categoryid: '403',
     keywords:
       'FORCED STRIPPING, BUTT PLUG, WHIPPING, DAMSEL IN DISTRESS, BALLGAGGED     hitchhiking, discipline, Maria, maria3, domination, hog chained, block gag, crotch rope, zip ties, spanking, VL060, Exchange Traded Fun, capture, blowjob, punishfuck',
@@ -1753,9 +1882,10 @@ export default [
   },
   {
     id: '19510019',
-    title: 'VL059  Black & White',
+    pz_code: 'VL059',
+    title: 'Black & White',
     description:
-      "Fine black farm girl, Maria, is given a helping hand by a horny black breeding stud when she gets caught in the barn. A little duct tape and rigging and she's ready to slide that mouth down on big black dick until he gets hard and horny enough to slip that dick hard up that well whipped ass. Then white ass Wendy is taken while reading and chemically seduced before a duct taping and an over the shoulder to the floor mattress where she is spread wide, gagged, vibed and choke held into submissive servitude. No prejudice here... they cum in all colors, shapes and sounds. Get it before the G man stops you! 1 hour 40 minutes and 9 minutes of previews. VL059",
+      "Fine black farm girl, Maria, is given a helping hand by a horny black breeding stud when she gets caught in the barn. A little duct tape and rigging and she's ready to slide that mouth down on big black dick until he gets hard and horny enough to slip that dick hard up that well whipped ass. Then white ass Wendy is taken while reading and chemically seduced before a duct taping and an over the shoulder to the floor mattress where she is spread wide, gagged, vibed and choke held into submissive servitude. No prejudice here... they cum in all colors, shapes and sounds. Get it before the G man stops you! 1 hour 40 minutes and 9 minutes of previews. ",
     categoryid: '17',
     keywords:
       'DUCT TAPE FETISH, EBONY, BONDAGE SEX, FORCED ORGASMS, CUM IN MOUTH     over the shoulder, spread eagle, choking, submission, servitude, master slave, slave training, forced stripping, vl059, powershotz, maria, maria3, wendy, gag reflex, domination',
@@ -1770,9 +1900,10 @@ export default [
   },
   {
     id: '19504449',
-    title: 'VL058  Daisy Plucked & Pollinated',
+    pz_code: 'VL058',
+    title: 'Daisy Plucked & Pollinated',
     description:
-      'Cute little Daisy is plucked off the street and hustled into a waiting van where she is duct taped for transport. Once on site she is stripped naked by sharp object, arm roped, ass lubed, butt plugged, crotch roped, hog tied and ball gagged. Then she begs for cock to get that ball out and is deep throat gagged to conclusion. Next she is bound to the saw horses, whipped and fucked face up bit gagged, flipped over and fucked. Finally she is bench bound, anal trained and fucked doggie before being finished off with some heavy belching and gagging on sweet seminal fluid as her head is forced down on cock. Hot plumper body with lilly white skin! Nice! VL058',
+      'Cute little Daisy is plucked off the street and hustled into a waiting van where she is duct taped for transport. Once on site she is stripped naked by sharp object, arm roped, ass lubed, butt plugged, crotch roped, hog tied and ball gagged. Then she begs for cock to get that ball out and is deep throat gagged to conclusion. Next she is bound to the saw horses, whipped and fucked face up bit gagged, flipped over and fucked. Finally she is bench bound, anal trained and fucked doggie before being finished off with some heavy belching and gagging on sweet seminal fluid as her head is forced down on cock. Hot plumper body with lilly white skin! Nice! ',
     categoryid: '13',
     keywords:
       'FORCED STRIPPING, BALLGAGGED, DUCT TAPE FETISH, STRUGGLING, BUTT PLUG     vl058, daisy, Plucked and Pollinated, bondage, crotch rope, hogtie, begging, blowjob, whipping, bit gag, fucking, anal training, belching, gagging, domination',
@@ -1780,6 +1911,7 @@ export default [
     date: '2018-04-19 17:35:16',
     name: 'vl058_1.mp4',
     image: 'vl058cat.jpg',
+    poster: 'vl058coverad.jpg',
     displayorder: '1893',
     length: '01:48:05',
     resolution: '1440x1080',
@@ -1787,9 +1919,10 @@ export default [
   },
   {
     id: '19486911',
-    title: "VL057  Tory's Tied Torment",
+    pz_code: 'VL057',
+    title: "Tory's Tied Torment",
     description:
-      "Sometimes the best bondage models are found just walking down the street. Or in this case... the back alley... where she shouldn't be going alone at night. The photographers assistant on his smoke break picks up on her mistake and takes advantage of the opportunity to get his dick sucked. Only first he has to capture her and bring her in to his boss so he can tie her up and do her up. She prays for cock, gets a work bench work out and a blow and bop that lead her to believe she is all finished... so she runs for the door... only he runs her down and hauls her ass back for phase 2 of the torment. First she is flogged for attempting escape, then she is taken to bed the hard way. Spread eagle face up... spread eagle face down... lubricant injected up her ass and fucked like a whore in the butt. She'll feel all warm for a few days after this. Includes 33 minutes of previews! Preview VL057",
+      "Sometimes the best bondage models are found just walking down the street. Or in this case... the back alley... where she shouldn't be going alone at night. The photographers assistant on his smoke break picks up on her mistake and takes advantage of the opportunity to get his dick sucked. Only first he has to capture her and bring her in to his boss so he can tie her up and do her up. She prays for cock, gets a work bench work out and a blow and bop that lead her to believe she is all finished... so she runs for the door... only he runs her down and hauls her ass back for phase 2 of the torment. First she is flogged for attempting escape, then she is taken to bed the hard way. Spread eagle face up... spread eagle face down... lubricant injected up her ass and fucked like a whore in the butt. She'll feel all warm for a few days after this. Includes 33 minutes of previews! Preview ",
     categoryid: '484',
     keywords:
       'BONDAGE BLOWJOBS, ANAL, 18 & 19 YRS OLD, WHIPPING, BONDAGE SEX     tory, powershotz, vl057, capture, flogging, punishment, punish fuck, struggling, struggle fuck, spread eagle, lube injection, fucking, bdsm, domination, slave training',
@@ -1804,9 +1937,10 @@ export default [
   },
   {
     id: '19470443',
-    title: 'VL055  Turn Abouts Fore Play',
+    pz_code: 'VL055',
+    title: 'Turn Abouts Fore Play',
     description:
-      "Tory shows up to dominate the client and ends up getting the tables turned on her. Turns out he wants to dominate her... and more. He wants his dick inside her mouth, pussy, and ass. After their initial encounter where he makes the moves on her, he takes that whip out of her hand and puts that cock in her mouth... she makes a run for it and ends up hanging from an X frame getting fucked. Then she is taken inside where she is hung upside down for a blow job before being taken down and doggy-fucked in the pussy and ass. When the session is over she begs to remain. Guess she isn't as dominant as she thought. Virgin KylieJo is bound spread on her back and vibrated to a state of orgasmic contraction before being mounted and shafted... then squirted while she squirms. Nice trainee!  VL055",
+      "Tory shows up to dominate the client and ends up getting the tables turned on her. Turns out he wants to dominate her... and more. He wants his dick inside her mouth, pussy, and ass. After their initial encounter where he makes the moves on her, he takes that whip out of her hand and puts that cock in her mouth... she makes a run for it and ends up hanging from an X frame getting fucked. Then she is taken inside where she is hung upside down for a blow job before being taken down and doggy-fucked in the pussy and ass. When the session is over she begs to remain. Guess she isn't as dominant as she thought. Virgin KylieJo is bound spread on her back and vibrated to a state of orgasmic contraction before being mounted and shafted... then squirted while she squirms. Nice trainee!  ",
     categoryid: '3',
     keywords:
       'WHIPPING, FUCKING, BLOW JOBS, ANAL, ESCAPING     tory, kylieJo, powershotz, vl055, upside down, begging, forced orgasm, struggling, damsel in distress, bondage, vibrator, slave training, punishment, strugglefuck',
@@ -1821,9 +1955,10 @@ export default [
   },
   {
     id: '19459691',
-    title: 'VL054  Virgin Pure',
+    pz_code: 'VL054',
+    title: 'Virgin Pure',
     description:
-      "Introducing KylieJo as the victim of this home invasion forced into sexual servitude with strict bondage, stripping, discipline and penetration training video. After a brief intense struggle, KylieJo is roped to the post by the neck and her clothing is removed while she is being bound standing spread eagle... her nude young body is perfectly shaped for breeding purposes and that cute little girl face is so innocent. She is ball gagged and whipped on her tits. Then told that if she begs for cock she can have the ball gag removed. When she agrees to beg for cock she gets her wish. Only she is bound kneeling with a post behind her back on a platform with wheels that makes it easy to position her just right. She uses her pretty little mouth to extract seminal fluid but gets a spreader bit to prevent biting and a nose hook to keep that chin up while the cock makes her gag... Then she. is spread wide on the bench where she is oiled up inside and out and can't hide her arousal as it is given away by her breathing. Then she is strapped to the anal training bench where her tight virgin bottom is lubricated, digitally penetrated and rodded out with glass anal dilator to induct her into the anal slave club so she can be fucked in any hole without hesitation by her demanding and highly aroused Master. Super hot pleasingly plump young body on this young feline fuck toy. Next a cameo appearance by Beth... bound on the table in take off position. Ready to fly into an orgasmic frenzy when she is properly prepared for take off. Two pure as snow hot body's made ready for reamin and screamin round out this one.  VL054",
+      "Introducing KylieJo as the victim of this home invasion forced into sexual servitude with strict bondage, stripping, discipline and penetration training video. After a brief intense struggle, KylieJo is roped to the post by the neck and her clothing is removed while she is being bound standing spread eagle... her nude young body is perfectly shaped for breeding purposes and that cute little girl face is so innocent. She is ball gagged and whipped on her tits. Then told that if she begs for cock she can have the ball gag removed. When she agrees to beg for cock she gets her wish. Only she is bound kneeling with a post behind her back on a platform with wheels that makes it easy to position her just right. She uses her pretty little mouth to extract seminal fluid but gets a spreader bit to prevent biting and a nose hook to keep that chin up while the cock makes her gag... Then she. is spread wide on the bench where she is oiled up inside and out and can't hide her arousal as it is given away by her breathing. Then she is strapped to the anal training bench where her tight virgin bottom is lubricated, digitally penetrated and rodded out with glass anal dilator to induct her into the anal slave club so she can be fucked in any hole without hesitation by her demanding and highly aroused Master. Super hot pleasingly plump young body on this young feline fuck toy. Next a cameo appearance by Beth... bound on the table in take off position. Ready to fly into an orgasmic frenzy when she is properly prepared for take off. Two pure as snow hot body's made ready for reamin and screamin round out this one.  ",
     categoryid: '1322',
     keywords:
       'BONDAGE SEX, WHIPPING, FORCED STRIPPING, BLOW JOBS, BALLGAGGED     vl054, beth, kyliejo, powershotz, discipline, penetration, fondling, begging, oil, finger fucking, glass rod, anal, domination, spanking, strugglefuck',
@@ -1838,9 +1973,10 @@ export default [
   },
   {
     id: '19444079',
-    title: 'PZV038 - 8 Ball and a 6 Pack',
+    pz_code: 'PZV038',
+    title: '8 Ball and a 6 Pack',
     description:
-      '8 Gorgeous bondage first timers star in this cock hardening compendium of slave girl servitude. Sexual Submission is taught with hand on bare ass and stern verbal commands. Riding crop correction, dildo vibration and reality anal training prepare the subjects for hard core performance after the sale. One on one Master/slave domination and POV style from early Powershotz footage. 8 oral scenes... 3 anal training scenes. Includes a 6 Pack of Preview videos. Starring Ashleigh, Selena, Juliette, Leah, Mysti, Miranda, Mia, and Rayne.  PZV038',
+      '10 Gorgeous bondage first timers star in this cock hardening compendium of slave girl servitude.  Sexual Submission is taught with hand on bare ass and stern verbal commands.  Riding crop correction, dildo vibration and reality anal training prepare the subjects for hard core performance after the sale.  One on one Master/slave domination and POV style from early Powershotz footage.  Oral scenes... Anal training scenes.   Over 2 hours long!  Starring Alma, Amber2, Ashleigh, Celena, Juliette, Leah, Mia, Miranda, Mysti, and Zoey.',
     categoryid: '10',
     keywords:
       'BONDAGE, ANAL, SUBMISSIVE / SLAVE TRAINING, 18 & 19 YRS OLD, DILDOS     ashleigh, selena, juliette, mia, leah, mysti, miranda, rayne, powershotz, anal training, domination, blowjob, slave girls, sexual submission, pzv038',
@@ -1855,9 +1991,10 @@ export default [
   },
   {
     id: '19425683',
-    title: 'VL052  Little Darlings',
+    pz_code: 'VL052',
+    title: 'Little Darlings',
     description:
-      "Delila Darling and little darling Penni star in this abduction, forced orgasm, slave training drama. Delila needs a modeling portfolio to make money modeling so she tries out for a shoot to get some free glamour shots. The photographer was hoping she'd agree to pose doing some paid adult work but she gets offended and tells him not to ask again... poor thing. Good thing his assistant disconnected the battery of her car while they were shooting glamour pictures. When she returns to the studio to ask to use the phone the photographer is waiting for her. She shouts but that model body isn't designed for resistance to a horny cock. Oh well... she will get paid for the gig in the end After begging for cock to get the ball gag removed and taking it up that virgin ass while screwed to the floor. Excellent bondage model! May need to keep her around for a Second Day! Then on to previously captured pet little Penni... already bound on the mattress waiting for her next exciting challenge in her new job as a sex slave. With her knees rope ratcheted out and her mouth bit gag ratcheted open she's available for oral or genital training without resistance... other than the strength of her internal muscles that is. Which are too weak to prevent penetration when she is soaking wet from gagging on butt plug. Good thing she plays a lot of soccer and flexes her gluteal muscles and kegels often... she may be able to squeeze tight enough to keep him out... or at least enough to make him come quickly. This one will take well to rough sex once she's broken in you can tell from those darting eyes. Sweet and innocent babydoll face on this youngster.  VL052",
+      "Delila Darling and little darling Penni star in this abduction, forced orgasm, slave training drama. Delila needs a modeling portfolio to make money modeling so she tries out for a shoot to get some free glamour shots. The photographer was hoping she'd agree to pose doing some paid adult work but she gets offended and tells him not to ask again... poor thing. Good thing his assistant disconnected the battery of her car while they were shooting glamour pictures. When she returns to the studio to ask to use the phone the photographer is waiting for her. She shouts but that model body isn't designed for resistance to a horny cock. Oh well... she will get paid for the gig in the end After begging for cock to get the ball gag removed and taking it up that virgin ass while screwed to the floor. Excellent bondage model! May need to keep her around for a Second Day! Then on to previously captured pet little Penni... already bound on the mattress waiting for her next exciting challenge in her new job as a sex slave. With her knees rope ratcheted out and her mouth bit gag ratcheted open she's available for oral or genital training without resistance... other than the strength of her internal muscles that is. Which are too weak to prevent penetration when she is soaking wet from gagging on butt plug. Good thing she plays a lot of soccer and flexes her gluteal muscles and kegels often... she may be able to squeeze tight enough to keep him out... or at least enough to make him come quickly. This one will take well to rough sex once she's broken in you can tell from those darting eyes. Sweet and innocent babydoll face on this youngster.  ",
     categoryid: '105',
     keywords:
       'SUBMISSIVE / SLAVE TRAINING, BONDAGE SEX, FUCKING, BONDAGE BLOWJOBS, ANAL     delila, penni, powershotz, bondage, bit gag, rough sex, domination, damsel in distress, anal training, 18 and 19 yo, bdsm, discipline, choking, begging, vl052',
@@ -1872,9 +2009,10 @@ export default [
   },
   {
     id: '19420735',
-    title: 'PZV134, Bitch Hunted',
+    pz_code: 'PZV134',
+    title: 'Bitch Hunted',
     description:
-      "Hot bodied Kristina is working in the yard and gets the attention of the bitch hunter who grabs his 4 wheeler and goes to work. She's in really good shape but isn't fast enough to out run that motorbike. He takes the bitch down and duct tapes her tight to a drag tarp and hauls his prize back to the barn for some serious therapy. Once her clothing has been cut away and she's been chained on the back arching board her tits, pussy and ass are oiled up as she squeals deliciously. She gets tickle tortured, hog tied, ball gagged and forced to beg. Then bound standing to the post where she is tit whipped, wetness checked, finger gagged and flogged on that fine lean ass while her muscles vex in full contraction. Then she is bound spread on the table for a squealing forced orgasm complete with back arching distress and gasping for air. Super fine body on this breedin' squeelin' bitchin' hot bitch. Powershotz title PZV134",
+      "Hot bodied Kristina is working in the yard and gets the attention of the bitch hunter who grabs his 4 wheeler and goes to work. She's in really good shape but isn't fast enough to out run that motorbike. He takes the bitch down and duct tapes her tight to a drag tarp and hauls his prize back to the barn for some serious therapy. Once her clothing has been cut away and she's been chained on the back arching board her tits, pussy and ass are oiled up as she squeals deliciously. She gets tickle tortured, hog tied, ball gagged and forced to beg. Then bound standing to the post where she is tit whipped, wetness checked, finger gagged and flogged on that fine lean ass while her muscles vex in full contraction. Then she is bound spread on the table for a squealing forced orgasm complete with back arching distress and gasping for air. Super fine body on this breedin' squeelin' bitchin' hot bitch.",
     categoryid: '105',
     keywords:
       'ESCAPING, DUCT TAPE FETISH, WHIPPING, CORPORAL PUNISHMENT, 18 & 19 YRS OLD     bdsm, damsel in distress, domination, forced stripping, pzv134, hogtie, ballgagged, knife play, ass whipping, powershotz, kristina, discipline, capture, captive, knife play',
@@ -1882,6 +2020,7 @@ export default [
     date: '2018-04-03 19:03:59',
     name: 'pzv134_1.mp4',
     image: 'pzv134covrad.jpg',
+    poster: 'pzv134coverad.jpg',
     displayorder: '1899',
     length: '01:52:54',
     resolution: '1440x1080',
@@ -1890,9 +2029,10 @@ export default [
   },
   {
     id: '19411701',
-    title: 'PZV040, Ashleigh, Chloroformed and Kept',
+    pz_code: 'PZV040',
+    title: 'Ashleigh, Chloroformed and Kept',
     description:
-      "Ashleigh is absconded as she exits the ladies room. After a struggle she is subdued with solvent inhaler and carried to her captors bed for review. She awakens and attempts escape, but is once again silenced. Now the bondage begins. She is spread nude on her back and fondled at will. She attempts escape and almost gets away but is captured at the elevator and silenced once more. This time her legs are pulled back to expose bare pussy and ass. She tries to climb out the window and is taken again. This time she is bound face down, vulnerable to anal penetration. She is silenced yet again and awakens to his domination. She'll hang spread eagle on the hanging rack with Vanessa now, interned into sexual servitude. An hour of CF fun. Followed by over 30 minutes of preview videos. PZV040",
+      "Ashleigh is abducted as she exits the ladies room. After a struggle she is subdued with solvent inhaler and carried to her captors bed for review. She awakens and attempts escape, but is once again silenced. Now the bondage begins. She is spread nude on her back and fondled at will. She attempts escape and almost gets away but is captured at the elevator and silenced once more. This time her legs are pulled back to expose bare pussy and ass. She tries to climb out the window and is taken again. This time she is bound face down, vulnerable to anal penetration. She is silenced yet again and awakens to his domination. She'll hang spread eagle on the hanging rack with Vanessa now, interned into sexual servitude. An hour of chloroform fun. Followed by over 30 minutes of preview videos.",
     categoryid: '486',
     keywords:
       'ESCAPING, DOMINATION, BONDAGE, SUSPENSION, ANAL     inspection, capture & carry, damsel in distress, pzv040, spread eagle, fondling, limp, sexual servant, master slave, solvent, ashleigh, vanessa, powershotz, choking, anal training',
@@ -1907,9 +2047,10 @@ export default [
   },
   {
     id: '19406149',
-    title: 'PZV065, Reverse Prayer',
+    pz_code: 'PZV065',
+    title: 'Reverse Prayer',
     description:
-      'Stars feisty red heads Katherine, Ivy and Erin getting the discipline they need. First Katherine is bound in reverse prayer bondage and hooked overhead in a custom request scene. Then Ivy secretary is table topped, nipple clamped and ball gagged in handcuff and leg iron bondage. Finally goth bitch Erin is turned to house slave using riding crop, ball gag head harness and leather cuffs. Glamour girl face pleads perfectly and will look nice sliding down cock shaft. Lots of previews. PZV065',
+      'Stars feisty red heads Katherine, Ivy and Erin getting the discipline they need. First Katherine is bound in reverse prayer bondage and hooked overhead in a custom request scene. Then Ivy secretary is table topped, nipple clamped and ball gagged in handcuff and leg iron bondage. Finally goth bitch Erin is turned to house slave using riding crop, ball gag head harness and leather cuffs. Glamour girl face pleads perfectly and will look nice sliding down cock shaft. Lots of previews.',
     categoryid: '3',
     keywords:
       'BONDAGE, NIPPLE PLAY, BALLGAGGED, WHIPPING, HANDCUFF AND SHACKLE FETISH     erin, ivy, katherine, powershotz, discipline, reverse prayer, overhead hook, riding crop, head harness, leather cuffs, begging, strugglefuck, pleading, damsel in distress, pzv065',
@@ -1924,9 +2065,10 @@ export default [
   },
   {
     id: '19395225',
-    title: 'VL050  Second Day',
+    pz_code: 'VL050',
+    title: 'Second Day',
     description:
-      "18 year old heart throb Bailey hasn't learned in 4 years of high school to respect private property. That will change. After being run down and bound, felt up, roped up, choked up, gagged and blind folded she must endure a long and painful over the shoulder carry to the property owners secret slave training headquarters. Once secured she is benched, stripped, spanked, fondled and roped tight. Her head resting on the crossbar as she winces under invasive fondling and vaginal and anal penetration. Then the cock in throat treatment that forces belching gags... followed by the cock in pussy massage that forces squealing... followed by a much needed anal sphincter pop and rectal ream that forces open mouthed howling between farting sounds... followed by a choking throat coat with protein fluid. She begs for another day of punishment as instructed. After her previous escape attempt, Delila Darling is school girl bitch whipped and goosed. A hard ass whipping is her reward for failing a wetness test. Then she is benched doggie, bit gagged, embarrassed, fondled, anal fingered, ass rodded and fucked in the pussy and the ass while her tears run with her mascara...nice! Pity her punishment isn't complete.",
+      "18 year old heart throb Bailey hasn't learned in 4 years of high school to respect private property. That will change. After being run down and bound, felt up, roped up, choked up, gagged and blind folded she must endure a long and painful over the shoulder carry to the property owners secret slave training headquarters. Once secured she is benched, stripped, spanked, fondled and roped tight. Her head resting on the crossbar as she winces under invasive fondling and vaginal and anal penetration. Then the cock in throat treatment that forces belching gags... followed by the cock in pussy massage that forces squealing... followed by a much needed anal sphincter pop and rectal ream that forces open mouthed howling between farting sounds... followed by a choking throat coat with protein fluid. She begs for another day of punishment as instructed. After her previous escape attempt, Delila Darling is school girl bitch whipped and goosed. A hard ass whipping is her reward for failing a wetness test. Then she is benched doggie, bit gagged, embarrassed, fondled, anal fingered, ass rodded and fucked in the pussy and the ass while her tears run with her mascara... nice! Pity her punishment isn't complete.",
     categoryid: '17',
     keywords:
       'BONDAGE, EMBARRASSMENT, ESCAPING, ANAL, DOGGYSTYLE     bit gag, fondling, fucking, punishment, discipline, damsel in distress, domination, over the shoulder, choking, blind fold, forced stripping, spanking, delila, bailey, vl050',
@@ -1941,9 +2083,10 @@ export default [
   },
   {
     id: '19390793',
-    title: 'VL049  V-Shaped Recovery',
+    pz_code: 'VL049',
+    title: 'V-Shaped Recovery',
     description:
-      "One of the hottest Abductionn, Bondage, Forced Servitude/Sex videos with two of the hottest young cuties ever shot. These innocent younglings are quickly brought up to speed when they are run down, overpowered, struggle stripped and fondled, hand over mouth, around neck, between legs, delivering shocking corrective punishment at the slightest sign of disrespect and humiliating sexually invasive harassment that elicits gasps of arousal between looks of pure panic. Bailey endures a grueling steel cuffed strip and carry before being rope hogged and forced to beg for anal sex with the aid of the ball gag and nose hook. Then dear little Delila Darling gets a steel cuffed and ball gagged chl***-formance that makes those legs kick like a mule. Big eyes, turned up nose and bowtie lips can't be ignored and the bitch gets to belch, gag, and choke on cock before being bent over the table and fucked hard doggie with her arms bound in the small of her back. When he tells her he will be back she foolishly attempts escape. A future whipping is clearly in store for the tight bodied cock pincher. VL049",
+      "One of the hottest Abductionn, Bondage, Forced Servitude/Sex videos with two of the hottest young cuties ever shot. These innocent younglings are quickly brought up to speed when they are run down, overpowered, struggle stripped and fondled, hand over mouth, around neck, between legs, delivering shocking corrective punishment at the slightest sign of disrespect and humiliating sexually invasive harassment that elicits gasps of arousal between looks of pure panic. Bailey endures a grueling steel cuffed strip and carry before being rope hogged and forced to beg for anal sex with the aid of the ball gag and nose hook. Then dear little Delila Darling gets a steel cuffed and ball gagged chloro-formance that makes those legs kick like a mule. Big eyes, turned up nose and bowtie lips can't be ignored and the bitch gets to belch, gag, and choke on cock before being bent over the table and fucked hard doggie with her arms bound in the small of her back. When he tells her he will be back she foolishly attempts escape. A future whipping is clearly in store for the tight bodied cock pincher. ",
     categoryid: '3',
     keywords:
       '18 & 19 YRS OLD, BONDAGE, BDSM, FORCED STRIPPING, ELECTRIC PLAY     bailey, delila, powershotz, vl049, hand over mouth, steel cuffs, hog tie, ball gag, belch, gag, choke, fucking, penetration, escape, whipping',
@@ -1958,9 +2101,10 @@ export default [
   },
   {
     id: '19361365',
-    title: 'PZV020, Taken and Bound',
+    pz_code: 'PZV020',
+    title: 'Taken and Bound',
     description:
-      "One of Powershotz first video productions combines with one of Powershotz hottest models, Mia, in this cross between a modeling shoot and domination session. Not quite the same as bikini modeling. Especially when you are hog tied, mouth stuffed, cleave gagged, ball gagged, over the stool bare bottom spanked, cuffed overhead and belt whipped while ball gagged, chained overhead with a leg up and fondled all over those tight sensitive little titties, steel cuffed, over the shouldered to bed and made to feel better with the knowledge that she'll feel real good inside... follows to short modeling shoots with Katherine and Miranda. PZV020",
+      "One of Powershotz first video productions combines with one of Powershotz hottest models, Mia, in this cross between a modeling shoot and domination session. Not quite the same as bikini modeling. Especially when you are hog tied, mouth stuffed, cleave gagged, ball gagged, over the stool bare bottom spanked, cuffed overhead and belt whipped while ball gagged, chained overhead with a leg up and fondled all over those tight sensitive little titties, steel cuffed, over the shouldered to bed and made to feel better with the knowledge that she'll feel real good inside... follows to short modeling shoots with Katherine and Miranda. ",
     categoryid: '3',
     keywords:
       'BALLGAGGED, 18 & 19 YRS OLD, SPANKING, BONDAGE, WHIPPING     powershotz, mia, katherine, miranda, damsel in distress, bdsm, modeling, hogtie, stuffed mouth, cleave gag, handcuffs, pzv020, belt whip, chains, fondling',
@@ -1975,9 +2119,10 @@ export default [
   },
   {
     id: '19355867',
-    title: "VL048  Breedin' Farm",
+    pz_code: 'VL048',
+    title: "Breedin' Farm",
     description:
-      "Breedin' Farm - Starring Cherie and Pixie, two capable breeders. First the home invasion, capture, and chl*r* to prevent injury to the breeders during transport. Once safely secured at the Farm they are bound, stripped, whipped to enforce discipline, inspected, subjugated, and ass rodded to prepare them for anal. Pixie is hung up nude and whipped, flogged at the whipping post and tit whipped. Cherie gets a slow sensual stripping, then a strict hog tie and ball gag with nose hook until she begs for cock. Awesome anal training scenes with both girls. Once broke these breeders will make fine house servants and care givers for the youngin's... not to mention their obvious potential as cock massagers. Keep one in the kitchen and one in the closet for those stressful days. VL048",
+      "Breedin' Farm - A place where captive breeders are prepped for quick sale.  Starring Cherie and Pixie, two capable breeders.  First the capture, home invasion and chloroform to prevent injury during transport.  Though they kick like mules they are easily taken.  Then back at the Farm... bound, stripped, whipped to enforce discipline, inspected, subjugated, ass rodded to prepare them for anal.  Pixie is hung up nude and whipped, flogged at the whipping post and tit whipped.  Cherie gets a slow sensual stripping, then a strict hog tie and ball gag with nose hook until she begs for cock.  Awesome anal training scenes with both girls. Once broke these breeders will make fine house servants and care givers for the youngin's... not to mention their obvious potential as cock massagers.  Keep one in the kitchen and one in the closet for those stressful days.",
     categoryid: '486',
     keywords:
       'BONDAGE, WHIPPING, BDSM, DOMINATION, FORCED STRIPPING     discipline, anal training, suspension, nosehook, gag, begging, anal, vl048, damsel in distress, powershotz, cherie, pixie, butt plug, dildo, Master slave',
@@ -1992,9 +2137,10 @@ export default [
   },
   {
     id: '19348541',
-    title: 'VL047  Hoosier Daddy',
+    pz_code: 'VL047',
+    title: 'Hoosier Daddy',
     description:
-      "Delila is on her way to prom. All prettied up in a stunning full length golden gown. When she arrives at the school she is stunned to meet a stranger in the parking lot. The stunning so powerful that it takes her out, and he takes her in... to the back of his van. Prom night is going to take on special meaning for Delila. Now that she is free of her boyfriend and in the hands of Hoosier Daddy she can come without guilt or regret. Only problem is she'll be forced down on cock. Bound up and gagged, that gorgeous dress cut to ribbons... looking great... laying on the floor. Each time he uses her he stuns her. The poor girl is kicking with electrical excitement. She takes a rod up the ass and a vibrator in her pussy. Her gorgeous milky white body gets fucked and that mousy little face and turned up nose look great gagging on dick. The steel cuffs make sure she sticks around for the final dance.  VL047",
+      "Delila is on her way to prom. All prettied up in a stunning full length golden gown. When she arrives at the school she is stunned to meet a stranger in the parking lot. The stunning so powerful that it takes her out, and he takes her in... to the back of his van. Prom night is going to take on special meaning for Delila. Now that she is free of her boyfriend and in the hands of Hoosier Daddy she can come without guilt or regret. Only problem is she'll be forced down on cock. Bound up and gagged, that gorgeous dress cut to ribbons... looking great... laying on the floor. Each time he uses her he stuns her. The poor girl is kicking with electrical excitement. She takes a rod up the ass and a vibrator in her pussy. Her gorgeous milky white body gets fucked and that mousy little face and turned up nose look great gagging on dick. The steel cuffs make sure she sticks around for the final dance.",
     categoryid: '14',
     keywords:
       '18 & 19 YRS OLD, ELECTRIC PLAY, BONDAGE SEX, ANAL, BALLGAGGED     vibrator, bondage sex, steel cuffs, handcuffs, forced stripping, powershotz, delila, damsel in distress, domination, bdsm, anal training, vl047, fucking, spanking',
@@ -2009,9 +2155,10 @@ export default [
   },
   {
     id: '19337729',
-    title: 'PZV024 Keri, Matilda, Beth, Sylvia, Twyla',
+    pz_code: 'PZV024',
+    title: 'Keri, Matilda, Beth, Sylvia, Twyla',
     description:
-      "Five hard working horny honey's respond to an ad in the local underground paper. Thinking they'd make some quick and easy cash doing modeling. I guess they weren't counting on being stripped naked, hog tied and ball gagged. Or forced to beg for cock to get a ball gag removed before the drool runs down the chin. These bitches needed to be tied up tight. It's the only way to get them fucked. PZV024",
+      "Five hard working horny honey's respond to an ad in the local underground paper. Thinking they'd make some quick and easy cash doing modeling. I guess they weren't counting on being stripped naked, hog tied and ball gagged. Or forced to beg for cock to get a ball gag removed before the drool runs down the chin. These bitches needed to be tied up tight. It's the only way to get them fucked.",
     categoryid: '4',
     keywords:
       'BDSM, SWALLOWING/DROOLING, FORCED STRIPPING, 18 & 19 YRS OLD, BALLGAGGED     domination, damsel in distress, rope, hog tie, keri, matilda, beth, sylvia, twyla, powershotz, spanking, begging, drooling, strict rope, pzv024',
@@ -2026,9 +2173,10 @@ export default [
   },
   {
     id: '19336865',
-    title: 'PZV054, Three for the Road',
+    pz_code: 'PZV054',
+    title: 'Three for the Road',
     description:
-      'Three cute college coeds, Jessy, Alex, and Katherine, are watching tv when they are confronted by an intruder with three sets of cuffs. One by one the scared young girls are forced into custody. Stood up, looked over, bound in rope and forced to maintain slave posture. They are put on display and bound in complete embarrassing nudity. Asses spread wide and pointed high to the sky, ball gagged, collared and roped. Then led in a walk line as they are displayed for sale. These well educated prime breeders should fetch a high price at auction and will make excellent sex pets for their temporary owners. PZV054',
+      'Three cute college coeds, Jessy, Alex, and Katherine, are watching tv when they are confronted by an intruder with three sets of cuffs. One by one the scared young girls are forced into custody. Stood up, looked over, bound in rope and forced to maintain slave posture. They are put on display and bound in complete embarrassing nudity. Asses spread wide and pointed high to the sky, ball gagged, collared and roped. Then led in a walk line as they are displayed for sale. These well educated prime breeders should fetch a high price at auction and will make excellent sex pets for their temporary owners.',
     categoryid: '31',
     keywords:
       'DOMINATION, HUMILIATION, SUBMISSIVE / SLAVE TRAINING, DAMSEL IN DISTRESS, BDSM     jessy, alex, katherine, powershotz, intruder, handcuffs, bondage, ball gag, collar, auction, sex pet, embarrassment, slave girls, gagging, pzv054',
@@ -2036,6 +2184,7 @@ export default [
     date: '2018-03-20 15:14:46',
     name: 'pzv054_2.mp4',
     image: 'pzv054cat.jpg',
+    poster: 'pzv054coverad.jpg',
     displayorder: '1908',
     length: '02:01:24',
     resolution: '1440x1080',
@@ -2043,9 +2192,10 @@ export default [
   },
   {
     id: '19321927',
-    title: 'PZV034, 3 Beach Bunny Hop',
+    pz_code: 'PZV034',
+    title: '3 Beach Bunny Hop',
     description:
-      "Jessy, Emily and Tiffani were prepared for a day at the beach. But when they are interrupted by a masked man with design on their hot bikini bodies, they end up hog tied and gagged alongside one another on the bed. Pity that girls these days never watched the old cops and robber movies. That rag over mouth isn't there to keep his hand from catching your cold. Next Ashleigh. In need of slave training. With the help of steel cuffs, leg irons, leather cuffs and collar and ball gagged begging. Hot ass on this just beginning to show pregnant porker. PZV034",
+      "Jessy, Emily and Tiffani were prepared for a day at the beach. But when they are interrupted by a masked man with design on their hot bikini bodies, they end up hog tied and gagged alongside one another on the bed. Pity that girls these days never watched the old cops and robber movies. That rag over mouth isn't there to keep his hand from catching your cold. Next Ashleigh. In need of slave training. With the help of steel cuffs, leg irons, leather cuffs and collar and ball gagged begging. Hot ass on this just beginning to show pregnant porker. ",
     categoryid: '31',
     keywords:
       'BIKINI, BDSM, MASK FETISH, DAMSEL IN DISTRESS, BONDAGE     hogtie, gag, slave training, steel cuffs, leg irons, leather cuffs, collar, pzv034, begging, pregnant, jessy, emily, tiffani, ashleigh, powershotz',
@@ -2060,9 +2210,10 @@ export default [
   },
   {
     id: '19321351',
-    title: 'PZV085, White Slaver Switch',
+    pz_code: 'PZV085',
+    title: 'White Slaver Switch',
     description:
-      "Ok I'm going to give it to you straight... if you like two girl abd*****n and domination fantasy... you've got to see this video. 18 yo Kylie is the hottest stupid little blonde that ever needed to be abd****d and fucked... and Alex Del Monaco is the hottest celebrity to fully take advantage of the opportunity to tie up and fuck Kylie straight. The only problem is Kylie gets loose after being fucked and turns the tables on Alex, then uses the strap on to fuck tied up Alex... then she makes a dangerous mistake... she tries to sell Alex Del Monaco to the buyer... but the buyer can obviously tell that Alex was supposed to be selling Kylie... not the other way around. So he goes ahead and grabs Kylie, ties her up, ball gags her alongside bit gagged Alex, torments the two hotties, and takes those two fine pieces of ass away to fully exploit their orifi... and without having to pay a dime. Not a bad deal.  PZV085",
+      "Ok I'm going to give it to you straight... if you like two girl abduction and domination fantasy... you've got to see this video.  18 yo Kylie is the hottest stupid little blonde that ever needed to be abducted and fucked... and Alex Del Monaco is the hottest celebrity to fully take advantage of the opportunity to tie up and fuck Kylie straight.  The only problem is Kylie gets loose after being fucked and turns the tables on Alex, then uses the strap on to fuck tied up Alex... then she makes a dangerous mistake... she tries to sell Alex Del Monaco to the buyer... but the buyer can obviously tell that Alex was supposed to be selling Kylie... not the other way around.  So he goes ahead and grabs Kylie, ties her up alongside Alex, torments the two hotties, and takes those two fine pieces of ass away to fully exploit their orifi... and without having to pay a dime.  Not a bad deal.",
     categoryid: '40',
     keywords:
       'SUBMISSIVE / SLAVE TRAINING, DOMINATION, GIRL-GIRL, BDSM, BOY-GIRL-GIRL     damsel in distress, forced orgasm, bondage, alex del monaco, kylie, powershotz, strap on, gag, spanking, 18 and 19 yo, 2 Girls Bound, capture, ball gag, dildo, pzv085',
@@ -2077,9 +2228,10 @@ export default [
   },
   {
     id: '19320455',
-    title: 'PZV125, Party Girls',
+    pz_code: 'PZV125',
+    title: 'Party Girls',
     description:
-      "When April and Shelby dress up as strippers to go to a costume party, they don't realize that they've been scammed. The only party is the one that the two men will be having when they show up. They are grabbed, stripped, cuffed overhead, fondled, disciplined, and introduced to slave training with biting crotch ropes, neck ropes, nipple clamps and riding crops. In scene 2, Jewel is introduced to bondage with a strict hog tie that includes crotch rope and tight neck rope with ball gag. She gets it hard. Finally Rayna is cuffed standing nude to the whipping post where her perfectly fuckable white ass is soundly disciplined and that cute little face is made to beg for cock after gagging on fingers shoved down her throat. Nice full body fondling with awesome facial discipline, deep throat training and breath restriction. She is left with a rosy red bottom. PZV125",
+      "When April and Shelby dress up as strippers to go to a costume party, they don't realize that they've been scammed. The only party is the one that the two men will be having when they show up. They are grabbed, stripped, cuffed overhead, fondled, disciplined, and introduced to slave training with biting crotch ropes, neck ropes, nipple clamps and riding crops. In scene 2, Jewel is introduced to bondage with a strict hog tie that includes crotch rope and tight neck rope with ball gag. She gets it hard. Finally Rayna is cuffed standing nude to the whipping post where her perfectly fuckable white ass is soundly disciplined and that cute little face is made to beg for cock after gagging on fingers shoved down her throat. Nice full body fondling with awesome facial discipline, deep throat training and breath restriction. She is left with a rosy red bottom. ",
     categoryid: '31',
     keywords:
       'BONDAGE, DAMSEL IN DISTRESS, BDSM, FORCED STRIPPING, DOMINATION     overhead cuff, pzv125, discipline, slave training, crotch rope, neck rope, nipple clamps, riding crop, hog ties, ball gag, whipping post, begging, face slapping, deep throat, breath restriction',
@@ -2094,9 +2246,10 @@ export default [
   },
   {
     id: '19316643',
-    title: 'VL046  Slave Trained Girls II',
+    pz_code: 'VL046',
+    title: 'Slave Trained Teens II',
     description:
-      'Two gorgeous 18 yo slaves are trained in this super hottie compilation. First Bobbi is led in on a leash, benched, bound. stripped, cropped, gagged, anal trained, forced to suck with head held high by nose hook and then butt fucked before being butt plugged, boxed up and loaded in the van for shipment to the customer. Then little 18 yo Penni is bound in back arching distress with a hand over her mouth and a hand on her pussy as she squirms deliciously before being vibrated to orgasm. She is lashed to the whipping post for a humiliating ass whipping and tearful wetness check. Then she is rope bound with her arms behind her head and legs spread on the mattress and finger gagged, anal cropped, then hung up and swung into the oncoming flogger until her white ass turns red. In the end she begs for crop to end the whipping. Awesome reality slave training of two of the hottest breeding aged females ever. Get it! VL046',
+      'Two gorgeous 18 yo slaves are trained in this super hottie compilation. First Bobbi is led in on a leash, benched, bound. stripped, cropped, gagged, anal trained, forced to suck with head held high by nose hook and then butt fucked before being butt plugged, boxed up and loaded in the van for shipment to the customer. Then little 18 yo Penni is bound in back arching distress with a hand over her mouth and a hand on her pussy as she squirms deliciously before being vibrated to orgasm. She is lashed to the whipping post for a humiliating ass whipping and tearful wetness check. Then she is rope bound with her arms behind her head and legs spread on the mattress and finger gagged, anal cropped, then hung up and swung into the oncoming flogger until her white ass turns red. In the end she begs for crop to end the whipping. Awesome reality slave training of two of the hottest breeding aged females ever. Get it!',
     categoryid: '31',
     keywords:
       'BONDAGE SEX, BDSM, SUBMISSIVE / SLAVE TRAINING, DOMINATION, FORCED STRIPPING     vl046, collar leash, cropping, gagging, forced blowjob, anal, anal training, nose hook, forced orgasm, spanking, whipping, suspension bondage, bobbi, penni, powershotz',
@@ -2111,9 +2264,10 @@ export default [
   },
   {
     id: '19309797',
-    title: 'VL045  We Three Queens',
+    pz_code: 'VL045',
+    title: 'We Three Teen Queens',
     description:
-      "Three gorgeous under 20 hotties. Aubry, Tatum, and Penni, star in this hardcore fantasy subterfuge flick. First Aubry and Tatum break down... their car that is. They end up calling for help, but it's hard to do with that smelly rag over your mouth. Once zipped up and carried inside the building they are safe and warm, strung up in suspension bondage, vibrated to orgasm, anal trained and disciplined. Now to Penni, the scared damsel is disciplined with duct tape as she sits in the chair... breathing hard, eyes darting to see what tool he is grabbing. A sharp blade disposes of her clothing one embarrassing piece at a time until she is naked and huffing through flared nostrils with a hand between her legs about to discover how wet she's become. He ends her confusion with a smelly rag over mouth slumber that will leave her limp and compliant. She kicks desperately for a second or two before the reality hits home. <br />VL045",
+      "Three gorgeous under 20 hotties. Aubry, Tatum, and Penni, star in this hardcore fantasy subterfuge flick. First Aubry and Tatum break down... their car that is. They end up calling for help, but it's hard to do with that smelly rag over your mouth. Once zipped up and carried inside the building they are safe and warm, strung up in suspension bondage, vibrated to orgasm, anal trained and disciplined. Now to Penni, the scared damsel is disciplined with duct tape as she sits in the chair... breathing hard, eyes darting to see what tool he is grabbing. A sharp blade disposes of her clothing one embarrassing piece at a time until she is naked and huffing through flared nostrils with a hand between her legs about to discover how wet she's become. He ends her confusion with a smelly rag over mouth slumber that will leave her limp and compliant. She kicks desperately for a second or two before the reality hits home.",
     categoryid: '31',
     keywords:
       'SUSPENSION, DOMINATION, BONDAGE, SUBMISSIVE / SLAVE TRAINING, BLONDES     aubry, tatum, penni, bdsm, zip ties, over the shoulder, forced orgasm, anal training, anal, discipline, duct tape, knives, limp, spanking, vl045',
@@ -2128,9 +2282,10 @@ export default [
   },
   {
     id: '19305435',
-    title: 'PZV041, Two Tightass Teens',
+    pz_code: 'PZV041',
+    title: 'Two Tightass Teens',
     description:
-      "Two tight assed virgins, Miranda and Ally, star in this bitchin bondage flick. First Miranda, bad attitude and big tits get her a bitch stripping and a bondage discipline session complete with a workout on the machine to shape that fine breeder body and burn off that baby fat. A taught crotch rope will give her something to wet while she's thinking about that big fat cock. Then Ally... t**n glamour model with a Marilyn Monroe face and lily-white virgin body. She looks fantastic with her elbows cinched in duct tape. But when that fine virgin bottom is raised up by a wrist to ankle cuffing her anal virginity is clearly at risk. That ass is just to fine not to fuck. PZV041",
+      "Two tight assed virgins, Miranda and Ally, star in this bitchin bondage flick. First Miranda, bad attitude and big tits get her a bitch stripping and a bondage discipline session complete with a workout on the machine to shape that fine breeder body and burn off that baby fat. A taught crotch rope will give her something to wet while she's thinking about that big fat cock. Then Ally... teen glamour model with a Marilyn Monroe face and lily-white virgin body. She looks fantastic with her elbows cinched in duct tape. But when that fine virgin bottom is raised up by a wrist to ankle cuffing her anal virginity is clearly at risk. That ass is just to fine not to fuck.",
     categoryid: '31',
     keywords:
       'BONDAGE, CROTCH ABUSE, BIG TITS, DUCT TAPE FETISH, FORCED STRIPPING     elbow cinch, virgin, ankle cuff, anal, domination, bdsm, powershotz, miranda, ally, submissive training, master slave, damsel in distress, gag, forced exercise, pzv041',
@@ -2145,9 +2300,10 @@ export default [
   },
   {
     id: '19300889',
-    title: 'VL042  Caught Up',
+    pz_code: 'VL042',
+    title: 'Caught Up',
     description:
-      "5 delicious damsels get caught up in this damsel in distress/bondage adventure series. First Annie... bored at home... ready to watch tv... suddenly caught up in her own movie...He takes her out with a firm hold... then makes sure she stays quiet during the tie up with a little solvent on rag seduction. Once she's tied up... it's easy to get her to beg for sex... Next Layne... nude bound spread wide on her back... bit gagged cropped and oiled up between the legs. Incredible under 20 bondage body. Now 2 more young hotties... Jessy and Harley... And a first timid bondage try out for Harley. Extremely tight ropes keep these bitches in position for penetration. Finally Hazel... captured and bound to a tree. Her shirt torn away... her pants pulled down around her ankles... a sign placed on the path that reads... \"Free Fuck.\" It doesn't take long for a horny hiker to take her up on the offer. Awesome oral and doggie fuck with a little butt slapping and domination thrown in for sport. Once he squirts in her mouth she is left bound to the tree for the next hiker to sample. Preview VL042",
+      "5 delicious damsels get caught up in this damsel in distress/bondage adventure series. First Annie... bored at home... ready to watch tv... suddenly caught up in her own movie...He takes her out with a firm hold... then makes sure she stays quiet during the tie up with a little solvent on rag seduction. Once she's tied up... it's easy to get her to beg for sex... Next Layne... nude bound spread wide on her back... bit gagged cropped and oiled up between the legs. Incredible under 20 bondage body. Now 2 more young hotties... Jessy and Harley... And a first timid bondage try out for Harley. Extremely tight ropes keep these bitches in position for penetration. Finally Hazel... captured and bound to a tree. Her shirt torn away... her pants pulled down around her ankles... a sign placed on the path that reads... \"Free Fuck.\" It doesn't take long for a horny hiker to take her up on the offer. Awesome oral and doggie fuck with a little butt slapping and domination thrown in for sport. Once he squirts in her mouth she is left bound to the tree for the next hiker to sample.",
     categoryid: '1017',
     keywords:
       'BONDAGE SEX, BDSM, DAMSEL IN DISTRESS, SUBMISSIVE / SLAVE TRAINING, DOMINATION     powershotz, bit gag, cropping, oiling, vl042, penetration, outdoor, forced stripping, oral, spanking, annie, layne, jessy, harley, hazel',
@@ -2162,9 +2318,10 @@ export default [
   },
   {
     id: '19293655',
-    title: 'PZV074, Four Fertile Females',
+    pz_code: 'PZV074',
+    title: 'Four Fertile Females',
     description:
-      "Featuring Alex, Jerzi, Kylie, and Nazli. Kylie comes to try her hand at modeling and brings her cute friend Alex along as an escort. As an escort she isn't doing a very good job. She lets Kylie drink the wine. And oops...takes a glass for herself. Kylie starts to get tired first and when Alex tries to wake her up she suddenly realizes that she will be taking a nap too. Chalk it up to experience. When you are only 18 you haven't yet learned the ropes. But they will both be learning them now. Kylie gets bound spread eagle in the nude on the bed and Alex in a strict hog tie at the base of the bed.  Kylie awakens to lubricant being applied to her pussy and Alex awakens to the sound of Kylie moaning from the dildo that is vibrating her to orgasm. She unties herself and tries to run for the door but gets caught, bitch stripped, bound and gagged and forced to perform and display her body for the cameras right alongside Kylie until he is satisfied with their performance. Next we rejoin 18 year old Jerzi who was previously incarcerated and now finds herself bound kneeling to the whipping post where she is ball gag head harnessed, stripped, fondled, dominated and forced to agree to sexual servitude as payment for being untied. Finally we observe as an under 20 something female with black hair is grabbed, bitch stripped, spanked, and dominated into submission and then hand cuffed and ball gagged with a big fat pink ball. Super Hot Bitch Strip with one and only timer Nazli! PZV074",
+      "Featuring Alex, Jerzi, Kylie, and Nazli. Kylie comes to try her hand at modeling and brings her cute friend Alex along as an escort. As an escort she isn't doing a very good job. She lets Kylie drink the wine. And oops...takes a glass for herself. Kylie starts to get tired first and when Alex tries to wake her up she suddenly realizes that she will be taking a nap too. Chalk it up to experience. When you are only 18 you haven't yet learned the ropes. But they will both be learning them now. Kylie gets bound spread eagle in the nude on the bed and Alex in a strict hog tie at the base of the bed.  Kylie awakens to lubricant being applied to her pussy and Alex awakens to the sound of Kylie moaning from the dildo that is vibrating her to orgasm. She unties herself and tries to run for the door but gets caught, bitch stripped, bound and gagged and forced to perform and display her body for the cameras right alongside Kylie until he is satisfied with their performance. Next we rejoin 18 year old Jerzi who was previously incarcerated and now finds herself bound kneeling to the whipping post where she is ball gag head harnessed, stripped, fondled, dominated and forced to agree to sexual servitude as payment for being untied. Finally we observe as an under 20 something female with black hair is grabbed, bitch stripped, spanked, and dominated into submission and then hand cuffed and ball gagged with a big fat pink ball. Super Hot Bitch Strip with one and only timer Nazli! ",
     categoryid: '31',
     keywords:
       'BONDAGE, BDSM, DOMINATION, FORCED ORGASMS, DAMSEL IN DISTRESS     over the shoulder, alex, jerzi, kylie, nazli, powershotz, spanking, submission, forced stripping, gagging, pzv074, spread eagle, dildo, handcuff, four fertile females',
@@ -2179,9 +2336,10 @@ export default [
   },
   {
     id: '19292211',
-    title: 'PZV095, Triple Threat Treat',
+    pz_code: 'PZV095',
+    title: 'Triple Threat Treat',
     description:
-      "We were tempted to charge three times as much for this one... why? Because it's got three of the tightest, hottest, most fuckable asses ever tied up, butt slapped and dominated hard you've ever seen. Bondage virgin Lexi undergoes strict rope bondage, ball gag and hog tie, then is ass upped and put in her place. Victoria, one hot 18 year old bikini model with smooth and muscular legs. Fully nude, ball gag harnessed, cropped, spanked, and dominated hard at the whipping post. Then Jerzi, that perfect butt, cover girl face, 18 year old sweetheart... she gets bit gagged into drooling submission in a wrist to ankle rope tie that puts that smooth tight little sphincter right out where it can be readily penetrated by a hard cock. PZV095",
+      "We were tempted to charge three times as much for this one... why? Because it's got three of the tightest, hottest, most fuckable asses ever tied up, butt slapped and dominated hard you've ever seen. Bondage virgin Lexi undergoes strict rope bondage, ball gag and hog tie, then is ass upped and put in her place. Victoria, one hot 18 year old bikini model with smooth and muscular legs. Fully nude, ball gag harnessed, cropped, spanked, and dominated hard at the whipping post. Then Jerzi, that perfect butt, cover girl face, 18 year old sweetheart... she gets bit gagged into drooling submission in a wrist to ankle rope tie that puts that smooth tight little sphincter right out where it can be readily penetrated by a hard cock.",
     categoryid: '4',
     keywords:
       'ASS SMACKING, SUBMISSIVE / SLAVE TRAINING, 18 & 19 YRS OLD, VIRGIN HUMILIATION, DOMINATION     rope bondage, gags, hog tie, harnesss, cropping, spanking, whipping post, pzv095, drooling, wrist to ankle, powershotz, bdsm, lexi, jerzi, victoria',
@@ -2189,6 +2347,7 @@ export default [
     date: '2018-03-12 11:54:13',
     name: 'pzv095_1.mp4',
     image: 'pzv095cat.jpg',
+    poster: 'pzv095coverad.jpg',
     displayorder: '1918',
     length: '01:58:14',
     resolution: '1440x1080',
@@ -2196,9 +2355,10 @@ export default [
   },
   {
     id: '19288333',
-    title: 'PZV091 Leg Show',
+    pz_code: 'PZV091',
+    title: 'Leg Show',
     description:
-      'All three of the young gals in this flick have incredible legs! Page... sweetest little girl you ever did see... Victoria... Virgin fresh from the farm... Jerzi... all horned up and ready to blow. Tight legs... tight asses... baby faced babes in bondage. PZV091',
+      'All three of the young gals in this flick have incredible legs! Page... sweetest little girl you ever did see... Victoria... Virgin fresh from the farm... Jerzi... all horned up and ready to blow. Tight legs... tight asses... baby faced babes in bondage.',
     categoryid: '31',
     keywords:
       'BONDAGE, SPANKING, BDSM, BALLGAGGED, DOMINATION     chains, nipple clamps, duct tape, damsel in distress, page, victoria, jerzi, powershotz, crotch rope, strict bondage, master slave, submission, virgin, collar, pzv091',
@@ -2213,9 +2373,10 @@ export default [
   },
   {
     id: '19280331',
-    title: 'PZV075, Broken In Right',
+    pz_code: 'PZV075',
+    title: 'Broken In Right',
     description:
-      'Two bondage first timers are shown the ropes in this bitch strip, rope, gag and discipline flick. First Jerzi, fresh out of high school and into a strict rope hogtie complete with fondling, bare handed discipline, duct tape and nose hook. The horny little mutt is flexible enough to be rolled and positioned easily for a good pounding. Then Sheena, her one and only embarrassed step out onto the bondage ledge. Luckily she was prevented from falling off by strong ropes, steel cuffs, blind fold to keep her from bolting and mouth stuffing to shut her up while she is hung out for inspection. Nice breeding potential in this big boned blonde. Looks great hogtied in blue jeans. What she needs is a big bone hammered home in that fine fat ass. PZV075',
+      'Two bondage first timers are shown the ropes in this bitch strip, rope, gag and discipline flick. First Jerzi, fresh out of high school and into a strict rope hogtie complete with fondling, bare handed discipline, duct tape and nose hook. The horny little mutt is flexible enough to be rolled and positioned easily for a good pounding. Then Sheena, her one and only embarrassed step out onto the bondage ledge. Luckily she was prevented from falling off by strong ropes, steel cuffs, blind fold to keep her from bolting and mouth stuffing to shut her up while she is hung out for inspection. Nice breeding potential in this big boned blonde. Looks great hogtied in blue jeans. What she needs is a big bone hammered home in that fine fat ass. ',
     categoryid: '31',
     keywords:
       'BONDAGE, BALLGAGGED, FORCED STRIPPING, BLINDFOLDS, ROPE BONDAGE     discipline, hogtie, fondling, duct tape, nose hook, steel cuffs, spanking, gag, blonde, jerzi, sheena, powershotz, damsel in distress, bdsm, pzv075',
@@ -2230,9 +2391,10 @@ export default [
   },
   {
     id: '19273159',
-    title: 'PZV081, Rayne On',
+    pz_code: 'PZV081',
+    title: 'Rayne On',
     description:
-      "Three of the hottest under 20 somethings ever to pose for the site and a MILF in need of whipping round out this kick ass hard bondage flick. Blonde tighty whitey Kylie gets grabbed in the garage, cuffed, and carried before being cropped and dildo vibed at the whipping post. She's so inexperienced and sensitive. Poor thing. Then Rayne... her back to the whipping post, blindfolded and gagged in heels and sexy lingerie. Her elbows are cinched with a leather strap and those tits stand out to be taken into custody. Unbelievable body! Then supermodel Jerzi... scared first timer with the cutest face you've ever seen! Handcuffed to the headboard... then leg cuffed up high to show off that tight virgin ass as those big baby eyes stare back. Matilda... strapped to the whipping post and whipped hard in one of the most kick ass whippings ever. She wouldn't say stop... Then back to horny little mousy little Rayne... crotch chained and dominated. Her clothing cut away piece by piece until that fine young breeding body is fully nude and ready for insemination. She is bound on the bed in cherry socks wrist to ankle with leather cording and forced to role and display that smooth young bottom in ways that only a hard dick could truly appreciate. Get it before they get away! PZV081",
+      "Three of the hottest under 20 somethings ever to pose for the site and a MILF in need of whipping round out this kick ass hard bondage flick. Blonde tighty whitey Kylie gets grabbed in the garage, cuffed, and carried before being cropped and dildo vibed at the whipping post. She's so inexperienced and sensitive. Poor thing. Then Rayne... her back to the whipping post, blindfolded and gagged in heels and sexy lingerie. Her elbows are cinched with a leather strap and those tits stand out to be taken into custody. Unbelievable body! Then supermodel Jerzi... scared first timer with the cutest face you've ever seen! Handcuffed to the headboard... then leg cuffed up high to show off that tight virgin ass as those big baby eyes stare back. Matilda... strapped to the whipping post and whipped hard in one of the most kick ass whippings ever. She wouldn't say stop... Then back to horny little mousy little Rayne... crotch chained and dominated. Her clothing cut away piece by piece until that fine young breeding body is fully nude and ready for insemination. She is bound on the bed in cherry socks wrist to ankle with leather cording and forced to role and display that smooth young bottom in ways that only a hard dick could truly appreciate. Get it before they get away!",
     categoryid: '31',
     keywords:
       'WHIPPING, DILDOS, BONDAGE, BLINDFOLDS, HANDCUFF AND SHACKLE FETISH     whipping post, gag, elbow cinch, crotch chained, domination, wrist to ankle, damsel in distress, bdsm, master slave, kylie, rayne, jerzi, matilda, powershotz, pzv081',
@@ -2247,9 +2409,10 @@ export default [
   },
   {
     id: '19269091',
-    title: 'PZV077, Jerzi & Rayne Abduction Addiction',
+    pz_code: 'PZV077',
+    title: 'Jerzi & Rayne Abduction Addiction',
     description:
-      "Two 18 year old first time bondagette super models star in this hot abd*ction/bondage fantasy adventure. First Jerzi... strutting on down the street talking shit on the phone when she finds herself locked out and must go around through the garage. A horny man has been waiting for her there and she walks right in front of the board he is hiding behind...ooops. A good struggle strip and an over the shoulder with some bare ass spanking settles the bitch down for the walk inside. Then Rayne is shown incarcerated in steel cuff bondage in the freezing cold bathroom. Nude and begging for release. She'll do anything to get warmed up. Including taking his cock in any way he wants to give it to her! She agrees to join him in his bed if he releases her from the meat locker. She is handcuffed overhead in a pool to be scrubbed up before bed. He washes and slaps as he feels her up until she is clean enough to be tied up and fucked. She is forced to clean up the water. Then rubbered up in surgical tubing that binds her elbows, wrists and ankles perfectly in a strict hog tie for a bed bound struggle. In the mean time, Jerzi is bound on the bench with her perfect 18 year old ass sticking right up so she can be dominated, spanked and fondled. A panel gag keeps that bitchy mouth from bitching while his hands roam her gorgeous breeding body. But when she forgets to say Master she gets a stinging smack on the ass that makes her squeal real nice. Super hot super model face!",
+      "Two 18 year old first time bondagette super models star in this hot abduction/bondage fantasy adventure. First Jerzi... strutting on down the street talking shit on the phone when she finds herself locked out and must go around through the garage. A horny man has been waiting for her there and she walks right in front of the board he is hiding behind...ooops. A good struggle strip and an over the shoulder with some bare ass spanking settles the bitch down for the walk inside. Then Rayne is shown incarcerated in steel cuff bondage in the freezing cold bathroom. Nude and begging for release. She'll do anything to get warmed up. Including taking his cock in any way he wants to give it to her! She agrees to join him in his bed if he releases her from the meat locker. She is handcuffed overhead in a pool to be scrubbed up before bed. He washes and slaps as he feels her up until she is clean enough to be tied up and fucked. She is forced to clean up the water. Then rubbered up in surgical tubing that binds her elbows, wrists and ankles perfectly in a strict hog tie for a bed bound struggle. In the mean time, Jerzi is bound on the bench with her perfect 18 year old ass sticking right up so she can be dominated, spanked and fondled. A panel gag keeps that bitchy mouth from bitching while his hands roam her gorgeous breeding body. But when she forgets to say Master she gets a stinging smack on the ass that makes her squeal real nice. Super hot super model face!",
     categoryid: '31',
     keywords:
       'BONDAGE, DOMINATION, FORCED STRIPPING, BDSM, SPANKING     over the shoulder, panel gag, bathroom, shivering, handcuffs, dirty feet, washing, pzv077, rubber tubing, hogtie, oiling, powershotz, jerzi, rayne, damsel in distress',
@@ -2264,9 +2427,10 @@ export default [
   },
   {
     id: '19261229',
-    title: 'PZV084, Sensual Distress',
+    pz_code: 'PZV084',
+    title: 'Sensual Distress',
     description:
-      "Four lovely young maidens are dominated and bound in this sensual arousal presentation. Anna strict hog tie and ball gag with nose hook... in full bare ass nudity... Alanna... disciplined standing with neck noose... then anal and vaginal vibrational stimulation on the training bench. Incredible baby faced glamour girl Jerzi... in an Arabian night suspension fantasy... bondage virgin Angel... in her first excursion into strict bondage... arms spread, kneeling strappado with nose hook. It's a sleeper... and a keeper!<br />Powershotz title PZV084",
+      "Four lovely young maidens are dominated and bound in this sensual arousal presentation. Anna strict hog tie and ball gag with nose hook... in full bare ass nudity... Alanna... disciplined standing with neck noose... then anal and vaginal vibrational stimulation on the training bench. Incredible baby faced glamour girl Jerzi... in an Arabian night suspension fantasy... bondage virgin Angel... in her first excursion into strict bondage... arms spread, kneeling strappado with nose hook. It's a sleeper... and a keeper!",
     categoryid: '31',
     keywords:
       'DOMINATION, SUBMISSIVE / SLAVE TRAINING, BONDAGE, BDSM, BALLGAGGED     hogtie, nose hook, nudity, discipline, neck noose, suspension bondage, virgin, strict bondage, pzv084, strappado, powershotz, anna, alanna, jerzi, angel',
@@ -2281,9 +2445,10 @@ export default [
   },
   {
     id: '19259999',
-    title: 'PZV112 Model Material',
+    pz_code: 'PZV112',
+    title: 'Model Material',
     description:
-      "Two gorgeous girls show up to try modeling. Little do they know that before this shoot is over they'll be stripped and spanked, hand cuffed, ball gagged, hog tied, nose hooked, rope choked, anal whipped, dominated and left begging. It's hard not to get horny when you receive this sort of treatment. PZV112",
+      "Two gorgeous girls show up to try modeling. Little do they know that before this shoot is over they'll be stripped and spanked, hand cuffed, ball gagged, hog tied, nose hooked, rope choked, anal whipped, dominated and left begging. It's hard not to get horny when you receive this sort of treatment. ",
     categoryid: '31',
     keywords:
       'FORCED STRIPPING, BALLGAGGED, SPANKING, GAGGING, HANDCUFF AND SHACKLE FETISH     hogtie, nose hook, rope choke, anal whipping, domination, begging, pzv112, abbey, audrey, powershotz, master slave, slave training, submission, choking, anal',
@@ -2291,6 +2456,7 @@ export default [
     date: '2018-03-06 13:01:18',
     name: 'pzv112_1.mp4',
     image: 'pzv112cat.jpg',
+    poster: 'pzv112coverad.jpg',
     displayorder: '1924',
     length: '01:26:52',
     resolution: '1440x1080',
@@ -2298,9 +2464,10 @@ export default [
   },
   {
     id: '19255017',
-    title: 'VL041  Blondes Bombed',
+    pz_code: 'VL041',
+    title: 'Blondes Bombed',
     description:
-      'Two blonde bombshells... Julie Simone and Natalie Rose... Abd*cted, bound, bitch-stripped and whipped. Big bosom babe Julie Simone gets a good ass and tit whipping between bouts of forced orgasm. First timer Natalie Rose gets porch dogged and enslaved before being hung up and swung, flogged on that smooth virgin ass and hog strapped and gagged. Kick butt bondage action! Preview VL041',
+      'Two blonde bombshells... Julie Simone and Natalie Rose... Abducted, bound, bitch-stripped and whipped. Big bosom babe Julie Simone gets a good ass and tit whipping between bouts of forced orgasm. First timer Natalie Rose gets porch dogged and enslaved before being hung up and swung, flogged on that smooth virgin ass and hog strapped and gagged. Kick butt bondage action! ',
     categoryid: '40',
     keywords:
       'BONDAGE SEX, FORCED ORGASMS, BDSM, WHIPPING, FORCED STRIPPING     Julie Simone, Natalie Rose, Blondes Bombed, bondage, bitch strip, tit whip, slave training, vl041, flogging, hog strapped, gags, damsel in distress, domination, first time, Master slave',
@@ -2315,9 +2482,10 @@ export default [
   },
   {
     id: '19242731',
-    title: 'VL040  Southern Comfort',
+    pz_code: 'VL040',
+    title: 'Southern Comfort',
     description:
-      'Two fine black slave girls. Montez and Skyy.... Captive girls collared and inducted into slavery. Montez... Captured and collared, dominated and stripped, then breast flogged and bound to the whipping stocks for an awesome bottom whipping. Skyy... Captive slave girl bound to the backboard where her clothing is cut away, her body oiled, her sensitive genitalia vibrated as she squirms in ecstasy. Then she is strapped to the anal training bench where her virgin anus is lubed and stretched, then rodded out good. Finally she is butt plugged and crotch roped, hog strapped and put to bed. These black slaves will give their share cropper owners hours of southern comfort. VL040',
+      'Two fine black slave girls. Montez and Skyy.... Captive girls collared and inducted into slavery. Montez... Captured and collared, dominated and stripped, then breast flogged and bound to the whipping stocks for an awesome bottom whipping. Skyy... Captive slave girl bound to the backboard where her clothing is cut away, her body oiled, her sensitive genitalia vibrated as she squirms in ecstasy. Then she is strapped to the anal training bench where her virgin anus is lubed and stretched, then rodded out good. Finally she is butt plugged and crotch roped, hog strapped and put to bed. These black slaves will give their share cropper owners hours of southern comfort. ',
     categoryid: '214',
     keywords:
       '18 & 19 YRS OLD, FORCED STRIPPING, DOMINATION, BONDAGE SEX, SUBMISSIVE / SLAVE TRAINING     ebony, collared, breast flogging, whipping post, spanking, vl040, oiling, anal training, anal, crotch rope, hog strapped, powershotz, montez, skyy, damsel in distress',
@@ -2332,9 +2500,10 @@ export default [
   },
   {
     id: '19238731',
-    title: 'VL043  Pretty Little Profit',
+    pz_code: 'VL043',
+    title: 'Pretty Little Profit',
     description:
-      'When sex pervert sees pretty little cheer leader Bobbi strutting those hot legs his hard on springs into action and he hears the register ringing. Cheerleader sex slaves fetch a pretty price at auction and this one will be a treat to train. He rigs her car to get a flat while she is driving home and then comes along to rescue her. He asks her to hand him a lug nut and she dutifully bends over in front of him. Ooops...her feet kick and those gorgeous thigh muscles clutch as she is taken off the ground in a back arching, hand over mouth submission hold. The rag held firmly over her mouth was soaked in something volatile and within a breath or two she slumps into his arms. She is over the shouldered into the van and is roped up pretty tight when she is awakened by a rough hand sliding up between her thighs. Her cries for help are met with a gag and she is unable to get loose no matter how hard she struggles on the van floor. When he gets her home she is chained to a bench where she is inspected for defects and her gag reflex is tested while she is bound in rope. She is stood up and forced to strip, bound to a whipping horse where she is goosed, wetness checked, ball gagged and whipped. She is hung arms overhead and whipped. Bound to a bench and fucked from behind. Spanked, whipped, dominated, cropped and punish fucked. While his cock is fully embedded inside her tight body he evolves a new investment strategy... keep her for the dividend! This hot to trot is best kept in a closet where she can provide cock stimulating benefits using her mouth, pussy, and tight ass on a daily or hourly basis! She is bound, ball gagged and knelt inside a wooden box where she is forced into childs pose and locked up tight. He drags the box to the van with her inside it, there he loads her up. This one will require time and patience but watching her squeal while his cock throttles in and out will make it well worth the effort. Almost 2 hours of kidn*p fantasy with the hottest under 20 high school sports fan ever! VL043',
+      'When sex pervert sees pretty little cheer leader Bobbi strutting those hot legs his hard on springs into action and he hears the register ringing. Cheerleader sex slaves fetch a pretty price at auction and this one will be a treat to train. He rigs her car to get a flat while she is driving home and then comes along to rescue her. He asks her to hand him a lug nut and she dutifully bends over in front of him. Ooops... her feet kick and those gorgeous thigh muscles clutch as she is taken off the ground in a back arching, hand over mouth submission hold. The rag held firmly over her mouth was soaked in something volatile and within a breath or two she slumps into his arms. She is over the shouldered into the van and is roped up pretty tight when she is awakened by a rough hand sliding up between her thighs. Her cries for help are met with a gag and she is unable to get loose no matter how hard she struggles on the van floor. When he gets her home she is chained to a bench where she is inspected for defects and her gag reflex is tested while she is bound in rope. She is stood up and forced to strip, bound to a whipping horse where she is goosed, wetness checked, ball gagged and whipped. She is hung arms overhead and whipped. Bound to a bench and fucked from behind. Spanked, whipped, dominated, cropped and punish fucked. While his cock is fully embedded inside her tight body he evolves a new investment strategy... keep her for the dividend! This hot to trot is best kept in a closet where she can provide cock stimulating benefits using her mouth, pussy, and tight ass on a daily or hourly basis! She is bound, ball gagged and knelt inside a wooden box where she is forced into childs pose and locked up tight. He drags the box to the van with her inside it, there he loads her up. This one will require time and patience but watching her squeal while his cock throttles in and out will make it well worth the effort. Almost 2 hours of kidnap fantasy with the hottest under 20 high school sports fan ever!',
     categoryid: '31',
     keywords:
       'BONDAGE SEX, DOMINATION, CHEERLEADERS, FLOGGING, FORCED STRIPPING     hogtie, capture & carry, strict bondage, crop, discipline, gags, forced blowjob, anal, powershotz, bobbi, bdsm, damsel in distress, uniform, spanking, vl043',
@@ -2349,9 +2518,10 @@ export default [
   },
   {
     id: '19237875',
-    title: 'VL063  Breeders Off Course',
+    pz_code: 'VL063',
+    title: 'Breeders Off Course',
     description:
-      "Two fine young breeders wander onto private property and are captured. Now they must face punishment for placing themselves in a position of vulnerability where they could have been fucked pregnant by a horny breeding stud. The bitches are run down and *nesthetized for their own protection. Then strung up and hogged on the buck board to be dragged back to the barn where they are separated. Aubrie is hung up and ball gagged, then stripped nude and whipped while her naked body swings. Then spread eagle bound in the nude, bit gagged, finger gagged, and vibrated forcefully to an orgasmic state. Then her virgin anus is lubricated, penetrated and guaged with a bulbed glass rod to let her know what it feels like to be fucked in the ass so she will learn not to go wandering around on private property again. She is over the knee spanked, butt plugged, the plug is crotch roped in tight to prevent her squeezing it out and she is wood block gagged and hog roped to await Megan's arrival. Megan is led into the room in back arching distress, bitch stripped, hog tied and ball gagged to shut her up. the two gorgeous females are hogtied alongside one another. Two of the hottest 18 yo models ever!  VL063",
+      "Two fine young breeders wander onto private property and are captured. Now they must face punishment for placing themselves in a position of vulnerability where they could have been fucked pregnant by a horny breeding stud. The bitches are run down and anesthetized for their own protection. Then strung up and hogged on the buck board to be dragged back to the barn where they are separated. Aubrie is hung up and ball gagged, then stripped nude and whipped while her naked body swings. Then spread eagle bound in the nude, bit gagged, finger gagged, and vibrated forcefully to an orgasmic state. Then her virgin anus is lubricated, penetrated and guaged with a bulbed glass rod to let her know what it feels like to be fucked in the ass so she will learn not to go wandering around on private property again. She is over the knee spanked, butt plugged, the plug is crotch roped in tight to prevent her squeezing it out and she is wood block gagged and hog roped to await Megan's arrival. Megan is led into the room in back arching distress, bitch stripped, hog tied and ball gagged to shut her up. the two gorgeous females are hogtied alongside one another. Two of the hottest 18 yo models ever!",
     categoryid: '31',
     keywords:
       'CORPORAL PUNISHMENT, FORCED ORGASMS, FORCED STRIPPING, ANAL, WHIPPING     hogtie, spread eagle, vibrator, anal training, butt plug, hog rope, domination, damsel in distress, outdoor, aubrie, megan, slave training, punishment, master slave, vl063',
@@ -2366,9 +2536,10 @@ export default [
   },
   {
     id: '19219173',
-    title: 'PZV133, Model Student',
+    pz_code: 'PZV133',
+    title: 'Model Student',
     description:
-      'Hazel breaks down on the side of the road and accepts a ride from a generous passerby. When she tries to get out of the car, she is given another generous offer... Bondage Modeling! Only this time she is not allowed to refuse the offer. She is cuffed to a pole with her hands overhead, bitch stripped, fondled and molested as she is forced to pose for the camera in the most humiliating positions that reveal every intimate detail of her anatomy. The ball gag causes her to suppress her gag reflex and drool flows freely down her bare naked breasts as she is bound legs spread and forced to stay high on toe as she is flogged. Then she is bit gagged and nose hooked. And informed that she will not be leaving this job until the proprietor has taken full advantage of her gorgeous young body. Next A+ student Clarissa gets a B on an important test and must face the professor at the whipping post. Strict bondage and hard ass discipline are administered to correct her errant behavior and she is informed that good grades are the only thing that will keep her from a life spent sucking cock. Two of the hottest hotties make this another Powershotz classic! Get it before they shut us down!!! PZV133',
+      'Hazel breaks down on the side of the road and accepts a ride from a generous passerby. When she tries to get out of the car, she is given another generous offer... Bondage Modeling! Only this time she is not allowed to refuse the offer. She is cuffed to a pole with her hands overhead, bitch stripped, fondled and molested as she is forced to pose for the camera in the most humiliating positions that reveal every intimate detail of her anatomy. The ball gag causes her to suppress her gag reflex and drool flows freely down her bare naked breasts as she is bound legs spread and forced to stay high on toe as she is flogged. Then she is bit gagged and nose hooked. And informed that she will not be leaving this job until the proprietor has taken full advantage of her gorgeous young body. Next A+ student Clarissa gets a B on an important test and must face the professor at the whipping post. Strict bondage and hard ass discipline are administered to correct her errant behavior and she is informed that good grades are the only thing that will keep her from a life spent sucking cock. Two of the hottest hotties make this another Powershotz classic! Get it before they shut us down!!! ',
     categoryid: '31',
     keywords:
       'BDSM, BONDAGE, DAMSEL IN DISTRESS, WHIPPING, DOMINATION     discipline, hazel, clarissa, powershotz, spanking, submissive, punishment, bit gag, whipping post, flogging, face slapping, pzv133',
@@ -2383,9 +2554,10 @@ export default [
   },
   {
     id: '19214045',
-    title: 'VL039  Frightened Foursome',
+    pz_code: 'VL039',
+    title: 'Frightened Foursome',
     description:
-      'Four Frightened Females are put in strict bondage and given stern discipline with penetrating punishment. Alex.. Pole Taxed and forced to suck, Cindy... Spread down and vibed... Dani... Strict rope hog tie on mattress with anal intrusion... then hog roped on the table, ball gagged, nose hooked and cocked in the mouth, finally a tearful flogging to settle her down... Clarissa... arms overhead big ball butt slap while kneeling on the chair. A kick ass compilation of frightened felines felt up, fondled, fingered, and flogged. Hot! <br />Preview VL039',
+      'Four Frightened Females are put in strict bondage and given stern discipline with penetrating punishment. Alex.. Pole Taxed and forced to suck, Cindy... Spread down and vibed... Dani... Strict rope hog tie on mattress with anal intrusion... then hog roped on the table, ball gagged, nose hooked and cocked in the mouth, finally a tearful flogging to settle her down... Clarissa... arms overhead big ball butt slap while kneeling on the chair. A kick ass compilation of frightened felines felt up, fondled, fingered, and flogged. Hot!',
     categoryid: '214',
     keywords:
       '18 & 19 YRS OLD, DAMSEL IN DISTRESS, BDSM, BONDAGE BLOWJOBS, DOMINATION     vl039, discipline, penetration, punish fuck, forced blowjob, hogtie, ball gag, nose hook, bondage sex, crying, powershotz, alex, clarissa, dani, cindy',
@@ -2400,9 +2572,10 @@ export default [
   },
   {
     id: '19207927',
-    title: 'VL038  Lessons Learned',
+    pz_code: 'VL038',
+    title: 'Lessons Learned',
     description:
-      "3 hottilicious underlings are given strict corporal discipline including bondage whipping, spanking, oral, vaginal, and anal penetration. Bound up and forced to suck for failure to get it done right... whipped for poor performance... fucked because its easy when she's taped up tight. They'll get it right or go through it again. Let's hope they get it wrong. Starring Cindy, Clarissa and Kitty. VL038",
+      "3 hottilicious underlings are given strict corporal discipline including bondage whipping, spanking, oral, vaginal, and anal penetration. Bound up and forced to suck for failure to get it done right... whipped for poor performance... fucked because its easy when she's taped up tight. They'll get it right or go through it again. Let's hope they get it wrong. Starring Cindy, Clarissa and Kitty. ",
     categoryid: '403',
     keywords:
       '18 & 19 YRS OLD, BONDAGE, CORPORAL PUNISHMENT, SPANKING, WHIPPING     discipline, oral, vl038, anal, cock sucking, tape, ebony, cindy, clarissa, kitty, domination, punish fuck, struggle fuck, penetration',
@@ -2417,9 +2590,10 @@ export default [
   },
   {
     id: '19203297',
-    title: 'VL037  Busting Out',
+    pz_code: 'VL037',
+    title: 'Busting Out',
     description:
-      "Sweet Layne runs away from home and takes a ride from a stranger. She thinks she's busting out of prison... instead she'll be busting out of those jeans at the hands of that stranger. And he's got plans to make her want to return home... after he's checked that hot ass and those smooth, muscular thighs... whipped that ass over the stool after plugging it... hung her up arms overhead, ball gagged her and whipped her with her own belt... crotch roped that plug in tight... and popped in that cute little mouth. She'll be busting out all right... and busting back into her house as quickly as possible after this zip tied ride in the country. Virgin ass no more. Awesome bondage and abducti*n fantasy adventure! VL037",
+      "Sweet Layne runs away from home and takes a ride from a stranger. She thinks she's busting out of prison... instead she'll be busting out of those jeans at the hands of that stranger. And he's got plans to make her want to return home... after he's checked that hot ass and those smooth, muscular thighs... whipped that ass over the stool after plugging it... hung her up arms overhead, ball gagged her and whipped her with her own belt... crotch roped that plug in tight... and popped in that cute little mouth. She'll be busting out all right... and busting back into her house as quickly as possible after this zip tied ride in the country. Virgin ass no more. Awesome bondage and abduction fantasy adventure!",
     categoryid: '31',
     keywords:
       'BONDAGE SEX, BONDAGE, WHIPPING, ANAL, SPANKING     butt plug, zip ties, domination, rope, bdsm, powershotz, layne, stranger, blowjob, gagging, punishment, strugglefuck, penetration, forced stripping, vl037',
@@ -2434,12 +2608,13 @@ export default [
   },
   {
     id: '19195443',
-    title: 'VL035  Infringed Benefits',
+    pz_code: 'VL035',
+    title: 'Infringed Benefits',
     description:
-      "These two abductettes are bound for corporate ownership when the auction is completed. Until then they must endure strict bondage and discipline to prepare them for their upcoming adventure. Layne is taken on the couch as she goes through a stack of cd's... The chemical used prevents injury while she is being cuffed and transported. Wendy is taken in her room while preparing for bed. She submits dutifully and accepts her position while being hog cuffed. Layne's virgin bottom receives lubricated dilation and penetration to prepare her for the massive anal intrusions she'll experience under corporate ownership. Ball gags, chains, leather straps and strict rope insure that they are kept secure prior to auction. They'll make excellent fringe benefits for the corporate clients they'll be forced to serve. Their sacrifice might even help save the economy! Super hot! VL035",
+      "These two abductettes are bound for corporate ownership when the auction is completed. Until then they must endure strict bondage and discipline to prepare them for their upcoming adventure. Layne is taken on the couch as she goes through a stack of cd's... The chemical used prevents injury while she is being cuffed and transported. Wendy is taken in her room while preparing for bed. She submits dutifully and accepts her position while being hog cuffed. Layne's virgin bottom receives lubricated dilation and penetration to prepare her for the massive anal intrusions she'll experience under corporate ownership. Ball gags, chains, leather straps and strict rope insure that they are kept secure prior to auction. They'll make excellent fringe benefits for the corporate clients they'll be forced to serve. Their sacrifice might even help save the economy! Super hot!",
     categoryid: '31',
     keywords:
-      'BONDAGE SEX, SUBMISSIVE / SLAVE TRAINING, DOMINATION, ANAL, HANDCUFF AND SHACKLE FETISH     Infringed Benefits, master slave, Layne, Wendy, vl035, hogtie, anal dilation, ball gag, cf, leather straps, strict rope, anal training, bdsm, damsel in distress, gagging',
+      'BONDAGE SEX, SUBMISSIVE / SLAVE TRAINING, DOMINATION, ANAL, HANDCUFF AND SHACKLE FETISH     Infringed Benefits, master slave, Layne, Wendy, vl035, hogtie, anal dilation, ball gag, cf, chloroform leather straps, strict rope, anal training, bdsm, damsel in distress, gagging',
     price: '39.99',
     date: '2018-02-23 09:45:41',
     name: 'vl035_1.mp4',
@@ -2451,9 +2626,10 @@ export default [
   },
   {
     id: '19190763',
-    title: 'VL034  Forced Fantasy Fuckettes',
+    pz_code: 'VL034',
+    title: 'Forced Fantasy Fuckettes',
     description:
-      "Frisky Felines Selena and Hazel star in this forced bondage fantasy flick. First Selena... dreaming of being taken, dominated, man handled, oiled up, spanked, gagged, blindfolded and sent to nirvana with the tip of the powerful vibrating probe. Then Hazel... leaving her campsite to pee in the woods... discovered by Hunter Bud on his 4 wheeler. He runs her down... takes her down... strips her naked and straps her down for secured transport back to his place. He wakes her up and ball gags her before driving off to keep her from scaring away the deer. She makes a run for it, he chases her down again... only this time he uses duct tape and hauls her back to the barn for a little choking and gagging punishment session. She'll pay closer attention next time around.  VL034",
+      "Frisky Felines Selena and Hazel star in this forced bondage fantasy flick. First Selena... dreaming of being taken, dominated, man handled, oiled up, spanked, gagged, blindfolded and sent to nirvana with the tip of the powerful vibrating probe. Then Hazel... leaving her campsite to pee in the woods... discovered by Hunter Bud on his 4 wheeler. He runs her down... takes her down... strips her naked and straps her down for secured transport back to his place. He wakes her up and ball gags her before driving off to keep her from scaring away the deer. She makes a run for it, he chases her down again... only this time he uses duct tape and hauls her back to the barn for a little choking and gagging punishment session. She'll pay closer attention next time around.",
     categoryid: '403',
     keywords:
       '18 & 19 YRS OLD, GAGGING, DOMINATION, BLINDFOLDS, SPANKING     man handled, vl034, vibrator, selena, hazel, powershotz, peeing, forced stripping, ball gag, escape, duct tape, choking, punishment, bdsm, strugglefuck',
@@ -2469,9 +2645,10 @@ export default [
   },
   {
     id: '19177261',
-    title: 'VL033  CandyLayne',
+    pz_code: 'VL033',
+    title: 'CandyLayne',
     description:
-      'Candy and Layne. Only 18 years old... time to teach them a thing or two. First Candy, Hitchhiking down that country road... hotter than a pistol. Picked up and zipped up... thrown in the back of the van and mouth stuffed and gagged. Taken into the warehouse where her captor can take his time... force her to strip, handcuff, ball gag, belt whip, spank, arms overhead, hog tie, butt plug, crotch rope and deep throat the bitch to make sure she gets the point. Next Layne... clean up girl... gets cleaned up nice on the deck... elbow strapped and ass upped, then taken to a tree where she is bound overhead and ball gagged. Her clothing is cut and torn away... and the nude stands alone. Later she is brought inside and put up on the table for a good strict hog tie that will give her a better understanding of what it means to pay attention. The ball gag head harness and nose hook are helpful in this regard. Two super hot bodies! VL033',
+      'Candy and Layne. Only 18 years old... time to teach them a thing or two. First Candy, Hitchhiking down that country road... hotter than a pistol. Picked up and zipped up... thrown in the back of the van and mouth stuffed and gagged. Taken into the warehouse where her captor can take his time... force her to strip, handcuff, ball gag, belt whip, spank, arms overhead, hog tie, butt plug, crotch rope and deep throat the bitch to make sure she gets the point. Next Layne... clean up girl... gets cleaned up nice on the deck... elbow strapped and ass upped, then taken to a tree where she is bound overhead and ball gagged. Her clothing is cut and torn away... and the nude stands alone. Later she is brought inside and put up on the table for a good strict hog tie that will give her a better understanding of what it means to pay attention. The ball gag head harness and nose hook are helpful in this regard. Two super hot bodies!',
     categoryid: '403',
     keywords:
       '18 & 19 YRS OLD, GAGGING, CORPORAL PUNISHMENT, SPANKING, FORCED STRIPPING     punish fuck, handcuffs, whipping, vl033, hog tie, butt plug, crotch rope, deep throat, elbow strap, outdoor, head harness, nose hook, candy, layne, powershotz',
@@ -2486,9 +2663,10 @@ export default [
   },
   {
     id: '19174525',
-    title: 'VL032, Inverted Yield Curve',
+    pz_code: 'VL032',
+    title: 'Inverted Yield Curve',
     description:
-      "Sophie parks her car away from the party house so she can make her escape if the cops show up. Unfortunately she wasn't thinking of the property she has to cross to get to the party. Now she'll be partying with a strange man... grabbed... tied to a board between saw horses, her clothing cut away with a sharp object... freely molestedd and forced to suck cock... strung up against a pole and whipped... hung up upside down and nose hooked... flogged... Her hangover won't be near as bad as it could have been had she gotten wasted at that party. Next comes Hazel... one leg strung up, the other bent and bound, the ring gag strapped in tight... tears forming as she begs, whines and struggles. She'll be fucked before this is over. A little neck restriction to keep her attention, legs spread and bound wide... her pussy cropped... her gag reflex tested... then fucked by an assistant that finds her tied up all alone.  VL032",
+      "Sophie parks her car away from the party house so she can make her escape if the cops show up. Unfortunately she wasn't thinking of the property she has to cross to get to the party. Now she'll be partying with a strange man... grabbed... tied to a board between saw horses, her clothing cut away with a sharp object... freely molestedd and forced to suck cock... strung up against a pole and whipped... hung up upside down and nose hooked... flogged... Her hangover won't be near as bad as it could have been had she gotten wasted at that party. Next comes Hazel... one leg strung up, the other bent and bound, the ring gag strapped in tight... tears forming as she begs, whines and struggles. She'll be fucked before this is over. A little neck restriction to keep her attention, legs spread and bound wide... her pussy cropped... her gag reflex tested... then fucked by an assistant that finds her tied up all alone.",
     categoryid: '403',
     keywords:
       'BDSM, CRYING, DAMSEL IN DISTRESS, BONDAGE BLOWJOBS, DOMINATION     hazel, powershotz, fondling, blow job, whipping, upside down, nose hook, flogging, vl032, begging, pussy cropping, gagging, fucking, struggling, punishment',
@@ -2503,9 +2681,10 @@ export default [
   },
   {
     id: '19160137',
-    title: 'PZV128, Under Duress',
+    pz_code: 'PZV128',
+    title: 'Under Duress',
     description:
-      "Two hot young girls, Lola and April, are abducted and subjected to bondage and slave training. First Lola, strolls into the afternoon sun and strips topless. Unaware that two men are watching. They grab her, and after a brief struggle subdue and carry her to a shed. There she is strapped in strong leather, stripped nude, dominated and spanked. She tries to escape but is caught. Neck restriction and strict bondage will be required to tame this tart. Next April is watched going into a store... he sneaks into her car and awaits her return. A cf rag from the back seat is not what she was expecting when she returned, but it doesn't matter now. She wakes up in bondage, and struggles that fine body with intensity as her captor reaches between her legs and holds a hand over her mouth. She is strappado'd and spanked, then knelt against the whipping post and bound in wooden stocks and rope. Riding crop and nose hook are used to dominate the poor girl. She'll be released when she begs properly for sex. PZV128",
+      "Two hot young girls, Lola and April, are abducted and subjected to bondage and slave training. First Lola, strolls into the afternoon sun and strips topless. Unaware that two men are watching. They grab her, and after a brief struggle subdue and carry her to a shed. There she is strapped in strong leather, stripped nude, dominated and spanked. She tries to escape but is caught. Neck restriction and strict bondage will be required to tame this tart. Next April is watched going into a store... he sneaks into her car and awaits her return. A chloroform rag from the back seat is not what she was expecting when she returned, but it doesn't matter now. She wakes up in bondage, and struggles that fine body with intensity as her captor reaches between her legs and holds a hand over her mouth. She is strappado'd and spanked, then knelt against the whipping post and bound in wooden stocks and rope. Riding crop and nose hook are used to dominate the poor girl. She'll be released when she begs properly for sex.",
     categoryid: '31',
     keywords:
       'BONDAGE, BDSM, SUBMISSIVE / SLAVE TRAINING, DOMINATION, STRUGGLING     spanking, forced stripping, strappado, whipping post, wooden stocks, rope, riding crop, nose hook, begging, powershotz, april, damsel in distress, discipline, breath play, pzv128',
@@ -2520,9 +2699,10 @@ export default [
   },
   {
     id: '19156615',
-    title: 'VL031  Tied & Trained Girls',
+    pz_code: 'VL031',
+    title: 'Tied & Trained Girls',
     description:
-      '19 year old Dani is snatched, stripped and hog tied in her bedroom while getting ready to go out. Her elbows are cinched extremely tight and her young white flesh bulges around the thin cord as she is heavily fondled, dominated, spanked, ball gagged and nose hooked. Then she is roped to the anal training bench on her hands and knees with a panel gag to prevent biting. She is oiled up and butt slapped and forced to suck the glass rod before it is used to open up her virgin bottom. Next 19 year old Hazel is brought in to the room struggling and naked where she is arm roped, crotch roped, dominated and butt slapped. She is firmly set on a board and bound with her legs spread wide. She is brought to tears when she is cruelly ring gagged and gag reflex tested. Finally she is left drooling to suffer in bondage until someone comes... inside her.',
+      '19 year old Dani is abducted, stripped and hog tied in her bedroom while getting ready to go out. Her elbows are cinched extremely tight and her young white flesh bulges around the thin cord as she is heavily fondled, dominated, spanked, ball gagged and nose hooked. Then she is roped to the anal training bench on her hands and knees with a panel gag to prevent biting. She is oiled up and butt slapped and forced to suck the glass rod before it is used to open up her virgin bottom. Next 19 year old Hazel is brought in to the room struggling and naked where she is arm roped, crotch roped, dominated and butt slapped. She is firmly set on a board and bound with her legs spread wide. She is brought to tears when she is cruelly ring gagged and gag reflex tested. Finally she is left drooling to suffer in bondage until someone comes... inside her.',
     categoryid: '31',
     keywords:
       'DAMSEL IN DISTRESS, BONDAGE SEX, DOMINATION, BDSM, ANAL     vl031, forced stripping, hog tie, elbow cinching, fondling, spanking, ball gag, nose hook, anal training, anal sex, slave girl, crotch rope, discipline, crying, gagging',
@@ -2537,9 +2717,10 @@ export default [
   },
   {
     id: '19155825',
-    title: 'VL030 Abducted and Objectified',
+    pz_code: 'VL030',
+    title: 'Abducted and Objectified',
     description:
-      "Two perfect bodied babes not paying attention to the fact that those hot bodies make them hot commodities on the sex toy market. Heather Silk is out photographing nature on private property and strutting her hot ass right past the keep out sign. She'll be squealing under the anal rod after she's been grabbed, stripped, duct taped, forced face down on cock and doggie fucked in the woods. Her virgin anus now trained to serve and her throat filled with seminal fluid. Then Wendy... out working in the garden... wearing super short shorts and flaunting that lily while skin with that puppy doggie pout. Grabbed, struggle stripped and handcuffed, her hug me panties pulled down to expose that perfect white virgin ass. Taken to the barn and whipped with the flogger and forced to stand high up on toe. Once whipped she is doggie strapped to the training bench where her virgin bottom is opened up with lubricated digital penetration and the anal rod. Now that she's been stretched... she can be fucked without injury. That virgin ass will fetch a high price. Heather and Wendy... perfect little sex objects... turned on by ab-duction and forced to accept their position as sexual servants. Hot video! VL030",
+      "Two perfect bodied babes not paying attention to the fact that those hot bodies make them hot commodities on the sex toy market. Heather Silk is out photographing nature on private property and strutting her hot ass right past the keep out sign. She'll be squealing under the anal rod after she's been grabbed, stripped, duct taped, forced face down on cock and doggie fucked in the woods. Her virgin anus now trained to serve and her throat filled with seminal fluid. Then Wendy... out working in the garden... wearing super short shorts and flaunting that lily while skin with that puppy doggie pout. Grabbed, struggle stripped and handcuffed, her hug me panties pulled down to expose that perfect white virgin ass. Taken to the barn and whipped with the flogger and forced to stand high up on toe. Once whipped she is doggie strapped to the training bench where her virgin bottom is opened up with lubricated digital penetration and the anal rod. Now that she's been stretched... she can be fucked without injury. That virgin ass will fetch a high price. Heather and Wendy... perfect little sex objects... turned on by abduction and forced to accept their position as sexual servants. Hot video!",
     categoryid: '403',
     keywords:
       '18 & 19 YRS OLD, DOGGYSTYLE, DAMSEL IN DISTRESS, ANAL, DOMINATION     forced stripping, duct tape, blow job, anal training, swallowing, handcuffs, whipping, flogging, fucking, master slave, slave training, heather silk, wendy, powershotz, vl030',
@@ -2554,9 +2735,10 @@ export default [
   },
   {
     id: '19144653',
-    title: 'VL028  Indoor Outdoor',
+    pz_code: 'VL028',
+    title: 'Indoor Outdoor',
     description:
-      "Tiki gets taken in the sun by two men that have been watching her for some time. They carry her off to their own property where she is stripped, duct taped, gagged, looked over... then carried off to the building. Once inside she is bound spread eagle face down and experiences her first anal intrusion complete with vibrating probe, riding crop on bare ass, lubrication applied in a rude fashion and followed up with a good strict hog tie and ball gagging. Her mouth opening assisted by the nose hook. Next it's Clarissa's turn to get grabbed, stripped, dominated, and choked out. She awakens blindfolded and cleave gagged... standing bound spread eagle to the construction scaffolding where she is further violated and bound, then she is hog tied on a piece of plastic with a neck rope around her neck to keep that head up. Strict elbow cinching combined with frog tie positioning leaves her anus open to a well deserved cropping. Awesome flick! Get it! VL028",
+      "Tiki gets taken in the sun by two men that have been watching her for some time. They carry her off to their own property where she is stripped, duct taped, gagged, looked over... then carried off to the building. Once inside she is bound spread eagle face down and experiences her first anal intrusion complete with vibrating probe, riding crop on bare ass, lubrication applied in a rude fashion and followed up with a good strict hog tie and ball gagging. Her mouth opening assisted by the nose hook. Next it's Clarissa's turn to get grabbed, stripped, dominated, and choked out. She awakens blindfolded and cleave gagged... standing bound spread eagle to the construction scaffolding where she is further violated and bound, then she is hog tied on a piece of plastic with a neck rope around her neck to keep that head up. Strict elbow cinching combined with frog tie positioning leaves her anus open to a well deserved cropping. Awesome flick! Get it!",
     categoryid: '31',
     keywords:
       'BONDAGE SEX, BALLGAGGED, FORCED STRIPPING, LIMP FETISH, DUCT TAPE FETISH     spread eagle, anal probe, riding crop, hog tie, nose hook, outdoor, domination, choking, cleave gag, vl028, elbow cinching, frog tie, clarissa, powershotz, tiki',
@@ -2571,9 +2753,10 @@ export default [
   },
   {
     id: '19143367',
-    title: 'VL025  Tax Assessment',
+    pz_code: 'VL025',
+    title: 'Tax Assessment',
     description:
-      "When hot tax collector Cindy shows up to asses the value of the property, the owner stages his own little tax revolt. Apparently he isn't too happy with department of revenue because the tax collector gets collected up, taken down with in a display of extreme sexual harassment. Then she gets handcuffed, dominated into submission, bitch stripped, and ball gagged. She is informed that the gag can come out of her mouth if it is replaced with cock. Her forehead wrinkles and she makes wonderful sloppy wet gagging sounds as the load is delivered to the back of her throat. She gets loose and makes a run for it but the handyman runs her down with that cleaning solvent soaked rag that puts her in her place. Her reward for the insult is a good hard bare ass whipping and wetness check that leaves tears of joy streaming down her face. Then she is hung on the wall spread eagle and ring gagged with a bell collar around her neck that will warn if she tries to run again. When quitting time comes around, she gets anal trained and butt fucked hard. Makes that tax increase seem almost tolerable. VL025",
+      "When hot tax collector Cindy shows up to asses the value of the property, the owner stages his own little tax revolt. Apparently he isn't too happy with department of revenue because the tax collector gets collected up, taken down with in a display of extreme sexual harassment. Then she gets handcuffed, dominated into submission, bitch stripped, and ball gagged. She is informed that the gag can come out of her mouth if it is replaced with cock. Her forehead wrinkles and she makes wonderful sloppy wet gagging sounds as the load is delivered to the back of her throat. She gets loose and makes a run for it but the handyman runs her down with that cleaning solvent soaked rag that puts her in her place. Her reward for the insult is a good hard bare ass whipping and wetness check that leaves tears of joy streaming down her face. Then she is hung on the wall spread eagle and ring gagged with a bell collar around her neck that will warn if she tries to run again. When quitting time comes around, she gets anal trained and butt fucked hard. Makes that tax increase seem almost tolerable.",
     categoryid: '403',
     keywords:
       'BDSM, FORCED STRIPPING, SPANKING, BLOW JOBS, SUBMISSIVE / SLAVE TRAINING     handcuffs, domination, submission, gags, cock sucking, escape, capture, whipping, vl025, punish fuck, anal training, strugglefuck, powershotz, damsel in distress, cindy',
@@ -2588,9 +2771,10 @@ export default [
   },
   {
     id: '19139973',
-    title: 'VL024  Cleaner Clocked and Cocked',
+    pz_code: 'VL024',
+    title: 'Cleaner Clocked and Cocked',
     description:
-      "Cleaning girl Kayyla is captured when she steps out onto the porch. Apparently a large black man has designs on that fine lily white ass. After a brief struggle and bitch slap, she is over the shouldered in handcuffs and carried to his waiting van. She is securely transported to a facility where she is delivered up for some bondage modeling in exchange for cash. She gets cuffed overhead, gagged, flogged, dominated, hog tied, riding crop gagged and foot whipped. Then bound in electrical wire over the stool and bottom spanked hard with a drooling ball in her mouth. Finally she is arm roped on the table, a butt plug is cinched in her ass with a crotch rope and she is hog tied tight. The black man returns to take advantage of her bound position and throat fucks the bitch. Each time she gags on cock her anal sphincter clutches on that butt plug real tight. When he takes her in the ass later she will be nice and tight and ready to squeal like a whore. Kick ass scared first timer here folks. Don't miss it! VL024",
+      "Cleaning girl Kayyla is captured when she steps out onto the porch. Apparently a large black man has designs on that fine lily white ass. After a brief struggle and bitch slap, she is over the shouldered in handcuffs and carried to his waiting van. She is securely transported to a facility where she is delivered up for some bondage modeling in exchange for cash. She gets cuffed overhead, gagged, flogged, dominated, hog tied, riding crop gagged and foot whipped. Then bound in electrical wire over the stool and bottom spanked hard with a drooling ball in her mouth. Finally she is arm roped on the table, a butt plug is cinched in her ass with a crotch rope and she is hog tied tight. The black man returns to take advantage of her bound position and throat fucks the bitch. Each time she gags on cock her anal sphincter clutches on that butt plug real tight. When he takes her in the ass later she will be nice and tight and ready to squeal like a whore. Kick ass scared first timer here folks. Don't miss it! ",
     categoryid: '403',
     keywords:
       '18 & 19 YRS OLD, SPANKING, STRUGGLING, INTERRACIAL, FACE SLAPPING     handcuffs, capture & carry, blow job, overhead cuff, gag, flogging, domination, hogtie, crop, vl024, scared, drooling, butt plug, crotch rope, damsel',
@@ -2598,6 +2782,7 @@ export default [
     date: '2018-02-12 20:01:54',
     name: 'vl024_1.mp4',
     image: 'vl024covercoverad.jpg',
+    poster: 'vl024coverad.jpg',
     displayorder: '1942',
     length: '01:50:24',
     resolution: '1440x1080',
@@ -2605,9 +2790,10 @@ export default [
   },
   {
     id: '19138793',
-    title: 'VL026  HK',
+    pz_code: 'VL026',
+    title: 'HK',
     description:
-      "Hazel is shanghai'd at her hotel, struggle stripped bound and hooded, then taken to a remote location where she is bound, flogged, bit gagged, head fly back open mouthed doggie fucked and forced to suck cock... then squirted on that cute little face while she stares up with those big babybrowns. Then hitch hiker Kayyla is grabbed from the side of the road where she frequently scams old men for a ride and cigarette money. She is bitch stripped, butt slapped, hand cuffed and dominated into submission before being put in the stocks with her big bad white butt sticking straight up where it can be flogged, bare handed, and lubed for a punishing ass opening with the bulbed glass rod. This little cock sucker will think twice before sticking that hip out in those too short shorts again. Hazel and Kayyla are awesome young breeders!  VL026",
+      "Hazel is shanghai'd at her hotel, struggle stripped bound and hooded, then taken to a remote location where she is bound, flogged, bit gagged, head fly back open mouthed doggie fucked and forced to suck cock... then squirted on that cute little face while she stares up with those big babybrowns. Then hitch hiker Kayyla is grabbed from the side of the road where she frequently scams old men for a ride and cigarette money. She is bitch stripped, butt slapped, hand cuffed and dominated into submission before being put in the stocks with her big bad white butt sticking straight up where it can be flogged, bare handed, and lubed for a punishing ass opening with the bulbed glass rod. This little cock sucker will think twice before sticking that hip out in those too short shorts again. Hazel and Kayyla are awesome young breeders!  ",
     categoryid: '403',
     keywords:
       'BONDAGE, DOGGYSTYLE, FLOGGING, BLOW JOBS, GAGGING     hazel, kayyla, powershotz, hoods, cum shot, hitchhiker, domination, handcuffs, stocks, anal, punishment, strugglefuck, Punish Fuck, bdsm, damsel in distress',
@@ -2622,9 +2808,10 @@ export default [
   },
   {
     id: '19137893',
-    title: 'VL023  Teacher Taught',
+    pz_code: 'VL023',
+    title: 'Teacher Taught',
     description:
-      'Teacher Tiki comes to the home of one of her students to admonish the parent for the poor performance of the student in class... and gets a lesson in discipline of her own. Snatching, struggle stripping, strapping, slapping, caning, bit gagging, deep throating, anal rodding, butt plugging, crotch roping discipline action! Get this one! VL023',
+      'Teacher Tiki comes to the home of one of her students to admonish the parent for the poor performance of the student in class... and gets a lesson in discipline of her own. Snatching, struggle stripping, strapping, slapping, caning, bit gagging, deep throating, anal rodding, butt plugging, crotch roping discipline action! Get this one! ',
     categoryid: '403',
     keywords:
       '18 & 19 YRS OLD, DAMSEL IN DISTRESS, BDSM, DOMINATION, BONDAGE     tiki, powershotz, teacher taught, corporal punishment, discipline, snatching, stripping, strapping, slapping, bit gag, deep throat, anal rodding, butt plug, crotch rope',
@@ -2632,6 +2819,7 @@ export default [
     date: '2018-02-12 12:13:14',
     name: 'vl023_1.mp4',
     image: 'vl023coverad.jpg',
+    poster: 'vl023coverad.jpg',
     displayorder: '1944',
     length: '01:42:15',
     resolution: '1440x1080',
@@ -2639,9 +2827,10 @@ export default [
   },
   {
     id: '19137215',
-    title: 'VL021  Repossession',
+    pz_code: 'VL021',
+    title: 'Repossession',
     description:
-      "When Tiki shows up to inform the homeowner that repossession proceedings were beginning... she should have brought some security with her. She gets repossessed by the homeowner, who plans to make payments selling that hot body to the bankers in exchange for house payments. Of course, he needs to test her out for himself first. Collar her and keep her in the barn. Make sure she's good and tight. See how she responds to forced vibrational orgasm... the crop... the bare hand... and the bondage. Then there's Zoey... she needs a good tormenting. Complete with force feeding, hard cropping until she begs for anal sex and a nice squirt on that cute little face. 1 hour 27 minutes plus 6 minutes of previews. VL021",
+      "When Tiki shows up to inform the homeowner that repossession proceedings were beginning... she should have brought some security with her. She gets repossessed by the homeowner, who plans to make payments selling that hot body to the bankers in exchange for house payments. Of course, he needs to test her out for himself first. Collar her and keep her in the barn. Make sure she's good and tight. See how she responds to forced vibrational orgasm... the crop... the bare hand... and the bondage. Then there's Zoey... she needs a good tormenting. Complete with force feeding, hard cropping until she begs for anal sex and a nice squirt on that cute little face. 1 hour 27 minutes plus 6 minutes of previews. ",
     categoryid: '403',
     keywords:
       '18 & 19 YRS OLD, ANAL, DOMINATION, CUMSHOTS, DAMSEL IN DISTRESS     collar, forced orgasm, crop, bare hand spanking, spanking, bondage, tormenting, force feeding, anal sex, powershotz, tiki, zoey, bdsm, humiliation, Master slave',
@@ -2656,9 +2845,10 @@ export default [
   },
   {
     id: '19129857',
-    title: 'PZV080 Rude Awakenings',
+    pz_code: 'PZV080',
+    title: 'Rude Awakenings',
     description:
-      "Three of the hottest bondage bitches you've ever seen are strictly bound, whipped and dominated in this hot flick. First Kylie, captured while she rests. Then Mandy, a gorgeous muscular runner, hog rubbered and gagged with the riding crop. Rayne... incredible body, whipped and fondled at the whipping post. Kylie... spread eagle face down, her panties cut away... cropped directly on her anus. Then Mandy, dominated hard at the whipping post, spanked until she barks like a doggie. Rude and ruthless, that's how these little slave girls get it. PZV080",
+      "Three of the hottest bondage bitches you've ever seen are strictly bound, whipped and dominated in this hot flick. First Kylie, captured while she rests. Then Mandy, a gorgeous muscular runner, hog rubbered and gagged with the riding crop. Rayne... incredible body, whipped and fondled at the whipping post. Kylie... spread eagle face down, her panties cut away... cropped directly on her anus. Then Mandy, dominated hard at the whipping post, spanked until she barks like a doggie. Rude and ruthless, that's how these little slave girls get it. ",
     categoryid: '31',
     keywords:
       'BONDAGE, DAMSEL IN DISTRESS, SPANKING, DOMINATION, BDSM     kylie, mandy, rayne, powershotz, crop, whipped, captured, hogtie, gag, whipping post, spread eagle, panties, slave girls',
@@ -2673,9 +2863,10 @@ export default [
   },
   {
     id: '19128849',
-    title: 'PZV067, LA',
+    pz_code: 'PZV067',
+    title: 'LA',
     description:
-      'Serious bondage fetish video for the serious bondage enthusiast. Zip tied, bagged, gagged, hooked and hogged! If you like young girls grabbed, stripped, tied up tight and dominated hard you need this! Lana is a captive slave girl in first time bondage. Arianna is spanked hard in the stocks. PZV067',
+      'Serious bondage fetish video for the serious bondage enthusiast. Zip tied, bagged, gagged, hooked and hogged! If you like young girls grabbed, stripped, tied up tight and dominated hard you need this! Lana is a captive slave girl in first time bondage. Arianna is spanked hard in the stocks. ',
     categoryid: '4',
     keywords:
       '18 & 19 YRS OLD, GROPING, BDSM, FORCED STRIPPING, DOMINATION     hard spanking, arianna, powershotz, fetish, bondage, zip ties, gags, hooks, hog ties, tight ties, strugglefuck, captive, first time, stocks',
@@ -2690,9 +2881,10 @@ export default [
   },
   {
     id: '19123763',
-    title: 'VL017  Two for the Show',
+    pz_code: 'VL017',
+    title: 'Two for the Show',
     description:
-      "In this capture and bondage drama, Kitty  Vanessa are approached by a stranger who forces them into handcuffs, then explains to them that they will be performing in a live internet broadcast where customers will write and make requests that they must perform... or force corporal punishment. The girls are put through a series of humiliating positions and forced to display their hot bodies to the camera. Ultimately the two are bound naked, ass up, and dildo'd deep side by side. Then bondage first timer Renae is brought in, cuffed overhead and bitch stripped. VL017",
+      "In this capture and bondage drama, Kitty  Vanessa are approached by a stranger who forces them into handcuffs, then explains to them that they will be performing in a live internet broadcast where customers will write and make requests that they must perform... or force corporal punishment. The girls are put through a series of humiliating positions and forced to display their hot bodies to the camera. Ultimately the two are bound naked, ass up, and dildo'd deep side by side. Then bondage first timer Renae is brought in, cuffed overhead and bitch stripped. ",
     categoryid: '4',
     keywords:
       'STRANGERS, HUMILIATION, HANDCUFF AND SHACKLE FETISH, DILDO FUCKING, CORPORAL PUNISHMENT     kitty, vanessa, powershotz, renae, bitch strip, bdsm, discipline, cp, did, overhead cuff, black, forced stripping, domination, damsel',
@@ -2707,9 +2899,10 @@ export default [
   },
   {
     id: '19122977',
-    title: 'VL016  Anal Trained Slaves',
+    pz_code: 'VL016',
+    title: 'Anal Trained Slaves',
     description:
-      'Starring Sammy, Selena, and Clarissa in an anal training adventure. First Sammy, caught stealing, cuffed, leather strapped, gagged, choked, spanked, and anal trained with a big hard stick. Then anal virgin Selena get a sphincter stretching and finds out what its like to take it up the ass when that big ole dildo is shoved repeatedly to full penetration depth while her glutials and hams clutch. Then Clarissa gets the glass rod in the mouth pussy and ass... before sucking, slurping and taking it up the ass. Anal training fans will love the reality aspects of this sensory overload extravaganza. VL016',
+      'Starring Sammy, Selena, and Clarissa in an anal training adventure. First Sammy, caught stealing, cuffed, leather strapped, gagged, choked, spanked, and anal trained with a big hard stick. Then anal virgin Selena get a sphincter stretching and finds out what its like to take it up the ass when that big ole dildo is shoved repeatedly to full penetration depth while her glutials and hams clutch. Then Clarissa gets the glass rod in the mouth pussy and ass... before sucking, slurping and taking it up the ass. Anal training fans will love the reality aspects of this sensory overload extravaganza. ',
     categoryid: '403',
     keywords:
       'ANAL, SPANKING, LEATHER, DILDOS, GAGGING     sammy, selena, clarissa, powershotz, anal training, discipline, choking, glass dildo, penetration, master slave, slave training, domination',
@@ -2724,9 +2917,10 @@ export default [
   },
   {
     id: '19107985',
-    title: 'VL051  Stripper Jeopardy',
+    pz_code: 'VL051',
+    title: 'Stripper Jeopardy',
     description:
-      "Aubry and Tatum learn risk management the hard way when they show up to strip and get stripped and enslaved instead. The two are overpowered, dominated, bound and doggie walked before being wrist to ankle ass upped, cropped, fondled and fingered. Then they are spread down wide and bit gagged before vibration on sensitive wet pussy. They are hogged up in the house when Aubry is granted the opportunity to strap one on and have at Tatum's fine pussy. It's unfortunate that the two can't enjoy the experience more... although Tatum appears to get off on that big fake cock being driven home by Aubry as she fucks her hard enough to avoid being punished by the Master. Two incredibly hot babes! VL051",
+      "Aubry and Tatum learn risk management the hard way when they show up to strip and get stripped and enslaved instead. The two are overpowered, dominated, bound and doggie walked before being wrist to ankle ass upped, cropped, fondled and fingered. Then they are spread down wide and bit gagged before vibration on sensitive wet pussy. They are hogged up in the house when Aubry is granted the opportunity to strap one on and have at Tatum's fine pussy. It's unfortunate that the two can't enjoy the experience more... although Tatum appears to get off on that big fake cock being driven home by Aubry as she fucks her hard enough to avoid being punished by the Master. Two incredibly hot babes! ",
     categoryid: '31',
     keywords:
       'BONDAGE, SUBMISSIVE / SLAVE TRAINING, FORCED STRIPPING, STRAP-ON, DOMINATION     wrist to ankle, crop, fondling, fingering, bit gag, vibrator, hog tie, two girls, powershotz, aubry, tatum, bdsm',
@@ -2741,9 +2935,10 @@ export default [
   },
   {
     id: '19102697',
-    title: 'PZV044, Alex & Alexis Abductis',
+    pz_code: 'PZV044',
+    title: 'Alex & Alexis Abductis',
     description:
-      "1.5 hours of previously unreleased material! Alex struggles while getting bitch-stripped and fondled. Next, the schoolgirl gets chained and dangled from a precarious-looking wooden structure. She is cropped, gagged, choked, hog-tied, and spanked tabletop. Feisty Alexis is captured, stripped, disciplined and manhandled. She is hogtied , cropped, and humiliated with gags, and nosehooks. Don't miss seeing her spreadeagle while suspended with chains. Includes 1/2 hour of previews (2 hours total) PZV044",
+      "1.5 hours of previously unreleased material! Alex struggles while getting bitch-stripped and fondled. Next, the schoolgirl gets chained and dangled from a precarious-looking wooden structure. She is cropped, gagged, choked, hog-tied, and spanked tabletop. Feisty Alexis is captured, stripped, disciplined and manhandled. She is hogtied , cropped, and humiliated with gags, and nosehooks. Don't miss seeing her spreadeagle while suspended with chains. Includes 1/2 hour of previews (2 hours total) ",
     categoryid: '4',
     keywords:
       'FORCED STRIPPING, SUSPENSION, 18 & 19 YRS OLD, GAGGING, SCHOOL UNIFORM     bitch strip, fondling, schoolgirl, alex, alexis, powershotz, chains, cropping, choking, hogtie, spanking, capture, discipline, humiliation, nosehook',
@@ -2758,9 +2953,10 @@ export default [
   },
   {
     id: '19099833',
-    title: 'VL015  Clarissa & Kitty',
+    pz_code: 'VL015',
+    title: 'Clarissa & Kitty',
     description:
-      'Featuring first time bondagettes Clarissa and Kitty are taken in a slave training drama. Clarissa shows up to model and is overpowered by the photographer and forced into bondage modeling... then slave training... including full frontal flogging and ass whipping... then she is oiled up on the back board and anal trained with smooth and shocking effectiveness that makes her purr. Then cute little Kitty cleaner is tricked into smelling a new cleaning solution... which quickly renders her compliant for strict hog tie bondage and full body fondling in head harnessed security. Awesome hot bodies...and reality domination that hits the sweet spot the hard way. VL015',
+      'Featuring first time bondagettes Clarissa and Kitty are taken in a slave training drama. Clarissa shows up to model and is overpowered by the photographer and forced into bondage modeling... then slave training... including full frontal flogging and ass whipping... then she is oiled up on the back board and anal trained with smooth and shocking effectiveness that makes her purr. Then cute little Kitty cleaner is tricked into smelling a new cleaning solution... which quickly renders her compliant for strict hog tie bondage and full body fondling in head harnessed security. Awesome hot bodies...and reality domination that hits the sweet spot the hard way. ',
     categoryid: '403',
     keywords:
       '18 & 19 YRS OLD, WHIPPING, BONDAGE, ANAL, SUBMISSIVE / SLAVE TRAINING     clarissa, kitty, powershotz, anal training, flogging, oil, hog tie, fondling, head harness, domination, bdsm, ball gag, submission, master slave',
@@ -2775,9 +2971,10 @@ export default [
   },
   {
     id: '19098745',
-    title: 'VL010  Slave Maker',
+    pz_code: 'VL010',
+    title: 'Slave Maker',
     description:
-      "Cute little Naomi is approached as she reads on the couch... a few leg kicking minutes later... she's laying face down on the couch... not knowing that she's being handcuffed and leg ironed. She is taken to a studio where she is forced into bondage modeling... one of the assistants there takes a liking to that fine body... when the photographer leaves her alone for a few minutes... he takes care of business. Awesome fine white body! Totally spankable ass! Heavy drooler! Next we find Lexis Lane being trained to provide lip service as she is cuffed wrist to ankle. She must swallow every drop to keep from spoiling that mini. Finally, gorgeous fitness model shows up at the studio to pose for portfolio pics... and ends up bitch stripped and dominated into sexual servitude. Incredibly muscular body kicking, spanked hard, and nicely dominated. VL010",
+      "Cute little Naomi is approached as she reads on the couch... a few leg kicking minutes later... she's laying face down on the couch... not knowing that she's being handcuffed and leg ironed. She is taken to a studio where she is forced into bondage modeling... one of the assistants there takes a liking to that fine body... when the photographer leaves her alone for a few minutes... he takes care of business. Awesome fine white body! Totally spankable ass! Heavy drooler! Next we find Lexis Lane being trained to provide lip service as she is cuffed wrist to ankle. She must swallow every drop to keep from spoiling that mini. Finally, gorgeous fitness model shows up at the studio to pose for portfolio pics... and ends up bitch stripped and dominated into sexual servitude. Incredibly muscular body kicking, spanked hard, and nicely dominated. ",
     categoryid: '403',
     keywords:
       'HANDCUFF AND SHACKLE FETISH, SWALLOWING/DROOLING, BONDAGE, FORCED STRIPPING, SPANKING     strugglefuck, naomi, lexis lane, lee, powershotz, domination, sexual servitude, bdsm, blonde, 18 and 19 yo, handcuffs, leg irons, wrist to ankle, gagging, Master slave',
@@ -2792,9 +2989,10 @@ export default [
   },
   {
     id: '19095939',
-    title: 'VL009, Dream Girls',
+    pz_code: 'VL009',
+    title: 'Dream Girls',
     description:
-      "Lexis Lane lays in bed... dreaming of being ab-ducted bound and fucked. Her dream begins with an ab-duction by two men, who take her upstairs, cuff her to the bed, fondle and partially strip the young girl, then one of them sticks his cock in her mouth. Next she is stripped to full nudity and ass upped on the bed, she is gagged and fucked, rolled, spread eagle, vibrated and spread face down, then fucked again... then again... this time doggie style... wrists to ankles... and taken hard in the ass. This dream has it all folks. Next slave girl Shelby... kneeling and cuffed... sucks her Master's cock... then she is anal probed on the bed... spread face down... and anal trained doggie style on the discipline bench. VL009",
+      "Lexis Lane lays in bed... dreaming of being abducted bound and fucked. Her dream begins with an abduction by two men, who take her upstairs, cuff her to the bed, fondle and partially strip the young girl, then one of them sticks his cock in her mouth. Next she is stripped to full nudity and ass upped on the bed, she is gagged and fucked, rolled, spread eagle, vibrated and spread face down, then fucked again... then again... this time doggie style... wrists to ankles... and taken hard in the ass. This dream has it all folks. Next slave girl Shelby... kneeling and cuffed... sucks her Master's cock... then she is anal probed on the bed... spread face down... and anal trained doggie style on the discipline bench. ",
     categoryid: '403',
     keywords:
       '18 & 19 YRS OLD, FUCKING, ANAL, BLOW JOBS, FORCED STRIPPING     fantasy, handcuffs, fondling, bitch strip, forced blowjob, gag, spread eagle, vibrator, wrist to ankle, anal sex, slave girl, powershotz, shelby, lexis lane, anal training',
@@ -2809,7 +3007,8 @@ export default [
   },
   {
     id: '19094633',
-    title: 'VL027  Stimulus Package',
+    pz_code: 'VL027',
+    title: 'Stimulus Package',
     description:
       "Heather Silk preps her hot body for a night out on the town, grabs those keys and struts for the car in her sexy high heeled shoes. Unfortunately she didn't look in the back, where a man was hiding with a solvent soaked rag... ready to take Heather to his own private party. The solvent works perfectly when held tightly over her mouth as she struggles and kicks till limp... Then she is put in the back where she is tied up nice and tight, felt up and looked over until she awakens to the reality of captivity and must be gagged to shut her up while she rolls and tumbles in a hog tied ride. Nice! Then she is carried in and tossed on the bed for some serious stimulus. Domination and bare handed ass slapping discipline bring her into line as her gorgeous female body is inspected in greater detail and those hot lips looked over to imagine how great they will look wrapped around a big fat cock. A second solvent seduction is required to render her immobile and compliant while she is stripped naked and bound spread eagle to the bed. This time she awakens to her vulnerability with a hand on her crotch and another over her mouth. She vexes and squirms deliciously in back arching distress while she is tickle tortured and forced into an orgasmic frenzy by the powerful vibrating probe... she is fucked spread eagle face down... flipped over... harness gagged and fucked straight up. Wrinkled forehead and flared nostrils make her look real cute while that warm fluid is injected inside her. One of the best kick ass bitch flicks ever produced. Heather is phenomenal! The economy sucks... this stimulus package will take your mind off it.",
     categoryid: '403',
@@ -2826,9 +3025,10 @@ export default [
   },
   {
     id: '19091257',
-    title: 'VL056  The Second Wave of Stimulus',
+    pz_code: 'VL056',
+    title: 'The Second Wave of Stimulus',
     description:
-      "Round one of stimulus for KylieJo and Kristina was a good start. Now it's time for these high end breeders to be taught a deeper understanding of what it means to serve Master Cock. KylieJo is bound with arms overhead and whipped until she begs for cock. Then she is taken upstairs on a rope leash where she is body rocked and put over his knee for a bare handed spanking. She squeals magnificently as her legs flex and kick. When she reaches back to block him her arms are pulled up and out of the way and she is spanked harder. When she begs him to stop he oils up her red bottom and slips digits up her pussy and ass. She is hog tied and ball gagged...then rolled into position and given a smooth hard fuck. First in the pussy. Then pussy plugged and ass lubed. Then rolled wrist to ankle ass up for a first time feel of what its like to take cock up the ass. She squeals and barks when that cock finds the right spot and is defeated after a reach back and head fly back fucked until her legs kick desperately as he ejaculates down her throat. Then comes Kristina....The poor girl is bound kneeling in the most uncomfortable position in her party dress and heels. A posture collar and head harness hold her supermodel face in position. Then the riding crop is used to keep strict control over her as she is stripped and fondled. She prays for cock dutifully with the prayer collar around her neck and cannot help but gag until milky white protein coats the back of her tongue and squirts down her innocent young throat. She is hung upside down and flogged before being left for later. VL056",
+      "Round one of stimulus for KylieJo and Kristina was a good start. Now it's time for these high end breeders to be taught a deeper understanding of what it means to serve Master Cock. KylieJo is bound with arms overhead and whipped until she begs for cock. Then she is taken upstairs on a rope leash where she is body rocked and put over his knee for a bare handed spanking. She squeals magnificently as her legs flex and kick. When she reaches back to block him her arms are pulled up and out of the way and she is spanked harder. When she begs him to stop he oils up her red bottom and slips digits up her pussy and ass. She is hog tied and ball gagged...then rolled into position and given a smooth hard fuck. First in the pussy. Then pussy plugged and ass lubed. Then rolled wrist to ankle ass up for a first time feel of what its like to take cock up the ass. She squeals and barks when that cock finds the right spot and is defeated after a reach back and head fly back fucked until her legs kick desperately as he ejaculates down her throat. Then comes Kristina....The poor girl is bound kneeling in the most uncomfortable position in her party dress and heels. A posture collar and head harness hold her supermodel face in position. Then the riding crop is used to keep strict control over her as she is stripped and fondled. She prays for cock dutifully with the prayer collar around her neck and cannot help but gag until milky white protein coats the back of her tongue and squirts down her innocent young throat. She is hung upside down and flogged before being left for later. ",
     categoryid: '403',
     keywords:
       '18 & 19 YRS OLD, ANAL, BLOW JOBS, FORCED STRIPPING, DOMINATION     slave training, leather restraint, hog tie, ball gag, bishop head harness, butt plug, ass fuck, Punish Fuck, ballgagged, strugglefuck, heels, collar, anal training, spanking',
@@ -2843,12 +3043,13 @@ export default [
   },
   {
     id: '19091121',
-    title: 'PZV002 Trixie',
+    pz_code: 'PZV002',
+    title: 'Trixie',
     description:
-      "Trixie is escorted in... arms behind back in a spaghetti strap top, short black skirt, hose and sensible shoes. She is stripped, fondled, spanked, dominated and displayed. Then she is handcuffed, ball gagged and clothes pins are put on those sensitive perky nipples. Next she is hog tied strictly while being spanked, fondled, and tormented with the riding crop. She is ball gagged and that fine body flexes helplessly. Next she is roped hand over head to a hoist wearing a country skirt and blouse. She is disrobed, dominated, nipple clamped and fondled. Then she is rudely interrupted as she exits the bathroom stall and quickly c'formed into silence. She is stripped nude, looked over and leg tied before being awakened with a slap on the ass. Her arms are held firmly behind her as her body is fondled. She is hog tied and ball gagged, then rolled and tormented. A pure bondage virgin, pushed to the limit in this classic bondage and ab-duction fantasy. Lots of heavy hand over mouth domination and torment. In the next brutal scene she is cuffed nude to a straight back chair and interrogated, a dental spreader bit and fingertip insertion with nose hook and riding crop breaks her down. Finally she is leather strapped in ball gag training harness and ass upped on the table with strict arm binder until broken to drooling submission. Two hours and twenty minutes long, it doesn't get any better than this folks. PZV002",
+      "Trixie is escorted in... arms behind back in a spaghetti strap top, short black skirt, hose and sensible shoes. She is stripped, fondled, spanked, dominated and displayed. Then she is handcuffed, ball gagged and clothes pins are put on those sensitive perky nipples. Next she is hog tied strictly while being spanked, fondled, and tormented with the riding crop. She is ball gagged and that fine body flexes helplessly. Next she is roped hand over head to a hoist wearing a country skirt and blouse. She is disrobed, dominated, nipple clamped and fondled. Then she is rudely interrupted as she exits the bathroom stall and quickly c'formed into silence. She is stripped nude, looked over and leg tied before being awakened with a slap on the ass. Her arms are held firmly behind her as her body is fondled. She is hog tied and ball gagged, then rolled and tormented. A pure bondage virgin, pushed to the limit in this classic bondage and abduction fantasy. Lots of heavy hand over mouth domination and torment. In the next brutal scene she is cuffed nude to a straight back chair and interrogated, a dental spreader bit and fingertip insertion with nose hook and riding crop breaks her down. Finally she is leather strapped in ball gag training harness and ass upped on the table with strict arm binder until broken to drooling submission. Two hours and twenty minutes long, it doesn't get any better than this folks. ",
     categoryid: '4',
     keywords:
-      'FORCED STRIPPING, SPANKING, CLOTHESPINS, PANTYHOSE BONDAGE, ROPE BONDAGE     fondling, domination, handcuffs, ballgags, hog tie, trixie, CF, slapping, arm binding, hand over mouth, interrogation, dental gag, nose hook, drooling, powershotz',
+      'FORCED STRIPPING, SPANKING, CLOTHESPINS, PANTYHOSE BONDAGE, ROPE BONDAGE     fondling, domination, handcuffs, ballgags, hog tie, trixie, CF, chloroform slapping, arm binding, hand over mouth, interrogation, dental gag, nose hook, drooling, powershotz',
     price: '34.99',
     date: '2018-02-04 14:44:56',
     name: 'pzv002_up.mp4',
@@ -2860,9 +3061,10 @@ export default [
   },
   {
     id: '19089423',
-    title: "VL001  Andi's Fantasies",
+    pz_code: 'VL001',
+    title: "Andi's Abduction Fantasy",
     description:
-      "Andi's dreamed of being grabbed, bound, and used like a sex toy her entire life.&Acirc; At work... she is given the job of inspecting the photography studio after a series of complaints about women crying out.&Acirc; When she shows up for the inspection, she gets a first hand look.&Acirc; After being anesthetized, stripped naked and tied spread eagle to the bed, two men take her through the motions of servicing the tenants privates and rewarding her with cock and dildo.&Acirc; She wants it to be a total stranger, someone she doesn't know and has no relationship with so she can just be used.&Acirc; Grabbed in the garage... rope bound and forced to suck... then hog tied, dildo'd and fucked on the table before a forced cock sucking and a tearful anal training episode followed by some doggy dicking to leave her sore for a few days as a reminder.&Acirc; Fucking Incredible!&Acirc; VL001\r\n&Acirc;",
+      "Andi's dreamed of being grabbed, bound, and used like a sex toy her entire life.&Acirc; At work... she is given the job of inspecting the photography studio after a series of complaints about women crying out.&Acirc; When she shows up for the inspection, she gets a first hand look.&Acirc; After being anesthetized, stripped naked and tied spread eagle to the bed, two men take her through the motions of servicing the tenants privates and rewarding her with cock and dildo.&Acirc; She wants it to be a total stranger, someone she doesn't know and has no relationship with so she can just be used.&Acirc; Grabbed in the garage... rope bound and forced to suck... then hog tied, dildo'd and fucked on the table before a forced cock sucking and a tearful anal training episode followed by some doggy dicking to leave her sore for a few days as a reminder. Fucking Incredible!",
     categoryid: '403',
     keywords:
       "18 & 19 YRS OLD, CRYING, BONDAGE BLOWJOBS, ROPE BONDAGE, SPANKING     andi adams, Andi's Fantasies, sex toy, forced stripping, spread eagle, dildo, forced blowjob, hogtie, fucking, anal, anal training, young, domination, blowjob, strugglefuck",
@@ -2870,6 +3072,7 @@ export default [
     date: '2018-02-04 09:01:32',
     name: 'vl001up.mp4',
     image: 'vl01cat.jpg',
+    poster: 'vl001coverad.jpg',
     displayorder: '1957',
     length: '01:54:42',
     resolution: '1440x1080',
@@ -2877,9 +3080,10 @@ export default [
   },
   {
     id: '19085699',
-    title: 'VL053  Choke Strap Cherry',
+    pz_code: 'VL053',
+    title: 'Choke Strap Cherry',
     description:
-      "Three pieces of strong leather strapping are all that is required to secure this little Cherry for a ripe reaming. First as she enters her house...a hand over her mouth and a quick elbow strapping followed by a choke strap about the neck and she's ass up naked begging for cock in no time. A strap around the ankles and a strap on each wrist holds her securely for that all important anal training. And when she is hog strapped on the table they prevent her from pulling away as that cock slides up her ass. At the end of the day it's nice to know that you can make her squeal on a budget when necessary. And squeal she does... exquisitely... between begging as she is instructed to do... 1 hour 36 minutes with 10 minutes of previews VL053\r\n",
+      "Three pieces of strong leather strapping are all that is required to secure this little Cherry for a ripe reaming. First as she enters her house...a hand over her mouth and a quick elbow strapping followed by a choke strap about the neck and she's ass up naked begging for cock in no time. A strap around the ankles and a strap on each wrist holds her securely for that all important anal training. And when she is hog strapped on the table they prevent her from pulling away as that cock slides up her ass. At the end of the day it's nice to know that you can make her squeal on a budget when necessary. And squeal she does... exquisitely... between begging as she is instructed to do... 1 hour 36 minutes with 10 minutes of previews ",
     categoryid: '403',
     keywords:
       '18 & 19 YRS OLD, STRUGGLING, DOMINATION, BONDAGE, ANAL     tory, powershotz, anal training, slave training, snatch, bondage, spread eagle, ass fucked, capture, choke strap cherry, spanking, crop, dildo, strugglefuck',
@@ -2894,9 +3098,10 @@ export default [
   },
   {
     id: '19085207',
-    title: 'PZV001, Nikki & Vanessa',
+    pz_code: 'PZV001',
+    title: 'Nikki & Vanessa',
     description:
-      "Cover girl face with bow tie lips and big clear eyes. Nikki has got to be one of the most gorgeous models ever to pose in bondage. Smokin' hot body and that face! Yikes. Bad Ballet... innocent dancer hog tie and ball gag... her hand over mouth forced stripping and hog tie scene is incredible with long back arching holds. Exhausted and dripping with sweat when its over. She gets what she deserves. Next she is cuffed overhead in Arabian slave girl attire. Fit for a King to fuck. Then tits and ass Vanessa is taken while doing her hair. First a powerful hand over mouth stripping and fondling, then she is sent off to dream land by even more powerful hand over mouth domination with panic attack that leads to fainting. Her clothing is removed, her body examined, she is hog tied and felt up, rope gagged and exhausted. Get it! PZV001",
+      "Cover girl face with bow tie lips and big clear eyes. Nikki has got to be one of the most gorgeous models ever to pose in bondage. Smokin' hot body and that face! Yikes. Bad Ballet... innocent dancer hog tie and ball gag... her hand over mouth forced stripping and hog tie scene is incredible with long back arching holds. Exhausted and dripping with sweat when its over. She gets what she deserves. Next she is cuffed overhead in Arabian slave girl attire. Fit for a King to fuck. Then tits and ass Vanessa is taken while doing her hair. First a powerful hand over mouth stripping and fondling, then she is sent off to dream land by even more powerful hand over mouth domination with panic attack that leads to fainting. Her clothing is removed, her body examined, she is hog tied and felt up, rope gagged and exhausted. Get it! ",
     categoryid: '4',
     keywords:
       '18 & 19 YRS OLD, SUBMISSIVE / SLAVE TRAINING, BALLGAGGED, DOMINATION, FORCED STRIPPING     hogtie, breathplay, gagging, exhaustion, overhead cuff, fondling, rope gag, powershotz, vanessa, nikki, fainting',
@@ -2904,6 +3109,7 @@ export default [
     date: '2018-02-03 11:33:07',
     name: 'pzv001up.mp4',
     image: 'pzv001up.jpg',
+    poster: 'pzv001coverad.jpg',
     displayorder: '1959',
     length: '01:22:45',
     resolution: '1440x1080',
@@ -2911,16 +3117,18 @@ export default [
   },
   {
     id: '19084491',
-    title: 'VL065 Hot Wet Bitches',
+    pz_code: 'VL065',
+    title: 'Hot Wet Bitches',
     description:
-      "Bondage first timers Ashley and Aubrie star in this bathing beauty ab-duction extravaganza. First Ashley, she runs the tub and goes upstairs to change and lay down to wait for the tub to fill. Unfortunately a watcher was watching that hot tight body while she was sitting on the deck. Now he wants her setting on his cock. A ch-loro rag, a little leg kicking kink and an over the shoulder later and she is bound spread eagle face up on his table waiting for that powerful buzz. After which she gets roped up, panel gagged and hog tied. Then led to the training bench for an ass opening with the rod before a mouth/pussy/ass reaming to conclusion. Then Aubrie, 18 year old glamour babe lays naked on the deck in the sun. Watched by a stalker... until she goes under the water in the tub. Then when she comes up... he's on her. Frantic kicking and splashing is the prelude that lets him know she'll be a fine sex slave once dominated into submission. These fine healthy young buns will need another clean up when they are through with this rope romp adventure. Includes 7 Preview videos. VL065",
+      "Bondage first timers Ashley and Aubrie star in this bathing beauty abduction extravaganza. First Ashley, she runs the tub and goes upstairs to change and lay down to wait for the tub to fill. Unfortunately a watcher was watching that hot tight body while she was sitting on the deck. Now he wants her setting on his cock. A ch-loro rag, a little leg kicking kink and an over the shoulder later and she is bound spread eagle face up on his table waiting for that powerful buzz. After which she gets roped up, panel gagged and hog tied. Then led to the training bench for an ass opening with the rod before a mouth/pussy/ass reaming to conclusion. Then Aubrie, 18 year old glamour babe lays naked on the deck in the sun. Watched by a stalker... until she goes under the water in the tub. Then when she comes up... he's on her. Frantic kicking and splashing is the prelude that lets him know she'll be a fine sex slave once dominated into submission. These fine healthy young buns will need another clean up when they are through with this rope romp adventure. Includes 7 Preview videos.",
     categoryid: '403',
     keywords:
-      '18 & 19 YRS OLD, BALLGAGGED, DOMINATION, ANAL, FORCED STRIPPING     strugglefuck, powershotz, ashley, aubrie, over the shoulder, spreadeagle, bondage, hogtie, cf, spanking, forced orgasm, slave training, submission, water, outdoor',
+      '18 & 19 YRS OLD, BALLGAGGED, DOMINATION, ANAL, FORCED STRIPPING     strugglefuck, powershotz, ashley, aubrie, over the shoulder, spreadeagle, bondage, hogtie, cf, chloroform spanking, forced orgasm, slave training, submission, water, outdoor',
     price: '39.99',
     date: '2018-02-03 08:23:56',
     name: 'vl065up.mp4',
     image: 'vl065cover.jpg',
+    poster: 'vl065coverad.jpg',
     displayorder: '1960',
     length: '01:40:16',
     resolution: '1440x1080',
@@ -2928,9 +3136,10 @@ export default [
   },
   {
     id: '19081857',
-    title: 'VL018 No Hard Feelings',
+    pz_code: 'VL018',
+    title: 'No Hard Feelings',
     description:
-      "Cute coed Tiki has fallen resting studying for a final.&Acirc; She is probably dreaming about that hot professor.&Acirc; Suddenly an intruder hops on her and easily overpowers the scared young girl.&Acirc; He binds her to the bed in strong cord.&Acirc; Fondles her shamelessly and slaps her ass with glee as he strips and cuts away those pretty pajamas.&Acirc; Her legs are roped wide and his sexual aggression is intense.&Acirc; He obviously wants to have sex with her once she is bound securely and she realizes that the bondage will allow him to take his time and savor every inch of her gorgeous young body.&Acirc; The fondling and penetrations are performed precisely as if he wants her to enjoy it even though his manner is rough and those bare handed ass slappings are powerfully distracting.&Acirc; He fucks, gags and hammers her body while holding her firmly in bound positions.&Acirc; Spread up...spread down...on hands and knees.&Acirc; He brushes her hair and puts it in a pony tail to prevent lubricant and body fluids from getting on it as he lubricates her virgin anus and opens her ass.&Acirc; First with his fingers, then with a glass bulbed dildo.&Acirc; Then he sets her to squealing with that big old dick until she chokes on his protein and it drips from her lips.&Acirc; Next we find gorgeous midwestern beauty Lexis Lane who is obviously pregnant as revealed by her hugely swollen and gorgeous breasts and plump belly.&Acirc; She looks hot pregnant!&Acirc; Kneeling on the floor with her arms and neck in a heavy wooden stock.&Acirc; The large wooden dildo is used to open her up and remind her that her body is a breeding facility that will be penetrated with lustful greed by the studs who orbit her constantly and dream of what it would be like to fuck that fat ass until her eyeballs roll senseless in their sockets and her mouth flies wide open to take in air as fast as she can.&Acirc; This baby's baby will get frequent roller coaster rides on that cock as it presses for deeper penetration and pounds relentlessly in a vain attempt to get her pregnant while she is already pregnant.&Acirc; Oh well, it will open her up to make that delivery more palatable and I hear anal dilation could prevent rhoidzzzzz in pregnant females.&Acirc; It's a super hot stock and pop clip.&Acirc; VL018",
+      "Cute coed Tiki has fallen resting studying for a final.&Acirc; She is probably dreaming about that hot professor.&Acirc; Suddenly an intruder hops on her and easily overpowers the scared young girl.&Acirc; He binds her to the bed in strong cord.&Acirc; Fondles her shamelessly and slaps her ass with glee as he strips and cuts away those pretty pajamas.&Acirc; Her legs are roped wide and his sexual aggression is intense.&Acirc; He obviously wants to have sex with her once she is bound securely and she realizes that the bondage will allow him to take his time and savor every inch of her gorgeous young body.&Acirc; The fondling and penetrations are performed precisely as if he wants her to enjoy it even though his manner is rough and those bare handed ass slappings are powerfully distracting.&Acirc; He fucks, gags and hammers her body while holding her firmly in bound positions.&Acirc; Spread up...spread down...on hands and knees.&Acirc; He brushes her hair and puts it in a pony tail to prevent lubricant and body fluids from getting on it as he lubricates her virgin anus and opens her ass.&Acirc; First with his fingers, then with a glass bulbed dildo.&Acirc; Then he sets her to squealing with that big old dick until she chokes on his protein and it drips from her lips.&Acirc; Next we find gorgeous midwestern beauty Lexis Lane who is obviously pregnant as revealed by her hugely swollen and gorgeous breasts and plump belly.&Acirc; She looks hot pregnant!&Acirc; Kneeling on the floor with her arms and neck in a heavy wooden stock.&Acirc; The large wooden dildo is used to open her up and remind her that her body is a breeding facility that will be penetrated with lustful greed by the studs who orbit her constantly and dream of what it would be like to fuck that fat ass until her eyeballs roll senseless in their sockets and her mouth flies wide open to take in air as fast as she can.&Acirc; This baby's baby will get frequent roller coaster rides on that cock as it presses for deeper penetration and pounds relentlessly in a vain attempt to get her pregnant while she is already pregnant.&Acirc; Oh well, it will open her up to make that delivery more palatable and I hear anal dilation could prevent rhoidzzzzz in pregnant females.&Acirc; It's a super hot stock and pop clip.",
     categoryid: '403',
     keywords:
       'FORCED STRIPPING, DOMINATION, FORCED ORGASMS, GAGGING, SPANKING     discipline, anal training, slave training, stocks, pregnant, whip, dildo, blowjob, student, coed, tiki, Powershotz, Punish Fuck, lexis lane, damsel',
@@ -2945,12 +3154,13 @@ export default [
   },
   {
     id: '19072479',
+    pz_code: 'PZV023',
     title: 'Amy #2',
     description:
-      "Stripper Amy is hired by a stranger to perform at his place. But the stripper gets bitch-stripped instead! She struggles to free herself, but to no avail. She gets strung up and slave trained. She is nose hooked, nipple-clamped, slapped, cropped, and bound with scratchy tit and crotch rope before submitting to Master. Tears fall before it's all over. Facial abuse and strict discipline will teach her a lesson that she'll never forget. Get out of the business and never go to a stranger's house to strip! Next, a masked man sneaks into a house and surprises a napping beauty. The stranger subdues her with a cloth, fondles, and binds the beauty. When she comes to, she finds her clothes have been cut off with a sharp object and her ankles and wrists tied to a plank. Finally, Amy gets tied to a post and choked despite her begging and pleading. 1 hour 40 min plus 20 min of super-hot previews. PZV023",
+      "Stripper Amy is hired by a stranger to perform at his place. But the stripper gets bitch-stripped instead! She struggles to free herself, but to no avail. She gets strung up and slave trained. She is nose hooked, nipple-clamped, slapped, cropped, and bound with scratchy tit and crotch rope before submitting to Master. Tears fall before it's all over. Facial abuse and strict discipline will teach her a lesson that she'll never forget. Get out of the business and never go to a stranger's house to strip! Next, a masked man sneaks into a house and surprises a napping beauty. The stranger subdues her with a cloth, fondles, and binds the beauty. When she comes to, she finds her clothes have been cut off with a sharp object and her ankles and wrists tied to a plank. Finally, Amy gets tied to a post and choked despite her begging and pleading. 1 hour 40 min plus 20 min of super-hot previews. ",
     categoryid: '4',
     keywords:
-      'STRIPPERS, SPANKING, STRUGGLING, FORCED STRIPPING, SUBMISSIVE / SLAVE TRAINING     Amy, pzv023, choking, nosehook, nipple clamps, slapping, crop, crotch rope, fondling, rope, hogtie, spanking, cf, blonde, heels',
+      'STRIPPERS, SPANKING, STRUGGLING, FORCED STRIPPING, SUBMISSIVE / SLAVE TRAINING     Amy, pzv023, choking, nosehook, nipple clamps, slapping, crop, crotch rope, fondling, rope, hogtie, spanking, cf, chloroform blonde, heels',
     price: '34.99',
     date: '2018-02-01 03:46:34',
     name: 'pzv023.mp4',
@@ -2962,9 +3172,10 @@ export default [
   },
   {
     id: '19060099',
-    title: 'VL022, Forcing Function',
+    pz_code: 'VL022',
+    title: 'Forcing Function',
     description:
-      "Hazel & Tiki grabbed and cuffed overhead to the wall where they can be stripped and sexually harrassed. Then hog tied alongside one another on the table to be dominated, ass slapped and photographed. The photographer's assistant takes a little personal liberty with Hazel's mouth and fine tight pussy. He squirts on Hazel's face as Tiki watches and wets herself in anticipation. Then Renae, disciplined using corporal punishment for leaving an important client waiting at a modeling shoot. She gets whipped in high heels on that fine black ass. Wetness checks show extreme arousal so she is turned to face outward, her elbows strapped, heavy hooters clamped, and flogged on her breasts belly and groin. Finally Hazel... mercifully prepared for sale with a strong anal training session. She is butt slapped and lubricated, then probed deep in her virgin bottom with a bulbed glass rod. When the buyer choke collars young Hazel with a leather strap and takes a hard ride on that ass... she's locked and loaded for moanin'. This one's a classic folks... don't miss it! VL022",
+      "Hazel & Tiki grabbed and cuffed overhead to the wall where they can be stripped and sexually harrassed. Then hog tied alongside one another on the table to be dominated, ass slapped and photographed. The photographer's assistant takes a little personal liberty with Hazel's mouth and fine tight pussy. He squirts on Hazel's face as Tiki watches and wets herself in anticipation. Then Renae, disciplined using corporal punishment for leaving an important client waiting at a modeling shoot. She gets whipped in high heels on that fine black ass. Wetness checks show extreme arousal so she is turned to face outward, her elbows strapped, heavy hooters clamped, and flogged on her breasts belly and groin. Finally Hazel... mercifully prepared for sale with a strong anal training session. She is butt slapped and lubricated, then probed deep in her virgin bottom with a bulbed glass rod. When the buyer choke collars young Hazel with a leather strap and takes a hard ride on that ass... she's locked and loaded for moanin'. This one's a classic folks... don't miss it! ",
     categoryid: '403',
     keywords:
       '18 & 19 YRS OLD, DOMINATION, SPANKING, GAGGING, ANAL     Hazel, Renae, slave train, Tiki, anal train, Discipline, whipping, hog tie, 2 girls, forced stripping, Powershotz, nipple clamps, black, legs, tits',
@@ -2972,6 +3183,7 @@ export default [
     date: '2018-01-29 21:50:02',
     name: 'vl022s.mp4',
     image: 'vl022cat.jpg',
+    poster: 'vl022coverad.jpg',
     displayorder: '1964',
     length: '01:51:56',
     resolution: '640x480',
@@ -2979,7 +3191,8 @@ export default [
   },
   {
     id: '19051915',
-    title: 'VL014  Model Recruited',
+    pz_code: 'VL014',
+    title: 'Model Recruited',
     description:
       "Cute little Lola gets into the car with a man that tells her she'd be a good model... Ladies... learn from her mistake. You get to watch as she is run down and snatched, bound and gagged for transport to the studio. Forced to strip, ball gagged, over the stool whipped and neck restricted, disciplined with foot whipping and hard nude rope bondage. Begging and pleading in that cute little girl voice while bound wrist to ankle and fucked like a whore. With cum dripping from her lips in hog roped position she begs not to be left. Turns out she made an excellent model after all... as the star in a bondage porno flick! She won't be getting into the car with any strange men again... unless she wants to get tied up and fucked!",
     categoryid: '403',
@@ -2989,6 +3202,7 @@ export default [
     date: '2018-01-28 01:46:40',
     name: 'vl014.mp4',
     image: 'vl014cat.jpg',
+    poster: 'vl014coverad.jpg',
     displayorder: '1966',
     length: '02:03:30',
     resolution: '640x480',
@@ -2996,9 +3210,10 @@ export default [
   },
   {
     id: '19013527',
-    title: 'VL013  JaLo',
+    pz_code: 'VL013',
+    title: 'JaLo',
     description:
-      "Starring first and one time only bondage model Jade, forcibly grabbed, struggle stripped, whipped, doggie caged, collared, leashed and taken to the woodshed for some strict elbow cinching, ball gagged nude bondage. Then cute little Lola in PJ's is slave trained and rope bound, bit gagged, ass slapped and deep throat trained, hog bitted, whipping posted and flogged nice and hard on that fine white ass. Then elbow cinched and forced to suck a big cock till it squirts on her face. Hot dvd! VL013",
+      "Starring first and one time only bondage model Jade, forcibly grabbed, struggle stripped, whipped, doggie caged, collared, leashed and taken to the woodshed for some strict elbow cinching, ball gagged nude bondage. Then cute little Lola in PJ's is slave trained and rope bound, bit gagged, ass slapped and deep throat trained, hog bitted, whipping posted and flogged nice and hard on that fine white ass. Then elbow cinched and forced to suck a big cock till it squirts on her face. Hot dvd!",
     categoryid: '403',
     keywords:
       'FORCED STRIPPING, WHIPPING, GAGGING, ROPE BONDAGE, BLOW JOBS     lola, jade, hogtie, bit gag, butt slap, struggle, kick, grabbed, struggling, cage, collar, leash, outdoor, elbow cinch, ballgag',
@@ -3006,6 +3221,7 @@ export default [
     date: '2018-01-20 04:20:37',
     name: 'vl013.mp4',
     image: 'vl013cat.jpg',
+    poster: 'vl013coverad.jpg',
     displayorder: '1967',
     length: '01:53:07',
     resolution: '640x480',
@@ -3013,9 +3229,10 @@ export default [
   },
   {
     id: '18972659',
-    title: 'VL012  A Tale of Two Tails',
+    pz_code: 'VL012',
+    title: 'A Tale of Two Tails',
     description:
-      "College Coed Stacie is run down, captured, and duct taped tight to keep her from running off. She is stripped on site to get a preview look at that fine tight body, heavily fondled and sexually harassed. Then it's over the shoulder and ass slapped to be carried inside for more serious sexual violation and slave training. Next Lexis hears a noise while doing the chores and decides to investigate. Only to find herself hijacked by two men. They grab her, rope bind her sexy limbs, carry her into the woods, tie her to a tree where they violate and feel her up before one of them gets his cock wet pounding the bitch from behind. Nice! Now it's Stacies turn. She is leather cuffed to the whipping post, tit whipped, flogged and spanked, then given the tip of a powerful vibrator to think about while she moans and goes up on tipee toe. Now Lexis is laid out on the table restrained in leather cuffs so she can't use her arms or legs to get away while she is being double dick penetrated with ease. She is left with a squirt to the small of her back and the taste of semen in her cute little bitchy mouth. Super hot stuff! VL012",
+      "College Coed Stacie is run down, captured, and duct taped tight to keep her from running off. She is stripped on site to get a preview look at that fine tight body, heavily fondled and sexually harassed. Then it's over the shoulder and ass slapped to be carried inside for more serious sexual violation and slave training. Next Lexis hears a noise while doing the chores and decides to investigate. Only to find herself hijacked by two men. They grab her, rope bind her sexy limbs, carry her into the woods, tie her to a tree where they violate and feel her up before one of them gets his cock wet pounding the bitch from behind. Nice! Now it's Stacies turn. She is leather cuffed to the whipping post, tit whipped, flogged and spanked, then given the tip of a powerful vibrator to think about while she moans and goes up on tipee toe. Now Lexis is laid out on the table restrained in leather cuffs so she can't use her arms or legs to get away while she is being double dick penetrated with ease. She is left with a squirt to the small of her back and the taste of semen in her cute little bitchy mouth. Super hot stuff!",
     categoryid: '403',
     keywords:
       'FORCED STRIPPING, GAGGING, BLOW JOBS, OUTDOORS, SPANKING     domination, slave training, forced dildo, anal training, bit gag, big tit, Powershotz, Lexis Lane, Stacie, duct tape, damsel in distress, punish fuck, shoulder carry, slapping, over the shoulder',
@@ -3023,6 +3240,7 @@ export default [
     date: '2018-01-12 13:35:32',
     name: 'vl012.mp4',
     image: 'vl012cat.jpg',
+    poster: 'vl012coverad.jpg',
     displayorder: '1968',
     length: '01:52:02',
     resolution: '640x480',
@@ -3030,16 +3248,18 @@ export default [
   },
   {
     id: '18967201',
-    title: 'VL011  Sub Prime',
+    pz_code: 'VL011',
+    title: 'Sub Prime',
     description:
-      'When Stacie comes home from her job at the strip club she gets a little help going through the front door and is escorted inside where she has one more strip to do....unfortunately this strip is being forced upon her by a neighbor who has been watching her for some time. Poor girl. She is bitch stripped and butt slapped, dominated, spanked, collared and leashed. Led like a doggie on a leash and put in the doggie cage. She is let out of the cage and taken to a room where she is cuffed wrist to ankle and pump gagged. Then cuffed to the bench for a vaginal and anal oiling then vibrated to orgasm. She is made to bark like a doggie, and finally lubricated and ass opened with digital and vibratory dilation. Awesome Ass and back arch on this stripper bitch!! Next we find Lexis resting on the couch looking hot. She briefly awakens when a hand holding c-form soaked rag is held firmly over her mouth. This time when she wakes up she is bound to a chair with a bit gag in her mouth. Her swollen breasts and body are heavily felt up. She is left bound in place until a second man comes along and takes the gag out..only to replace it with cock. He puts her on the couch and makes her suck while hog tied. Then fucks her senseless and comes on her face. Powershotz title Sub Prime SL, number VL011.',
+      'When Stacie comes home from her job at the strip club she gets a little help going through the front door and is escorted inside where she has one more strip to do....unfortunately this strip is being forced upon her by a neighbor who has been watching her for some time. Poor girl. She is bitch stripped and butt slapped, dominated, spanked, collared and leashed. Led like a doggie on a leash and put in the doggie cage. She is let out of the cage and taken to a room where she is cuffed wrist to ankle and pump gagged. Then cuffed to the bench for a vaginal and anal oiling then vibrated to orgasm. She is made to bark like a doggie, and finally lubricated and ass opened with digital and vibratory dilation. Awesome Ass and back arch on this stripper bitch!! Next we find Lexis resting on the couch looking hot. She briefly awakens when a hand holding c-form soaked rag is held firmly over her mouth. This time when she wakes up she is bound to a chair with a bit gag in her mouth. Her swollen breasts and body are heavily felt up. She is left bound in place until a second man comes along and takes the gag out..only to replace it with cock. He puts her on the couch and makes her suck while hog tied. Then fucks her senseless and comes on her face. ',
     categoryid: '403',
     keywords:
-      'DOMINATION, SPANKING, WHIPPING, ANAL, HANDCUFF AND SHACKLE FETISH     Powershotz, slave training, gagging, forced stripping, master slave, lexis lane, pregnant, big tit, stripper, collar, leash, anal training, slapping, cage, cf',
+      'DOMINATION, SPANKING, WHIPPING, ANAL, HANDCUFF AND SHACKLE FETISH     Powershotz, slave training, gagging, forced stripping, master slave, lexis lane, pregnant, big tit, stripper, collar, leash, anal training, slapping, cage, cf chloroform',
     price: '39.99',
     date: '2018-01-11 14:06:59',
     name: 'VL011.mp4',
     image: 'vl011cat.jpg',
+    poster: 'vl011coverad.jpg',
     displayorder: '1969',
     length: '01:54:33',
     resolution: '640x480',
@@ -3047,9 +3267,10 @@ export default [
   },
   {
     id: '18950509',
-    title: 'VL008  Sex Slaves',
+    pz_code: 'VL008',
+    title: 'Sex Slaves',
     description:
-      'Naomi St. Claire is all prettied up for work and just when she gets done telling herself how horny she is she is taken by surprise by a masked man. He must have gotten in earlier and been waiting. She recoils in fear and squeals but there is nobody to hear as she is arm locked and muffled with a powerful hand over mouth grip that takes her into back arching, leg kicking distress. Her pleas fall on deaf ears as she is dominated, sexually violated, fondled and spanked. He forcibly disrobes her while bending and flexing that gorgeous body. Her lily white skin and youthful appearance intensify his lust. She is face slapped and told how to behave. Then she is taken upstairs, roped up, rudely fondled and groped, ball gagged, and hog tied and spanked on that fine white bottom. He places her in wooden stocks and binds her with legs spread wide on the floor to endure a few minutes of strict bondage captivity while she wets herself involuntarily and her mind races through the possible outcomes. Will he be gentle? Is his cock huge? Will he fuck me in the ass? If he does, will he use lubricant? She is certain she is going to be used as a fuck toy in every imaginable way. Suddenly another man comes along and finds her bound and gagged in the nude. She begs and pleads for his help. But he takes full advantage of the opportunity to fill that bitches cunt up with cum. Then leaves her to be fucked again. I wonder if this will cure her horniness? In part 2, Andi Adams dominates her slave girl Shelby, she crops that fine ass and forces her down on the powerful vibrating probe of the Sybian. No faking here, that look of panicked desperation on her face is real when the intensity of that vibration is turned up and excites nerve endings all the way up her spine into her brain. Then Andi climbs aboard that powerful Sybian vibrating head and instructs Shelby to work the controls while her eyeballs float in their sockets. Awesome young bodies on both mistress and slave are smooth and muscular and fully fuck-able. VL008',
+      'Naomi St. Claire is all prettied up for work and just when she gets done telling herself how horny she is she is taken by surprise by a masked man. He must have gotten in earlier and been waiting. She recoils in fear and squeals but there is nobody to hear as she is arm locked and muffled with a powerful hand over mouth grip that takes her into back arching, leg kicking distress. Her pleas fall on deaf ears as she is dominated, sexually violated, fondled and spanked. He forcibly disrobes her while bending and flexing that gorgeous body. Her lily white skin and youthful appearance intensify his lust. She is face slapped and told how to behave. Then she is taken upstairs, roped up, rudely fondled and groped, ball gagged, and hog tied and spanked on that fine white bottom. He places her in wooden stocks and binds her with legs spread wide on the floor to endure a few minutes of strict bondage captivity while she wets herself involuntarily and her mind races through the possible outcomes. Will he be gentle? Is his cock huge? Will he fuck me in the ass? If he does, will he use lubricant? She is certain she is going to be used as a fuck toy in every imaginable way. Suddenly another man comes along and finds her bound and gagged in the nude. She begs and pleads for his help. But he takes full advantage of the opportunity to fill that bitches cunt up with cum. Then leaves her to be fucked again. I wonder if this will cure her horniness? In part 2, Andi Adams dominates her slave girl Shelby, she crops that fine ass and forces her down on the powerful vibrating probe of the Sybian. No faking here, that look of panicked desperation on her face is real when the intensity of that vibration is turned up and excites nerve endings all the way up her spine into her brain. Then Andi climbs aboard that powerful Sybian vibrating head and instructs Shelby to work the controls while her eyeballs float in their sockets. Awesome young bodies on both mistress and slave are smooth and muscular and fully fuck-able.',
     categoryid: '403',
     keywords:
       'FORCED STRIPPING, DOMINATION, GAGGING, SPANKING, PANTYHOSE BONDAGE     Naomi St. Claire, Andi Adams, Shelby, Powershotz, hog tie, rope bondage, slave training, forced dildo, drooling, crying, crop, whip, mask, hand over mouth, struggling',
@@ -3057,6 +3278,7 @@ export default [
     date: '2018-01-08 13:13:55',
     name: 'vl008.mp4',
     image: 'vl008coverads.jpg',
+    poster: 'vl008coverad.jpg',
     displayorder: '1970',
     length: '01:57:20',
     resolution: '640x480',
@@ -3064,9 +3286,10 @@ export default [
   },
   {
     id: '18941639',
-    title: 'VL007  Well Deserved',
+    pz_code: 'VL007',
+    title: 'Well Deserved',
     description:
-      "April and Shelby sit discussing their bondage fantasies when Shelby tells April that she's been talking to a guy on line that wants to grab her, tie her up, and fuck her brains out. She has always wanted to be struggle stripped and fucked by a stranger. And April has always wanted it too. So April secretly contacts Shelby's online antagonist and sets it up for Shelby to find out what its like... while at the same time watch it happen. You get to watch along with April as they are grabbed, struggle stripped, bitch slapped and dominated... then April is cuffed to a chair by the bed and watches as Shelby is chained, skull fucked, pussy fucked, ass fucked, rolled on her back and spread fucked, and shot in the mouth with a squirt of hot semen. They are both bound on the bed to roll and tumble until Shelby is taken to the kitchen to be bent over the table, ball gagged and fucked with open mouthed, head fly back precision. Next Lexis Lane... private out call stripper has been teasing and ripping off the same customer for some time. She wishes he'd get a backbone. Well he does get a backbone. He gets a friend to help take her down. The two of them make sure Lexis gets her well deserved comeuppance at the whipping post, along with a glass dildo reaming and a powerful vibrator on her pussy. She is finished off on her knees with her arms bound behind her to the post...looking up to him as he forces his cock down her throat. Awesome big tit, tight ass fun! VL007",
+      "April and Shelby sit discussing their bondage fantasies when Shelby tells April that she's been talking to a guy on line that wants to grab her, tie her up, and fuck her brains out. She has always wanted to be struggle stripped and fucked by a stranger. And April has always wanted it too. So April secretly contacts Shelby's online antagonist and sets it up for Shelby to find out what its like... while at the same time watch it happen. You get to watch along with April as they are grabbed, struggle stripped, bitch slapped and dominated... then April is cuffed to a chair by the bed and watches as Shelby is chained, skull fucked, pussy fucked, ass fucked, rolled on her back and spread fucked, and shot in the mouth with a squirt of hot semen. They are both bound on the bed to roll and tumble until Shelby is taken to the kitchen to be bent over the table, ball gagged and fucked with open mouthed, head fly back precision. Next Lexis Lane... private out call stripper has been teasing and ripping off the same customer for some time. She wishes he'd get a backbone. Well he does get a backbone. He gets a friend to help take her down. The two of them make sure Lexis gets her well deserved comeuppance at the whipping post, along with a glass dildo reaming and a powerful vibrator on her pussy. She is finished off on her knees with her arms bound behind her to the post...looking up to him as he forces his cock down her throat. Awesome big tit, tight ass fun!",
     categoryid: '403',
     keywords:
       'FORCED STRIPPING, DOMINATION, WHIPPING, SPANKING, ANAL     dildo, forced blowjob, Powershotz, Lexis Lane, April, handcuffs, restraint, fucking, struggling, slapping, skull fuck, gag, vibrator, glass dildo, bondage',
@@ -3074,6 +3297,8 @@ export default [
     date: '2018-01-06 16:54:38',
     name: 'vl007.mp4',
     image: 'vl07cat.jpg',
+    poster: 'vl007coverad.jpg',
+    preview: 'vl007c4sprev.mp4',
     displayorder: '1971',
     length: '01:53:07',
     resolution: '640x480',
@@ -3081,9 +3306,10 @@ export default [
   },
   {
     id: '18937775',
-    title: 'VL005  Caught and Taught',
+    pz_code: 'VL005',
+    title: 'Caught and Taught',
     description:
-      "Two girls are caught and taught for their crimes against humanity. Their lessons are strict and their punishments are hard to fit the severity of their crimes. When it is over they will go forth with sore bottoms and a memory that they will never forget to insure that they don't do it again. First we find cute secretary Andi Adams' at work. Her boss has suspected for some time that she was stealing from him. So he waits until Friday afternoon, and positions his security assistant to watch her, catch her red handed, and assist with the capture, collar, and punishment. She sneaks into the company safe and steals a small amount of cash. She is caught... now she will be taught. First hand cuffed, then ball gagged to prevent biting, then bent over the desk, and spanked hard on that fine bare ass. She is bitch stripped, roped up on the table, forced to suck boss cock and fucked by the security man while bound. Next she is handcuffed and blindfolded to a chair where she is again forced to suck boss cock, heavily fondled and neck choked. They've got all weekend to correct her misbehavior... and they use it wisely. She is bishop head harnessed, cuffed to a training bench and riding cropped directly on her anus. Before being rudely fingered and fucked like a whore with ass slapping glee. Her tears mixing with her saliva as she begs. She won't be repeating that behavior again! And she gets to keep her job. Next we find nightclub stripper Abbey, cuffed and out on the floor. She was captured the night before as she left work by a client who realizes that she needs to be punished severely taking a job as a stripper. She is awakened, cuffed to a training bench to be punished... looked over... ass slapped and dominated in rudely invasive ways... then lubed up and ass opened... forced to suck and gag. All those things her customers wanted to do to her but never had the chance. That should put an end to her days as a stripper. VL005",
+      "Two girls are caught and taught for their crimes against humanity. Their lessons are strict and their punishments are hard to fit the severity of their crimes. When it is over they will go forth with sore bottoms and a memory that they will never forget to insure that they don't do it again. First we find cute secretary Andi Adams' at work. Her boss has suspected for some time that she was stealing from him. So he waits until Friday afternoon, and positions his security assistant to watch her, catch her red handed, and assist with the capture, collar, and punishment. She sneaks into the company safe and steals a small amount of cash. She is caught... now she will be taught. First hand cuffed, then ball gagged to prevent biting, then bent over the desk, and spanked hard on that fine bare ass. She is bitch stripped, roped up on the table, forced to suck boss cock and fucked by the security man while bound. Next she is handcuffed and blindfolded to a chair where she is again forced to suck boss cock, heavily fondled and neck choked. They've got all weekend to correct her misbehavior... and they use it wisely. She is bishop head harnessed, cuffed to a training bench and riding cropped directly on her anus. Before being rudely fingered and fucked like a whore with ass slapping glee. Her tears mixing with her saliva as she begs. She won't be repeating that behavior again! And she gets to keep her job. Next we find nightclub stripper Abbey, cuffed and out on the floor. She was captured the night before as she left work by a client who realizes that she needs to be punished severely taking a job as a stripper. She is awakened, cuffed to a training bench to be punished... looked over... ass slapped and dominated in rudely invasive ways... then lubed up and ass opened... forced to suck and gag. All those things her customers wanted to do to her but never had the chance. That should put an end to her days as a stripper.",
     categoryid: '403',
     keywords:
       'FORCED STRIPPING, ANAL, DOMINATION, GAGGING, WHIPPING     Andi Adams, Abbey, hand over mouth, punishment, forced blow jobs, forced penetration, corporal punishment, secretary, capture, collar, handcuffs, spanking, blindfold, choking, crying',
@@ -3091,6 +3317,7 @@ export default [
     date: '2018-01-05 20:36:30',
     name: 'vl005.mp4',
     image: 'vl05cat.jpg',
+    poster: 'vl005coverad.jpg',
     displayorder: '1972',
     length: '01:52:05',
     resolution: '640x480',
@@ -3098,9 +3325,10 @@ export default [
   },
   {
     id: '18930273',
-    title: 'VL004 Dominated Dancer',
+    pz_code: 'VL004',
+    title: 'Dominated Dancer',
     description:
-      "Out call stripper for hire Heather shows up for a private dance... the customer has other plans however. He grabs her and strips her himself after she teases him dancing. Then ties her up so she can't get away. Now she can be used for more than just dancing. First, elbow cinched and force fed cock, then doggie style ball gagged on the bench... slip a finger up her ass to feel how tight it is... and a cock sliding in and out of that strong tight pussy. Then the captive stripper is awakened from rest by two men who proceed to tie her spread eagle to the bed and have their way with that fine lean white body. Face up... face down... in the throat, in the pussy, and against her pleading objections... in the ass hard. Finally, she is hung up in spread eagle suspension until completely exhausted and begging for release. It's a tough job.... In part 2, under 20 Rayne is rope bound and forced to suck, then fuck, then take it up the ass. The ropes hold her in place as her sphincter clutches his cock and a hand held firmly over her mouth shuts her up while she farts in humiliating submission. Awesome reality first anal! Powershotz VL004",
+      "Out call stripper for hire Heather shows up for a private dance... the customer has other plans however. He grabs her and strips her himself after she teases him dancing. Then ties her up so she can't get away. Now she can be used for more than just dancing. First, elbow cinched and force fed cock, then doggie style ball gagged on the bench... slip a finger up her ass to feel how tight it is... and a cock sliding in and out of that strong tight pussy. Then the captive stripper is awakened from rest by two men who proceed to tie her spread eagle to the bed and have their way with that fine lean white body. Face up... face down... in the throat, in the pussy, and against her pleading objections... in the ass hard. Finally, she is hung up in spread eagle suspension until completely exhausted and begging for release. It's a tough job.... In part 2, under 20 Rayne is rope bound and forced to suck, then fuck, then take it up the ass. The ropes hold her in place as her sphincter clutches his cock and a hand held firmly over her mouth shuts her up while she farts in humiliating submission. Awesome reality first anal!",
     categoryid: '403',
     keywords:
       'DOMINATION, FORCED STRIPPING, SPANKING, GAGGING, ANAL     Powershotz, heather, discipline, punish fuck, blow job, suspension, ball gag, rope, Rayne, struggle, whip, elbow cinch, choking, humiliation, punishment',
@@ -3108,6 +3336,7 @@ export default [
     date: '2018-01-04 23:02:20',
     name: 'vl004v2.mp4',
     image: 'vl04ad.jpg',
+    poster: 'vl004coverad.jpg',
     displayorder: '1973',
     length: '01:43:43',
     resolution: '640x480',
@@ -3115,7 +3344,8 @@ export default [
   },
   {
     id: '18923325',
-    title: 'VL003  Andi Adams Reporting',
+    pz_code: 'VL003',
+    title: 'Andi Adams Reporting',
     description:
       "News reporter Andi Adams has the scoop on the local sheriff. Unfortunately, he's got her cell phone monitored. He captures her before she can report her findings, and teaches her the error of her ways. A solvent soaked rag is used to take her down. Then she is stripped, looked over, cuffed, and awakened, a paper bag is put over her head, she is hung up and fondled, then her legs are spread and her ankles attached to either end of the bar. Leaving her pussy and anus open and available to all. Her pussy is vibrated by a dildo... Then she is set upon the powerful dildo that vibrates and rotates attached to the sybian. It is throttled up and her mouth flies open as expected. It's a hard ride. Now the deputy comes along and decides that she would benefit from being face forced on his cock. But her mouth is insufficiently tight so he gets behind the bitch and hammers home the point. Nice forward leaning strappado fuck! In scene 2, Cammi is passedout Tipsy on the bed. She is fondled and slapped to a groggy state, roped bent over the table and dildo'd from behind. She is left bound spread eagle face down on the table, begging for release. That'll teach her not to mix drugs and alcohol. Finally we find little 18 year old Miranda, hog tied and blindfolded on a bed. A cock slips in that mouth, the blindfold is removed to reveal her begging brown eyes and the wrinkled forehead that comes with a heavy gag reflex. Then a heavy squirt is delivered to that hot little mouth and she chokes on it. ",
     categoryid: '403',
@@ -3125,6 +3355,7 @@ export default [
     date: '2018-01-03 17:37:14',
     name: 'vl003.mp4',
     image: 'vl03cat.jpg',
+    poster: 'vl003coverad.jpg',
     displayorder: '1974',
     length: '01:52:32',
     resolution: '640x480',
@@ -3132,9 +3363,10 @@ export default [
   },
   {
     id: '18893353',
+    pz_code: 'PZV009',
     title: 'Maid Made',
     description:
-      "Under 19 maid shows up to clean the house. Only the homeowner doesn't want the house cleaned. He wants the maid bound on a platter with a cock up her virgin ass. The young maid is easily intimidated by his aggressive intimidation and invasive hand over mouth grip. She puts on the sexy maid outfit as instructed and submits to the rope as he binds her arms behind her back. She is knelt facing him and shown the big hard cock. He slaps her face and tells her how to suck it as he explains to her where he is going to put that cock....up her ass. She is hand slapped and slipped that hard dick up the ass. Her anxiety and shock are displayed close up as the cock opens her tender anus. Then she is bound spread eagle face down on the floor. Her legs spread wide by the spreader bar allow him to easily mount her, slap that ass, and slide that cock home in her anus. Toes curl, muscles flex and heavy breathing combines with gasping for air as she is filled up with cock and injected with semen. After a satisfying virgin ass opening she is hog roped in her cute little outfit wearing a blindfold and cleave gag. She agrees to suck cock as a condition of gag removal and is once again fed the hard shaft that causes her to belch... Awesome reality 18 year old anal training. Available by download or DVD disk on powershotz new website. Order PZV009",
+      "Under 19 maid shows up to clean the house. Only the homeowner doesn't want the house cleaned. He wants the maid bound on a platter with a cock up her virgin ass. The young maid is easily intimidated by his aggressive intimidation and invasive hand over mouth grip. She puts on the sexy maid outfit as instructed and submits to the rope as he binds her arms behind her back. She is knelt facing him and shown the big hard cock. He slaps her face and tells her how to suck it as he explains to her where he is going to put that cock....up her ass. She is hand slapped and slipped that hard dick up the ass. Her anxiety and shock are displayed close up as the cock opens her tender anus. Then she is bound spread eagle face down on the floor. Her legs spread wide by the spreader bar allow him to easily mount her, slap that ass, and slide that cock home in her anus. Toes curl, muscles flex and heavy breathing combines with gasping for air as she is filled up with cock and injected with semen. After a satisfying virgin ass opening she is hog roped in her cute little outfit wearing a blindfold and cleave gag. She agrees to suck cock as a condition of gag removal and is once again fed the hard shaft that causes her to belch... Awesome reality 18 year old anal training.",
     categoryid: '31',
     keywords:
       'BONDAGE SEX, ANAL, BONDAGE BLOWJOBS, SPANKING, DOMINATION     Rayne, slave training, cleave gag, forced entry',
@@ -3149,7 +3381,8 @@ export default [
   },
   {
     id: '18189424',
-    title: 'VL036  Dressed for Distress',
+    pz_code: 'VL036',
+    title: 'Dressed for Distress',
     description:
       "Gorgeous Heather Silk is cuffed arms over head in high heels and hose. She is stripped, fondled, violated, and paddled on that bad little bottom as her clothing is removed one piece at a time. Then she is locked down on the floor and given some serious training with the aid of a big cock and a set of stocks. Finally she is hog tied in rubber straps on the table where she can be fed cock without worry of her falling off the table.\r\nNext our sweetheart Candy is brought in wearing her hot little outfit. It'll look great laying on the floor... with her hog tied and ball gagged along side it. Awesome first timer reality bondage as she endures her virgin bondage experience. Then she is doggie styled on the bench with the neck strap as a choke collar and that virgin bottom is lubricated and guaged for anal. Now that she's been anal trained, it's time for a good flogging... from the front on super sensitive breasts... from behind on that hot white ass. She gets a little defiant. I wouldn't let that be a reason to kick her out of bed. 1:40 long!",
     categoryid: '403',
@@ -3159,6 +3392,7 @@ export default [
     date: '2017-08-17 10:56:47',
     name: 'vl036mp4.mp4',
     image: 'vl036cat.jpg',
+    poster: 'vl036coverad.jpg',
     displayorder: '1976',
     length: '01:40:40',
     resolution: '640x480',
@@ -3166,6 +3400,7 @@ export default [
   },
   {
     id: '18168024',
+    pz_code: 'PZV022',
     title: "Amy's Bondage Experience",
     description:
       "Young blonde model Amy tries out bondage for the extra money it pays and finds herself begging for cock to obtain ball gag relief and getting her ass lubed while bound spread eagle face down to the floor. Apparently she didn't read the fine print in the contract where it clearly stated that ass discipline, ball gagged begging, riding crop domination and institutional slavery were part of the job. Poor girl. She'll be fine once the soreness goes away. And the spoiled little brat neededa lesson she could rehearse over and over again in her mind... to keep her from fucking up!",
@@ -3183,7 +3418,8 @@ export default [
   },
   {
     id: '18054286',
-    title: 'PZV114 Too Hot to Trot!',
+    pz_code: 'PZV114',
+    title: 'Too Hot to Trot!',
     description:
       "Two hottie friends. Lexis and Ally, are trotting along past an abandoned building when suddenly they find the building isn't as abandoned as they thought. Ally gets hand over mouth asphixed and her self absorbed bestie Lexis doesn't notice because she is too busy running her mouth. When Lexis goes into the building to look for Ally, she gets grabbed, bitch fondled and dominated into handcuffs. Then when Ally is awakened, the same thing happens to her. Poor dears. The two of them will be spending their day learning to please Master cock with those hot mouths, pussies and asses. Then super model Bethdecides she can cut through the building and gets a good bitch stripping complete with bondage domination. These girls will be more careful in the future. After they've been slave trained and used as sex toys for a time. Finally this hot young Asian Joey gets it good as an added boner.",
     categoryid: '4',
@@ -3193,6 +3429,7 @@ export default [
     date: '2017-07-22 13:00:59',
     name: 'pzv114mp4.mp4',
     image: 'pzv114cat.jpg',
+    poster: 'pzv114coverad.jpg',
     displayorder: '1979',
     length: '01:38:44',
     resolution: '640x480',
@@ -3200,7 +3437,8 @@ export default [
   },
   {
     id: '17950106',
-    title: 'PZV115 Disabled and Disciplined',
+    pz_code: 'PZV115',
+    title: 'Disabled and Disciplined',
     description:
       "It takes a lot of work to properly discipline a young girl. If she is to be shown the error of her ways and introduced to a world where she can fully express her sexuality it is going to take some effort. After Bianca finishes up talking to her husband, she is taken... disciplined... stripped, spanked, bound, dominated, and aroused... then she calls him up... and tells him how horny she is. He'll never know. Likewise Audrey and Beth are bound and effectively shocked back to reality withstrict discipline. The bench domination scene with Audrey is hot! The strip, cuff, and ball gag of Bianca is pure arousal.",
     categoryid: '222',
@@ -3217,9 +3455,10 @@ export default [
   },
   {
     id: '17828164',
+    pz_code: 'PZV003',
     title: "Rayne's First Bondage",
     description:
-      "She was still in high when she came for that first shoot. What starts as a modeling session turns to ball gagged and hog tied bondage as she is shown the ropes. You've got her first modeling session, a sexy girl scout ab-duction, stripping and hog tie. A bound bare ass and spread nude scene that is legendary, the cuffed radiator admonished slave girl scene, over the stool spanking and tickling, rubber hog tie, and standing spread nose hook scenes. Also includes slide shows of still images. One of the earliest Powershotz productions with one of the cutest models ever to do bondage. This one isa rare keeper.",
+      "She was still in high when she came for that first shoot. What starts as a modeling session turns to ball gagged and hog tied bondage as she is shown the ropes. You've got her first modeling session, a sexy girl scout abduction, stripping and hog tie. A bound bare ass and spread nude scene that is legendary, the cuffed radiator admonished slave girl scene, over the stool spanking and tickling, rubber hog tie, and standing spread nose hook scenes. Also includes slide shows of still images. One of the earliest Powershotz productions with one of the cutest models ever to do bondage. This one isa rare keeper.",
     categoryid: '31',
     keywords:
       'BONDAGE, DOMINATION, FORCED STRIPPING, BALLGAGGED, ROPE BONDAGE     spanking, cropping, nose hook, powershotz, Rayne',
@@ -3234,9 +3473,10 @@ export default [
   },
   {
     id: '17647594',
-    title: 'Taking Kordelia',
+    pz_code: 'PZV089',
+    title: 'The Taking of Kordelia Devonshire',
     description:
-      'From its parking lot abduction, forced stripping, hand cuffing, strappado cuffing, ass whipping, big ball gagging, nose hooking,big butt slapping, crotch roped bottoms up hoist and stocked up for an ass fuck start to finish this bondage flick is priceless and timeless! 1Hr, 33 Minutes long',
+      'From its parking lot abduction, forced stripping, hand cuffing, strappado cuffing, ass whipping, big ball gagging, nose hooking,big butt slapping, crotch roped bottoms up hoist and stocked up for an ass fuck start to finish this bondage flick is priceless...',
     categoryid: '4',
     keywords:
       'SPANKING, DOMINATION, BALLGAGGED, FORCED STRIPPING, HUMILIATION     hand over mouth, abduction, bare ass slap, powershotz, kordelia devonshire',
@@ -3244,6 +3484,7 @@ export default [
     date: '2017-05-07 07:03:42',
     name: 'pzv089movie.mp4',
     image: 'pzv089cat.jpg',
+    poster: 'pzv089coverad.jpg',
     displayorder: '1982',
     length: '01:33:00',
     resolution: '854x480',
@@ -3251,7 +3492,8 @@ export default [
   },
   {
     id: '17527112',
-    title: 'VL029 Making the Deal',
+    title: 'Making the Deal',
+    pz_code: 'VL029',
     description:
       "When sexy real estate agent Spring tries to sell her client this house, he sells her something instead... his cock. Of course it takes a little persuasion... a cable clamp... some strong rope... a leather neck strap... dental spreader gag... driving her to her knees and forcing her to suck... then out to the barn for a serious internal stimulation session.\r\nNext up Renae... hog roped and cropped... gag reflex tested and ball gagged... then bench bound, anal trained and anal rodded with the big fat stick. She's ready for sale now. That fine black body will fetch a high price at market. And now that she's been trained to squeal like a pig... the farmers will want her too.",
     categoryid: '403',
@@ -3261,6 +3503,7 @@ export default [
     date: '2017-04-14 23:45:32',
     name: 'vl029mp4.mp4',
     image: 'vl029coverad.jpg',
+    poster: 'vl029coverad.jpg',
     displayorder: '1983',
     length: '01:29:00',
     resolution: '854x480',
@@ -3302,9 +3545,10 @@ export default [
   },
   {
     id: '17327624',
+    pz_code: 'PZV013',
     title: 'Celena and Nikki',
     description:
-      "Gorgeous Celena is taken in her own home by a stranger who easily sneaks up on her as she listens to music. She is intimidated, cuffed, ball gagged, stripped, dominated, spanked and neck roped into submission. Then man handled and fondled, butt, tit and face slapped, Then hog tied and taken to bed where she is dildo'd, forced to beg for cock and then to suck cock until it squirts in her mouth. Then Nikki... taken at the door, roped up, felt up and cleave gagged. She is laid out on a table and cries as she is hogged up tight. Finally buxom Vanessa is dominated and forced to kneel alongside Genesis in the nude. Celena is one kick ass buxom bondagette and gets what's coming to her in this flick. Listen to her beg as she is slapped, fondled and used as a sex toy. PZV013",
+      "Gorgeous Celena is taken in her own home by a stranger who easily sneaks up on her as she listens to music. She is intimidated, cuffed, ball gagged, stripped, dominated, spanked and neck roped into submission. Then man handled and fondled, butt, tit and face slapped, Then hog tied and taken to bed where she is dildo'd, forced to beg for cock and then to suck cock until it squirts in her mouth. Then Nikki... taken at the door, roped up, felt up and cleave gagged. She is laid out on a table and cries as she is hogged up tight. Finally buxom Vanessa is dominated and forced to kneel alongside Genesis in the nude. Celena is one kick ass buxom bondagette and gets what's coming to her in this flick. Listen to her beg as she is slapped, fondled and used as a sex toy. ",
     categoryid: '4',
     keywords:
       'DOMINATION, BLOW JOBS, 18 & 19 YRS OLD, SPANKING, FORCED STRIPPING     Celena, Nikki, Powershotz, rope, gag, ball gag, hogtie',
@@ -3312,6 +3556,7 @@ export default [
     date: '2017-03-07 00:20:04',
     name: 'pzv013movie.mp4',
     image: 'pzv013coverad.jpg',
+    poster: 'pzv013coverad.jpg',
     displayorder: '1988',
     length: '01:41:00',
     resolution: '640x480',
@@ -3404,7 +3649,8 @@ export default [
   },
   {
     id: '16965872',
-    title: 'PZV029 Chlsea Jasmine Missy and Mandy',
+    pz_code: 'PZV029',
+    title: 'Chlsea Jasmine Missy and Mandy',
     description:
       "4 Incredibly hot, barely legal, super babes dominated in classic Powershotz bondage style. Some of the earliest Powershotz video footage of Jasmine, Missy and Mandy. Video includes roughly half of Chlsea's short and sweet venture into bondage modeling.All of 18 year old Missy's intimidating domination, and a good percentage of Jasmine's bondage and domination scenes including a good bare handed ass slapping and aball gagged latex tubing hog tie. Missy and Mandy hog tied for the brief few moments that they could endure it before breaking down because the bondage was too strict. Poor Missy didn't take to ball gagging well. Chlsea in leather cuffed ass up bondage is the perfect party favor and you get to see her hog tied, ball gagged and strung up to a pole as well. Poor thing. Some early footage oflower resolution. 1:37 Long.",
     categoryid: '4',
@@ -3414,6 +3660,7 @@ export default [
     date: '2016-12-29 02:57:43',
     name: 'pzv029mp4.mp4',
     image: 'chlseasfirst086.jpg',
+    poster: 'pzv029coverad.jpg',
     displayorder: '1994',
     length: '01:37:00',
     resolution: '640x480',
@@ -3438,7 +3685,8 @@ export default [
   },
   {
     id: '16866456',
-    title: 'VL002  Two for the Price of One',
+    pz_code: 'VL002',
+    title: 'Two for the Price of One',
     description:
       "Kylie shows up to try out modeling. She brings her friend Alex along as a precaution. The two girls are stupid enough to drink the wine that they are offered. As Kylie is posing, she starts to go under, Alex realizes to late what is happening. She tries to bring Kylie out of it but falls victim to the effects just as she is becoming aware. She wakes up hog tied at the foot of the bed... Kylie bound spread eagle on her back... and a dildo at the ready. Things get real interesting now. Kylie gets that dildo... and Alex gets doggie dicked on top of Kylie. Then the both of them are bound hands overhead and dicked in the mouth. A sore bottom and a cock in the mouth will teach these two to avoid the sins of drinking in the future. The photographer and his assistant obviously got their money's worth out of this shoot. As an added boner... poor sweet little lizzie is c-formed in her bed... stripped nude... bound wrist to ankle ass up... awakened with a hard slap on the ass... and bottom oiled. In her bound position she is unable to evade the digits that slip up that fine white ass to prepare her for butt fucking.",
     categoryid: '31',
@@ -3448,6 +3696,7 @@ export default [
     date: '2016-12-11 00:53:20',
     name: 'vl002movie.mp4',
     image: 'vl02coverad.jpg',
+    poster: 'vl002coverad.jpg',
     displayorder: '1996',
     length: '01:32:00',
     resolution: '640x480',
@@ -3472,9 +3721,10 @@ export default [
   },
   {
     id: '16824098',
-    title: 'VL044  Pork Butts',
+    pz_code: 'VL044',
+    title: 'Pork Butts',
     description:
-      'Katie and Olivia star in this all hams on deck bitch flick. They have just the right amount of fat to keep that meat tender and juicy and need to be bitch stripped, bottom spanked, ball gagged, bound and bottom oiled before ass rodding to get them ready for ass pounding dick. Take these young porkers home and make them squeal like stuck pigs while that flesh ripples. Or leave them hanging like a slab of choice meat on a hook and save them for later. VL044.',
+      'Katie and Olivia star in this all hams on deck bitch flick. They have just the right amount of fat to keep that meat tender and juicy and need to be bitch stripped, bottom spanked, ball gagged, bound and bottom oiled before ass rodding to get them ready for ass pounding dick. Take these young porkers home and make them squeal like stuck pigs while that flesh ripples. Or leave them hanging like a slab of choice meat on a hook and save them for later. ',
     categoryid: '4',
     keywords:
       'CHUBBY, ANAL, FORCED STRIPPING, BALLGAGGED, SPANKING     Spanking, Powershotz, Katie, Olivia, Slave, anal training, humiliation, domination, damsel, struggle strip, struggling, suspension, bitch strip',
@@ -3482,6 +3732,7 @@ export default [
     date: '2016-12-02 20:06:14',
     name: 'vl044movie.mp4',
     image: 'vl044coverad.jpg',
+    poster: 'vl044coverad.jpg',
     displayorder: '1998',
     length: '01:43:00',
     resolution: '640x480',
@@ -3676,16 +3927,18 @@ export default [
   },
   {
     id: '16149282',
+    pz_code: 'PZV048',
     title: 'Megan and Jessy - Taken and Trained',
     description:
-      "Khaki skirt provides little protection for tender young lamb as she is man handled, dominated, slave collared, big ball gagged, hog roped, breast bound, forced to hold that ass out and stick those tits out with the assistance of the crop. Lilly white skin and fresh faced innocent look provide little protection as the slave girl is crotch roped tight, dominated and put up on the table for a ball gagging and a hog roping. She is ass upped and cropped with stinging effectiveness on that pure white butt. A chain around the neck is used to get her to lift that head. Then the bitch is relieved of the slippery wet ball gag and face slapped before being laid out on the table in rope for a gag free nap. She agrees to beg for cock when instructed and keep her pretty little mouth shut to avoid that big fat ball gag. Then long haired lovely is crotch roped tight, strappado bent and hung leaning forward. She is left bent forward to struggle and squirm that hot body when a large brute approaches and proceeds to bottom spank, face slap and generally fuck with the increasingly horny nude captive. She'll slide up and down on that cock real easy with as wet as she has become. Then she is hung up in nude spread eagle bondage. Right side up, upside down, slapped on the ass, pussy and face. Head harness ball gag to shut the bitch up. The only thing she needs now is a big fat dick inside her. Full length movie starring Megan and Jessy. Also available by mail in DVD format. Order PZV048 from the Powershotz online catalog.",
+      "Khaki skirt provides little protection for tender young lamb as she is man handled, dominated, slave collared, big ball gagged, hog roped, breast bound, forced to hold that ass out and stick those tits out with the assistance of the crop. Lilly white skin and fresh faced innocent look provide little protection as the slave girl is crotch roped tight, dominated and put up on the table for a ball gagging and a hog roping. She is ass upped and cropped with stinging effectiveness on that pure white butt. A chain around the neck is used to get her to lift that head. Then the bitch is relieved of the slippery wet ball gag and face slapped before being laid out on the table in rope for a gag free nap. She agrees to beg for cock when instructed and keep her pretty little mouth shut to avoid that big fat ball gag. Then long haired lovely is crotch roped tight, strappado bent and hung leaning forward. She is left bent forward to struggle and squirm that hot body when a large brute approaches and proceeds to bottom spank, face slap and generally fuck with the increasingly horny nude captive. She'll slide up and down on that cock real easy with as wet as she has become. Then she is hung up in nude spread eagle bondage. Right side up, upside down, slapped on the ass, pussy and face. Head harness ball gag to shut the bitch up. The only thing she needs now is a big fat dick inside her. Full length movie starring Megan and Jessy. Also available by mail in DVD format. ",
     categoryid: '4',
     keywords:
-      'FORCED STRIPPING, DOMINATION, SUBMISSIVE / SLAVE TRAINING, GROPING, ROPE BONDAGE     Powershotz, Megan, Jessy, ab-duction Fantasy, Spanking, Hand Over Mouth, Ball Gag, Crotch Rope',
+      'FORCED STRIPPING, DOMINATION, SUBMISSIVE / SLAVE TRAINING, GROPING, ROPE BONDAGE     Powershotz, Megan, Jessy, abduction Fantasy, Spanking, Hand Over Mouth, Ball Gag, Crotch Rope',
     price: '29.99',
     date: '2016-08-10 09:41:46',
     name: 'pzv048movie.mp4',
     image: 'pzv048coverad.jpg',
+    poster: 'pzv048coverad.jpg',
     displayorder: '2011',
     length: '01:43:00',
     resolution: '640x480',
@@ -3693,9 +3946,10 @@ export default [
   },
   {
     id: '16133592',
-    title: 'VL006  Hard On Girls',
+    pz_code: 'VL006',
+    title: 'Hard On Girls',
     description:
-      "18 yo Alex is heading to the club with her fake ID wearing clicking heels and a hot cocktail dress when she is grabbed and pulled into a building by a pervert. She is had over mouth silenced, bitch stripped, hand cuffed, butt slapped, looked over and dominated firmly into submission before being cuffed to a bench on her hands and knees and forced to choke on cock before it is used to fill her up deep and coat her insides with slippery semen. Then Jessy is run down in the woods where she's got no business being, struggled into rope bondage, sexually violated, fondled, neck stretched, cleave gagged, blind folded and thrown over the shoulder for a hike to a landfill where she is thrown in the hole. She is discovered in a state of bound, gagged and blindfolded captivity by a very horny and very lucky man who presumes to rescue her but instead takes her back to his place where he deep throats her and throws her over a box for a rope bound bang and then leaves her tied up so he can come back and fuck her later. Then we find Alex still held captive. She is ball gagged and hog cuffed on the divan so she can be fucked hard. Then later on takes a load of seminal fluid in her cute little mouth while choking in a kneeling and bound positions. When she is finally released... she wants his phone number... go figure. Some girls just can't get fucked hard enough. It's a bitchin bitch flick! Get it!  VL006",
+      "18 yo Alex is heading to the club with her fake ID wearing clicking heels and a hot cocktail dress when she is grabbed and pulled into a building by a pervert. She is had over mouth silenced, bitch stripped, hand cuffed, butt slapped, looked over and dominated firmly into submission before being cuffed to a bench on her hands and knees and forced to choke on cock before it is used to fill her up deep and coat her insides with slippery semen. Then Jessy is run down in the woods where she's got no business being, struggled into rope bondage, sexually violated, fondled, neck stretched, cleave gagged, blind folded and thrown over the shoulder for a hike to a landfill where she is thrown in the hole. She is discovered in a state of bound, gagged and blindfolded captivity by a very horny and very lucky man who presumes to rescue her but instead takes her back to his place where he deep throats her and throws her over a box for a rope bound bang and then leaves her tied up so he can come back and fuck her later. Then we find Alex still held captive. She is ball gagged and hog cuffed on the divan so she can be fucked hard. Then later on takes a load of seminal fluid in her cute little mouth while choking in a kneeling and bound positions. When she is finally released... she wants his phone number... go figure. Some girls just can't get fucked hard enough. It's a bitchin bitch flick! Get it!  ",
     categoryid: '403',
     keywords:
       'DOMINATION, FORCED STRIPPING, GAGGING, SUBMISSIVE / SLAVE TRAINING, SPANKING M/F     Powershotz, Alex, Damsel in Distress, Jessy, Neck Rope, struggle fuck, forced oral, blindfold, over the shoulder, shoulder carry, high heels, fucking, handcuffs, slapping, cum in mouth',
@@ -3703,6 +3957,7 @@ export default [
     date: '2016-08-07 12:09:31',
     name: 'vl006movie.wmv',
     image: 'vl06cover.jpg',
+    poster: 'vl006coverad.jpg',
     displayorder: '2012',
     length: '01:28:00',
     resolution: '720x480',
@@ -3727,16 +3982,18 @@ export default [
   },
   {
     id: '16089294',
-    title: 'PZV028 Keri and Spring',
+    pz_code: 'PZV028',
+    title: 'Keri and Spring',
     description:
-      "Electrical inspector must have messed with the wrong contractor. Her name is Keri, and she is one hot mamma MILF. Whoever she pissed off is having a good time with her. First she is accosted and groped in struggle kick body feel up hand over mouth fashion until her body weakens enough for him to get that solvent soaked rag over her mouth. A couple of deep inhales and her eyeballs are rolling. Then she is prettying up in front of a mirror and gets hopped on again. Only this time her antagonist uses medical tape and has a good time breaking the bitch, feeling up those intimate areas, spanking and dominating, tape gagging that pretty little mouth before putting her out on the bed. She wakes up with a sore ass, calls a friend to tell her about it, and gets grabbed again and put down nicely. Later she enters a building to perform an inspection, and gets grabbed, groped and anesthetized again. Poor girl. She better start approving some work! Next up is pretty faced little girl Spring. She takes a ride from a stranger and gets a lesson in the perils of hitch hiking the hard way. Hog tied, ball gagged, over the stool spanked, cleave gagged, hand cuffed fully groped, rope hog tied and gagged on her bed and forced to beg for cock. This lesson will teach her to keep that thumb in her mouth where it belongs if she doesn't want to take it up the ass! Full length movie from Powershotz. 1 hour, 28 minutes of bitch stripping, leg kicking, bare handing, bondage fun! PZV028",
+      "Electrical inspector must have messed with the wrong contractor. Her name is Keri, and she is one hot mamma MILF. Whoever she pissed off is having a good time with her. First she is accosted and groped in struggle kick body feel up hand over mouth fashion until her body weakens enough for him to get that solvent soaked rag over her mouth. A couple of deep inhales and her eyeballs are rolling. Then she is prettying up in front of a mirror and gets hopped on again. Only this time her antagonist uses medical tape and has a good time breaking the bitch, feeling up those intimate areas, spanking and dominating, tape gagging that pretty little mouth before putting her out on the bed. She wakes up with a sore ass, calls a friend to tell her about it, and gets grabbed again and put down nicely. Later she enters a building to perform an inspection, and gets grabbed, groped and anesthetized again. Poor girl. She better start approving some work! Next up is pretty faced little girl Spring. She takes a ride from a stranger and gets a lesson in the perils of hitch hiking the hard way. Hog tied, ball gagged, over the stool spanked, cleave gagged, hand cuffed fully groped, rope hog tied and gagged on her bed and forced to beg for cock. This lesson will teach her to keep that thumb in her mouth where it belongs if she doesn't want to take it up the ass! Full length movie from Powershotz. 1 hour, 28 minutes of bitch stripping, leg kicking, bare handing, bondage fun!",
     categoryid: '4',
     keywords:
-      'DOMINATION, STRUGGLING, FORCED STRIPPING, HAND OVER MOUTH, SPANKING M/F     blonde, Spring, Keri, anesthesia, PZV028, CF, redhead, tape, stalker, damsel in distress, handcuffs',
+      'DOMINATION, STRUGGLING, FORCED STRIPPING, HAND OVER MOUTH, SPANKING M/F     blonde, Spring, Keri, anesthesia, PZV028, CF, chloroform redhead, tape, stalker, damsel in distress, handcuffs',
     price: '24.99',
     date: '2016-07-29 15:19:39',
     name: 'pzv028movie.mp4',
     image: 'pzv028coverad.jpg',
+    poster: 'pzv028coverad.jpg',
     displayorder: '2014',
     length: '01:27:00',
     resolution: '640x480',
@@ -4064,6 +4321,56 @@ export default [
     length: '00:29:42',
     resolution: '720x480',
     downloadLink: '6cc7f3930/6pwib3wk-ajarg3xm-xriyw7yh-cjj669yv',
+  },
+  {
+    id: '22872671',
+    c4s_buy: 'https://clips4sale.com/list/en/checkout/studio/325/clip/22872671',
+    c4s_prev: 'https://www.clips4sale.com/325/22872671',
+    pz_code: 'PZV056',
+    title: 'Five Fine Finds',
+    price: '34.99',
+    runtime: '116',
+    length: '01:56:00',
+    name: 'pzv056_1.mp4',
+    keywords:
+      ' BONDAGE, 18 & 19 YRS OLD, DOMINATION, CORPORAL PUNISHMENT, DAMSEL IN DISTRESS, discipline, spanking, struggling, crying, forced stripping, gagged,domination, pzv056, alex, jessie, leigh, natalia, alexis, bikini, suit, pov, nosehook, drooling, stockings, pantyhose, heels, suspension bondage',
+    description:
+      '5 hot young models round out this kick ass bitch-stripping drama. Alex, Jessie, Leigh, Natalia, and Alexis are stripped, bound, and m0lested. First, office-worker Alex struggles in stockings and then is roped-up while kneeling at the whipping post. Hair-pulling, cloth-gagging, face-slapping, bitch-stripping fun! Tears and begging won’t hurt... or help her predicament. Later, she is taught to correct her posture using... the usual techniques. Then, Jessie is a skinny little bikini-clad, blonde bimbo that gets a big, fat ballgag. Hog-roped and bitch-stripped, she gets intimidated and dominated. Rolling and moaning... struggling until she’s drooling and exhausted. Later, she is stripped of her suit, roped up tight, choked, slapped, and hung out to dry. Next is Leigh. Great hand-over-mouth, struggle-strip action. This brunette has a bad-ass body but needs to taught how to follow her Master’s simple directions. Natalia is a ballgagged brunette beauty that gets smacked and strapped. Bondage and discipline brings tiny tears to this doe-eyed bitch. Finally, Alexis is a tightly-tied and tormented piece of spanking meat that is having hard day... POV cropping, intimidation, a nosehook, and a big, blue ballgag brings her to drooling submission. Nice titties, nice attitude. Nice way to round out this one!',
+    poster: 'pzv056coverad.jpg',
+    preview: 'pzv056sprev.mp4',
+    downloadLink: 'fa8fccf00/zm72846x-ivf2qksy-exejvctk-pfsi77v4',
+  },
+  {
+    id: '22952847',
+    pz_code: 'PZV047',
+    title: 'Marie & Alex',
+    price: '34.99',
+    runtime: '120',
+    length: '02:00:00',
+    name: 'pzv047_1.mp4',
+    keywords:
+      'Teen, bondage, submissive, slave training, corporal punishment, crying, 18 yo, 19 yo, pzv047, marie, alex, strict discipline, skinny, tears, crotch rope, nipple clamps, arm binder, forced stripping, bitch strip, blonde, leather, rope',
+    description:
+      'If you are looking for intense and strict bondage with slave training and corporal discipline, then you’ve found it! Skinny Marie breaks down in tears at the intensity of the biting crotch rope, nipple clamps, and strict leather arm binder. Alex is stripped, cuffed, positioned, and roped in ways that leave every orifice open and available for deep and effective penetration. Two fine white 18-year-old teens. Topped and tied tight! Includes 20 minutes of previews of other Powershotz productions',
+    poster: 'pzv047coverad.jpg',
+    preview: '',
+    downloadLink: '7ab779000/jgudrq62-mikf8n39-fe64jqni-uenrsy7d',
+  },
+  {
+    id: '22995501',
+    pz_code: 'PZV050',
+    title: 'Spring Spank',
+    price: '34.99',
+    runtime: '127',
+    length: '02:07:00',
+    name: 'pzv050_1.mp4',
+    keywords:
+      'Teen, bondage, submissive, slave training, corporal punishment, 18 yo, 19 yo, pzv050, Spring, strict discipline, tears, crotch rope, duct tape, forced stripping, bitch strip, rope',
+    description:
+      'This little cutie face in her tight little tighty white pants and tight little workout top with her tiny little immature titties and tight little pussy gets a hand around those skinny little arms and a hand over that sweet little mouth that makes those skinny little legs kick while her skinny little body is bent back arched, butt slapped, dominated and bound up tight with rope to a pole. Now that cutie pie face can be slapped, mouth stuffed and duct taped to shut up those pretty little lips, get her down on her knees and bind those skinny little ankles up crossed and tight behind the pole with her wrists. When the cutie faced has begged with her innocent eyes and responded as instructed to the crop then her gag is pulled off so her innocent sweet voice can be heard begging and agreeing to obey.',
+    poster: 'pzv050coverad.jpg',
+    preview: 'pzv050_1min.mp4',
+    downloadLink: 'aa64eb340/7niqhzfk-7y2nznw9-sykmvymz-y7vwp4nx',
   },
   {
     id: '15517404',
@@ -4571,16 +4878,18 @@ export default [
   },
   {
     id: '14648187',
-    title: 'Powershotz Preview Video, Part 1',
+    title: 'Powershotz Preview Video II, Part 1',
     description:
       'Preview video clips covering 18 DVD titles. Kick ass stuff, over 20 super hot female subjugates. Captured, dominated, bound, spanked, whipped, slave trained, gagged, anal trained, vibrated to forced orgasm and penetrated in strict bondage! This is a composite of 18 preview videos, each about 3 minutes long with excerpts showing the scenes available on 18 DVD titles.',
     categoryid: '403',
+    pz_code: 'prev-02 pt1',
     keywords:
       'DOMINATION, WHIPPING, SPANKING M/F, 18 & 19 YRS OLD, ANAL     DOMINATION',
     price: '15.99',
     date: '2015-11-13 11:52:37',
     name: 'prev02-1.mp4',
     image: 'prev02coverad.jpg',
+    poster: 'prev02coverad.jpg',
     displayorder: '2064',
     length: '00:56:36',
     resolution: '640x480',
@@ -4638,16 +4947,18 @@ export default [
   },
   {
     id: '14485455',
-    title: 'Powershotz Video PREVIEW-01',
+    title: 'Powershotz Video Preview I',
     description:
       'Contains a compilation of 32, 3 minute long preview clips from Powershotz DVD titles PZV 108-127. PZV 69,77,78,88,90,95,105 and VL series 6,7,8,9,10,11.  Dozens of super hot models in Damsel in Distress, Nude Bondage, BDSM scenes, Spanking, Whipping, Riding Cropping, Dildo Domination, Ball Gag, Bit Gag, Rope, Leather Strap Rubber, Stocks, Vibrator, Forced Stripping, Over The Shoulder Carry, Spreader Bar, Steel Cuffs, Forced Orgasm Hog Ties, Deep Throat Training, Anal Training, Over The Stool Whipping, Foot Whipping Fantasy.  Awesome stuff!    Many first timers!  1 hour 43 minutes long!  ',
     categoryid: '4',
+    pz_code: 'prev-01',
     keywords:
       '18 & 19 YRS OLD, DOMINATION, SPANKING M/F, WHIPPING, GAGGING     ',
     price: '29.99',
     date: '2015-10-16 16:11:03',
     name: 'prev01movie.wmv',
     image: 'prev01coverad.jpg',
+    poster: 'prev01coverad.jpg',
     displayorder: '2068',
     length: '00:106:00',
     resolution: '720x480',
@@ -4993,7 +5304,7 @@ export default [
       "Poor pitiful Penni, held captive with duct tape to a chair, watching helplessly as her captor prepares for his task. He fondles and man handles her breasts shamelessly. He reaches below her blouse and hand over mouth muffles her. Her clothing is cut away as she squirts between the legs, her breathing accelerating rapidly, eyes darting to follow his hands as she anticipates what diabolical tool he will next apply to her hardening nipples. He cat collars her with neck restriction. The duct tape gag causes her nostrils to flare and drops her into a state of panic... now the skirt and panties are removed... his hands are invasive as he tells her directly of his plans for the use of her body... when he lets her feet free to spread her legs wide... she's afraid he will feel the wetness between her legs. He has a smelly rag... she knows what it is for... he wants her out... she can't get her arms loose... she must breath in... her eyes are like saucerplates One of the best damn clips ever. This clip is part of Powershotz video VL045. If you enjoyed this clip, the full length video is available in DVD format on Penni's page at Powershotz. com",
     categoryid: '4',
     keywords:
-      'FORCED STRIPPING, GAGGING, WHIPPING, 18 & 19 YRS OLD, DOMINATION     Poor Pitiful Penni, penni, cf, duct tape',
+      'FORCED STRIPPING, GAGGING, WHIPPING, 18 & 19 YRS OLD, DOMINATION     Poor Pitiful Penni, penni, cf, chloroform duct tape',
     price: '16.99',
     date: '2015-05-18 11:23:17',
     name: 'pennichair.wmv',
@@ -5277,7 +5588,7 @@ export default [
       'Hot escapee is run down in the lawn and caged for safe keeping. Then she is put over the shoulder and carried upstairs to bed to face punishment for dressing so provocatively. She is carried in anesthetized, blind folded and cleave gagged and thrown down on the bed. Then she is closely looked over before being laid out spread eagle on her back in chains. She wakes up to discover her predicament but is forced to submit to the fact that she is helplessly bound and can do nothing but squeal when that vibrating dildo works it magic on her sensitive clit. Considering the fact that she could have been whipped and ass fucked she is getting off easy. Get it? Getting off easy. Poor dear. And only 19 at that. Best to learn these lessons while you are young. See Selena at the Powershotz website for her virgin anal training scene.',
     categoryid: '105',
     keywords:
-      '18 & 19 YRS OLD, ESCAPING, DILDOS, BLINDFOLDS, GAGGING     Captured Caged Carried an, selena, cage, outdoor, over the shoulder, shoulder carry, punishment, cf, cleave gag, spread eagle, chains, thrown down, bondage, vibrator, corporal punishment',
+      '18 & 19 YRS OLD, ESCAPING, DILDOS, BLINDFOLDS, GAGGING     Captured Caged Carried an, selena, cage, outdoor, over the shoulder, shoulder carry, punishment, cf, chloroform cleave gag, spread eagle, chains, thrown down, bondage, vibrator, corporal punishment',
     price: '19.99',
     date: '2015-01-29 17:07:42',
     name: 'selenacapturecagechloro.mp4',
@@ -5721,7 +6032,7 @@ export default [
       "Gorgeous hottie preps herself for a party. Looking herself over and thinking about how hard she's going to make all the boys. She struts her hot stuff to the car and hops in. Only to be hopped on by the horny boy who's been watching and waiting. It takes a few seconds for her to fall under his cloth over mouth charms. Great leg kicking! Then she gets felt up, looked over, gagged, woken up and taken for a hot ride. One of the hottest damsel in distress scenes ever! This Heather Silk babe is a keeper!",
     categoryid: '623',
     keywords:
-      'BONDAGE, DOMINATION, BALLGAGGED, HAND OVER MOUTH, STRUGGLING     Hot Ride, heather, heather silk, heathersilk, cf',
+      'BONDAGE, DOMINATION, BALLGAGGED, HAND OVER MOUTH, STRUGGLING     Hot Ride, heather, heather silk, heathersilk, cf chloroform',
     price: '14.99',
     date: '2014-09-25 17:56:34',
     name: 'heatherride.wmv',
@@ -5885,7 +6196,7 @@ export default [
       "Napping beauty is awakened with a hand over mouth wide eyed look of wonder that sends her off into dream land where she can be inspected in detail without stress. Nice tight pussy and ass, nice legs, cute milf look. A real hottie. She is duct taped and awakened from slumber again in wide eyed wonder bent over the couch, forced to kneel and face up to her captor in submissive slave posture. She'll make a fine fuck.",
     categoryid: '4',
     keywords:
-      'REST FETISH, DUCT TAPE FETISH, HAND OVER MOUTH, DOMINATION, MILF     Take Down  Duct Tape and, alanna, cf, slave training, blonde, cheerleader',
+      'REST FETISH, DUCT TAPE FETISH, HAND OVER MOUTH, DOMINATION, MILF     Take Down  Duct Tape and, alanna, cf, chloroform slave training, blonde, cheerleader',
     price: '8.99',
     date: '2014-08-16 14:28:46',
     name: 'alannacformduct.wmv',
@@ -6512,7 +6823,7 @@ export default [
       "When the boyfriend wants to dump the old girl he calls her to say he's on his way home. She gets all horny and dresses herself up to prepare for some great coming home sex. Only when she answers the knock on the door, it isn't him. Though he is horny. He runs her down in the bedroom. Steel wires the defiant bitch, over the shoulder carries her to the barn and prepares to go hard on the honey. She makes a run for it, he runs her down and puts her out. Then drags her back to the barn and hangs her upside down. He hoists the head to the proper elevation, and drives that cutie face down on dick for a squirt of protein supplement to the back of her throat. She'll sell quickly once placed on the market.",
     categoryid: '403',
     keywords:
-      'ESCAPING, SUBMISSIVE / SLAVE TRAINING, SHOULDER CARRY, DOMINATION, SUSPENSION     Boyfriend Tricked Her, jade, powershotz, steel wire, over the shoulder, barn, outdoor, cf, inversion',
+      'ESCAPING, SUBMISSIVE / SLAVE TRAINING, SHOULDER CARRY, DOMINATION, SUSPENSION     Boyfriend Tricked Her, jade, powershotz, steel wire, over the shoulder, barn, outdoor, cf, chloroform inversion',
     price: '20.99',
     date: '2014-04-30 15:04:33',
     name: 'jadetricked.wmv',
@@ -7242,7 +7553,7 @@ export default [
     id: '10160767',
     title: 'Bitch on a Block Preview',
     description:
-      "Preview video from Powershotz VL073, \"Bitch on a Block.\" Features Black Slave Girl Kitty. Come snooping around looking for something to steal when she gets abscounded herself. Now she gets to find out what it's like to be a stolen piece of property. Cuffed, Stripped, Gagged, Clipped, Taped, Whipped, Hog Strapped, Elbow Cinched, Ass Lubed and Dildo'd. She may not be able to go but at least she'll get to come. Includes cameo appearances showing an orgasmic interlude with captive cheerleader Bobbi being taken in steel cuffed wrist to ankle blow cock and doggie fuck. Then Dani gets a back arching tit whipping after being cut bare ass naked bound to the arch as punishment for wearing sexually provocative clothing with her thumb out. The bone bit will give her something to bite on until she can curl up in the fetal position with that thumb in her mouth when this is over",
+      "Preview video from Powershotz VL073, \"Bitch on a Block.\" Features Black Slave Girl Kitty. Come snooping around looking for something to steal when she gets abducted herself. Now she gets to find out what it's like to be a stolen piece of property. Cuffed, Stripped, Gagged, Clipped, Taped, Whipped, Hog Strapped, Elbow Cinched, Ass Lubed and Dildo'd. She may not be able to go but at least she'll get to come. Includes cameo appearances showing an orgasmic interlude with captive cheerleader Bobbi being taken in steel cuffed wrist to ankle blow cock and doggie fuck. Then Dani gets a back arching tit whipping after being cut bare ass naked bound to the arch as punishment for wearing sexually provocative clothing with her thumb out. The bone bit will give her something to bite on until she can curl up in the fetal position with that thumb in her mouth when this is over",
     categoryid: '4',
     keywords:
       'EBONY, SPANKING, SUBMISSIVE / SLAVE TRAINING, CHEERLEADERS, FORCED STRIPPING     Bitch on a Block, Kitty, Bobbi, Dani',
@@ -8095,7 +8406,7 @@ export default [
       'Napping Juliette is awakened briefly in a panic attack but is quickly sent to lala land. There she can be stripped nude and inspected by a horny pervert who tape wraps her wrists and ankles, duct tapes that pretty little mouth, nipple clamps the bitch,then on with the ball gag to prevent biting and collect up drool to be used as lubricant later.',
     categoryid: '31',
     keywords:
-      'REST FETISH, NIPPLE PLAY, FORCED STRIPPING, SWALLOWING/DROOLING, DUCT TAPE FETISH     Where Far Out There, juliette, ballgag, panic, cf, nipple clamps',
+      'REST FETISH, NIPPLE PLAY, FORCED STRIPPING, SWALLOWING/DROOLING, DUCT TAPE FETISH     Where Far Out There, juliette, ballgag, panic, cf, chloroform nipple clamps',
     price: '14.99',
     date: '2013-07-26 15:45:09',
     name: 'juliettechloro.wmv',
@@ -8914,7 +9225,7 @@ export default [
       "When the third room mate returns to find her two friends hog tied and struggling on the bed, she grabs her cell phone. Just as his arm comes around from behind and helps her make that call. Only it isn't a call to 911. It's a muffled call through a cloth held firmly over that hot little mouth. Her boobs show off nicely in back arching distress. Her ass tits and face show up real nice in a strict hog tie. The three bound bikini babes will make great sex toys. Leave two gagged while you make the third squeal.",
     categoryid: '4',
     keywords:
-      'BIKINI, DAMSEL IN DISTRESS, HAND OVER MOUTH, STRUGGLING, DOMINATION     Third Party, emily, jessy, tiffani, hog tie, hogtie, cf',
+      'BIKINI, DAMSEL IN DISTRESS, HAND OVER MOUTH, STRUGGLING, DOMINATION     Third Party, emily, jessy, tiffani, hog tie, hogtie, cf chloroform',
     price: '12.99',
     date: '2013-03-16 14:10:31',
     name: 'emilyjoin.wmv',
@@ -10610,7 +10921,7 @@ export default [
       'Napping milf is taken at the couch with a rag over mouth held firmly while she kicks those hot legs until they go limp. Then he over the shoulder hustles the bitch to his lair where he ropes her to the post, crotch ropes, neck ropes and head harness ball gags his prize. Once awakened she discovers that she is nude and bound captive. Her excitement level increases with his hand between her legs. But when the nipple clamps pinch those perky feeders her excitement level peaks. She is left to exhaust some of that energy before being taken down from the post and off to bed.',
     categoryid: '4',
     keywords:
-      'MILF, BALLGAGGED, REST FETISH, NIPPLE PLAY, SHOULDER CARRY     Taken Out and Topped, toni, rag over mouth, cf, kicking, limp, neck rope, head harness, nude, slave training, blonde',
+      'MILF, BALLGAGGED, REST FETISH, NIPPLE PLAY, SHOULDER CARRY     Taken Out and Topped, toni, rag over mouth, chloroform cf, kicking, limp, neck rope, head harness, nude, slave training, blonde',
     price: '19.99',
     date: '2012-06-12 14:48:56',
     name: 'tonitakeout.wmv',
@@ -11552,7 +11863,7 @@ export default [
     id: '5336191',
     title: 'Dog Walker',
     description:
-      'Two young nude slave girls are instructed in *** behavior as they are slowly *** walked in a circle and punished for improper posture or lack of respect for the Master. They are made to make *** sounds and cropped or spanked at the first sign of laughing or failure to respond. These two fine breeding mutts will produce attractive offspring when bred with the proper stud.',
+      'Two young nude slave girls are instructed in dog behavior as they are slowly dog walked in a circle and punished for improper posture or lack of respect for the Master. They are made to make dog sounds and cropped or spanked at the first sign of laughing or failure to respond. These two fine breeding mutts will produce attractive offspring when bred with the proper stud.',
     categoryid: '31',
     keywords:
       'SUBMISSIVE / SLAVE TRAINING, SPANKING, BLONDES, DAMSEL IN DISTRESS, DOMINATION     Dog Walker, aubry, tatum, aubtat, punishment, posture',
@@ -11685,7 +11996,7 @@ export default [
     id: '5212779',
     title: 'Ready to Party Preview',
     description:
-      "Preview video from powershotz VL067, \"Ready to Party.\" In from out of town to attend a costume party, Ashley chooses an old cheerleader outfit to wear. It's a bit tight but still fits and will show those old boyfriends what they missed out on. Only problem is she won't be going to the party. The old boyfriend turned out to be the old boy at the hotel that saw her walking down the hallway in that too short skirt. He takes matters into his own hands and takes Ashley's head down on cock. But not until he's ab-ducted, hog tied, spanked, gagged and butt plugged the bitch to prepare that ass for cock. He zip ties her to the floor rails and hauls that hot ass into the country where those haze me panties can be taken to the floor and that fine muscular ass set to rippling with a hard ass paddling. Strict hog tie and tape gag and more crotch rope to snug in that butt plug get her fine ass ready to party hard.",
+      "Preview video from powershotz VL067, \"Ready to Party.\" In from out of town to attend a costume party, Ashley chooses an old cheerleader outfit to wear. It's a bit tight but still fits and will show those old boyfriends what they missed out on. Only problem is she won't be going to the party. The old boyfriend turned out to be the old boy at the hotel that saw her walking down the hallway in that too short skirt. He takes matters into his own hands and takes Ashley's head down on cock. But not until he's abducted, hog tied, spanked, gagged and butt plugged the bitch to prepare that ass for cock. He zip ties her to the floor rails and hauls that hot ass into the country where those haze me panties can be taken to the floor and that fine muscular ass set to rippling with a hard ass paddling. Strict hog tie and tape gag and more crotch rope to snug in that butt plug get her fine ass ready to party hard.",
     categoryid: '4',
     keywords:
       'CHEERLEADERS, BUTT PLUG, OTK SPANKING, DAMSEL IN DISTRESS, GAGGED WOMEN     Ready to Party, Ashley, VL067',
@@ -12011,7 +12322,7 @@ export default [
     id: '4857861',
     title: 'Hot Wet Bitches Preview',
     description:
-      'Preview video from Powershotz VL065 "Hot Wet Bitches." Bondage first timers Ashley and Aubrie star in this bathing beauty ab-duction extravaganza. First Ashley, she runs the tub and goes upstairs to change and lay down to wait for the tub to fill. Unfortunately a watcher was watching that hot tight body while she was sitting on the deck. Now he wants her setting on his cock. A ch-loro rag, a little leg kicking kink and an over the shoulder later and she is bound spread eagle face up on his table waiting for that powerful buzz. After which she gets roped up, panel gagged and hog tied. Then led to the training bench for an ass opening with the rod before a mouth/pussy/ass reaming to conclusion. Then Aubrie, 18 year old glamour babe lays naked on the deck in the sun. Watched by a stalker... until she goes under the water in the tub. Then when she comes up... he\'s on her. Frantic kicking and splashing is the prelude that lets him know she\'ll be a fine sex slave once dominated into submission. These fine healthy young buns will need another clean up when they are through with this rope romp adventure.',
+      'Preview video from Powershotz VL065 "Hot Wet Bitches." Bondage first timers Ashley and Aubrie star in this bathing beauty abduction extravaganza. First Ashley, she runs the tub and goes upstairs to change and lay down to wait for the tub to fill. Unfortunately a watcher was watching that hot tight body while she was sitting on the deck. Now he wants her setting on his cock. A ch-loro rag, a little leg kicking kink and an over the shoulder later and she is bound spread eagle face up on his table waiting for that powerful buzz. After which she gets roped up, panel gagged and hog tied. Then led to the training bench for an ass opening with the rod before a mouth/pussy/ass reaming to conclusion. Then Aubrie, 18 year old glamour babe lays naked on the deck in the sun. Watched by a stalker... until she goes under the water in the tub. Then when she comes up... he\'s on her. Frantic kicking and splashing is the prelude that lets him know she\'ll be a fine sex slave once dominated into submission. These fine healthy young buns will need another clean up when they are through with this rope romp adventure.',
     categoryid: '31',
     keywords:
       'BONDAGE, FORCED ORGASMS, KICKING, SHOULDER CARRY     Hot Wet Bitches, VL065, Ashley, Aubrie, bathtub, vibrator, hog tie, glass dildo, panel gag, domination, submission',
@@ -12645,7 +12956,7 @@ export default [
     id: '4499406',
     title: 'Dress Code Enforcement Bureau Preview',
     description:
-      'Preview video from Powershotz VL061 "Dress Code Enforcement Bureau." The mission of the Dresscode enforcement bureau is to prevent the wearing of inappropriate clothing that could lead to unwanted lust on the part of the male population. Casey is given a stern reminder of the importance of appropriate attire when she flaunts her braless mini in the hotel hallway. A duct tape ab-duction with pillowcase over the head, then taken off to be hung up, whipped, bitch stripped and over the knee spanked. She thinks that begging for cock will help but it only gets her spreader barred and cocked up the ass in the end. Then cute little Daisy flaunts a little too much belly and those jeans are just too tight. They\'ll come off under the blade of a sharp object so the little cock sucker can be whipped hard on her bare tits, belly and ass. Humiliating and embarrassing wetness checks remind her of her vulnerability and the need to dress appropriately in the future. Its a tough job regulating women\'s clothing. Pity so many girls require it these days.',
+      'Preview video from Powershotz VL061 "Dress Code Enforcement Bureau." The mission of the Dresscode enforcement bureau is to prevent the wearing of inappropriate clothing that could lead to unwanted lust on the part of the male population. Casey is given a stern reminder of the importance of appropriate attire when she flaunts her braless mini in the hotel hallway. A duct tape abduction with pillowcase over the head, then taken off to be hung up, whipped, bitch stripped and over the knee spanked. She thinks that begging for cock will help but it only gets her spreader barred and cocked up the ass in the end. Then cute little Daisy flaunts a little too much belly and those jeans are just too tight. They\'ll come off under the blade of a sharp object so the little cock sucker can be whipped hard on her bare tits, belly and ass. Humiliating and embarrassing wetness checks remind her of her vulnerability and the need to dress appropriately in the future. Its a tough job regulating women\'s clothing. Pity so many girls require it these days.',
     categoryid: '403',
     keywords:
       'DUCT TAPE FETISH, OTK SPANKING, WHIPPING, HUMILIATION, FORCED STRIPPING     Dress Code Enforcement Bu, Casey, Daisy, VL061',
@@ -12832,7 +13143,7 @@ export default [
     id: '4407864',
     title: 'Exchange Traded Fun Preview',
     description:
-      'Preview clip from Powershotz VL060, "Exchange Traded Fun." Hitch hiking Maria is seen by a man with a debt to pay. Time to get her some needed discipline and take care of that debt at the same time. Her ride takes her off course and by the time she figures it out she\'s been ab-ducted, zip tied, bitch stripped and whipped over the horse tits and ass, hog chained, hog gagged on cock, ass lubed, butt plugged, block gagged, crotch roped and hammered like a hoe by exchange trader hard on. She is going to be sore for a few days but the experince will set her on the straight and narrow right quick.',
+      'Preview clip from Powershotz VL060, "Exchange Traded Fun." Hitch hiking Maria is seen by a man with a debt to pay. Time to get her some needed discipline and take care of that debt at the same time. Her ride takes her off course and by the time she figures it out she\'s been abducted, zip tied, bitch stripped and whipped over the horse tits and ass, hog chained, hog gagged on cock, ass lubed, butt plugged, block gagged, crotch roped and hammered like a hoe by exchange trader hard on. She is going to be sore for a few days but the experince will set her on the straight and narrow right quick.',
     categoryid: '403',
     keywords:
       'FORCED STRIPPING, BUTT PLUG, SPANKING, EBONY, GAGGING     Exchange Traded Fun, VL060, Maria',
@@ -12938,7 +13249,7 @@ export default [
       '3 Minute preview video from Powershotz VL059 "Black & White." Fine black farm girl is given a helping hand by a horny black breeding stud when she gets caught in the barn. A little duct tape and rigging and she\'s ready to slide that mouth down on big black dick until he gets hard and horny enough to slip that dick hard up that well whipped ass. Then white ass Wendy is taken while reading and chemically seduced before a duct taping and an over the shoulder to the floor mattress where she is spread wide, gagged, vibed and choke holded into submissive servitude. No prejudice here...they cum in all colors, shapes and sounds. Get it before the G man stops you!',
     categoryid: '403',
     keywords:
-      'EBONY, DUCT TAPE FETISH, CUM IN MOUTH, FORCED ORGASMS, SUSPENSION     Black & White, Maria, Wendy, blowjob, shoulder carry, spanking, CF, gag reflex',
+      'EBONY, DUCT TAPE FETISH, CUM IN MOUTH, FORCED ORGASMS, SUSPENSION     Black & White, Maria, Wendy, blowjob, shoulder carry, spanking, CF, chloroform gag reflex',
     price: '3.99',
     date: '2011-04-11 20:38:23',
     name: 'vl059preview.wmv',
@@ -13751,7 +14062,7 @@ export default [
     id: '3919480',
     title: 'Rope and Ride',
     description:
-      "Attractive young female is ab-ducted in the garage as she unlocks her door. Her ride will be free of charge. Unfortunatly she'll be held down and roped wrist and ankles with a big spongeball stuffed and held in that pretty little mouth with a wire tie. Her struggle is over after a few minutes of road time. Then its over the shoulder to be taken inside... undoubtedly to be ridden like a horse.",
+      "Attractive young female is abducted in the garage as she unlocks her door. Her ride will be free of charge. Unfortunatly she'll be held down and roped wrist and ankles with a big spongeball stuffed and held in that pretty little mouth with a wire tie. Her struggle is over after a few minutes of road time. Then its over the shoulder to be taken inside... undoubtedly to be ridden like a horse.",
     categoryid: '31',
     keywords:
       'BONDAGE, MOUTH STUFFING, DAMSEL IN DISTRESS, STRUGGLING, SHOULDER CARRY     Rope and Ride, Angelica',
@@ -13819,10 +14130,10 @@ export default [
     id: '3878718',
     title: 'First Time Last Time Preview',
     description:
-      "Preview video from Powershotz PZV135 \"First Time Last Time.\" August, Kelly, Kristina and Lynn star in this cform, ab-duction, bondage fantasy flick. These gals never did bondage and never will again. First time did the trick. When you've been bitch stripped, butt slapped, dominated hard, over the shouldered, whipped, gagged, fondled and in Kristina's case deep throated like a whore while cuffed on the couch you tend to avoid a repeat. Big fat ball and strict rope hogging convince Lynn she'll never do it again and Kelly's throbbing continues long after the vibrator throbbing applied to her clit. She isn't coming back. It's best they got out before they got in over their head... giving head.",
+      "Preview video from Powershotz PZV135 \"First Time Last Time.\" August, Kelly, Kristina and Lynn star in this cform, abduction, bondage fantasy flick. These gals never did bondage and never will again. First time did the trick. When you've been bitch stripped, butt slapped, dominated hard, over the shouldered, whipped, gagged, fondled and in Kristina's case deep throated like a whore while cuffed on the couch you tend to avoid a repeat. Big fat ball and strict rope hogging convince Lynn she'll never do it again and Kelly's throbbing continues long after the vibrator throbbing applied to her clit. She isn't coming back. It's best they got out before they got in over their head... giving head.",
     categoryid: '4',
     keywords:
-      'FORCED ORGASMS, SHOULDER CARRY, FORCED STRIPPING, WHIPPING, ASS SMACKING     First Time Last Time, August, Kelly, Kristina, Lynn, cf, gagging, deep throat, amateur, bikini',
+      'FORCED ORGASMS, SHOULDER CARRY, FORCED STRIPPING, WHIPPING, ASS SMACKING     First Time Last Time, August, Kelly, Kristina, Lynn, cf, chloroform gagging, deep throat, amateur, bikini',
     price: '3.99',
     date: '2010-11-01 12:56:02',
     name: 'pzv135.wmv',
@@ -13839,7 +14150,7 @@ export default [
       '18 year old hottie is relieved of her party dress with the help of a solvent soaked rag that when held over her mouth causes eyeball rolling and limp limbs. She is bound with her arms spread wide on her back and her legs pulled up and over the top to be bound to her wrists. Leaving that poor virgin anus staring straight up and puckering for cock. When she wakes up she immediately starts begging. Poor girl.',
     categoryid: '31',
     keywords:
-      'BONDAGE, STRUGGLING, LIMP FETISH, HIGH HEELS, DAMSEL IN DISTRESS     Dressed Down, Alex, cf',
+      'BONDAGE, STRUGGLING, LIMP FETISH, HIGH HEELS, DAMSEL IN DISTRESS     Dressed Down, Alex, chloroform cf',
     price: '14.99',
     date: '2010-10-28 01:59:00',
     name: 'alexdressdown.wmv',
@@ -13924,7 +14235,7 @@ export default [
       'Out-cold coed carried in and tossed on the mattress. She wakes up during the removal of the duct tape. As she recovers her senses... she realizes she is being bound and starts to struggle. This causes her captor to get her under control with hand over mouth, rope around neck, and slap on that fine ass. She is looked over and stripped, her bare ass forced into the air and spread. Her arms are bound and she is laid on her back. Then a pillow is produced. Instead of putting it under her head... he holds it over her head... and down. Muffled squeals and desperately kicking bare legs are the result. Hot!',
     categoryid: '4',
     keywords:
-      'SHOULDER CARRY, HAND OVER MOUTH, DUCT TAPE FETISH, ASS SMACKING, STRUGGLING     Pillow Topped, Kristina, cf, forced stripping',
+      'SHOULDER CARRY, HAND OVER MOUTH, DUCT TAPE FETISH, ASS SMACKING, STRUGGLING  chloroform   Pillow Topped, Kristina, cf, forced stripping',
     price: '12.99',
     date: '2010-10-14 16:51:55',
     name: 'kristinatiedown.wmv',
@@ -13941,7 +14252,7 @@ export default [
       'Hot little coed thought she heard something, but she was too absorbed by her reading to realize that a man was approaching with a cloth absorbed in fluid. A fluid that when inhaled will cause her eyeballs to roll in their sockets... after a little kicking and squealing that is. Once fast resting he checks out that fine college body and hot ass. Duct tapes and over the shoulders his prize... then off to bed she goes for some more penetrating lab work.',
     categoryid: '4',
     keywords:
-      'DAMSEL IN DISTRESS, SHOULDER CARRY, STRUGGLING, DOMINATION, DUCT TAPE FETISH     Coed to Copulate, Wendy, cf, limp girl',
+      'DAMSEL IN DISTRESS, SHOULDER CARRY, STRUGGLING, DOMINATION, DUCT TAPE FETISH     Coed to Copulate, Wendy, cf, chloroform limp girl',
     price: '7.99',
     date: '2010-10-13 14:09:43',
     name: 'wendyreader.wmv',
@@ -14019,24 +14330,6 @@ export default [
     resolution: '720x480',
     banned: true,
     downloadLink: '6bd292910/bnbsrxia-7i6ndx3z-gf35ypb9-r5aw2c6w',
-  },
-  {
-    id: '19420735',
-    c4s_buy: 'https://clips4sale.com/list/en/checkout/studio/325/clip/19420735',
-    c4s_prev: 'https://www.clips4sale.com/325/19420735',
-    pz_code: 'PZV134',
-    title: 'PZV134 Bitch Hunted',
-    price: '34.99',
-    name: 'pzv134_1.mp4',
-    length: '01:53:00',
-    keywords:
-      'FORCED ORGASMS \r\nRelated Categories: ESCAPING, DUCT TAPE FETISH, WHIPPING, CORPORAL PUNISHMENT, 18 & 19 YRS OLD. \r\nKeywords: bdsm, damsel in distress, domination, forced stripping, pzv134, hogtie, ballgagged, play, ass whipping, powershotz, kristina, discipline, capture, captive, play. ',
-    description:
-      "Kristina flaunts her hot body while working in the yard and gets the attention of the bitch hunter.  When her day is over... she'll be run down, duct taped, tarp dragged and carried into his lair where she will be disciplined for her misbehavior.  Clothing cut away, ass and pussy oiled up, hog tied and ball gagged, whipped nude on the tits and ass and finally forced to orgasm in back arching spread eagle bondage distress.  Super fine body on this breedin' squeelin' bitchin' hot bitch.",
-    poster: 'pzv134coverad.jpg',
-    preview: null,
-    banned: true,
-    downloadLink: 'cc8aa4760/upchdfe4-vxybm75p-tbut6dwp-q9qz9siy',
   },
   {
     id: '3796362',
@@ -14383,7 +14676,7 @@ export default [
     id: '3669707',
     title: 'Little Darlings Preview',
     description:
-      "Preview video of powershotz VL052 \"Little Darlings.\" Delila Darling and little darling Penni star in this ab-duction, forced orgasm, slave training drama. Delila needs a modeling portfolio if she wants to make money. The photographer was hoping she'd agree to pose doing some adult work in exchange for the pics. Good thing his assistant took care of her car while they were shooting. No way was this hot babe going to agree on her own. Oh well... she gets paid for the gig after getting a good shafting in all three of her cleanouts. Excellent model! Then on to Penni... already bound on the mattress waiting for her next exciting challenge. With her knees rope ratched out and her mouth bit gag ratched open she's available for oral or genital training without resistance... other than the strength of her internal muscles that is. Good thing she plays a lot of soccer... she may be able to squeeze tight enough to keep him out... this one will take well to rough sex once she's broke.",
+      "Preview video of powershotz VL052 \"Little Darlings.\" Delila Darling and little darling Penni star in this abduction, forced orgasm, slave training drama. Delila needs a modeling portfolio if she wants to make money. The photographer was hoping she'd agree to pose doing some adult work in exchange for the pics. Good thing his assistant took care of her car while they were shooting. No way was this hot babe going to agree on her own. Oh well... she gets paid for the gig after getting a good shafting in all three of her cleanouts. Excellent model! Then on to Penni... already bound on the mattress waiting for her next exciting challenge. With her knees rope ratched out and her mouth bit gag ratched open she's available for oral or genital training without resistance... other than the strength of her internal muscles that is. Good thing she plays a lot of soccer... she may be able to squeeze tight enough to keep him out... this one will take well to rough sex once she's broke.",
     categoryid: '4',
     keywords:
       '18 & 19 YRS OLD, GAGGED WOMEN, FORCED ORGASMS, BONDAGE SEX, SUBMISSIVE / SLAVE TRAINING     Little Darlings, VL052, Delila, Penni',
@@ -14659,7 +14952,7 @@ export default [
       'Stunning sun bunny lays in the sun listening to her ipod, making it easy for the masked intruder to sneak up on the little hottie and take her out with a little cloth over mouth seduction therapy. Once limp she is carried inside and hog cuffed on the couch. She wakes up the hard way... hand between her legs, hand over her neck, mouth wide open and nobody to hear. Her panic leads to wetness and arousal as his persistent domination forces her to beg to suck dick. He slaps her ass and fondles her at will. Gets her head up, gets his cock out... and throats that pretty little mouth while she gags and vexes until he spews seminal fluid down her throat.',
     categoryid: '403',
     keywords:
-      'BONDAGE, GAGGING, STRUGGLING, CUM IN MOUTH, DOMINATION     Stunning Sunner, Kristine, cf',
+      'BONDAGE, GAGGING, STRUGGLING, CUM IN MOUTH, DOMINATION     Stunning Sunner, Kristine, cf chloroform',
     price: '14.99',
     date: '2010-06-17 15:08:42',
     name: 'kristinesunner.wmv',
@@ -14761,7 +15054,7 @@ export default [
       'Preview Video from VL048 "Breedin Farm" - A place where captive breeders are prepped for quick sale. Starring Cherie and Pixie, two capable breeders. First the capture, home invasion and c-form to prevent injury during transport. Though they kick like mules they are easily taken. Then back at the Farm... bound, stripped, whipped to inforce discipline, inspected, subjugated, ass rodded to prepare them for anal. Pixie is hung up nude and whipped, flogged at the whipping post and tit whipped. Cherie gets a slow sensual stripping, then a strict hog tie and ball gag with nose hook until she begs for cock. Once broke these breeders will make fine house servents and care givers for the youngins not to mention their obvious potential as cock massagers. Keep one in the kitchen and one in the closet for those stressful days.',
     categoryid: '1322',
     keywords:
-      'BONDAGE, ANAL, FORCED STRIPPING, BREEDING, WHIPPING     breedin farm, breeding farm, vl048, cherie, pixie, domination, cf, inspection, ass rod, hog tie, ball gag, nose hook, begging',
+      'BONDAGE, ANAL, FORCED STRIPPING, BREEDING, WHIPPING     breedin farm, breeding farm, vl048, cherie, pixie, domination, cf, chloroform inspection, ass rod, hog tie, ball gag, nose hook, begging',
     price: '3.99',
     date: '2010-05-23 11:48:55',
     name: 'vl048.wmv',
@@ -14943,7 +15236,7 @@ export default [
     id: '3345687',
     title: 'X Frame Orgasm',
     description:
-      "Prom girl is steel cuffed to the X Frame where her gorgeous gold dress is ripped off. Leaving her pale white naked skin exposed and bristling. The cleave gag holds the soaked mouth stuffing in her mouth as she swings freely on the X. Then he applies the powerful buzz to her clitoris and suddenly its all about vocalization as she forgets all about her predicament. He's moving it just right and she can't help but tremble as her neurons light up. Maybe this ab******n won't be so bad after all.",
+      "Prom girl is steel cuffed to the X Frame where her gorgeous gold dress is ripped off. Leaving her pale white naked skin exposed and bristling. The cleave gag holds the soaked mouth stuffing in her mouth as she swings freely on the X. Then he applies the powerful buzz to her clitoris and suddenly its all about vocalization as she forgets all about her predicament. He's moving it just right and she can't help but tremble as her neurons light up. Maybe this abduction won't be so bad after all.",
     categoryid: '105',
     keywords:
       '18 & 19 YRS OLD, VIBRATOR, BONDAGE, DAMSEL IN DISTRESS, GAGGED WOMEN     18 & 19 YRS OLD, X Frame Orgasm, Delila',
@@ -15083,7 +15376,7 @@ export default [
       'She prepares for prom in a stunning gold full length dress with thin strap high heels on bare white legs. She cruises to school, freshens up her makeup... and fails to notice the van that has pulled up next to her. As she exits her car she is stunned to meet a stranger wearing a hood. The stun so intense that it takes her right out like a light bulb on a switch. He loads his prom queen into the van, steel cuffs her wrists and leg irons her ankles, then gags that pretty little mouth. He drives off with his virgin prize secured in the back.',
     categoryid: '4',
     keywords:
-      '18 & 19 YRS OLD, STRUGGLING, HANDCUFFS, DOMINATION, DAMSEL IN DISTRESS     Stunning Prom Girl, Delila, cf, dressing',
+      '18 & 19 YRS OLD, STRUGGLING, HANDCUFFS, DOMINATION, DAMSEL IN DISTRESS chloroform    Stunning Prom Girl, Delila, cf, dressing',
     price: '8.99',
     date: '2010-03-31 19:10:54',
     name: 'delilastun.wmv',
@@ -15185,7 +15478,7 @@ export default [
       "Fine tight white ass is carried in over the shoulder of her captor. He lays her out on the table, looks over that gorgeous face, lays her face down and hog cuffs the cockette. Once hogged the little piggie is awakened to find herself in steel cuff bondage. He ball gags that bitchy mouth and nose hooks the defiant bitch. Then rolls and fondles, feeling up that body. The panties come down and the ass cheeks spread to reveal wet pussy and tight ass. She's been given the rules. The ball gag can come out at any time. All she needs to do is beg for sex.",
     categoryid: '4',
     keywords:
-      'SHOULDER CARRY, DOMINATION, HANDCUFFS, SUBMISSIVE / SLAVE TRAINING, BALLGAGGED     Bringing Home the Bacon, Delila, nose hook, cf',
+      'SHOULDER CARRY, DOMINATION, HANDCUFFS, SUBMISSIVE / SLAVE TRAINING, BALLGAGGED     Bringing Home the Bacon, Delila, nose hook, cf chloroform',
     price: '11.99',
     date: '2010-03-13 16:11:14',
     name: 'delilahogcuff.wmv',
@@ -15304,7 +15597,7 @@ export default [
       "Captive cock sucker is wrestled down and cuffed arms overhead to the headboard. The cuffs come off the ankles so the panties can come down. Then the legs are pulled up over the head of that cute ball gagged face and leg ironed to the headboard so the ass and pussy can be spread and inspected. Finally the female is put to slumber with a rag held firmly over her mouth. Frantic kicking and struggling and huge eyes contort her features until she falls limp. Then her angelic face can be studied in detail. The bitch is thrown over the shoulder and carried off to her captors lair where she'll be penetration assisted to orgasm.",
     categoryid: '4',
     keywords:
-      'WRESTLING, HANDCUFF AND SHACKLE FETISH, STRUGGLING, SHOULDER CARRY, BALLGAGGED     Legs Up Over the Shoulder, Delila, cf',
+      'WRESTLING, HANDCUFF AND SHACKLE FETISH, STRUGGLING, SHOULDER CARRY, BALLGAGGED     Legs Up Over the Shoulder, Delila, cf chloroform',
     price: '12.99',
     date: '2010-02-26 18:19:44',
     name: 'delilacformcarry.wmv',
@@ -15335,10 +15628,10 @@ export default [
     id: '3196779',
     title: 'We Three Queens Preview',
     description:
-      "Preview video from Powershotz VL045. Three gorgeous under 20 hotties. Aubry, Tatum, and Penni, star in this ab-duction fantasy subterfuge flick. First Aubry and Tatum break down... their car that is. They end up calling for help, but it's hard to do with that smelly rag over your mouth. Once zipped up and carried inside the building they are safe and warm, strung up in suspension bondage, vibrated to orgasm, anal trained and disciplined. Now to Penni, the scared damsel is disciplined with duct tape as she sits in the chair... breathing hard, eyes darting to see what tool he is grabbing. A sharp blade disposes of her clothing one embarrassing piece at a time until she is naked and huffing through flaired nostrils with a hand between her legs about to discover how wet she's become. He ends her confusion with a smelly rag over mouth slumber that will leave her limp and compliant. She kicks desperately for a second or two before the reality hits home.",
+      "Preview video from Powershotz VL045. Three gorgeous under 20 hotties. Aubry, Tatum, and Penni, star in this abduction fantasy subterfuge flick. First Aubry and Tatum break down... their car that is. They end up calling for help, but it's hard to do with that smelly rag over your mouth. Once zipped up and carried inside the building they are safe and warm, strung up in suspension bondage, vibrated to orgasm, anal trained and disciplined. Now to Penni, the scared damsel is disciplined with duct tape as she sits in the chair... breathing hard, eyes darting to see what tool he is grabbing. A sharp blade disposes of her clothing one embarrassing piece at a time until she is naked and huffing through flaired nostrils with a hand between her legs about to discover how wet she's become. He ends her confusion with a smelly rag over mouth slumber that will leave her limp and compliant. She kicks desperately for a second or two before the reality hits home.",
     categoryid: '31',
     keywords:
-      'BONDAGE, FORCED ORGASMS, DAMSEL IN DISTRESS, ANAL, SUSPENSION     We Three Queens, Aubry, Tatum, Penni, zip ties, cf, discipline, duct tape, struggling, shoulder carry',
+      'BONDAGE, FORCED ORGASMS, DAMSEL IN DISTRESS, ANAL, SUSPENSION     We Three Queens, Aubry, Tatum, Penni, zip ties, cf, chloroform discipline, duct tape, struggling, shoulder carry',
     price: '3.99',
     date: '2010-02-23 16:52:47',
     name: 'vl045.wmv',
@@ -15879,10 +16172,10 @@ export default [
     id: '2846236',
     title: 'Caught Up Preview',
     description:
-      "5 delicious damsels get caught up in this ab-duction/bondage adventure series. First Annie... bored at home... ready to watch tv... suddenly caught up in her own movie... only she's in it. He takes her out with a firm hold... then makes sure she stays quiet during the tie up with a little solvent on rag seduction. Once she's tied up... it's easy to get her to beg for sex... Next Layne... nude bound spread wide on her back... bit gagged cropped and oiled up between the legs. Incredible under 20 bondage body. Now 2 more young hotties... Jessy and Harley... A first timid bondage try out for Harley. Extremely tight ropes keep these bitches in position for penetration. Finally Hazel... captured and bound to a tree. Her shirt torn away... her pants pulled down around her ankles... a sign placed on the path that reads... \"Free Fuck.\" It doesn't take long for a horny hiker to take her up on the offer. Awesome oral and doggie fuck with a little butt slapping and domination thrown in for sport. She is left bound to the tree for the next hiker to sample.",
+      "5 delicious damsels get caught up in this abduction/bondage adventure series. First Annie... bored at home... ready to watch tv... suddenly caught up in her own movie... only she's in it. He takes her out with a firm hold... then makes sure she stays quiet during the tie up with a little solvent on rag seduction. Once she's tied up... it's easy to get her to beg for sex... Next Layne... nude bound spread wide on her back... bit gagged cropped and oiled up between the legs. Incredible under 20 bondage body. Now 2 more young hotties... Jessy and Harley... A first timid bondage try out for Harley. Extremely tight ropes keep these bitches in position for penetration. Finally Hazel... captured and bound to a tree. Her shirt torn away... her pants pulled down around her ankles... a sign placed on the path that reads... \"Free Fuck.\" It doesn't take long for a horny hiker to take her up on the offer. Awesome oral and doggie fuck with a little butt slapping and domination thrown in for sport. She is left bound to the tree for the next hiker to sample.",
     categoryid: '31',
     keywords:
-      'BONDAGE, AMATEUR, DOMINATION, OUTDOORS, GAGGED WOMEN     Caught Up, Annie, Layne, Jessy, Harley, Hazel, cf, forced stripping, anal, oral, free fuck',
+      'BONDAGE, AMATEUR, DOMINATION, OUTDOORS, GAGGED WOMEN     Caught Up, Annie, Layne, Jessy, Harley, Hazel, cf, forced stripping, anal, oral, free fuck chloroform',
     price: '3.99',
     date: '2009-11-06 16:16:37',
     name: 'vl042.wmv',
@@ -15950,7 +16243,7 @@ export default [
       "Hot Cheerleaders are in high demand. When this market oriented pervert sees this little hottie strutting her stuff across campus... he not only sees a pretty little cheerleader. He sees a pretty little profit. He's on a roll and his luck improves when her vehicle breaks down. She helps him by picking up a nut... then he helps her by picking her up. Too bad he's got a cform rag over her mouth. Those hot legs kick but she goes limp. Then its into the car where she is hog tied tight. She wakes up while being bound and gets a nice tight tape gagging after complaining about his fingers feeling up her tight little pussy and ass. Then when he arrives at his place... he puts her out again... and carries her off to prepare her for quick sale. Though he may opt to try the merchandise first.",
     categoryid: '31',
     keywords:
-      'BONDAGE, TAPEGAGGED, CHEERLEADERS, SHOULDER CARRY, STRUGGLING     Pretty Little Profit, Bobbi, cf',
+      'BONDAGE, TAPEGAGGED, CHEERLEADERS, SHOULDER CARRY, STRUGGLING     Pretty Little Profit, Bobbi, cf ',
     price: '16.99',
     date: '2009-10-21 18:36:13',
     name: 'bobbiabducted.wmv',
@@ -16845,7 +17138,7 @@ export default [
     id: '2439077',
     title: 'Infringed Benefits Preview',
     description:
-      'These two ab-ducted 19 year olds will likely enjoy the benefits of corporate ownership when they are sold at auction. For now they must endure strict bondage and disciplinary procedures designed to keep them in line until the big day. The younger and more innocent of the two is anal trained to prepare her for the massive ass stabbings she will need to endure once owned and collared.',
+      'These two abducted 19 year olds will likely enjoy the benefits of corporate ownership when they are sold at auction. For now they must endure strict bondage and disciplinary procedures designed to keep them in line until the big day. The younger and more innocent of the two is anal trained to prepare her for the massive ass stabbings she will need to endure once owned and collared.',
     categoryid: '31',
     keywords:
       'BONDAGE, ANAL, WHIPPING, SPANKING, GAG REFLEX     Infringed Benefits, VL035, Wendy, Layne',
@@ -16947,7 +17240,7 @@ export default [
     id: '23971173',
     title: 'Forced Fantasy Fuckettes (VL034 Preview)',
     description:
-      "Frisky Felines Selena and Hazel star in this forced bondage fantasy flick. First Selena... dreaming of being ab-ducted, dominated, man handled, oiled up, spanked, gagged, blindfolded and sent to nirvana with the tip of the powerful vibrating probe. Then Hazel... leaving her campsite to pee in the woods... discovered by Hunter Bud on his 4 wheeler. He runs her down... takes her down... strips her naked and straps her down for secured transport back to his place. He wakes her up and ball gags her before driving off to keep her from scaring away the deer. She makes a run for it, he chases her down again... only this time he uses duct tape and hauls her back to the barn for a little choking and gagging punishment session. She'll pay closer attention next time around. Preview video!",
+      "Frisky Felines Selena and Hazel star in this forced bondage fantasy flick. First Selena... dreaming of being abducted, dominated, man handled, oiled up, spanked, gagged, blindfolded and sent to nirvana with the tip of the powerful vibrating probe. Then Hazel... leaving her campsite to pee in the woods... discovered by Hunter Bud on his 4 wheeler. He runs her down... takes her down... strips her naked and straps her down for secured transport back to his place. He wakes her up and ball gags her before driving off to keep her from scaring away the deer. She makes a run for it, he chases her down again... only this time he uses duct tape and hauls her back to the barn for a little choking and gagging punishment session. She'll pay closer attention next time around. Preview video!",
     categoryid: '4',
     keywords:
       '18 & 19 YRS OLD, BLINDFOLDS, SPANKING, FORCED ORGASMS, GAGGING     Forced Fantasy Fuckettes, Selena, Hazel, vibrator, pissing, forced stripping, ballgag, escaping, duct tape, choking, punishment',
@@ -17069,7 +17362,7 @@ export default [
       "The young bitchling squats to take a piss in the woods and gets seen by a man on his four wheeler. He runs her down... grabs her... she kicks and struggles... he knocks her out with cform carries her back to his trailer and straps his package down. She wakes up and gets a big fat ball in the mouth... he fondles the bitch up... savoring his catch... then drives off with her. She'll be good breeding material for a few weeks back at the barn.",
     categoryid: '31',
     keywords:
-      'BONDAGE, BALLGAGGED, PEE, DAMSEL IN DISTRESS, STRUGGLING     Pissed Off, Hazel, cf',
+      'BONDAGE, BALLGAGGED, PEE, DAMSEL IN DISTRESS, STRUGGLING     Pissed Off, Hazel, cf chloroform',
     price: '13.99',
     date: '2009-05-15 16:38:05',
     name: 'hazelwoods.wmv',
@@ -17387,7 +17680,7 @@ export default [
     id: '2209676',
     title: 'Tied and Trained Teens Preview',
     description:
-      'Preview video from Powershotz VL031 "Tied and Trained T**ns" starring 19 year old Dani... Snatched, stripped and hog tied in her bedroom while getting ready to go out. Incredibly strict elbow cinching and flesh bulging around thin cord. Heavily fondled, dominated, spanked, ball gagged and nose hooked. Then roped to the anal training bench gagged... she is oiled up, butt slapped, and anal stretched. Then rodded thoroughly with the glass rod to train that ass for butt fucking. Next 19 year old Hazel... slave girl... brought in naked and arm roped... then crotch roped firmly, sat on a board and bound with her legs spread wide. She is dominated, disciplined and fondled to tears, then cruelly ring gagged and gag reflex tested. Finally left drooling to suffer in bondage until her release comes.',
+      'Preview video from Powershotz VL031 "Tied and Trained Teens" starring 19 year old Dani... Snatched, stripped and hog tied in her bedroom while getting ready to go out. Incredibly strict elbow cinching and flesh bulging around thin cord. Heavily fondled, dominated, spanked, ball gagged and nose hooked. Then roped to the anal training bench gagged... she is oiled up, butt slapped, and anal stretched. Then rodded thoroughly with the glass rod to train that ass for butt fucking. Next 19 year old Hazel... slave girl... brought in naked and arm roped... then crotch roped firmly, sat on a board and bound with her legs spread wide. She is dominated, disciplined and fondled to tears, then cruelly ring gagged and gag reflex tested. Finally left drooling to suffer in bondage until her release comes.',
     categoryid: '31',
     keywords:
       'BONDAGE, SPANKING, FORCED STRIPPING, BALLGAGGED, DOMINATION     Tied and Trained, Dani, hog tie, elbow cinching, fondling, nose hook, training bench, anal, glass dildo, Hazel, slave training, crotch rope, discipline, crying, drooling',
@@ -17475,7 +17768,7 @@ export default [
       "The 18 year old cute is reading cd's when the intruder hops on her and puts her out with a rag soaked in cform. Once she is out... he checks her tits and ass, rolls her over, cuffs her wrists, and carries her off to his lair. There he lays her down, cuffs her ankles, and wakes her up with a slap on the ass. She struggles and squirms but is inducted into sexual servitude with firm domination, heavy fondling and hand over mouth. Her mouth will look real good sliding down the shaft of a hard cock.",
     categoryid: '31',
     keywords:
-      'BONDAGE, SHOULDER CARRY, DOMINATION, STRUGGLING, HANDCUFF AND SHACKLE FETISH     Enslaved at 18, Layne, cf, slapping, hand over mouth, slave training',
+      'BONDAGE, SHOULDER CARRY, DOMINATION, STRUGGLING, HANDCUFF AND SHACKLE FETISH     Enslaved at 18, Layne, cf, chloroform slapping, hand over mouth, slave training',
     price: '9.99',
     date: '2009-03-11 18:22:32',
     name: 'laynecf.wmv',
@@ -17492,7 +17785,7 @@ export default [
       "Two perfect bodies... not paying attention... unaware that those hot bodies make them hot commodities on the sex toy market. Heather Silk... nature photographer wanders onto private property. Strutting her hot ass right past the keep out sign. She'll be squealing under the anal rod after she's been grabbed, stripped, duct taped, forced face down on cock and doggie fucked in the woods. Her virgin anus now trained to serve and her throat filled with seminal fluid. Then Wendy... out working in the garden... wearing super short shorts and flaunting that lilly while skin with that puppydog pout. Grabbed, struggle stripped and handcuffed, her hug me panties pulled down to expose that perfect white virgin ass. Taken to the barn and whipped with the flogger and forced to stand high up on toe. Once whipped she is doggie strapped to the training bench where her virgin bottom is opened up with lubricated digital penetration and the anal rod. Now that she's been stretched... she can be fucked without injury. That virgin ass will fetch a high price. Heather and Wendy... perfect little sex objects... turned on by the capture and forced to accept their position as sexual servants. Watch this preview and you'll see that this is one HOT video!",
     categoryid: '31',
     keywords:
-      'BONDAGE, ANAL, SUBMISSIVE / SLAVE TRAINING, SPANKING, DOMINATION     Ab-ducted and Objectified, Heather Silk, Wendy, forced stripping, duct tape, strugglefuck, blowjob, handcuffs, flogging, outdoor, cum in mouth, shoulder carry',
+      'BONDAGE, ANAL, SUBMISSIVE / SLAVE TRAINING, SPANKING, DOMINATION     Abducted and Objectified, Heather Silk, Wendy, forced stripping, duct tape, strugglefuck, blowjob, handcuffs, flogging, outdoor, cum in mouth, shoulder carry',
     price: '3.99',
     date: '2009-03-01 17:31:38',
     name: 'vl030.wmv',
@@ -18017,7 +18310,7 @@ export default [
       "The bound captive is carried in over the shoulder and tossed on the bed. Now the fun can begin in ernest. She is relieved of that tight gene skirt, rolled, and fondled. It's time to tie the bitch down, and the only way to do it without injury is to take her out for a few minutes with a little anesthesia juice on that rag. She knows its coming and holds her breath while she bucks but it only serves to make that first inhale much deeper. She's out like a light in no time. She is stripped like a limp rag doll and bound spread eagle face up. The wake up call comes in the form of light face slapping with a hand between the legs. Wide eyed bushytail wakes up in back arching vexing as his hands roam that sensitive nude flesh. A finger tests her gag reflex... it's going to get intense...",
     categoryid: '4',
     keywords:
-      'SHOULDER CARRY, FACE SLAPPING, DOMINATION, GAG REFLEX, FORCED STRIPPING     Bedded and Bound, Heather Silk, cf, struggling',
+      'SHOULDER CARRY, FACE SLAPPING, DOMINATION, GAG REFLEX, FORCED STRIPPING  chloroform   Bedded and Bound, Heather Silk, cf, struggling',
     price: '12.99',
     date: '2008-11-22 11:57:20',
     name: 'heatheredded.mpg',
@@ -18322,7 +18615,7 @@ export default [
       "The dumb piglet doesn't hear him coming. His hand covers her nose and mouth so tight that she can't breath. He offers to remove his hand if she'll be quiet... she agrees... then screams. Now his only option is to take her out for a second so he can get her to the couch and cform her. Her struggle is brief and desperate, but his strength and determination prevail against her meager and delicious squirming as her tongue extends slightly and her eyes roll back. He revives her on the couch with a few face slaps... then quickly applies the cform firmly over mouth and nose. She rests like a baby as he disrobes her... spreads her ass cheeks and savors the tightness he'll find there, then hog ties and ball gags the bitch while she's still out. She comes too as he is applying the ball gag. The riding crop is applied to her smooth white ass until she begs to suck cock... 21 minutes of kick ass domination and submission.",
     categoryid: '4',
     keywords:
-      'HAND OVER MOUTH, REST FETISH, STRUGGLING, BALLGAGGED, FACE SLAPPING     Grope and Rope a Dope, Annie, domination, hog tie, cf',
+      'HAND OVER MOUTH, REST FETISH, STRUGGLING, BALLGAGGED, FACE SLAPPING     Grope and Rope a Dope, Annie, domination, hog tie, cf chloroform',
     price: '12.99',
     date: '2008-08-28 15:35:16',
     name: 'annieupset.mpg',
@@ -18713,7 +19006,7 @@ export default [
       'The buxom dish scrubber thinks she hears something while working away at the kitchen sink, but convinces herself that it was nothing and continues to scrub away. I guess if you call being grabbed and forced to your knees, cformed with some solvent and bound up tight to a post where you are stripped by a masked man who holds his hands between your legs and tells you what a good cock sucker you are going to make nothing... she was correct to assume it was nothing.',
     categoryid: '4',
     keywords:
-      'CHUBBY, FORCED STRIPPING, BLONDES, BIG TITS, DOMINATION     Dish scrubber, cf, julie, julie simone, grabbed, domination',
+      'CHUBBY, FORCED STRIPPING, BLONDES, BIG TITS, DOMINATION     Dish scrubber, cf, chloroform julie, julie simone, grabbed, domination',
     price: '9.99',
     date: '2008-06-16 15:49:10',
     name: 'juliecform.mpg',
@@ -19152,7 +19445,7 @@ export default [
     id: '1212770',
     title: 'ThreeFer Preview',
     description:
-      "Three bopable babes in bitchin bondage. First Andi, snatched, stripped, table topped in wrist to ankle ass up bondage and ball gagged. Then Stacie, slave trained in heavy leather and harness gag. Nipple clamped and whipped, strapped to the backboard and vibrated to orgasm. Finally, Alex is snatched, cformed, tied down, she wakes up in bondage. Then a man approaches with a hard on. It's in her mouth... it's in her pussy... she's upside down... right-side up... turned and rolled. He gets her every way he can. Then in inverted suspension, arms bound behind her back... he approaches... she sucks... she begs. It's hot!",
+      "Three bopable babes in bitchin bondage. First Andi, snatched, stripped, table topped in wrist to ankle ass up bondage and ball gagged. Then Stacie, slave trained in heavy leather and harness gag. Nipple clamped and whipped, strapped to the backboard and vibrated to orgasm. Finally, Alex is snatched, chloroformed, tied down, she wakes up in bondage. Then a man approaches with a hard on. It's in her mouth... it's in her pussy... she's upside down... right-side up... turned and rolled. He gets her every way he can. Then in inverted suspension, arms bound behind her back... he approaches... she sucks... she begs. It's hot!",
     categoryid: '403',
     keywords:
       'FORCED STRIPPING, NIPPLE PLAY, BALLGAGGED, FORCED ORGASMS, WHIPPING     ThreeFer, VL019, Alex, Andi, Stacie, leather, nipple clamps, vibrator, suspension, struggling',
@@ -19665,7 +19958,7 @@ export default [
       "Poor captive coed makes run for the elevator and almost makes it in time. After a furious struggle in the elevator, the asphyxiant does its work, and her limp legs are dragged out... but she wakes up when he takes her into his room and must endure another desperate struggle to its ineveitable conclusion on the floor. She wakes up... groggy... and stumbles to the door one last time... only this time he doesn't need to rush... she's alreay groggy and weak... taking her down is easy... taking her to bed and tying her down will be next...",
     categoryid: '484',
     keywords:
-      'BONDAGE, DAMSEL IN DISTRESS, STRUGGLING, DOMINATION     Take Me 3 Times, Ashleigh, cf',
+      'BONDAGE, DAMSEL IN DISTRESS, STRUGGLING, DOMINATION     Take Me 3 Times, Ashleigh, cf chloroform',
     price: '7.99',
     date: '2008-01-11 15:28:14',
     name: 'ashleighcform3.mpg',
@@ -19682,7 +19975,7 @@ export default [
       "Having already failed twice... she tries again. This time she runs into a room with big windows... but they are painted shut... he doesn't even have to run to catch her. He can take his time. She pleads and struggles... but in the end... after that sharp inhale... she's out on the floor. When she wakes up this time... she's hung nude spread eagle from a hanging rack.",
     categoryid: '484',
     keywords:
-      'BONDAGE, DOMINATION, STRUGGLING, SUBMISSIVE / SLAVE TRAINING, SUSPENSION     Last Desperate Attempt, Ashleigh, cf',
+      'BONDAGE, DOMINATION, STRUGGLING, SUBMISSIVE / SLAVE TRAINING, SUSPENSION     Last Desperate Attempt, Ashleigh, cf chloroform',
     price: '5.99',
     date: '2008-01-10 15:21:16',
     name: 'ashleighlasttime.mpg',
@@ -19699,7 +19992,7 @@ export default [
       "As she exits the bathroom she is grabbed by a stranger who takes a firm hold on that hot struggling body... gets a rag over her mouth... and watches while she panics... until she goes under. She is carried to bed... where she won't stay down... and gets it a second time. THis time he handcuffs and ankle ropes the bitch while she is out to make sure she doesn't get loose when she wakes up.",
     categoryid: '486',
     keywords:
-      'BONDAGE, HAND OVER MOUTH, DOMINATION, HANDCUFF AND SHACKLE FETISH, DAMSEL IN DISTRESS     BONDAGE, Ashleigh, cf, shoulder carry',
+      'BONDAGE, HAND OVER MOUTH, DOMINATION, HANDCUFF AND SHACKLE FETISH, DAMSEL IN DISTRESS     BONDAGE, Ashleigh, cf chloroform, shoulder carry',
     price: '8.99',
     date: '2008-01-09 15:42:20',
     name: 'ashleighcaptured.mpg',
@@ -21279,7 +21572,7 @@ export default [
       "Cute little cleaning maid is asked to smell a new cleaning solvent. When she brings her face close to the rag, the client forces her face into the rag. It was a solvent alright, but not a cleaning solvent. One deep inhale... a few frantic leg kicking moments... and she falls limp. He carries her to the bedroom where he tosses her down on the bed... checks out her fine young body... then hogties the little bitch. It'll be safe to wake her up now. She's not going anywhere.",
     categoryid: '4',
     keywords:
-      'DAMSEL IN DISTRESS, SHOULDER CARRY, STRUGGLING, DOMINATION, EBONY     Clean Up Girl, Kitty, maid, cf',
+      'DAMSEL IN DISTRESS, SHOULDER CARRY, STRUGGLING, DOMINATION, EBONY     Clean Up Girl, Kitty, maid, cf chloroform',
     price: '5.99',
     date: '2007-07-05 15:33:22',
     name: 'kittycleaner.mpg',
@@ -22809,7 +23102,7 @@ export default [
       "Attractive pixie cut babe is grabbed as she exits the bathroom stall. She is effectively disabled and carried off to a room where she is tossed down on a mattress on the floor. Then her clothing is removed and her legs are tied together. It's safe to wake her up now... as long as her arms are controlled. She's completely naked and unable to run.",
     categoryid: '4',
     keywords:
-      'DOMINATION, DAMSEL IN DISTRESS, LIFT & CARRY, STRUGGLING, FORCED STRIPPING     Captured Cockette, Trixie, cf',
+      'DOMINATION, DAMSEL IN DISTRESS, LIFT & CARRY, STRUGGLING, FORCED STRIPPING     Captured Cockette, Trixie, cf chloroform',
     price: '10.99',
     date: '2006-12-13 12:17:59',
     name: 'trixiecapture.mpg',
@@ -22826,7 +23119,7 @@ export default [
       'Hot 18 babe wakes up on the table... in topless bondage. She is awakened by a hard slap on the ass. Then she is stood up... and the skirt comes off... revealing perfect legs... pussy... and ass. Her body is looked over... she is dominated... knelt before a stool... slapped on that fine ass... informed that there are special plans for that tight ass later.',
     categoryid: '31',
     keywords:
-      'BONDAGE, SPANKING, FORCED STRIPPING, SUBMISSIVE / SLAVE TRAINING, DOMINATION     Waking Up in Bondage, Rayne, cf, slapping',
+      'BONDAGE, SPANKING, FORCED STRIPPING, SUBMISSIVE / SLAVE TRAINING, DOMINATION     Waking Up in Bondage, Rayne, cf, slapping chloroform',
     price: '5.99',
     date: '2006-12-03 17:10:07',
     name: 'raynewakeup.mpg',
@@ -23947,7 +24240,7 @@ export default [
       'When two hottie babes try to escape, they are run down in the woods and anesthetized in order to render them compliant. Too bad all they had was stripper shoes.',
     categoryid: '484',
     keywords:
-      'BONDAGE, STRUGGLING, LONG HAIR, HIGH HEELS, BLONDES     Making a Run for It, Brandi, Rayna, cf, capture, brunette, running',
+      'BONDAGE, STRUGGLING, LONG HAIR, HIGH HEELS, BLONDES     Making a Run for It, Brandi, Rayna, cf, chloroform capture, brunette, running',
     price: '5.99',
     date: '2006-07-31 15:54:08',
     name: 'rbescape.mpg',
@@ -24148,10 +24441,10 @@ export default [
     id: '220658',
     title: 'Kept Woman',
     description:
-      'Preview video from Powershotz PZV040 "Ashleigh, Cf\'d and Kept". Multiple bondage and captivity scenes with strong emphasis on rag over the mouth submission. She keeps trying to get away but gets caught every time.',
+      'Preview video from Powershotz PZV040 "Ashleigh, Chloroformed and Kept". Multiple bondage and captivity scenes with strong emphasis on rag over the mouth submission. She keeps trying to get away but gets caught every time.',
     categoryid: '484',
     keywords:
-      "BONDAGE, DOMINATION, HAND OVER MOUTH, DAMSEL IN DISTRESS, STRUGGLING     Kept Woman, Ashleigh, CF'd and Kept, submission",
+      "BONDAGE, DOMINATION, HAND OVER MOUTH, DAMSEL IN DISTRESS, STRUGGLING   chloroform  Kept Woman, Ashleigh, CF'd and Kept, submission",
     price: '3.99',
     date: '2006-07-06 16:05:32',
     name: 'pzv040.mpg',
@@ -24710,7 +25003,7 @@ export default [
       'Preview video from PZV110, Silver Nightmares, Starring Alex Del Monacco and Andi Adams. Awesome duct tape abductionn adventure!',
     categoryid: '4',
     keywords:
-      'DUCT TAPE FETISH, FORCED STRIPPING, DOMINATION, BLONDES, DAMSEL IN DISTRESS     pzv110, silver nightmares, alex, alex del monaco, andi, andi adams, limp, cf, brunette',
+      'DUCT TAPE FETISH, FORCED STRIPPING, DOMINATION, BLONDES, DAMSEL IN DISTRESS     pzv110, silver nightmares, alex, alex del monaco, andi, andi adams, limp, cf, chloroform brunette',
     price: '3.99',
     date: '2006-05-12 15:12:01',
     name: 'pzv110.mpg',
@@ -24758,7 +25051,7 @@ export default [
     id: '173189',
     title: 'Three Cuffed Babes',
     description:
-      'Three hottie friends are taken at *** point by an intruder. First they are made to handcuff one another, then two are stood up, stripped... and looked over... Nice!',
+      'Three hottie friends are taken at gun point by an intruder. First they are made to handcuff one another, then two are stood up, stripped... and looked over... Nice!',
     categoryid: '4',
     keywords:
       'STRUGGLING, DAMSEL IN DISTRESS, HANDCUFF AND SHACKLE FETISH, DOMINATION, FORCED STRIPPING     Three Cuffed Babes, Jessy, Alex, Katherine, scared, inspection',
@@ -25558,7 +25851,7 @@ export default [
       "Kicking and squirming... she holds her breath for a second, but ultimately must breath in the fumes. When she wakes up... she's hogtied and gagged. Wondering how big his cock is... and if he'll be gentle. Nice smooth white legs on this skinny little bitch.",
     categoryid: '486',
     keywords:
-      'BALLGAGGED, SKINNY WOMEN, BONDAGE, DOMINATION, 18 & 19 YRS OLD     Hot Legs and Sandals, ivory, powershotz, cf',
+      'BALLGAGGED, SKINNY WOMEN, BONDAGE, DOMINATION, 18 & 19 YRS OLD  chloroform   Hot Legs and Sandals, ivory, powershotz, cf',
     price: '5.99',
     date: '2006-02-15 16:10:21',
     name: 'ivorychloroformed.mpg',
@@ -26946,7 +27239,7 @@ export default [
     id: '69716',
     title: 'Comely Cockettes:  Preview',
     description:
-      'Preview video for PZV097 starring Cammi and Page. Bondage, CF, spanking, and hard domination of two hot models.',
+      'Preview video for PZV097 starring Cammi and Page. Bondage, chloroform, spanking, and hard domination of two hot models.',
     categoryid: '10',
     keywords:
       'BONDAGE, DAMSEL IN DISTRESS, DOMINATION, STRUGGLING, BLONDES     Comely Cockettes, page, cammi, pzv097',

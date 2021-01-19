@@ -11,17 +11,15 @@ const Footer = () => {
       <div className="main">
         <div className="columns">
           <div className="column1">
-            <h3>How do I order instant downloads?</h3>
+            <h3>How do I order downloads?</h3>
             <p>
               Click on any "ADD TO CART" button. Follow the directions in the
               shopping cart.
             </p>
-            <h3>How do I order multiple items?</h3>
-            <Link to="/cart">
-              <button style={{ width: '100%' }}>use the shopping cart</button>
-            </Link>
-            <h3>How can I pay?</h3>
-            <p>Bitcoin, Cash, Check, or Money Order</p>
+            <h3>How quickly will I get my downloads?</h3>
+            <p>Your downloads will come to your inbox within a few minutes.</p>
+            <h3>Why don't I see my downloads?</h3>
+            <p>Check your junk/spam folder.</p>
           </div>
 
           <div className="column2">

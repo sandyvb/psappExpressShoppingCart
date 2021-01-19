@@ -9,6 +9,7 @@ import Heart from '../components/Heart'
 import BitcoinInfo from '../components/BitcoinInfo'
 import Iframe from '../components/Iframe'
 import CartButton from '../cart/CartButton'
+import BuyAll from '../cart/BuyAll'
 
 function ModelDetail(props) {
   const num = Math.floor(Math.random() * 4 + 1)
@@ -82,6 +83,9 @@ function ModelDetail(props) {
           </div>
           <div style={{ marginBottom: '20px' }}>
             <CartButton item={model} />
+          </div>
+          <div style={{ marginBottom: '20px' }}>
+            <BuyAll name={name} />
           </div>
         </div>
       )}

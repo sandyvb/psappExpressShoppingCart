@@ -109,12 +109,12 @@ const Cart = () => {
     <div>
       <header>
         <h1>Shopping Cart</h1>
-        <h5 style={{ marginBottom: '0' }}>
+        <h3 style={{ marginBottom: '0' }}>
           Currently, you have {itemCount} item{s} in your cart
-        </h5>
-        <h5 style={{ marginTop: '0' }}>
+        </h3>
+        <h3 style={{ marginTop: '0' }}>
           and {saveForLaterArray.length} items saved for later.
-        </h5>
+        </h3>
         {cart.length === 0 && (
           <div>
             <small className="note">

@@ -42,7 +42,7 @@ export default [
       "Electrical inspector must have messed with the wrong contractor. Her name is Keri, and she is one hot mamma MILF. Whoever she pissed off is having a good time with her. First she is accosted and molested in struggle kick body feel up hand over mouth fashion until her body weakens enough for him to get that solvent soaked rag over her mouth. A couple of deep inhales and her eyeballs are rolling. Then she is prettying up in front of a mirror and gets hopped on again. Only this time her antagonist uses medical tape and has a good time breaking the bitch, feeling up those intimate areas, spanking and dominating, tape gagging that pretty little mouth before putting her out on the bed. She wakes up with a sore ass, calls a friend to tell her about it, and gets grabbed again and put down nicely. Later she enters a building to perform an inspection, and gets grabbed, molested and anesthetized again. Poor girl. She better start approving some work! Next up is pretty faced little girl Spring. She takes a ride from a stranger and gets a lesson in the perils of hitch hiking the hard way. Hog tied, ball gagged, over the stool spanked, cleave gagged, hand cuffed fully molested, rope hog tied and gagged on her bed and forced to beg for cock. This lesson will teach her to keep that thumb in her mouth where it belongs if she doesn't want to take it up the ass! Full length movie from Powershotz.  1 hour, 28 minutes of bitch stripping leg kicking bare handing bondage fun!",
     poster: 'pzv028coverad.jpg',
     preview: 'pzv028_1min.mp4',
-    downloadLink: 'd67adb370/yqux2isp-tcdhdh8i-mhnyuv75-pnejwgiw',
+    downloadLink: 'af892b2e0/dfximwe7-m8t89t2r-tzc69hvb-stn7ywkk',
   },
   {
     id: '16133592',
@@ -282,7 +282,7 @@ export default [
       "News reporter Andi Adams has the scoop on the local sheriff.  Unfortunately, he's got her cell phone monitored.  He captures her before she can report her findings, and teaches her the error of her ways.  A solvent soaked rag is used to take her down.  Then she is stripped, looked over, cuffed, and awakened, a paper bag is put over her head, she is hung up and fondled, then her legs are spread and her ankles attached to either end of the bar.  Leaving her pussy and anus open and available to all.  Her pussy is vibrated by a dildo...  Then she is set upon the powerful dildo that vibrates and rotates attached to the sybian.  It is throttled up and her mouth flies open as expected.  It's a hard ride.  Now the deputy comes along and decides that she would benefit from being face forced on his cock.  But her mouth is insufficiently tight so he gets behind the bitch and hammers home the point.  Nice forward leaning strappado fuck!  In scene 2, Cammi is drunk on the bed.  She is fondled and slapped to a groggy state, roped bent over the table and dildo'd from behind.  She is left bound spread eagle face down on the table, begging for release.  That'll teach her not to mix drugs and alcohol.  Finally we find little 18 year old Miranda, hog tied and blindfolded on a bed.  A cock slips in that mouth, the blindfold is removed to reveal her begging brown eyes and the wrinkled forehead that comes with a heavy gag reflex.  Then a heavy squirt is delivered to that hot little mouth and she chokes on it.",
     poster: 'vl003coverad.jpg',
     preview: 'vl003_1min_preview.mp4',
-    downloadLink: 'ea8f75000/as64eg2w-iumqsts7-smi8k89d-9qb2f8hm',
+    downloadLink: '3aa0fd450/5hwvxh5d-8u3cuj22-dj3t43kd-a3xdy2eb',
   },
   {
     id: '18930273',
@@ -522,7 +522,7 @@ export default [
       "Andi's dreamed of being abducted bound and used like a sex toy her entire life.  At work....she is given the job of inspecting the photography studio after a series of complaints about women crying out.  When she shows up for the inspection, she gets a first hand look.  After being anesthetized, stripped naked and tied spread eagle to the bed, two men take her through the motions of servicing the tenants privates and rewarding her with cock and dildo.  She wants it to be a total stranger, someone she doesn't know and has no relationship with so she can just be used.  Abducted in the garage..rope bound and forced to suck...then hog tied, dildo'd and fucked on the table before a forced cock sucking and a tearful anal training episode followed by some doggy dicking to leave her sore for a few days as a reminder.  Fucking Incredible!",
     poster: 'vl001coverad.jpg',
     preview: 'vl001_1min.mp4',
-    downloadLink: '616609240/irbf2wqu-dituy4ib-ywh42w4u-3ppd4nav',
+    downloadLink: '76010e670/tmh3zxu5-nhqu3dhq-rysi8egj-fmf3gbzz',
   },
   {
     id: '19091121',
@@ -890,6 +890,7 @@ export default [
       'Candy and Layne.  Only 18 years old....time to teach them a thing or two.  First Candy, Hitchhiking down that country road... hotter than a pistol.  Picked up and zipped up... thrown in the back of the van and mouth stuffed and gagged.  Taken into the warehouse where her captor can take his time... force her to strip, handcuff, ball gag, belt whip, spank, arms overhead, hog tie, butt plug, crotch rope and deep throat the bitch to make sure she gets the point.  Next Layne... clean up girl... gets cleaned up nice on the deck... elbow strapped and ass upped, then taken to a tree where she is bound overhead and ball gagged.  Her clothing is cut and torn away... and the nude stands alone.  Later she is brought inside and put up on the table for a good strict hog tie that will give her a better understanding of what it means to pay attention.  The ball gag head harness and nose hook are helpful in this regard.  Two super hot bodies!',
     poster: 'vl033coverad.jpg',
     preview: 'vl033_1min.mp4',
+    downloadLink: '8c1639dd0/fi6tvxnf-xw9yqpaf-j9k78zt9-ym9ny8by',
   },
   {
     id: '19190763',
@@ -2296,7 +2297,7 @@ export default [
     keywords:
       ' FORCED STRIPPING \r\nRelated Categories: WHIPPING, SPANKING, BONDAGE, NIPPLE PLAY, BALLGAGGED. \r\nKeywords: bootie call, pzv083, alex del monaco, alexdelmonaco, alex, captured, discipline, domination, over the stool, whipped, clothes pins, mouth stuffing, hog rope, handcuff, blonde. ',
     description:
-      'The fabulous Alex Del Monaco is abducted, stripped, whipped, bound, gagged and disciplined in various stages of undress.  You want to see her bent over a stool, whipped and spanked hard?  How about clothes pins on the nipples, mouth stuffing, hog roped or handcuffed?  Get HD TV for this one...',
+      'The fabulous Alex Del Monaco is abducted, stripped, whipped, bound, gagged and disciplined in various stages of undress.  You want to see her bent over a stool, whipped and spanked hard?  How about clothes pins on the nipples, mouth stuffing, hog roped or handcuffed?  Get this one...',
     poster: 'pzv083coverad.jpg',
     preview: null,
     downloadLink: '959079d00/5m4z4tiy-3w2jp5mi-u4idrhwe-u33kqi27',
@@ -2843,7 +2844,7 @@ export default [
       'An abduction and slave training drama starring Lexis.  As she describes her bondage and abduction fantasies you get to watch what is going on in her head.  From her initial roadside abduction, stripping and bondage... to her spread eagle tied to the bed orgasm and tickle torture... to her face down spread eagle anal training.  This is one hot bondage video.  Involuntary reactions and contractions are the highlight of this video.  Incredible body... incredibly devious mind.  She wants it... and she gets it.  Every woman should have the chance to live out her bondage and abduction fantasy... if it is what she wants.',
     poster: 'pzv120coverad.jpg',
     preview: null,
-    downloadLink: '36b5b3430/ctafvpbm-tbyawyp3-x9w247av-aciywfwg',
+    downloadLink: '207be0840/gsmbz3g4-4bhzajix-kde6bqa8-efu7uuwx',
   },
   {
     id: '20128143',
@@ -3177,6 +3178,7 @@ export default [
       'If you are looking for intense and strict bondage with slave training and corporal discipline, then you’ve found it! Skinny Marie breaks down in tears at the intensity of the biting crotch rope, nipple clamps, and strict leather arm binder. Alex is stripped, cuffed, positioned, and roped in ways that leave every orifice open and available for deep and effective penetration. Two fine white 18-year-old teens. Topped and tied tight! Includes 20 minutes of previews of other Powershotz productions',
     poster: 'pzv047coverad.jpg',
     preview: '',
+    downloadLink: '7ab779000/jgudrq62-mikf8n39-fe64jqni-uenrsy7d',
   },
   {
     id: '22995501',

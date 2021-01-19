@@ -12,12 +12,12 @@ const VideoDetail = (props) => {
   // images for full-length or clip videos
   let poster
   props.video.poster
-    ? (poster = 'https://powershotz.com/dvdlabels/' + props.video.poster)
+    ? (poster = 'https://powershotz.com/c4sImages/' + props.video.poster)
     : (poster = 'https://powershotz.com/c4sImages/' + props.video.image)
 
   let thumb
   props.video.poster
-    ? (thumb = 'https://powershotz.com/dvdlabels/thumbs/' + props.video.poster)
+    ? (thumb = 'https://powershotz.com/c4sImages/thumbs/' + props.video.poster)
     : (thumb = 'https://powershotz.com/c4sImages/' + props.video.image)
 
   // remove html tags from clips & set variables

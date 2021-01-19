@@ -48,11 +48,13 @@ const MyList = () => {
         <h3>
           Currently, you have {list.length} item{s} in your list.
         </h3>
-        <small className="note">
-          Use the same device and browser to maintain a list.
-          <br />
-          Or, use different browsers and devices to create multiple lists.
-        </small>
+        {list.length < 1 && (
+          <small className="note">
+            Use the same device and browser to maintain a list.
+            <br />
+            Or, use different browsers and devices to create multiple lists.
+          </small>
+        )}
       </header>
 
       {list.length ? (

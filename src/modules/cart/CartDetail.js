@@ -26,7 +26,7 @@ const CartDetail = ({ item }) => {
     pzcode = item.pz_code
     productDescription = `Video #${pzcode}`
     code = item.pz_code
-    thumb = 'https://powershotz.com/dvdlabels/thumbs/' + item.poster
+    thumb = 'https://powershotz.com/c4sImages/thumbs/' + item.poster
     linkTo = item.id
   }
   if (item.image) {

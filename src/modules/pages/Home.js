@@ -40,8 +40,8 @@ const Home = () => {
             be new features!
           </p>
           <small>
-            Press CTRL+F5 (PC) or Apple Key+Shift+R (Mac) to get the latest
-            version of our site.
+            Press (Ctrl+F5) on a PC or (Apple Key+Shift+R) on a Mac to get the
+            latest version of our site.
           </small>
 
           <p>What's new?</p>
@@ -51,7 +51,9 @@ const Home = () => {
               icon in the lower-right corner for quick access to your list.
               Please let me know if you run into a bug.
             </li>
-            <li>Preview buttons!</li>
+            <li>
+              <h3>Preview buttons!</h3>
+            </li>
             <li>
               Please give us a positive rating for your checkout! Someone didn't
               check their junk mail for their download link... :(
@@ -75,9 +77,8 @@ const Home = () => {
           </p>
           <p>
             Press any "ADD TO CART" button then go to the{' '}
-            <Link to="/cart">cart</Link> to purchase a download or buy a{' '}
-            <Link to="/dvd">DVD</Link>. Press any "PREVIEW" button to see a
-            preview!
+            <Link to="/cart">cart</Link> to purchase a download. Full-length
+            titles are available on <Link to="/dvd">DVDs</Link>.
           </p>
         </section>
 
@@ -107,7 +108,7 @@ const Home = () => {
             <h2>Buy with Bitcoin!</h2>
           </Link>
           <p>
-            Easy order downloads, DVDs, and photos using Bitcoin! After payment,
+            Easy order clips, DVDs, and photos using Bitcoin! After payment,
             check your inbox for download links!
           </p>
         </section>
