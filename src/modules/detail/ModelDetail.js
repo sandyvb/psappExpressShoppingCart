@@ -78,13 +78,13 @@ function ModelDetail(props) {
       {isDetail && (
         <div>
           <BitcoinInfo />
-          <div style={{ margin: '20px auto' }}>
+          <div style={{ margin: '50px auto 20px auto' }}>
             <Iframe key={c4sCode} name={name} number={numPhotos} />
           </div>
           <div style={{ marginBottom: '20px' }}>
             <CartButton item={model} />
           </div>
-          <div style={{ marginBottom: '20px' }}>
+          <div style={{ marginBottom: '50px' }}>
             <BuyAll name={name} />
           </div>
         </div>

@@ -5,7 +5,7 @@ import { cartReducer } from '../reducers/CartReducer'
 export const CartContext = createContext()
 
 const CartContextProvider = (props) => {
-  const [cart, dispatch] = useReducer(cartReducer, [], () => {
+  const [cart, cartDispatch] = useReducer(cartReducer, [], () => {
     const localData = localStorage.getItem('cart')
     return localData ? JSON.parse(localData) : []
   })
@@ -15,7 +15,7 @@ const CartContextProvider = (props) => {
   }, [cart])
 
   return (
-    <CartContext.Provider value={{ cart, dispatch }}>
+    <CartContext.Provider value={{ cart, cartDispatch }}>
       {props.children}
     </CartContext.Provider>
   )

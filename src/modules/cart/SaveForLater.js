@@ -2,7 +2,7 @@ import React, { useContext } from 'react'
 import { CartContext } from '../contexts/CartContext'
 
 const SaveForLater = ({ item }) => {
-  const { dispatch } = useContext(CartContext)
+  const { cartDispatch } = useContext(CartContext)
 
   let buttonText = item.checked ? 'Add to Cart' : 'Save for Later'
 
@@ -19,8 +19,8 @@ const SaveForLater = ({ item }) => {
 
   const handleClick = () => {
     changeItem = { item: { ...item, checked: !item.checked } }
-    dispatch({ type: 'REMOVE_CART_ITEM', item: item })
-    dispatch({ type: 'CHANGE_CART_ITEM', item: changeItem })
+    cartDispatch({ type: 'REMOVE_CART_ITEM', item: item })
+    cartDispatch({ type: 'CHANGE_CART_ITEM', item: changeItem })
   }
 
   return (

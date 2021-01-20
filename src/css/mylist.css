@@ -61,8 +61,7 @@
 
 .my-list .heartImg {
     width: 20px;
-    transform: translateY(10px);
-    margin: 0 5px 0 2px;
+    margin: 0 5px;
 }
 
 .purchase {

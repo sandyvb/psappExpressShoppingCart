@@ -2,17 +2,19 @@ import React, { useContext, useState, useEffect } from 'react'
 import { CartContext } from '../contexts/CartContext'
 
 const CartButton = ({ item, width }) => {
-  const { cart, dispatch } = useContext(CartContext)
+  const { cart, cartDispatch } = useContext(CartContext)
   const [shouldAdd, setShouldAdd] = useState()
 
   const styles = {
     add: {
       fontSize: '1rem',
       minWidth: width,
+      height: '51px',
     },
     remove: {
       fontSize: '0.9rem',
       minWidth: width,
+      height: '51px',
     },
   }
 
@@ -25,8 +27,8 @@ const CartButton = ({ item, width }) => {
 
   const handleClick = () => {
     shouldAdd === true
-      ? dispatch({ type: 'ADD_CART_ITEM', item: item })
-      : dispatch({ type: 'REMOVE_CART_ITEM', item: item })
+      ? cartDispatch({ type: 'ADD_CART_ITEM', item: item })
+      : cartDispatch({ type: 'REMOVE_CART_ITEM', item: item })
     setShouldAdd(!shouldAdd)
   }
 

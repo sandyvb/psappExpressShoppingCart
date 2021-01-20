@@ -86,19 +86,19 @@
 
 .save {
     display: block;
-    background-image: url('../images/heart.svg');
-    background-size: cover;
+    background-image: url('../images/heartWhite.png');
+    background-size: contain;
+    background-repeat: no-repeat;
     background-color: transparent;
     box-shadow: none;
     border: none;
     width: 30px;
     height: 30px;
-    float: right;
     margin-right: 5px;
 }
 
 .save:hover {
-    background-image: url('../images/heartHover.svg');
+    background-image: url('../images/heartRed.png');
     cursor: pointer;
 }
 
@@ -108,14 +108,14 @@
 
 .saved {
     display: block;
-    background-image: url('../images/redheart.svg');
-    background-size: cover;
+    background-image: url('../images/heartFilled.png');
+    background-size: contain;
     background-color: transparent;
+    background-repeat: no-repeat;
     box-shadow: none;
     border: none;
     width: 30px;
     height: 30px;
-    float: right;
     margin-right: 5px;
     cursor: pointer;
 }

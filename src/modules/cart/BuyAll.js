@@ -5,7 +5,7 @@ import clips from '../../data/Clips'
 import { CartContext } from '../contexts/CartContext'
 
 const BuyAll = ({ name }) => {
-  const { dispatch } = useContext(CartContext)
+  const { cartDispatch } = useContext(CartContext)
   const [buttonText, setButtonText] = useState('Add all to cart')
   const [buttonStyle, setButtonStyle] = useState('big')
 
@@ -25,14 +25,14 @@ const BuyAll = ({ name }) => {
     )
 
     // add them all to cart
-    dispatch({ type: 'REMOVE_CART_ITEM', item: model })
-    dispatch({ type: 'ADD_CART_ITEM', item: model })
+    cartDispatch({ type: 'REMOVE_CART_ITEM', item: model })
+    cartDispatch({ type: 'ADD_CART_ITEM', item: model })
     videoIds.forEach((item) => {
       let object = clips.find((obj) => {
         return obj.id === item.vid_id
       })
-      dispatch({ type: 'REMOVE_CART_ITEM', item: object })
-      dispatch({ type: 'ADD_CART_ITEM', item: object })
+      cartDispatch({ type: 'REMOVE_CART_ITEM', item: object })
+      cartDispatch({ type: 'ADD_CART_ITEM', item: object })
     })
 
     setButtonText('added all to cart')

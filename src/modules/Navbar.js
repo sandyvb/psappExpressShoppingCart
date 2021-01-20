@@ -8,11 +8,22 @@ import '../css/navbar.css'
 import list from '../images/list.webp'
 import cartImg from '../images/cart.png'
 import { CartContext } from './contexts/CartContext'
+import { ListContext } from './contexts/ListContext'
 
 const Navbar = () => {
   const [closeMenu, setCloseMenu] = useState(true)
   const { cart } = useContext(CartContext)
-  let itemsInCart = cart.length
+  const { list } = useContext(ListContext)
+
+  let itemsInCart = 0
+  cart.map((item) => {
+    return !item.checked && itemsInCart++
+  })
+
+  let itemsInList = 0
+  list.map(() => {
+    return itemsInList++
+  })
 
   const pathname = window.location.pathname
 
@@ -31,6 +42,24 @@ const Navbar = () => {
       document.getElementById('logo2').style.top = '-67px'
     }
     prevScrollpos = currentScrollPos
+  }
+
+  const styles = {
+    counter: {
+      backgroundColor: 'white',
+      color: 'var(--backgroundColor)',
+      fontSize: '12px',
+      fontWeight: 'bold',
+      borderRadius: '50px',
+      height: '24px',
+      width: '24px',
+      textAlign: 'center',
+      padding: '2.4px',
+      fontFamily: 'cursive',
+      border: '1px solid var(--backgroundColor)',
+      transform: 'translateY(-25px)',
+      margin: '0 auto',
+    },
   }
 
   return (
@@ -82,11 +111,8 @@ const Navbar = () => {
                 <Link to="/videos" style={{ fontSize: '1.25rem' }}>
                   VIDEOS
                 </Link>
-                {/* <Link to="/membership" style={{ fontSize: '1rem' }}>
-                  Membership
-                </Link> */}
                 <Link to="/cart" style={{ fontSize: '1rem' }}>
-                  Shopping Cart
+                  Cart {itemsInCart > 0 && <span>({itemsInCart})</span>}
                 </Link>
                 <Link
                   to={pathname}
@@ -116,31 +142,14 @@ const Navbar = () => {
       {/* TODO: flex this section */}
       <Link to="/cart">
         <div src={cartImg} title="Shopping Cart" className="cart">
-          {cart.length > 0 && (
-            <div
-              style={{
-                backgroundColor: 'white',
-                color: 'var(--backgroundColor)',
-                fontSize: '12px',
-                fontWeight: 'bold',
-                borderRadius: '50px',
-                height: '24px',
-                width: '24px',
-                textAlign: 'center',
-                padding: '2.5px',
-                fontFamily: 'cursive',
-                border: '1px solid var(--backgroundColor)',
-                transform: 'translateY(-25px)',
-              }}
-            >
-              {itemsInCart}
-            </div>
-          )}
+          {itemsInCart > 0 && <div style={styles.counter}>{itemsInCart}</div>}
         </div>
       </Link>
 
       <Link to="/mylist">
-        <div src={list} title="My List" className="list"></div>
+        <div src={list} title="My List" className="list">
+          {itemsInList > 0 && <div style={styles.counter}>{itemsInList}</div>}
+        </div>
       </Link>
 
       <div

@@ -107,7 +107,7 @@ const Cart = () => {
 
   return (
     <div>
-      <header>
+      <header className="my-list" style={{ marginBottom: '60px' }}>
         <h1>Shopping Cart</h1>
         <h3 style={{ marginBottom: '0' }}>
           Currently, you have {itemCount} item{s} in your cart
@@ -116,18 +116,28 @@ const Cart = () => {
           and {saveForLaterArray.length} items saved for later.
         </h3>
         {cart.length === 0 && (
-          <div>
-            <small className="note">
-              Use the same device and browser to maintain a cart.
-              <br />
-              Or, use different browsers and devices to create multiple carts.
-            </small>
-            <p style={{ color: 'lime' }}>
-              Click on any "ADD TO CART" button to get started!
-            </p>
-          </div>
+          <small className="note" style={{ fontStyle: 'italic' }}>
+            Use the same device and browser to maintain a cart.
+            <br />
+            Or, use different browsers and devices to create multiple carts.
+          </small>
         )}
       </header>
+      {cart.length === 0 && (
+        <div>
+          <h5
+            style={{
+              width: '80%',
+              textAlign: 'center',
+              margin: '0 auto 70px auto',
+              fontSize: '1.5rem',
+              color: 'lime',
+            }}
+          >
+            Click on any "ADD TO CART" button to get started!
+          </h5>
+        </div>
+      )}
 
       {itemCount > 0 && (
         <div style={{ width: width, margin: '0 auto' }}>

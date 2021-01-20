@@ -5,7 +5,7 @@ import MoveToListButton from './MoveToListButton'
 import RemoveBackButtons from './RemoveBackButtons'
 
 const ThankYou = () => {
-  const { cart, dispatch } = useContext(CartContext)
+  const { cart } = useContext(CartContext)
   const screenWidth = window.screen.width
 
   let width = screenWidth < 650 ? '100%' : screenWidth < 1300 ? '80%' : '50%'
@@ -41,17 +41,15 @@ const ThankYou = () => {
       return (
         <div key={item.id}>
           <hr style={{ backgroundColor: 'lime' }} />
-          <h4>{item.title || item.model_name}</h4>
+          <div style={{ display: 'flex', justifyContent: 'space-between' }}>
+            <h4>{item.title || item.model_name}</h4>
+            <h4>#{item.pz_code || item.id}</h4>
+          </div>
         </div>
       )
     }
-    return <div></div>
+    return false
   })
-
-  const deleteItems = () =>
-    cart.map(
-      (item) => !item.checked && dispatch({ type: 'REMOVE_CART_ITEM', item })
-    )
 
   let s = itemCount === 1 ? '' : 's'
 
@@ -92,21 +90,25 @@ const ThankYou = () => {
             <a href="mailto:alexandra@powershotz.com">Email me</a> if you have
             any problems.
           </p>
+          <p>Button functions:</p>
           <p>
-            If you would like to remove these items from your cart, click on the
-            "REMOVE FROM CART" button. Your saved items will still be there.
+            REMOVE FROM CART: remove order from your cart, but keep your saved
+            items
+            <br />
+            GO BACK TO CART: go back to cart, remove nothing
           </p>
           <p>
-            If you would like to remove these items from your cart and move them
-            to your list marked as purchased, click on the "MOVE TO LIST"
-            button.
+            MOVE TO LIST: remove order from your cart, move items to My List and
+            mark as <em>"purchased"</em>
+            <br />
+            GO TO MY LIST: go to your list
           </p>
         </div>
       </header>
 
       <div style={{ width: width, margin: '0 auto' }}>
         <RemoveBackButtons />
-        <div onClick={deleteItems}>
+        <div>
           <MoveToListButton />
         </div>
         <div style={{ height: '20px' }}></div>

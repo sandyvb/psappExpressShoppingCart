@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom'
 import SaveForLater from '../cart/SaveForLater'
 
 const CartDetail = ({ item }) => {
-  const { dispatch } = useContext(CartContext)
+  const { cartDispatch } = useContext(CartContext)
 
   let name
   let lcName
@@ -93,7 +93,7 @@ const CartDetail = ({ item }) => {
           <button
             style={styles.delete}
             onClick={() => {
-              dispatch({
+              cartDispatch({
                 type: 'REMOVE_CART_ITEM',
                 item: item,
               })

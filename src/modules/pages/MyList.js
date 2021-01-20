@@ -3,7 +3,8 @@ import { Link } from 'react-router-dom'
 import { ListContext } from '../contexts/ListContext'
 import MyListDetail from '../components/MyListDetail'
 import '../../css/mylist.css'
-import heart from '../../images/heart.svg'
+import heart from '../../images/heartWhite.png'
+import ClearContinueListButtons from '../components/ClearContinueListButtons'
 
 const MyList = () => {
   const { list } = useContext(ListContext)
@@ -59,6 +60,9 @@ const MyList = () => {
 
       {list.length ? (
         <div>
+          <ul style={{ marginBottom: '0' }}>
+            <ClearContinueListButtons />
+          </ul>
           <ul>{generateList}</ul>
         </div>
       ) : (

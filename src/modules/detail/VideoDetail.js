@@ -86,10 +86,10 @@ const VideoDetail = (props) => {
       ) : (
         <div>
           <BitcoinInfo />
-          <div style={{ marginBottom: '15px' }}>
+          <div style={{ margin: '50px auto 20px auto' }}>
             <Preview key={pz_code} poster={poster} id={c4sCode} />
           </div>
-          <div style={{ marginBottom: '15px' }}>
+          <div style={{ marginBottom: '20px' }}>
             <CartButton item={props.video} />
           </div>
 

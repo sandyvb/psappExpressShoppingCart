@@ -3,7 +3,7 @@ import { CartContext } from '../contexts/CartContext'
 import { useHistory } from 'react-router-dom'
 
 const ClearContinueButtons = () => {
-  const { dispatch } = useContext(CartContext)
+  const { cartDispatch } = useContext(CartContext)
   const history = useHistory()
   const screenWidth = window.screen.width
   const margin = screenWidth < 650 ? '10px' : '0'
@@ -35,7 +35,7 @@ const ClearContinueButtons = () => {
       <button
         style={styles.clearCart}
         onClick={() => {
-          dispatch({
+          cartDispatch({
             type: 'REMOVE_CART_ALL',
           })
         }}

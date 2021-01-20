@@ -4,22 +4,24 @@ import { ListContext } from '../contexts/ListContext'
 import { Link } from 'react-router-dom'
 
 const MoveToListButton = () => {
-  const { cart } = useContext(CartContext)
+  const { cart, cartDispatch } = useContext(CartContext)
   const { dispatch } = useContext(ListContext)
 
   const screenWidth = window.screen.width
   const margin = screenWidth < 650 ? '10px' : '0'
 
-  const moveItems = () =>
+  const moveItems = () => {
     cart.map((item) => {
       if (!item.checked) {
-        const x = item
-        const y = { props: { ...x, checked: true } }
-        dispatch({ type: 'REMOVE_ITEM', item: x })
-        dispatch({ type: 'CHANGE_ITEM', item: y })
+        let origItem = item
+        let changeItem = { props: { ...item, checked: true } }
+        dispatch({ type: 'REMOVE_ITEM', item: origItem })
+        dispatch({ type: 'CHANGE_ITEM', item: changeItem })
+        cartDispatch({ type: 'REMOVE_CART_ITEM', item: origItem })
       }
       return true
     })
+  }
 
   const styles = {
     move: {

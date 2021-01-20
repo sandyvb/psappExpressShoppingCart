@@ -14,6 +14,10 @@ export const listReducer = (state, action) => {
       } else {
         return state.filter((item) => item.id !== action.item.id)
       }
+
+    case 'REMOVE_ALL':
+      return []
+
     default:
       return state
   }
