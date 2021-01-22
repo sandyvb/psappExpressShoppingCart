@@ -5,6 +5,11 @@ import Masonry from 'react-masonry-css'
 import FilterVideos from '../components/FilterVideos'
 import SortVideos from '../components/SortVideos'
 import CombineArrays from '../components/CombineArrays'
+import GridItem from '../grid/gridItem'
+import grid from '../../images/grid.png'
+import grid_dark from '../../images/grid_dark.png'
+import masonry from '../../images/masonry.png'
+import masonry_dark from '../../images/masonry_dark.png'
 
 // https://www.peterbe.com/plog/a-darn-good-search-filter-function-in-javascript
 // SOMETHING LIKE FLATLIST FOR REACTJS
@@ -17,6 +22,8 @@ const Videos = () => {
   const [showItems, setShowItems] = useState(25)
   const [incr, setIncr] = useState(25)
   const [reset, setReset] = useState(null)
+  const [displayType, setDisplayType] = useState(true) // true=masonry false=grid
+
   const breakpointColumnsObj = {
     default: 4,
     1400: 3,
@@ -27,6 +34,10 @@ const Videos = () => {
   const handleChange = (event) => {
     setQ(event.target.value)
     setReset(false)
+  }
+
+  const handleDisplayType = () => {
+    setDisplayType(!displayType)
   }
 
   //change display when user search input changes
@@ -50,6 +61,7 @@ const Videos = () => {
     setIncr(i)
   }
 
+  // MASONRY
   let items = display.slice(0, showItems).map((item) => {
     return (
       <div key={item.id} className="card">
@@ -58,8 +70,49 @@ const Videos = () => {
     )
   })
 
+  // GRID
+  const styles = {
+    cards: {
+      width: '95%',
+      margin: '0 auto',
+      marginBottom: '0px',
+      marginBottom: ' 50px',
+    },
+    grid: {
+      width: '250px',
+      maxWidth: '300px',
+      display: 'flex',
+      flexGrow: '1',
+      backgroundColor: ' rgb(86, 79, 111, 0.2)',
+      padding: '10px',
+      boxShadow: '1px 2px 3px rgba(0, 0, 0, 0.5)',
+      margin: '5px',
+    },
+    showButtons: {
+      minWidth: '120px',
+      margin: '5px',
+      padding: '0',
+      height: '35px',
+      fontSize: '0.9rem',
+    },
+    displayButton: {
+      minWidth: '35px',
+      margin: '5px',
+      padding: '6px',
+      height: '35px',
+    },
+  }
+
+  let gridItems = display.slice(0, showItems).map((item) => {
+    return (
+      <div key={item.id} style={styles.grid}>
+        <GridItem item={item} />
+      </div>
+    )
+  })
+
   return (
-    <div className="cards">
+    <div style={styles.cards} className="cards">
       <header>
         <h1>Videos & Clips</h1>
       </header>
@@ -95,32 +148,62 @@ const Videos = () => {
 
         <div
           style={{
-            display: 'block',
+            display: 'flex',
             textAlign: 'center',
             margin: '30px auto 20px auto',
           }}
         >
           <button
+            style={styles.showButtons}
             onClick={() => handleShow(25)}
-            style={{ margin: '8px' }}
             title="Default View"
           >
             Show 25
           </button>
           <button
+            style={styles.showButtons}
             onClick={() => handleShow(50)}
-            style={{ margin: '8px' }}
             title="Show 50 videos"
           >
             Show 50
           </button>
           <button
+            style={styles.showButtons}
             onClick={() => handleShow(100)}
-            style={{ margin: '8px' }}
             title="Show 100 videos"
           >
             Show 100
           </button>
+          <button
+            style={styles.showButtons}
+            onClick={() => {
+              handleShow(list.length)
+            }}
+            title="Show All videos"
+          >
+            Show All
+          </button>
+          {displayType === false ? (
+            <button
+              style={styles.displayButton}
+              title="display type"
+              onClick={handleDisplayType}
+            >
+              <img src={grid} style={{ height: '100%' }} title="display type" />
+            </button>
+          ) : (
+            <button
+              style={styles.displayButton}
+              title="display type"
+              onClick={handleDisplayType}
+            >
+              <img
+                src={masonry}
+                style={{ height: '100%' }}
+                title="display type"
+              />
+            </button>
+          )}
         </div>
       </div>
 
@@ -146,13 +229,26 @@ const Videos = () => {
         </div>
       ) : null}
 
-      <Masonry
-        breakpointCols={breakpointColumnsObj}
-        className="masonry-grid"
-        columnClassName="masonry-grid_column"
-      >
-        {items}
-      </Masonry>
+      {displayType === true ? (
+        <Masonry
+          breakpointCols={breakpointColumnsObj}
+          className="masonry-grid"
+          columnClassName="masonry-grid_column"
+        >
+          {items}
+        </Masonry>
+      ) : (
+        <div
+          style={{
+            display: 'flex',
+            flexWrap: 'wrap',
+            margin: '0 auto',
+            justifyContent: 'space-evenly',
+          }}
+        >
+          {gridItems}
+        </div>
+      )}
 
       {q ? (
         <p>
@@ -181,6 +277,7 @@ const Videos = () => {
             display: 'block',
             margin: '50px auto',
             width: '100%',
+            maxWidth: '300px',
             fontSize: '1.1rem',
           }}
           onClick={handleShowMore}

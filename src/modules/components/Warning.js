@@ -3,11 +3,18 @@ import { Link } from 'react-router-dom'
 import '../../css/warning.css'
 
 function Warning() {
+  const styles = {
+    button: {
+      padding: '0px',
+      height: '60px',
+    },
+  }
+
   return (
     <div className="warning">
       <h1>Powershotz.com</h1>
       <Link to="/home">
-        <button>I accept these terms, LET ME IN!</button>
+        <button style={styles.button}>I accept these terms, LET ME IN!</button>
       </Link>
       <h2>WARNING!</h2>
       <p>
@@ -79,7 +86,7 @@ function Warning() {
         Note: All content on this site is simulated, consensual, and rehearsed
       </h3>
       <Link to="/home">
-        <button>I accept these terms, LET ME IN!</button>
+        <button style={styles.button}>I accept these terms, LET ME IN!</button>
       </Link>
       <div className="ncs">
         <a href="https://ncsfreedom.org/" rel="noopener noreferrer">

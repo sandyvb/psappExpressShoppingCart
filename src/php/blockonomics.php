@@ -94,7 +94,8 @@ foreach ($downloadLinks as $downloadLink) {
     if ($description[$count] === null) {
         $description[$count] = 'Error!';
     }
-    $link = "https://ln2.sync.com/dl/{$downloadLink}";
+    $string = substr($downloadLink, 2);
+    $link = "https://ln2.sync.com/dl/{$string}";
     $msg .= "<li>{$description[$count]}: <a href=$link>{$link}</a></li>";
     $count++;
 }
@@ -135,7 +136,8 @@ foreach ($downloadLinks as $downloadLink) {
     if ($description[$count] === null) {
         $description[$count] = 'Error! Please contact Alexandra :)';
     }
-    $link = "https://ln2.sync.com/dl/{$downloadLink}";
+    $string = substr($downloadLink, 2);
+    $link = "https://ln2.sync.com/dl/{$string}";
     $response_msg .= "<li><h3><a href=$link>$description[$count]</a></h3></li>";
     $count++;
 }
