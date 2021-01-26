@@ -5,10 +5,7 @@ import Masonry from 'react-masonry-css'
 import FilterVideos from '../components/FilterVideos'
 import SortVideos from '../components/SortVideos'
 import CombineArrays from '../components/CombineArrays'
-<<<<<<< Updated upstream
-=======
 import GridItem from '../grid/gridItem'
->>>>>>> Stashed changes
 
 // https://www.peterbe.com/plog/a-darn-good-search-filter-function-in-javascript
 // SOMETHING LIKE FLATLIST FOR REACTJS
@@ -62,8 +59,6 @@ const Videos = () => {
     )
   })
 
-<<<<<<< Updated upstream
-=======
   // GRID
   const styles = {
     cards: {
@@ -104,7 +99,6 @@ const Videos = () => {
     )
   })
 
->>>>>>> Stashed changes
   return (
     <div className="cards">
       <header>
@@ -168,8 +162,6 @@ const Videos = () => {
           >
             Show 100
           </button>
-<<<<<<< Updated upstream
-=======
           <button
             style={styles.showButtons}
             onClick={() => {
@@ -185,7 +177,6 @@ const Videos = () => {
             onClick={handleDisplayType}
             className={displayType ? 'masonry' : 'grid'}
           ></div>
->>>>>>> Stashed changes
         </div>
       </div>
 
