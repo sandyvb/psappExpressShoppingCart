@@ -21,6 +21,7 @@ const GridItem = ({ item }) => {
       <img
         src={poster}
         alt={title}
+<<<<<<< HEAD
         style={{
           maxWidth: '100%',
           margin: 'auto',
@@ -28,6 +29,9 @@ const GridItem = ({ item }) => {
           maxHeight: '300px',
           alignItems: 'center',
         }}
+=======
+        style={{ width: '100%', justifyContent: 'space-between' }}
+>>>>>>> grids
       />
       <h3 style={{ margin: '5px' }}>{title}</h3>
     </Link>

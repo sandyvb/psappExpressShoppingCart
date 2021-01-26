@@ -5,7 +5,7 @@ import burger from '../images/burger.webp'
 import x from '../images/x.webp'
 import { Link } from 'react-router-dom'
 import '../css/navbar.css'
-import list from '../images/list.webp'
+import listImg from '../images/list.webp'
 import cartImg from '../images/cart.png'
 import { CartContext } from './contexts/CartContext'
 import { ListContext } from './contexts/ListContext'
@@ -139,7 +139,7 @@ const Navbar = () => {
           </div>
         </div>
       </div>
-      {/* TODO: flex this section */}
+
       <Link to="/cart">
         <div src={cartImg} title="Shopping Cart" className="cart">
           {itemsInCart > 0 && <div style={styles.counter}>{itemsInCart}</div>}
@@ -147,7 +147,7 @@ const Navbar = () => {
       </Link>
 
       <Link to="/mylist">
-        <div src={list} title="My List" className="list">
+        <div src={listImg} title="My List" className="list">
           {itemsInList > 0 && <div style={styles.counter}>{itemsInList}</div>}
         </div>
       </Link>

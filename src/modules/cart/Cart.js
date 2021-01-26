@@ -13,10 +13,15 @@ const Cart = () => {
 
   const s = cart.length === 1 ? '' : 's'
   const screenWidth = window.screen.width
-
   let width = screenWidth < 650 ? '100%' : screenWidth < 1300 ? '80%' : '50%'
   let totals = screenWidth > 650 ? 'flex' : 'block'
   let spanFont = screenWidth < 1000 ? '1.2rem' : '1.3rem'
+
+  let randomNumber = () => {
+    const max = 99
+    const min = 10
+    return Math.floor(Math.random() * (max - min) + min)
+  }
 
   let sortedList = cart.sort((a, b) => {
     if (
@@ -38,6 +43,8 @@ const Cart = () => {
     return 0
   })
 
+  // https://stackoverflow.com/questions/29509934/encrypt-with-cryptojs-and-decrypt-with-php
+
   let itemCount = 0
   let total = []
   let titles = []
@@ -48,7 +55,9 @@ const Cart = () => {
       itemCount += 1
       total.push(parseFloat(item.price))
       titles.push(item.title || item.model_name)
-      downloadLinks.push(item.downloadLink)
+      let extension = randomNumber()
+      let link = `${extension}${item.downloadLink}`
+      downloadLinks.push(link)
       return (
         <div key={item.id}>
           <hr style={{ backgroundColor: 'lime' }} />
@@ -188,7 +197,7 @@ const Cart = () => {
         </div>
       )}
       {saveForLaterList.length > 0 && (
-        <div style={{ width: width, margin: '75px auto' }}>
+        <div style={{ width: width, margin: '150px auto 75px auto' }}>
           <hr />
           <h2 style={{ textAlign: 'center', fontSize: '2rem' }}>
             Saved For Later

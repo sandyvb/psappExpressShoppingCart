@@ -2296,7 +2296,7 @@ export default [
     displayorder: '1915',
     length: '02:11:15',
     resolution: '1440x1080',
-    downloadLink: '47da76d40/hexjugfy-ifghh36h-85itz4wr-6mxicesw',
+    downloadLink: '8beaeb450/p9ivgqq7-ze2cd5e4-u2wn89na-qisyn8w4',
   },
   {
     id: '19300889',
@@ -3132,7 +3132,7 @@ export default [
     displayorder: '1960',
     length: '01:40:16',
     resolution: '1440x1080',
-    downloadLink: 'c87f56c80/fdfzu466-a5q9icad-3ic88dzq-9mjafsdi',
+    downloadLink: 'f431f7ea0/d568w8z3-m2avciun-qpjihnzk-y97t6ac6',
   },
   {
     id: '19081857',
