@@ -1,5 +1,6 @@
 import React, { useState } from 'react'
-import bluex from '../../images/bluex.webp'
+import bluex from '../../../images/bluex.webp'
+import { Link } from 'react-router-dom'
 
 export default function WhyBanned() {
   const [hideWhy, setHideWhy] = useState(true)
@@ -62,10 +63,19 @@ export default function WhyBanned() {
           other substances that cause intoxication or can cause someone to be
           considered as being under the influence.
         </p>
+        <p>
+          Obviously, the storylines of Powershotz videos are fictitious and the
+          models are acting. We did NOT film any crimes!
+        </p>
         <p style={(styles.p, { fontStyle: 'italic', fontWeight: 'bold' })}>
           We are sorry for the inconvenience, the puritanical nature of our
           society, and the legislation of your morality...
         </p>
+        <Link to={'/letter'}>
+          <button style={{ paddingRight: '20px', paddingLeft: '20px' }}>
+            Steve's Letter to MasterCard
+          </button>
+        </Link>
       </div>
     </div>
   )

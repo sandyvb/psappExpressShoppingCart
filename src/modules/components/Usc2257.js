@@ -32,9 +32,9 @@ function Usc2257() {
         such records available to the Attorney General for inspection at all
         reasonable times.
       </p>
-      <p>
+      {/* <p>
         <Link to="/custrec">Custodian of Records</Link>
-      </p>
+      </p> */}
     </div>
   )
 }

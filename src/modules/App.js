@@ -26,6 +26,7 @@ const Detail = lazy(() => import('./pages/Detail'))
 const Error = lazy(() => import('./pages/Error'))
 const Footer = lazy(() => import('./Footer'))
 const ThankYou = lazy(() => import('./cart/ThankYou'))
+const Letter = lazy(() => import('./components/banned/Letter'))
 // const Contest = lazy(() => import('./pages/Contest'))
 
 // FIX FOR ROUTER PROBLEMS WHEN DEPLOYING APP!
@@ -54,6 +55,7 @@ const App = () => {
                 <Route path="/terms" component={Terms} />
                 <Route path="/faqs" component={Faqs} />
                 <Route path="/membership" component={Membership} />
+                <Route path="/letter" component={Letter} />
                 <Route path="/dvd" component={Dvd} />
                 <Route path="/thankyou" component={ThankYou} />
                 {/* <Route path="/bitcoin" component={Bitcoin} /> */}

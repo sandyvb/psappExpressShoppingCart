@@ -34,6 +34,17 @@ const Home = () => {
         <section>
           <RandomGif />
           <h2>News & Updates</h2>
+          <p>We were shutdown for a few days by the man! Please read:</p>
+          <Link to={'/letter'}>
+            <button
+              style={{
+                width: '100%',
+                margin: '20px auto',
+              }}
+            >
+              Steve's Letter to MasterCard
+            </button>
+          </Link>
 
           <p>
             REFRESH YOUR BROWSER OFTEN! The images always change and there may

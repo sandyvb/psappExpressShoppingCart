@@ -93,7 +93,7 @@ const Footer = () => {
         </div>
         <div className="copyright-alexandra">
           <span className="copyright">
-            &copy; 2000-2021 Emotionz LLC &nbsp;
+            &copy; 2000-2021 Powershotz.com &nbsp;
           </span>
           <span className="alexandra">
             Made with <span className="heart"> &hearts; </span>

@@ -19,10 +19,10 @@ export default function Terms() {
       </p>
       <h2>PRIVACY POLICY</h2>
       <p>
-        Powershotz.com, shotz.site, and Emotionz (the "Website") has created
-        this privacy policy ("Policy") in order to demonstrate our company's
-        commitment to privacy. The following discloses our information gathering
-        and disseminating practices.
+        Powershotz.com (the "Website") has created this privacy policy
+        ("Policy") in order to demonstrate our company's commitment to privacy.
+        The following discloses our information gathering and disseminating
+        practices.
       </p>
       <h3>Minors</h3>
       <p>

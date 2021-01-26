@@ -151,8 +151,7 @@ export default function Faqs() {
         <AccordionItem title="Are you guys the REAL Powershotz?">
           <p>
             Yes! We are the official owners of Powershotz video production
-            company (Emotionz LLC) and the original producers of all Powershotz
-            content.
+            company and the original producers of all Powershotz content.
           </p>
         </AccordionItem>
 

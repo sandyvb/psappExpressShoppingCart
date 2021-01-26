@@ -126,6 +126,52 @@
     margin: 20px 0 18px 0;
 }
 
+.cards .grid {
+    background: url('../images/grid.png') no-repeat;
+    background-size: 70%;
+    background-position: center;
+    width: 50px;
+    height: 35px;
+    cursor: pointer;
+    background-color: var(--aColor);
+    box-shadow: 1px 2px 3px rgba(0, 0, 0, 0.5);
+    transition: 0.3s ease-in-out;
+    border-radius: 3px;
+    width: 35px;
+    padding: 5px;
+  }
+  
+  .cards .grid:hover {
+    background: url('../images/grid_dark.png') no-repeat;
+    background-size: 70%;
+    background-position: center;
+    background-color: var(--aColorHover);
+
+  }
+
+  .cards .masonry {
+    background: url('../images/masonry.png') no-repeat;
+    background-size: 70%;
+    background-position: center;
+    width: 50px;
+    height: 35px;
+    cursor: pointer;
+    background-color: var(--aColor);
+    box-shadow: 1px 2px 3px rgba(0, 0, 0, 0.5);
+    transition: 0.3s ease-in-out;
+    border-radius: 3px;
+    width: 35px;
+    padding: 5px;
+  }
+  
+  .cards .masonry:hover {
+    background: url('../images/masonry_dark.png') no-repeat;
+    background-size: 70%;
+    background-position: center;
+    background-color: var(--aColorHover);
+
+  }
+
 @media screen and (max-width: 850px) {
     .cards header {
         width: 100%;

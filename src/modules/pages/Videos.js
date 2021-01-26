@@ -5,6 +5,10 @@ import Masonry from 'react-masonry-css'
 import FilterVideos from '../components/FilterVideos'
 import SortVideos from '../components/SortVideos'
 import CombineArrays from '../components/CombineArrays'
+<<<<<<< Updated upstream
+=======
+import GridItem from '../grid/gridItem'
+>>>>>>> Stashed changes
 
 // https://www.peterbe.com/plog/a-darn-good-search-filter-function-in-javascript
 // SOMETHING LIKE FLATLIST FOR REACTJS
@@ -58,6 +62,49 @@ const Videos = () => {
     )
   })
 
+<<<<<<< Updated upstream
+=======
+  // GRID
+  const styles = {
+    cards: {
+      width: '95%',
+      margin: '0 auto',
+      marginBottom: ' 50px',
+    },
+    grid: {
+      width: '250px',
+      maxWidth: '300px',
+      display: 'flex',
+      flexGrow: '1',
+      backgroundColor: ' rgb(86, 79, 111, 0.2)',
+      padding: '10px',
+      boxShadow: '1px 2px 3px rgba(0, 0, 0, 0.5)',
+      margin: '5px',
+    },
+    showButtons: {
+      minWidth: '120px',
+      margin: '5px',
+      padding: '0',
+      height: '35px',
+      fontSize: '0.9rem',
+    },
+    displayButton: {
+      minWidth: '35px',
+      margin: '5px',
+      padding: '6px',
+      height: '35px',
+    },
+  }
+
+  let gridItems = display.slice(0, showItems).map((item) => {
+    return (
+      <div key={item.id} style={styles.grid}>
+        <GridItem item={item} />
+      </div>
+    )
+  })
+
+>>>>>>> Stashed changes
   return (
     <div className="cards">
       <header>
@@ -121,6 +168,24 @@ const Videos = () => {
           >
             Show 100
           </button>
+<<<<<<< Updated upstream
+=======
+          <button
+            style={styles.showButtons}
+            onClick={() => {
+              handleShow(500)
+            }}
+            title="Show 500 videos"
+          >
+            Show 500
+          </button>
+          <div
+            style={styles.displayButton}
+            title="display type"
+            onClick={handleDisplayType}
+            className={displayType ? 'masonry' : 'grid'}
+          ></div>
+>>>>>>> Stashed changes
         </div>
       </div>
 
