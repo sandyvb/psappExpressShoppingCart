@@ -6,13 +6,10 @@ import FilterVideos from '../components/FilterVideos'
 import SortVideos from '../components/SortVideos'
 import CombineArrays from '../components/CombineArrays'
 import GridItem from '../grid/gridItem'
-<<<<<<< HEAD
-=======
 import grid from '../../images/grid.png'
 import grid_dark from '../../images/grid_dark.png'
 import masonry from '../../images/masonry.png'
 import masonry_dark from '../../images/masonry_dark.png'
->>>>>>> grids
 
 // https://www.peterbe.com/plog/a-darn-good-search-filter-function-in-javascript
 // SOMETHING LIKE FLATLIST FOR REACTJS
@@ -26,6 +23,7 @@ const Videos = () => {
   const [incr, setIncr] = useState(25)
   const [reset, setReset] = useState(null)
   const [displayType, setDisplayType] = useState(true) // true=masonry false=grid
+  const [imgSrc, setImgSrc] = useState(masonry)
 
   const breakpointColumnsObj = {
     default: 4,
@@ -41,6 +39,14 @@ const Videos = () => {
 
   const handleDisplayType = () => {
     setDisplayType(!displayType)
+    displayType ? setImgSrc(masonry) : setImgSrc(grid)
+  }
+
+  const handleMouseOver = () => {
+    displayType ? setImgSrc(masonry_dark) : setImgSrc(grid_dark)
+  }
+  const handleMouseOut = () => {
+    displayType ? setImgSrc(masonry) : setImgSrc(grid)
   }
 
   //change display when user search input changes
@@ -78,10 +84,6 @@ const Videos = () => {
     cards: {
       width: '95%',
       margin: '0 auto',
-<<<<<<< HEAD
-=======
-      marginBottom: '0px',
->>>>>>> grids
       marginBottom: ' 50px',
     },
     grid: {
@@ -183,48 +185,26 @@ const Videos = () => {
           <button
             style={styles.showButtons}
             onClick={() => {
-<<<<<<< HEAD
-              handleShow(500)
-            }}
-            title="Show 500 videos"
-          >
-            Show 500
-          </button>
-          <div
-            style={styles.displayButton}
-            title="display type"
-            onClick={handleDisplayType}
-            className={displayType ? 'masonry' : 'grid'}
-          ></div>
-=======
               handleShow(list.length)
             }}
             title="Show All videos"
           >
             Show All
           </button>
-          {displayType === false ? (
-            <button
-              style={styles.displayButton}
-              title="display type"
-              onClick={handleDisplayType}
-            >
-              <img src={grid} style={{ height: '100%' }} title="display type" />
-            </button>
-          ) : (
-            <button
-              style={styles.displayButton}
-              title="display type"
-              onClick={handleDisplayType}
-            >
-              <img
-                src={masonry}
-                style={{ height: '100%' }}
-                title="display type"
-              />
-            </button>
-          )}
->>>>>>> grids
+          <button
+            style={styles.displayButton}
+            title="Change display type"
+            onClick={handleDisplayType}
+          >
+            <img
+              src={imgSrc}
+              style={{ height: '100%' }}
+              title="Change display type"
+              alt="change"
+              onMouseOver={handleMouseOver}
+              onMouseOut={handleMouseOut}
+            />
+          </button>
         </div>
       </div>
 

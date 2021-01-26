@@ -191,7 +191,7 @@ const Photos = () => {
           </button>
           <div
             style={styles.displayButton}
-            title="display type"
+            title="Change display type"
             onClick={handleDisplayType}
             className={displayType ? 'masonry' : 'grid'}
           ></div>
