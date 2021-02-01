@@ -1180,16 +1180,16 @@ export default [
       'Cute, horny, and loves to be spanked brunette barely legal teen domination modeling bare handed spanking ass slapping spanking gagged latex tubing',
     downloadLink: '714b58f90/94d6cd6s-7nwzup9k-xzkb6bue-8jgka6gz',
   },
-  {
-    id: '243101',
-    model_name: 'Montez',
-    num_photos: '294',
-    num_galleries: '1',
-    price: '2.99',
-    keywords:
-      'Gorgeous black 19 year old breeding material.  Needs a good whipping now and then to keep her in line. ebony black 19 yo teen breeder whipping atm cheerleader hazing butt plug flogging crotch rope ballgag ball gag',
-    downloadLink: '615682610/bnxg69pe-trxq6fef-eguy9a99-xmf34vew',
-  },
+  // {
+  //   id: '243101',
+  //   model_name: 'Montez',
+  //   num_photos: '294',
+  //   num_galleries: '1',
+  //   price: '2.99',
+  //   keywords:
+  //     'Gorgeous black 19 year old breeding material.  Needs a good whipping now and then to keep her in line. ebony black 19 yo teen breeder whipping atm cheerleader hazing butt plug flogging crotch rope ballgag ball gag',
+  //   downloadLink: '615682610/bnxg69pe-trxq6fef-eguy9a99-xmf34vew',
+  // },
   {
     id: '243105',
     model_name: 'Mysti',

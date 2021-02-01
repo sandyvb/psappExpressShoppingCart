@@ -78,6 +78,7 @@ const Photos = () => {
       padding: '10px',
       boxShadow: '1px 2px 3px rgba(0, 0, 0, 0.5)',
       margin: '5px',
+      justifyContent: 'center',
     },
     showButtons: {
       minWidth: '120px',
@@ -114,13 +115,18 @@ const Photos = () => {
             alt={item.model_name}
             style={{
               maxWidth: '100%',
-              margin: 'auto',
-              justifyContent: 'space-between',
-              maxHeight: '300px',
-              alignItems: 'center',
+              maxHeight: '200px',
             }}
           />
-          <h3>{item.model_name}</h3>
+          <h3
+            style={{
+              margin: '5px',
+              width: '100%',
+              textAlign: 'center',
+            }}
+          >
+            {item.model_name}
+          </h3>
         </Link>
       </div>
     )

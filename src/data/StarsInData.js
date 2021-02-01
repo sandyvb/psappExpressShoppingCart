@@ -430,11 +430,11 @@ export default [
     model_name: 'Dani',
     id: '86',
   },
-  {
-    vid_id: '19242731',
-    model_name: 'Montez',
-    id: '87',
-  },
+  // {
+  //   vid_id: '19242731',
+  //   model_name: 'Montez',
+  //   id: '87',
+  // },
   {
     vid_id: '19242731',
     model_name: 'Skyy',
@@ -695,11 +695,11 @@ export default [
     model_name: 'Ashley',
     id: '139',
   },
-  {
-    vid_id: '19557361',
-    model_name: 'Montez',
-    id: '140',
-  },
+  // {
+  //   vid_id: '19557361',
+  //   model_name: 'Montez',
+  //   id: '140',
+  // },
   {
     vid_id: '19557361',
     model_name: 'Tory',
@@ -3405,11 +3405,11 @@ export default [
     model_name: 'Renae',
     id: '',
   },
-  {
-    vid_id: '13022281',
-    model_name: 'Montez',
-    id: '',
-  },
+  // {
+  //   vid_id: '13022281',
+  //   model_name: 'Montez',
+  //   id: '',
+  // },
   {
     vid_id: '4865918',
     model_name: 'Brook',
@@ -4200,11 +4200,11 @@ export default [
     model_name: 'Ashley',
     id: '',
   },
-  {
-    vid_id: '5459483',
-    model_name: 'Montez',
-    id: '',
-  },
+  // {
+  //   vid_id: '5459483',
+  //   model_name: 'Montez',
+  //   id: '',
+  // },
   {
     vid_id: '5459483',
     model_name: 'Tory',
@@ -4410,11 +4410,11 @@ export default [
     model_name: 'Layne',
     id: '',
   },
-  {
-    vid_id: '2766745',
-    model_name: 'Montez',
-    id: '',
-  },
+  // {
+  //   vid_id: '2766745',
+  //   model_name: 'Montez',
+  //   id: '',
+  // },
   {
     vid_id: '2766745',
     model_name: 'Skyy',
@@ -5465,11 +5465,11 @@ export default [
     model_name: 'Stacie',
     id: '',
   },
-  {
-    vid_id: '4574374',
-    model_name: 'Montez',
-    id: '',
-  },
+  // {
+  //   vid_id: '4574374',
+  //   model_name: 'Montez',
+  //   id: '',
+  // },
   {
     vid_id: '2815262',
     model_name: 'Bobbi',
@@ -5705,11 +5705,11 @@ export default [
     model_name: 'Cammi',
     id: '',
   },
-  {
-    vid_id: '2449494',
-    model_name: 'Montez',
-    id: '',
-  },
+  // {
+  //   vid_id: '2449494',
+  //   model_name: 'Montez',
+  //   id: '',
+  // },
   {
     vid_id: '931336',
     model_name: 'Stacie',
@@ -5845,11 +5845,11 @@ export default [
     model_name: 'Kitty',
     id: '',
   },
-  {
-    vid_id: '2455330',
-    model_name: 'Montez',
-    id: '',
-  },
+  // {
+  //   vid_id: '2455330',
+  //   model_name: 'Montez',
+  //   id: '',
+  // },
   {
     vid_id: '68950',
     model_name: 'Rayne',
@@ -6330,11 +6330,11 @@ export default [
     model_name: 'Katherine',
     id: '',
   },
-  {
-    vid_id: '2583768',
-    model_name: 'Montez',
-    id: '',
-  },
+  // {
+  //   vid_id: '2583768',
+  //   model_name: 'Montez',
+  //   id: '',
+  // },
   {
     vid_id: '48735',
     model_name: 'Victoria',
@@ -8885,11 +8885,11 @@ export default [
     model_name: 'Joanna',
     id: '',
   },
-  {
-    vid_id: '4592722',
-    model_name: 'Montez',
-    id: '',
-  },
+  // {
+  //   vid_id: '4592722',
+  //   model_name: 'Montez',
+  //   id: '',
+  // },
   {
     vid_id: '77817',
     model_name: 'Beth',

@@ -6,6 +6,7 @@ import crypto from '../../images/crypto.webp'
 import { Link } from 'react-router-dom'
 import twitter from '../../images/twitter.webp'
 import RandomGif from '../components/RandomGif'
+// import Chat from '../chat/chat'
 
 const Home = () => {
   const breakpointColumnsObj = {
@@ -40,6 +41,7 @@ const Home = () => {
               style={{
                 width: '100%',
                 margin: '20px auto',
+                padding: '0',
               }}
             >
               Steve's Letter to MasterCard
@@ -57,6 +59,11 @@ const Home = () => {
 
           <p>What's new?</p>
           <ul>
+            <li>
+              View <Link to="/videos">videos</Link> and{' '}
+              <Link to="/photos">photos</Link> in grid or masonry format. Look
+              for the button at the top of the page!
+            </li>
             <li>
               The <Link to="/cart">shopping cart</Link> is here! Click on the
               icon in the lower-right corner for quick access to your list.
@@ -77,6 +84,32 @@ const Home = () => {
           </ul>
           <p>Please keep checking back for new features!</p>
         </section>
+
+        {/* <section>
+          <h2 style={{ marginTop: '0' }}>Let's Chat!</h2>
+          <p style={{ marginBottom: '0px' }}>
+            Chat with others who are online right now! *
+            <br />
+            But, please don't be an asshole...
+          </p>
+          <iframe
+            name="chat"
+            id="chat"
+            width="100%"
+            height="530px"
+            scrolling="no"
+            style={{
+              visibility: 'visible',
+              border: 'none',
+              margin: '0',
+              overflow: 'hidden',
+            }}
+            src="http://localhost:4000"
+          ></iframe>
+          <small>
+            * Messages are not saved and are lost when you leave this page.
+          </small>
+        </section> */}
 
         <section>
           <RandomGif />
@@ -110,14 +143,8 @@ const Home = () => {
         </section>
 
         <section>
-          <Link to="/bitcoin" className="title">
-            <img
-              src={crypto}
-              alt="Buy with Bitcoin"
-              style={{ width: '100%' }}
-            />
-            <h2>Buy with Bitcoin!</h2>
-          </Link>
+          <img src={crypto} alt="Buy with Bitcoin" style={{ width: '100%' }} />
+          <h2>Buy with Bitcoin!</h2>
           <p>
             Easy order clips, DVDs, and photos using Bitcoin! After payment,
             check your inbox for download links!
@@ -164,7 +191,7 @@ const Home = () => {
             target="_blank"
             rel="noopener noreferrer"
           >
-            <button style={{ width: '100%', margin: '0 auto' }}>
+            <button style={{ width: '100%', margin: '0 auto', padding: '0' }}>
               Follow & Share @powershotzz
             </button>
           </a>

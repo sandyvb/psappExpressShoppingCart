@@ -19,7 +19,7 @@ if ($_POST) {
 
 
     $subject = "FREE VIDEO CONTEST";
-    $to = "alexandra@powershotz.com";
+    $to = "alexandra@innocent.com";
 
     // set response code - 200 OK
 

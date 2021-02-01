@@ -31,7 +31,7 @@ class ModelSlider extends Component {
     const aeClipName = this.state.modeldata.find(
       (item) => item.model_name === name
     ).ae_clip
-    const aeClipSrc = 'https://powershotz.com/videos/' + aeClipName
+    const aeClipSrc = 'https://powershotz.com/aeVideos/' + aeClipName
 
     // FIND ANY GIFS WITH 'NAME'
     const gifs = []

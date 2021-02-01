@@ -797,12 +797,12 @@ export default [
     description: 'Vintage beauty is bound and ballgagged',
     ae_clip: null,
   },
-  {
-    model_name: 'Montez',
-    description:
-      'Gorgeous black 19 year old breeding material.  Needs a good whipping now and then to keep her in line.',
-    ae_clip: null,
-  },
+  // {
+  //   model_name: 'Montez',
+  //   description:
+  //     'Gorgeous black 19 year old breeding material.  Needs a good whipping now and then to keep her in line.',
+  //   ae_clip: null,
+  // },
   {
     model_name: 'Mysti',
     description: 'Big breasted, blonde, and  babalicious!',

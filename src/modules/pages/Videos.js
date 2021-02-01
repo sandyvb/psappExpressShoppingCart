@@ -95,6 +95,7 @@ const Videos = () => {
       padding: '10px',
       boxShadow: '1px 2px 3px rgba(0, 0, 0, 0.5)',
       margin: '5px',
+      justifyContent: 'center',
     },
     showButtons: {
       minWidth: '120px',

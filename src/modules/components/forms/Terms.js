@@ -93,8 +93,7 @@ function Terms(props) {
       </p>
       <h3>Customer Service Questions?</h3>
       <p>
-        Email{' '}
-        <a href="mailto:alexandra@powershotz.com">alexandra@powershotz.com</a>{' '}
+        Email <a href="mailto:alexandra@innocent.com">alexandra@innocent.com</a>{' '}
         or <Link to="/contact">use our contact form.</Link>
       </p>
     </div>

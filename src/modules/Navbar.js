@@ -82,6 +82,20 @@ const Navbar = () => {
         </Link>
 
         <div
+          style={{
+            fontSize: '2rem',
+            color: 'white',
+            marginTop: '68px',
+            marginBottom: '-50px',
+            textAlign: 'center',
+            padding: '30px',
+          }}
+        >
+          Powershotz won't be fully functional for another few days. Sorry for
+          the inconvenience, thank you for your patience, and have fun browsing!
+        </div>
+
+        <div
           className="burgerDiv"
           id="burgerDiv"
           onClick={() => {

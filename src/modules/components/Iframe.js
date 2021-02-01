@@ -3,7 +3,7 @@ import React, { useState } from 'react'
 const Iframe = ({ name, number }) => {
   const [hideModal, setHideModal] = useState(true)
   let lcName = name.toLowerCase().replace(/ /g, '')
-  const url = `https://powershotz.com/7xsT6AAvE1YM/zImages/${lcName}/thumbs/${lcName}-`
+  const url = `https://powershotz.com/7xsT6AAvE1YM/${lcName}/thumbs/${lcName}-`
 
   // set size of preview modal
   let setWidth = window.screen.width <= 980 ? '100%' : '50%'

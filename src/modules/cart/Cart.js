@@ -151,6 +151,11 @@ const Cart = () => {
       {itemCount > 0 && (
         <div style={{ width: width, margin: '0 auto' }}>
           <ul style={{ margin: '0 0 25px 0' }}>
+            <li style={{ color: 'lime' }}>
+              The "PAY WITH BITCOIN" button isn't working yet. If you'd like to
+              place an order please{' '}
+              <a href="mailto:alexandra@innocent.com">email me</a>{' '}
+            </li>
             <li style={{ margin: '0' }}>Use this cart to order downloads</li>
             <li style={{ margin: '0' }}>Pay with Bitcoin</li>
             <li style={{ margin: '0' }}>
