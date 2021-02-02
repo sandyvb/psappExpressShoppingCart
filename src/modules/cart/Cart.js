@@ -3,7 +3,6 @@ import CartDetail from './CartDetail'
 import Blockonomics from '../components/Blockonomics'
 import '../../css/mylist.css'
 import WhyBanned from '../components/banned/WhyBanned'
-// import SendInvoice from './SendInvoice'
 import ClearContinueButtons from './ClearContinueButtons'
 import { CartContext } from '../contexts/CartContext'
 import { Link } from 'react-router-dom'
@@ -185,15 +184,13 @@ const Cart = () => {
           >
             <div>
               <Blockonomics
+                key={amtDue}
                 name={`Powershotz Cart | ${itemCount} item${s}`}
                 description={titles}
                 price={amtDue}
                 links={downloadLinks}
               />
             </div>
-            {/* <div style={{ marginLeft: '7px', flexGrow: '1' }}>
-              <SendInvoice />
-            </div> */}
           </div>
 
           <div style={{ margin: '0 15px 30px 15px' }}>

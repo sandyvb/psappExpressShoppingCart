@@ -81,7 +81,7 @@ const Navbar = () => {
           <span id="powershotz">Powershotz</span>
         </Link>
 
-        <div
+        {/* <div
           style={{
             fontSize: '2rem',
             color: 'white',
@@ -93,7 +93,7 @@ const Navbar = () => {
         >
           Powershotz won't be fully functional for another few days. Sorry for
           the inconvenience, thank you for your patience, and have fun browsing!
-        </div>
+        </div> */}
 
         <div
           className="burgerDiv"

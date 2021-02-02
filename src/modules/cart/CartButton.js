@@ -10,11 +10,13 @@ const CartButton = ({ item, width }) => {
       fontSize: '1rem',
       minWidth: width,
       height: '51px',
+      padding: '0',
     },
     remove: {
       fontSize: '0.9rem',
       minWidth: width,
       height: '51px',
+      padding: '0',
     },
   }
 

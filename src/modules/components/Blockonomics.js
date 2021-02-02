@@ -1,30 +1,25 @@
 import React, { useState, useEffect } from 'react'
+import io from 'socket.io-client'
+const ENDPOINT = 'http://127.0.0.1:5000'
+// const socket = io(ENDPOINT)
 
 const Blockonomics = ({ name, description, price, links }) => {
   const [data, setData] = useState('0')
-
-  const parentUid = 'dac8778e542911eb'
+  let socket = io()
+  socket = io('http://31.220.61.161:5000')
 
   useEffect(() => {
-    callBlockonomics()
+    socket.emit('sendData', {
+      product_name: name,
+      product_description: JSON.stringify(description),
+      value: parseFloat(price).toFixed(2),
+      extra_data: JSON.stringify(links),
+    })
   })
 
-  const callBlockonomics = async () => {
-    await fetch('/product', {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({
-        parent_uid: parentUid,
-        product_name: name,
-        product_description: JSON.stringify(description),
-        value: parseFloat(price).toFixed(2),
-        extra_data: JSON.stringify(links),
-      }),
-    })
-      .then((response) => response.json())
-      .then((json) => setData(json.uid))
-      .catch((err) => console.log(err))
-  }
+  socket.on('getChildUid', (childUid) => {
+    setData(childUid)
+  })
 
   const styles = {
     button: {
@@ -37,6 +32,7 @@ const Blockonomics = ({ name, description, price, links }) => {
 
   return (
     <button
+      key={data}
       title="Pay with Bitcoin"
       style={styles.button}
       className="blockoPayBtn"

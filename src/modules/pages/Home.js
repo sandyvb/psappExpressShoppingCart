@@ -74,7 +74,7 @@ const Home = () => {
             </li>
             <li>
               Please give us a positive rating for your checkout! Someone didn't
-              check their junk mail for their download link... :(
+              check their junk mail for their download link...
             </li>
             <li>
               Click on any heart to add a video or photo set to your{' '}
@@ -95,6 +95,7 @@ const Home = () => {
           <iframe
             name="chat"
             id="chat"
+            title="chat"
             width="100%"
             height="530px"
             scrolling="no"
@@ -104,7 +105,7 @@ const Home = () => {
               margin: '0',
               overflow: 'hidden',
             }}
-            src="http://localhost:4000"
+            src="http://localhost:5000"
           ></iframe>
           <small>
             * Messages are not saved and are lost when you leave this page.
@@ -191,7 +192,7 @@ const Home = () => {
             target="_blank"
             rel="noopener noreferrer"
           >
-            <button style={{ width: '100%', margin: '0 auto', padding: '0' }}>
+            <button style={{ width: '100%', margin: '0 auto' }}>
               Follow & Share @powershotzz
             </button>
           </a>

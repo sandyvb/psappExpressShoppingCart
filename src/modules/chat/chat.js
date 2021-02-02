@@ -38,6 +38,7 @@ const Chat = () => {
     }
   }
 
+  let test
   socket.on('chat', (data) => {
     handleData(data)
     console.log('socket', array)
