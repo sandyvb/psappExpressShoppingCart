@@ -1,12 +1,11 @@
 import React, { useState, useEffect } from 'react'
 import io from 'socket.io-client'
-const ENDPOINT = 'http://127.0.0.1:5000'
-// const socket = io(ENDPOINT)
 
 const Blockonomics = ({ name, description, price, links }) => {
   const [data, setData] = useState('0')
-  let socket = io()
-  socket = io('http://31.220.61.161:5000')
+  let endpoint = 'https://powershotz.com'
+  // endpoint = 'http://localhost:5000'
+  const socket = io()
 
   useEffect(() => {
     socket.emit('sendData', {

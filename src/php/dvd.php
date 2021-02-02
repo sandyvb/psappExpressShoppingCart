@@ -21,7 +21,7 @@ if ($_POST) {
 
 
     $subject = "POWERSHOTZ DVD ORDER";
-    $to = "alexandra@innocent.com";
+    $to = "alexandra@powershotz.com";
 
     // set response code - 200 OK
 
@@ -61,7 +61,7 @@ if ($_POST) {
         <body>
             <h1>Thank you for your order, $name!</h1>
             <hr/>
-            <p>An invoice from <a href='mailto:alexandra@innocent.com'>alexandra@innocent.com</a> will arrive in your inbox shortly. It will include payment instructions.</p>
+            <p>An invoice from <a href='mailto:alexandra@powershotz.com'>alexandra@powershotz.com</a> will arrive in your inbox shortly. It will include payment instructions.</p>
             <p>Orders usually ship within 1-3 business days upon receipt of payment.</p>
             <p>Thanks again for ordering from Powershotz and have a great day!<br/><i>Alexandra</i></p>
         </body>

@@ -44,7 +44,7 @@ export default function Faqs() {
           </p>
           <ol>
             <li>
-              YES! Just <a href="mailto:alexandra@innocent.com">email me</a>{' '}
+              YES! Just <a href="mailto:alexandra@powershotz.com">email me</a>{' '}
               until the shopping cart is finished.
             </li>
           </ol>
@@ -64,7 +64,9 @@ export default function Faqs() {
             <b>DOWNLOAD INSTRUCTIONS:</b>
           </p>
           <ol>
-            <li>Click on the link in your email from alexandra@innocent.com</li>
+            <li>
+              Click on the link in your email from alexandra@powershotz.com
+            </li>
             <li>Save the file(s) somewhere on your computer</li>
           </ol>
         </AccordionItem>
@@ -78,7 +80,9 @@ export default function Faqs() {
           <p>
             Please <Link to="/contact">use this link to contact us</Link> or
             send an email to{' '}
-            <a href="mailto:alexandra@innocent.com">alexandra@innocent.com</a>
+            <a href="mailto:alexandra@powershotz.com">
+              alexandra@powershotz.com
+            </a>
           </p>
         </AccordionItem>
 
@@ -98,7 +102,9 @@ export default function Faqs() {
             <b>Disable your browser's popup blocker for this site</b>, refresh
             the page, or try a different browser. If nothing works, please{' '}
             <Link to="/contact">contact me</Link> or email me at{' '}
-            <a href="mailto:alexandra@innocent.com">alexandra@innocent.com</a>
+            <a href="mailto:alexandra@powershotz.com">
+              alexandra@powershotz.com
+            </a>
           </p>
         </AccordionItem>
 

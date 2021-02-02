@@ -17,7 +17,7 @@ if ($_POST) {
 
 
     $subject = "POWERSHOTZ SINGLE DVD ORDER";
-    $to = "alexandra@innocent.com";
+    $to = "alexandra@powershotz.com";
 
     // set response code - 200 OK
 

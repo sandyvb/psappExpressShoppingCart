@@ -22,8 +22,8 @@ $ErrorTemplate = "";                                          // Optional error 
 
 // The following variables must be set if you wish to use the email links feature of Linklok
 $YourCompany = "Powershotz";                                // Your company name
-$YourEmail = "alexandra@innocent.com";                            // Your email address
-$CopyEmail = "alexandra@innocent.com";                                              // Set an email address if you want to receive copies of emails sent to users
+$YourEmail = "alexandra@powershotz.com";                            // Your email address
+$CopyEmail = "alexandra@powershotz.com";                                              // Set an email address if you want to receive copies of emails sent to users
 $EmailTemplate = "";                                          // Optional html or text format email template
 $HTMLEmail = "Y";                                             // Set to Y to send the default email in HTML formator N to send in text format
 $LinklokLog = "";                                             // Optional text log file to store form entry fields
@@ -31,7 +31,7 @@ $NotifyTemplate = "";                                         // Optional email 
 
 $LinklokDownloadLog = "home/public_html/downloadlog.txt";                                     // Optional text log to store downloads
 $RequireTuring = 0;                                           // Set to 1 to use Turing code. Set to 0 to disable
-$NotifyDownloadEmail = "alexandra@innocent.com";                                    // Email address to receive download notificaton email
+$NotifyDownloadEmail = "alexandra@powershotz.com";                                    // Email address to receive download notificaton email
 
 $DownloadURL = "https://powershotz.com/linklokurl.php";  //overrides any password protection see pg.26 in manual
 

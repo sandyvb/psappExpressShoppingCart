@@ -153,7 +153,10 @@ const Cart = () => {
             <li style={{ color: 'lime' }}>
               The "PAY WITH BITCOIN" button isn't working yet. If you'd like to
               place an order please{' '}
-              <a href="mailto:alexandra@innocent.com">email me</a>{' '}
+              <a href="mailto:alexandra@powershotz.com">email me</a>{' '}
+            </li>
+            <li style={{ color: 'lime' }}>
+              Anyone an expert at socket.io? Free videos!!!
             </li>
             <li style={{ margin: '0' }}>Use this cart to order downloads</li>
             <li style={{ margin: '0' }}>Pay with Bitcoin</li>

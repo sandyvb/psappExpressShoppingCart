@@ -260,8 +260,8 @@ class SingleDvd extends Component {
               color: 'var(--textColor)',
             }}
           >
-            Or, <a href="mailto:alexandra@innocent.com">email me</a> to place an
-            order.
+            Or, <a href="mailto:alexandra@powershotz.com">email me</a> to place
+            an order.
           </p>
           <input
             placeholder="Your Name"

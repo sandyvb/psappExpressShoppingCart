@@ -87,8 +87,8 @@ const ThankYou = () => {
             Please check your spam/junk mail if your links don't arrive within
             10 minutes.
             <br />
-            <a href="mailto:alexandra@innocent.com">Email me</a> if you have any
-            problems.
+            <a href="mailto:alexandra@powershotz.com">Email me</a> if you have
+            any problems.
           </p>
           <p>Button functions:</p>
           <p>

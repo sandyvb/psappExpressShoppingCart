@@ -241,8 +241,8 @@ class Bitcoin extends Component {
           <li>Your DVD order will usually ship within one business day.</li>
           <li>
             If ordering downloads, you will receive a link and login information
-            from alexandra@innocent.com within one business day upon receipt of
-            payment.
+            from alexandra@powershotz.com within one business day upon receipt
+            of payment.
           </li>
           <li>
             Send your payment to the wallet addresses above. If you have any

@@ -20,7 +20,7 @@ if ($_POST) {
     $ip = $_SERVER['REMOTE_ADDR'];
 
     $subject = "POWERSHOTZ BITCOIN ORDER";
-    $to = "alexandra@innocent.com";
+    $to = "alexandra@powershotz.com";
 
     // set response code - 200 OK
 
@@ -60,7 +60,7 @@ if ($_POST) {
         <body>
             <h1>Thank you for your order, $name!</h1>
             <hr/>
-            <p>A payment confirmation from <a href='mailto:alexandra@innocent.com'>alexandra@innocent.com</a> will arrive in your inbox shortly. It will include download instructions if applicable.</p>
+            <p>A payment confirmation from <a href='mailto:alexandra@powershotz.com'>alexandra@powershotz.com</a> will arrive in your inbox shortly. It will include download instructions if applicable.</p>
             <p>DVD orders will usually ship within 1-3 business days upon receipt of payment.</p>
             <p>If you haven't already sent your payment, here are our wallet addresses:</p>
             <ul>
