@@ -3697,7 +3697,7 @@ export default [
     price: '39.99',
     date: '2016-12-11 00:53:20',
     name: 'vl002_1.mp4',
-    image: 'vl02coverad.jpg',
+    image: 'vl002coverad.jpg',
     poster: 'vl002coverad.jpg',
     displayorder: '1996',
     length: '01:32:00',

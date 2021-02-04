@@ -151,12 +151,10 @@ const Cart = () => {
         <div style={{ width: width, margin: '0 auto' }}>
           <ul style={{ margin: '0 0 25px 0' }}>
             <li style={{ color: 'lime' }}>
-              The "PAY WITH BITCOIN" button isn't working yet. If you'd like to
-              place an order please{' '}
-              <a href="mailto:alexandra@powershotz.com">email me</a>{' '}
-            </li>
-            <li style={{ color: 'lime' }}>
-              Anyone an expert at socket.io? Free videos!!!
+              The "PAY WITH BITCOIN" button <em>IS</em> working! But, not the
+              way I want. Number of requests are limited right now. Refresh the
+              page or wait a little while. I'm working on this! It's fucking
+              difficult!!
             </li>
             <li style={{ margin: '0' }}>Use this cart to order downloads</li>
             <li style={{ margin: '0' }}>Pay with Bitcoin</li>

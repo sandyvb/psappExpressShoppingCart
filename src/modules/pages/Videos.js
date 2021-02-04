@@ -141,7 +141,7 @@ const Videos = () => {
         <input
           type="search"
           value={q}
-          placeholder="Search..."
+          placeholder="Search videos..."
           onChange={handleChange}
           style={{ marginBottom: '15px' }}
         />

@@ -153,7 +153,7 @@ const Photos = () => {
         <input
           type="search"
           value={q}
-          placeholder="Search..."
+          placeholder="Search models..."
           onChange={handleChange}
           style={{ marginBottom: '15px' }}
         />
