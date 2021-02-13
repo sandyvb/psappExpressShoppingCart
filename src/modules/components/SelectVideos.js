@@ -12,7 +12,7 @@ class SelectVideos extends Component {
       order: '',
       subtotal: 0,
       ccfee: 0,
-      total: 0
+      total: 0,
     }
     this.handleChange = this.handleChange.bind(this)
   }
@@ -27,9 +27,9 @@ class SelectVideos extends Component {
 
     if (val !== null) {
       this.setState({ order: val }, () => {
-        this.state.order.map(item => (tempsubtotal += Number(item.price)))
+        this.state.order.map((item) => (tempsubtotal += Number(item.price)))
         this.setState({ subtotal: tempsubtotal.toFixed(2) }, () => {
-          tempccfee = val.length * 3
+          tempccfee = val.length * 1
           this.setState({ ccfee: tempccfee }, () => {
             temptotal = tempsubtotal + tempccfee
             this.setState({ total: temptotal.toFixed(2) }, () => {
@@ -44,7 +44,7 @@ class SelectVideos extends Component {
           order: '',
           subtotal: 0,
           ccfee: 0,
-          total: 0
+          total: 0,
         },
         () => {
           this.props.parentCallback(this.state)
@@ -61,7 +61,7 @@ class SelectVideos extends Component {
             color: 'var(--textColor)',
             fontStyle: 'normal',
             textAlign: 'left',
-            marginTop: '0'
+            marginTop: '0',
           }}
         >
           Start typing a video TITLE or CODE or use the DROPDOWN arrow:
@@ -78,7 +78,7 @@ class SelectVideos extends Component {
           <h3>Order Details:</h3>
           <ul>
             {this.state.order.length > 0
-              ? this.state.order.map(item => (
+              ? this.state.order.map((item) => (
                   <li key={item.value}>
                     {item.value} - {item.label}
                     <span style={{ float: 'right' }}>{item.price}</span>

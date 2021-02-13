@@ -16,10 +16,10 @@
 }
 
 .faqs button.title {
-    font-size: 1rem;
     color: var(--textColor) !important;
     background-color: var(--accentColor1) !important;
     border: 1px solid var(--backgroundColor) !important;
+    padding: 0 20px !important;
 }
 
 .faqs button.title:hover {

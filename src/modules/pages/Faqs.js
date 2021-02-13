@@ -11,6 +11,7 @@ export default function Faqs() {
       <header>
         <h1>FAQs</h1>
       </header>
+
       <Accordion atomic={true}>
         <AccordionItem title="Are Powershotz videos available anywhere else?">
           <p>
@@ -22,6 +23,7 @@ export default function Faqs() {
             probably low quality.
           </p>
         </AccordionItem>
+
         <AccordionItem title="How do I order?">
           <p>It's Easy!</p>
           <p>
@@ -44,8 +46,7 @@ export default function Faqs() {
           </p>
           <ol>
             <li>
-              YES! Just <a href="mailto:alexandra@powershotz.com">email me</a>{' '}
-              until the shopping cart is finished.
+              <a href="mailto:alexandra@powershotz.com">email me</a>
             </li>
           </ol>
           <p>
@@ -59,27 +60,97 @@ export default function Faqs() {
           </ol>
         </AccordionItem>
 
+        <AccordionItem title="Why isn't the buy button working?">
+          <p>
+            Please refresh the page or Ctrl+F5 to revalidate your cart contents.
+          </p>
+        </AccordionItem>
+
         <AccordionItem title="How do I download my videos?">
           <p>
             <b>DOWNLOAD INSTRUCTIONS:</b>
           </p>
           <ol>
-            <li>
-              Click on the link in your email from alexandra@powershotz.com
-            </li>
-            <li>Save the file(s) somewhere on your computer</li>
+            <li>Click on a link in your email from alexandra@powershotz.com</li>
+            <li>Save the file somewhere on your computer</li>
           </ol>
         </AccordionItem>
 
-        <AccordionItem title="What if I have problems downloading my video?">
+        <AccordionItem title="Why does my download keep failing?">
           <p>Don't worry... We GUARANTEE that you will get your video!</p>
           <p>
             We will work with you to makes sure that you get your video as
             quickly and easily as possible.
           </p>
+          <ol>
+            <li>
+              Some browsers will pause or fail a download in the event of a
+              service interruption. Even a disconnection lasting a fraction of a
+              second can cause the failure of a file download.
+            </li>
+            <li>
+              If your connection is slow, or the server from where the file is
+              being downloaded is overloaded, it can cause the download to fail
+              or time out.
+            </li>
+          </ol>
+          <p>What should you do about it?</p>
+          <ol>
+            <li>If available, press the 'resume' button.</li>
+            <li>Download large files during off-peak hours.</li>
+            <li>Try using a different web browser.</li>
+            <li>Try using a cloud service like Dropbox.</li>
+            <li>Clear your browsing data.</li>
+            <li>
+              Check to see if your are running the latest version of your
+              browser.
+            </li>
+            <li>
+              Inside the browser settings, select Advanced Settings, increase
+              the connection timeout option to 60 seconds, and then save your
+              settings.
+            </li>
+            <li>
+              If the option to open file is available, open it. Try
+              right-clicking the video and select Save As.
+            </li>
+            <li>
+              If nothing works, please{' '}
+              <Link to="/contact">use this link to contact us</Link> or send an
+              email to{' '}
+              <a href="mailto:alexandra@powershotz.com">
+                alexandra@powershotz.com
+              </a>
+            </li>
+          </ol>
+        </AccordionItem>
+
+        <AccordionItem title="Why haven't I received my download links?">
           <p>
-            Please <Link to="/contact">use this link to contact us</Link> or
-            send an email to{' '}
+            There may be a few reasons why you haven't received your download
+            links.
+          </p>
+          <ol>
+            <li>The email went to your junk or spam folder.</li>
+            <li>Your Bitcoin payment timed out.</li>
+            <ul>
+              <li>Our processor will time out a payment after 30 minutes</li>
+              <li>
+                Most of the time, payments will confirm within 10 minutes. But
+                sometimes the blockchain can be slow and it could take hours for
+                a payment to confirm.
+              </li>
+              <li>
+                If you've paid and the transaction times out, DON'T WORRY!{' '}
+                <strong>Your payment won't be lost.</strong> It will be returned
+                to your wallet.
+              </li>
+            </ul>
+          </ol>
+          <p>
+            If you need more information about your payment status, please{' '}
+            <Link to="/contact">use this link to contact us</Link> or send an
+            email to{' '}
             <a href="mailto:alexandra@powershotz.com">
               alexandra@powershotz.com
             </a>
@@ -88,24 +159,6 @@ export default function Faqs() {
 
         <AccordionItem title="I've lost my file or it has become corrupted!">
           <p>We have a 90-day replacement policy on all downloadable orders.</p>
-        </AccordionItem>
-
-        <AccordionItem title="My DVD has arrived damaged!">
-          <p>
-            If the DVD has arrived to you damaged, just send it back right away
-            and we will replace it.
-          </p>
-        </AccordionItem>
-
-        <AccordionItem title="Help! The buttons don't work!">
-          <p>
-            <b>Disable your browser's popup blocker for this site</b>, refresh
-            the page, or try a different browser. If nothing works, please{' '}
-            <Link to="/contact">contact me</Link> or email me at{' '}
-            <a href="mailto:alexandra@powershotz.com">
-              alexandra@powershotz.com
-            </a>
-          </p>
         </AccordionItem>
 
         <AccordionItem title="How do I buy DVDs?">
@@ -123,6 +176,13 @@ export default function Faqs() {
           </p>
         </AccordionItem>
 
+        <AccordionItem title="My DVD has arrived damaged!">
+          <p>
+            If the DVD has arrived to you damaged, just send it back right away
+            and we will replace it.
+          </p>
+        </AccordionItem>
+
         <AccordionItem title="What's the difference between the VL & PZV series videos?">
           <p>The VL series contain penetration scenes.</p>
           <p>
@@ -133,18 +193,11 @@ export default function Faqs() {
         <AccordionItem title="Are the clips part of a full-length video?">
           <p>
             Most clips are taken from one of the full-length videos. Often, I'm
-            not sure which one! :(
+            not sure which one! &#x2639;
           </p>
           <p>
             Please <Link to="/contact">contact me</Link> if you'd like help
             figuring it out.
-          </p>
-        </AccordionItem>
-
-        <AccordionItem title="Are there more clips?">
-          <p>
-            There are 1000s of short clips available right now! But, there are
-            still a few that haven't been released yet. Keep checking back!
           </p>
         </AccordionItem>
 
@@ -163,8 +216,8 @@ export default function Faqs() {
             higher.
           </p>
           <p>
-            The performers are often fully bound, repeatedly saying no, and
-            asking for it to stop. It appears as though the performers are
+            Note: The performers are often fully bound, repeatedly saying no,
+            and asking for it to stop. It appears as though the performers are
             having sexual activity against their will. But they aren't...{' '}
             <b>they're acting!</b>
           </p>
@@ -172,7 +225,7 @@ export default function Faqs() {
 
         <AccordionItem title="Can I use the photos and videos any way I want?">
           <p>
-            The content is copyrighted and is for your personal use only.
+            No. The content is copyrighted and is for your personal use only.
             Powershotz images and videos may not be distributed.
           </p>
           <p>
@@ -206,6 +259,25 @@ export default function Faqs() {
           <p>
             We will <strong>NEVER</strong> disclose any personal information
             about any of our models!
+          </p>
+        </AccordionItem>
+
+        <AccordionItem title="Can I sell my videos on your site?">
+          <p>
+            We are thinking about expanding our site to include other studios if
+            there is enough interest.
+          </p>
+          <p>
+            If you need server or website services, please{' '}
+            <Link to="/contact">use this link to contact Alexandra</Link> or
+            send an email to{' '}
+            <a href="mailto:alexandra@powershotz.com">
+              alexandra@powershotz.com
+            </a>
+          </p>
+          <p>
+            Alexandra is an awesome full-stack mobile/web app developer!
+            &#128521;
           </p>
         </AccordionItem>
       </Accordion>

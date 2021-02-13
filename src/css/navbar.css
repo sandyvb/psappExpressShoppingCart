@@ -242,4 +242,11 @@
     padding: 20px 0;
     font-size: 1rem;
   }
+  .navbar .top,
+  .navbar .bottom,
+  .navbar .list,
+  .navbar .cart {
+    right: 3%;
+
+  }
 }

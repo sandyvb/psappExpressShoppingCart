@@ -20,7 +20,7 @@ if ($_POST) {
     $ip = $_SERVER['REMOTE_ADDR'];
 
 
-    $subject = "POWERSHOTZ DVD ORDER";
+    $subject = "Powershotz DVD Order";
     $to = "alexandra@powershotz.com";
 
     // set response code - 200 OK
@@ -43,9 +43,9 @@ if ($_POST) {
         <p><b>Email: </b> $from</p>
         <p><b>Street Address: </b> $address1</p>
         <p><b>City, State, Zip: </b> $address2</p>
-        <h3><b>Payment Method: </b> $payment</h3>
+        <h3><b>Payment Method: </b> Bitcoin</h3>
         <p><b>Order Details: </b> $videos</p>
-        <p>Send customer invoice.</p>
+        <p>Send customer bitcoin invoice.</p>
         <hr/>
         <small>User's ip address: $ip</small>
         <small><a href='https://www.plus2net.com/php_tutorial/php_ip-demo2.php'>click for more info</a></small>
@@ -63,7 +63,7 @@ if ($_POST) {
             <hr/>
             <p>An invoice from <a href='mailto:alexandra@powershotz.com'>alexandra@powershotz.com</a> will arrive in your inbox shortly. It will include payment instructions.</p>
             <p>Orders usually ship within 1-3 business days upon receipt of payment.</p>
-            <p>Thanks again for ordering from Powershotz and have a great day!<br/><i>Alexandra</i></p>
+            <p>Thanks again for ordering from Powershotz and have a great day!<br/><i>Alexandra</i>&hearts;</p>
         </body>
     </html>
     ";

@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import bluex from '../../../images/bluex.webp'
-import { Link } from 'react-router-dom'
+// import { Link } from 'react-router-dom'
 
 export default function WhyBanned() {
   const [hideWhy, setHideWhy] = useState(true)
@@ -9,8 +9,7 @@ export default function WhyBanned() {
     why: {
       display: 'block',
       margin: '0px auto',
-      paddingLeft: '20px',
-      paddingRight: '20px',
+      padding: '0 20px 0 20px',
     },
     whyDiv: {
       width: '100%',
@@ -71,11 +70,11 @@ export default function WhyBanned() {
           We are sorry for the inconvenience, the puritanical nature of our
           society, and the legislation of your morality...
         </p>
-        <Link to={'/letter'}>
+        {/* <Link to={'/letter'}>
           <button style={{ paddingRight: '20px', paddingLeft: '20px' }}>
             Steve's Letter to MasterCard
           </button>
-        </Link>
+        </Link> */}
       </div>
     </div>
   )

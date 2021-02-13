@@ -16,7 +16,7 @@ if ($_POST) {
     $ip = $_SERVER['REMOTE_ADDR'];
 
 
-    $subject = "POWERSHOTZ SINGLE DVD ORDER";
+    $subject = "Powershotz Single DVD Order";
     $to = "alexandra@powershotz.com";
 
     // set response code - 200 OK

@@ -172,6 +172,7 @@ const Photos = () => {
             display: 'flex',
             textAlign: 'center',
             margin: '30px auto 20px auto',
+            flexWrap: 'wrap',
           }}
         >
           <button

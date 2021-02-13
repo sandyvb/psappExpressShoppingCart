@@ -54,7 +54,7 @@ const Navbar = () => {
       height: '24px',
       width: '24px',
       textAlign: 'center',
-      padding: '2.4px',
+      paddingTop: '2.4px',
       fontFamily: 'cursive',
       border: '1px solid var(--backgroundColor)',
       transform: 'translateY(-25px)',
@@ -80,20 +80,6 @@ const Navbar = () => {
           />
           <span id="powershotz">Powershotz</span>
         </Link>
-
-        {/* <div
-          style={{
-            fontSize: '2rem',
-            color: 'white',
-            marginTop: '68px',
-            marginBottom: '-50px',
-            textAlign: 'center',
-            padding: '30px',
-          }}
-        >
-          Powershotz won't be fully functional for another few days. Sorry for
-          the inconvenience, thank you for your patience, and have fun browsing!
-        </div> */}
 
         <div
           className="burgerDiv"

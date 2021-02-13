@@ -112,13 +112,13 @@ export default function Detail() {
       <div>
         <div className="prevnext">
           <Link to={`/${prev}`} className="prevbtn">
-            <button>
+            <button style={{ padding: '0' }}>
               <FontAwesomeIcon icon={faCaretLeft} /> {prev}
             </button>
           </Link>
           <h1 className="title">{title}</h1>
           <Link to={`/${next}`} className="next nextbtn">
-            <button>
+            <button style={{ padding: '0' }}>
               {next} <FontAwesomeIcon icon={faCaretRight} />
             </button>
           </Link>
@@ -183,7 +183,7 @@ export default function Detail() {
               <button
                 style={{
                   maxWidth: '180px',
-                  padding: '15px 10px',
+                  padding: '0',
                 }}
               >
                 <FontAwesomeIcon icon={faCaretLeft} /> {prev}
@@ -192,7 +192,7 @@ export default function Detail() {
             <h1 className="title">{title}</h1>
             <Link to={`/${nextid}`} className="nextbtn">
               <button
-                style={{ maxWidth: '180px', padding: '15px 10px' }}
+                style={{ maxWidth: '180px', padding: '0' }}
                 className="next"
               >
                 {next} <FontAwesomeIcon icon={faCaretRight} />
@@ -212,11 +212,8 @@ export default function Detail() {
 
   function oops() {
     return (
-      <div className="oops">
+      <div className="oops" style={{ maxWidth: '800px' }}>
         <h1>Oops! Page Not Found!</h1>
-        <p style={{ textAlign: 'center', fontSize: '1.5rem' }}>
-          The preview is coming, or
-        </p>
         <p style={{ textAlign: 'center' }}>
           Try removing ".html" from the address bar, or...
         </p>

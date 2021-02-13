@@ -2,7 +2,7 @@ import React, { useContext } from 'react'
 import '../../css/mylist.css'
 import { CartContext } from '../contexts/CartContext'
 import MoveToListButton from './MoveToListButton'
-import RemoveBackButtons from './RemoveBackButtons'
+import RemoveFromCartButton from './RemoveFromCartButton'
 
 const ThankYou = () => {
   const { cart } = useContext(CartContext)
@@ -80,58 +80,63 @@ const ThankYou = () => {
       <header>
         <h1>Thank you for your purchase!</h1>
         <div>
-          <h3>Your Bitcoin payment is being processed.</h3>
+          <h3 style={{ color: 'lime' }}>
+            Your Bitcoin payment is being processed.
+          </h3>
           <p>
             You will receive your download link{s} shortly.
             <br />
             Please check your spam/junk mail if your links don't arrive within
-            10 minutes.
+            10-15 minutes.
             <br />
             <a href="mailto:alexandra@powershotz.com">Email me</a> if you have
             any problems.
           </p>
-          <p>Button functions:</p>
-          <p>
-            REMOVE FROM CART: remove order from your cart, but keep your saved
-            items
-            <br />
-            GO BACK TO CART: go back to cart, remove nothing
-          </p>
-          <p>
-            MOVE TO LIST: remove order from your cart, move items to My List and
-            mark as <em>"purchased"</em>
-            <br />
-            GO TO MY LIST: go to your list
-          </p>
+          <h3>Button functions:</h3>
+          <ul style={{ paddingLeft: '0', margin: '0 20px 10px 20px' }}>
+            <li style={{ margin: '0' }}>
+              REMOVE FROM CART: remove all the items from your cart, but keep
+              your saved items
+            </li>
+            <li style={{ margin: '0' }}>
+              MOVE TO LIST: remove all items from your cart and move them to
+              your list marked as <em>"purchased"</em>
+            </li>
+          </ul>
+
+          <small>
+            To view your cart or list, use the icon buttons on the lower right
+            of your screen.
+          </small>
         </div>
       </header>
 
       <div style={{ width: width, margin: '0 auto' }}>
-        <RemoveBackButtons />
-        <div>
-          <MoveToListButton />
-        </div>
-        <div style={{ height: '20px' }}></div>
-        <h2>Your Order:</h2>
-        <ul style={styles.ul}>{generateList}</ul>
-        <hr style={{ backgroundColor: 'lime' }} />
-        <div style={styles.totals}>
-          <h2>
-            <span style={styles.span}>Items: </span> {itemCount}
-          </h2>
-          <h2>
-            <span style={styles.span}>Status: </span>{' '}
-            {itemCount > 0 ? 'pending' : 'n/a'}
-          </h2>
-        </div>
-
         <div
           style={{
             display: 'flex',
-            justifyContent: 'center',
-            marginBottom: '30px',
+            justifyContent: 'space-between',
+            marginBottom: '45px',
           }}
-        ></div>
+        >
+          <RemoveFromCartButton />
+          <MoveToListButton />
+        </div>
+
+        <div style={{ margin: '0 20px 50px 20px' }}>
+          <h2>Your Order:</h2>
+          <ul style={styles.ul}>{generateList}</ul>
+          <hr style={{ backgroundColor: 'lime' }} />
+          <div style={styles.totals}>
+            <h2>
+              <span style={styles.span}>Items: </span> {itemCount}
+            </h2>
+            <h2>
+              <span style={styles.span}>Status: </span>{' '}
+              {itemCount > 0 ? 'pending' : 'n/a'}
+            </h2>
+          </div>
+        </div>
       </div>
     </div>
   )

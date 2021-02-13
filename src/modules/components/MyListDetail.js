@@ -11,9 +11,9 @@ const MyListDetail = (props) => {
   let name
   let lcName
   let type
-  let price
+  let price = '0'
   let code
-  let pzcode = 0
+  let pzcode = '0'
   let thumb
   let linkTo
   let numberOfPhotos = 0
@@ -49,7 +49,7 @@ const MyListDetail = (props) => {
       (item) => item.model_name === props.item.model_name
     )
     toCart = model
-    price = model.price
+    price = model.price || '0'
     code = model.id
     numberOfPhotos = model.num_photos
     productDescription = `${numberOfPhotos} photos`
@@ -103,7 +103,7 @@ const MyListDetail = (props) => {
           <CartButton item={toCart} />
         </div>
 
-        {pzcode !== 0 ? (
+        {props.item.pz_code ? (
           <div>
             <Link to={{ pathname: '/dvd', state: { code: pzcode } }}>
               <button style={{ marginBottom: '15px' }}>BUY DVD</button>

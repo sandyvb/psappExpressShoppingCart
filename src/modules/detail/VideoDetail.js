@@ -93,7 +93,7 @@ const VideoDetail = (props) => {
             <CartButton item={props.video} />
           </div>
 
-          {props.video.poster && (
+          {props.video.pz_code && (
             <div style={{ margin: '20px auto' }}>
               <Link to="/dvd">
                 <button>Buy DVD</button>

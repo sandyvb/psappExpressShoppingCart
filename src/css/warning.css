@@ -37,11 +37,3 @@
 .warning p {
     text-transform: uppercase;
 }
-
-.warning button {
-    color: lime;
-    padding: 15px 0;
-    font-size: 1.75rem;
-    width: 100%;
-    font-weight: bold;
-}

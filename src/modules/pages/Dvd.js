@@ -23,7 +23,7 @@ const validateForm = (state) => {
     state.address1 === '' ||
     state.address2 === '' ||
     state.order === '' ||
-    state.payment === '' ||
+    // state.payment === '' ||
     state.agreeToTerms === false ||
     state.nameError.length > 0 ||
     state.emailError.length > 0 ||
@@ -47,7 +47,7 @@ class Dvd extends Component {
       address1: '',
       address2: '',
       order: [],
-      payment: '',
+      // payment: '',
       agreeToTerms: false,
       hide: 'hide',
       hideErrorMsg: 'hideErrorMsg',
@@ -131,9 +131,9 @@ class Dvd extends Component {
           : this.setState({ address2Error: 'Invalid character' })
         this.setState({ address2IsEmpty: false })
         break
-      case 'payment':
-        this.setState({ paymentError: '' })
-        break
+      // case 'payment':
+      //   this.setState({ paymentError: '' })
+      //   break
       default:
         break
     }
@@ -156,33 +156,9 @@ class Dvd extends Component {
           this.setState({ successMsg: 'Server Error: please try again' })
         }
       })
-      this.setState({
-        // name: '',
-        // email: '',
-        // address1: '',
-        // address2: '',
-        // order: [],
-        // payment: '',
-        // agreeToTerms: false,
-        // hide: '',
-        // hideErrorMsg: 'hideErrorMsg',
-        // address1Error: '',
-        // address2Error: '',
-        // paymentError: '',
-        // agreeToTermsError: '',
-        // nameIsEmpty: '',
-        // emailIsEmpty: '',
-        // address1IsEmpty: '',
-        // address2IsEmpty: '',
-        // orderIsEmpty: '',
-        // nameError: '',
-        // emailError: '',
-        // orderError: '',
-        // successMsg: ''
-      })
     } else {
-      this.state.payment === '' &&
-        this.setState({ paymentError: 'You must select a payment method' })
+      // this.state.payment === '' &&
+      //   this.setState({ paymentError: 'You must select a payment method' })
       this.state.agreeToTerms === false &&
         this.setState({
           agreeToTermsError: 'You must agree to the terms & condtions',
@@ -231,7 +207,8 @@ class Dvd extends Component {
         </header>
 
         <ul>
-          <li>Payment methods: CASH, CHECK, MONEY ORDER, or BITCOIN</li>
+          {/* <li>Payment methods: CASH, CHECK, MONEY ORDER, or BITCOIN</li> */}
+          <li>Payment method: BITCOIN</li>
           <li>We will email you an invoice with payment instructions.</li>
           <li>U.S. shipping only.</li>
         </ul>
@@ -343,7 +320,7 @@ class Dvd extends Component {
 
           <br />
 
-          <label>
+          {/* <label>
             Select payment type:{' '}
             <select
               name="payment"
@@ -362,9 +339,9 @@ class Dvd extends Component {
           </label>
           {this.state.payment === '' && (
             <span className="error">{this.state.paymentError}</span>
-          )}
+          )} */}
 
-          <br />
+          {/* <br /> */}
 
           <SelectVideos
             parentCallback={this.selectFunction}

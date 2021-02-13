@@ -6,6 +6,7 @@ import crypto from '../../images/crypto.webp'
 import { Link } from 'react-router-dom'
 import twitter from '../../images/twitter.webp'
 import RandomGif from '../components/RandomGif'
+import WhyBanned from '../components/banned/WhyBanned'
 // import Chat from '../chat/chat'
 
 const Home = () => {
@@ -35,30 +36,24 @@ const Home = () => {
         <section>
           <RandomGif />
           <h2>News & Updates</h2>
-          <p>We were shutdown for a few days by the man! Please read:</p>
-          <Link to={'/letter'}>
-            <button
-              style={{
-                width: '100%',
-                margin: '20px auto',
-                padding: '0',
-              }}
-            >
-              Steve's Letter to MasterCard
-            </button>
-          </Link>
 
           <p>
             REFRESH YOUR BROWSER OFTEN! The images always change and there may
-            be new features!
+            be new features!{' '}
+            <span style={{ fontSize: '0.9rem' }}>
+              (Ctrl+F5 or Apple Key+Shift+R)
+            </span>
           </p>
-          <small>
-            Press (Ctrl+F5) on a PC or (Apple Key+Shift+R) on a Mac to get the
-            latest version of our site.
-          </small>
 
           <p>What's new?</p>
           <ul>
+            <li>
+              New <Link to="/faqs">FAQs</Link> about Bitcoin, downloads, and
+              more!
+            </li>
+            <li>
+              Reduced shipping & handling on <Link to="/dvd">DVDs</Link>
+            </li>
             <li>
               View <Link to="/videos">videos</Link> and{' '}
               <Link to="/photos">photos</Link> in grid or masonry format. Look
@@ -66,15 +61,10 @@ const Home = () => {
             </li>
             <li>
               The <Link to="/cart">shopping cart</Link> is here! Click on the
-              icon in the lower-right corner for quick access to your list.
-              Please let me know if you run into a bug.
+              icon in the lower-right corner for quick access to your cart.
             </li>
             <li>
               <h3>Preview buttons!</h3>
-            </li>
-            <li>
-              Please give us a positive rating for your checkout! Someone didn't
-              check their junk mail for their download link...
             </li>
             <li>
               Click on any heart to add a video or photo set to your{' '}
@@ -82,7 +72,6 @@ const Home = () => {
               the lower-right corner for quick access to your list.
             </li>
           </ul>
-          <p>Please keep checking back for new features!</p>
         </section>
 
         {/* <section>
@@ -118,7 +107,8 @@ const Home = () => {
             <h2>Full-length Videos and Clips</h2>
           </Link>
           <p>
-            Search <Link to="/videos">videos</Link> quickly and easily.
+            Search and preview <Link to="/videos">videos</Link> quickly and
+            easily.
           </p>
           <p>
             Press any "ADD TO CART" button then go to the{' '}
@@ -147,9 +137,10 @@ const Home = () => {
           <img src={crypto} alt="Buy with Bitcoin" style={{ width: '100%' }} />
           <h2>Buy with Bitcoin!</h2>
           <p>
-            Easy order clips, DVDs, and photos using Bitcoin! After payment,
-            check your inbox for download links!
+            Easily order clips, DVDs, and photos using Bitcoin! After payment
+            confirmation, check your inbox for download links!
           </p>
+          <WhyBanned />
         </section>
 
         <section>

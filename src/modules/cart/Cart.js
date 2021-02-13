@@ -12,8 +12,7 @@ const Cart = () => {
 
   const s = cart.length === 1 ? '' : 's'
   const screenWidth = window.screen.width
-  let width = screenWidth < 650 ? '100%' : screenWidth < 1300 ? '80%' : '50%'
-  let totals = screenWidth > 650 ? 'flex' : 'block'
+  let width = screenWidth < 650 ? '94%' : screenWidth < 1300 ? '80%' : '50%'
   let spanFont = screenWidth < 1000 ? '1.2rem' : '1.3rem'
 
   let randomNumber = () => {
@@ -93,12 +92,13 @@ const Cart = () => {
       margin: '0',
     },
     totals: {
-      display: totals,
+      display: 'flex',
       justifyContent: 'space-between',
       padding: '0 45px',
       backgroundColor: '#221729',
       border: '1px solid lime',
       margin: '30px auto',
+      flexWrap: 'wrap',
     },
     span: {
       color: 'white',
@@ -150,18 +150,16 @@ const Cart = () => {
       {itemCount > 0 && (
         <div style={{ width: width, margin: '0 auto' }}>
           <ul style={{ margin: '0 0 25px 0' }}>
-            <li style={{ color: 'lime' }}>
-              The "PAY WITH BITCOIN" button <em>IS</em> working! But, not the
-              way I want. Number of requests are limited right now. Refresh the
-              page or wait a little while. I'm working on this! It's fucking
-              difficult!!
-            </li>
-            <li style={{ margin: '0' }}>Use this cart to order downloads</li>
-            <li style={{ margin: '0' }}>Pay with Bitcoin</li>
+            <li style={{ margin: '0' }}>Click the "Pay with Bitcoin" button</li>
             <li style={{ margin: '0' }}>
-              Get an email with your download links
+              When the form loads, follow the instructions
+            </li>
+            <li style={{ margin: '0' }}>
+              As soon as your payment is confirmed, you'll get an email with
+              your download links!
             </li>
           </ul>
+
           <ClearContinueButtons />
           <div style={{ height: '20px' }}></div>
 

@@ -1,58 +1,58 @@
 import React, { useState, useEffect } from 'react'
-import request from 'request'
+import axios from 'axios'
 
 const Blockonomics = ({ name, description, price, links }) => {
   const [data, setData] = useState('0')
-
-  //variables for blockonomics
-  const parentUid = 'dac8778e542911eb'
-  const url = 'https://www.blockonomics.co/api/create_child_product'
-  const urlDelete = 'https://www.blockonomics.co/api/button?uid='
-  const proxyUrl = 'https://cors-anywhere.herokuapp.com/'
-  const bearer = '3t8D7CeQ3MDn2MLIrx48NQA5JljODRXMBM8iO4PADCI'
-  const header = { Authorization: `Bearer ${bearer}` }
-
-  let dataBody = {
-    parent_uid: parentUid,
-    product_name: name,
-    product_description: JSON.stringify(description),
-    value: parseFloat(price).toFixed(2),
-    extra_data: JSON.stringify(links) || '0',
-  }
-
-  request.get('https://powershotz.com:5000')
+  const parentUid = '11ecd54e6d6011eb'
+  const url = 'https://blockonomics.powershotz.workers.dev'
+  const pzDelete = 'https://powershotz.com/php/delete.php?uid='
 
   useEffect(() => {
-    request.post(
-      {
-        headers: header,
-        url: proxyUrl + url,
-        body: JSON.stringify(dataBody),
-      },
-      function (err, res, body) {
-        if (err) console.log(err)
-        if (body) {
-          let parsed = JSON.parse(body)
-          let uid = parsed.uid
-          setData(uid)
-          //wait 30 minutes and delete child uid
-          setTimeout(() => handleDelete(uid), 1800000)
-        }
-      }
-    )
+    callBlockonomics()
+    return () => {
+      handleDelete()
+    }
   })
 
-  function handleDelete(item) {
-    request.delete(
-      {
-        headers: header,
-        url: `${urlDelete}${item}`,
-      },
-      (response, body, err) => {
-        if (err) console.log(err)
-        if (response) console.log(response.body)
-      }
-    )
+  const callBlockonomics = async () => {
+    await axios
+      .post(url, {
+        parent_uid: parentUid,
+        product_name: name,
+        product_description: JSON.stringify(description),
+        value: parseFloat(price).toFixed(2),
+        extra_data: JSON.stringify(links) || '0',
+      })
+      .then((response) => {
+        if (response.status === 200) {
+          setData(response.data)
+          console.log('created: ', response.data)
+        } else {
+          console.log(`Error: ${response.status} ${response.message}`)
+        }
+      })
+      .catch((err) => console.log(`callBlockonomics error: ${err}`))
+  }
+
+  const checkState = () => {
+    if (document.visibilityState === 'hidden') {
+      const urlDelete = `${pzDelete}${data}`
+      console.log('beacon: ', data)
+      navigator.sendBeacon(urlDelete)
+    } else {
+      callBlockonomics()
+    }
+  }
+
+  window.addEventListener('visibilitychange', () => checkState(), {
+    capture: true,
+  })
+
+  const handleDelete = async () => {
+    const urlDelete = `${pzDelete}${data}`
+    await axios.post(urlDelete).then((response) => {
+      console.log('handleDelete: ', response)
+    })
   }
 
   const styles = {

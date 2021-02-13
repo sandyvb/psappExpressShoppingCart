@@ -14,7 +14,7 @@ if ($_POST) {
     $from = $_POST['email'];
     $message = $_POST['message'];
     $ip = $_SERVER['REMOTE_ADDR'];
-    $subject = "POWERSHOTZ MESSAGE";
+    $subject = "Powershotz Message";
     $to = "alexandra@powershotz.com";
 
     // set response code - 200 OK

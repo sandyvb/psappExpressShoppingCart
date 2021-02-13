@@ -5,8 +5,12 @@ import '../../css/warning.css'
 function Warning() {
   const styles = {
     button: {
-      padding: '0px',
-      height: '60px',
+      height: '80px',
+      color: 'lime',
+      fontSize: '1.75rem',
+      width: '100%',
+      fontWeight: 'bold',
+      padding: '0',
     },
   }
 

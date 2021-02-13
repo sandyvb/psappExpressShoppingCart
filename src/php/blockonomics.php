@@ -60,8 +60,31 @@ if (sizeof($downloadLinks) > 1) {
     $is = 'IS';
 }
 
-$ip = $_SERVER['REMOTE_ADDR'];
-$subject = "POWERSHOTZ BITCOIN ORDER";
+// Function to get the user IP address
+function getUserIP()
+{
+    $ipaddress = '';
+    if (isset($_SERVER['HTTP_CLIENT_IP']))
+        $ipaddress = $_SERVER['HTTP_CLIENT_IP'];
+    else if (isset($_SERVER['HTTP_X_FORWARDED_FOR']))
+        $ipaddress = $_SERVER['HTTP_X_FORWARDED_FOR'];
+    else if (isset($_SERVER['HTTP_X_FORWARDED']))
+        $ipaddress = $_SERVER['HTTP_X_FORWARDED'];
+    else if (isset($_SERVER['HTTP_X_CLUSTER_CLIENT_IP']))
+        $ipaddress = $_SERVER['HTTP_X_CLUSTER_CLIENT_IP'];
+    else if (isset($_SERVER['HTTP_FORWARDED_FOR']))
+        $ipaddress = $_SERVER['HTTP_FORWARDED_FOR'];
+    else if (isset($_SERVER['HTTP_FORWARDED']))
+        $ipaddress = $_SERVER['HTTP_FORWARDED'];
+    else if (isset($_SERVER['REMOTE_ADDR']))
+        $ipaddress = $_SERVER['REMOTE_ADDR'];
+    else
+        $ipaddress = 'UNKNOWN';
+    return $ipaddress;
+}
+
+$ip = getUserIP();
+$subject = "Powershotz Bitcoin Order";
 
 // set response code - 200 OK
 http_response_code(200);
@@ -114,7 +137,7 @@ $msg .= "</ul>
 $response_msg = "
 <html>
     <head>
-        <title>YOUR POWERSHOTZ DOWNLOAD$S</title>
+        <title>Your Powershotz Download$s</title>
     </head>
     <body>
         <h1>YOUR POWERSHOTZ DOWNLOAD$S $is HERE!</h1>
@@ -144,7 +167,7 @@ foreach ($downloadLinks as $downloadLink) {
 
 $response_msg .= "</ul>
      
-        <p>Please reply to this email if you have any questions or problems.</p>
+        <p>Please reply to this email if you have any questions or problems or visit powershotz.com/faqs for more information.</p>
         <p>Thanks again from Powershotz and have a great day!
         <br/>
         <i>Alexandra</i> &hearts;
