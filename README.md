@@ -1,1 +1,1 @@
-# Powershotz React App with Bitcoin Shopping Cart
+# Powershotz React App with Shopping Cart
