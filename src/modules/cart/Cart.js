@@ -6,6 +6,7 @@ import WhyBanned from '../components/banned/WhyBanned'
 import ClearContinueButtons from './ClearContinueButtons'
 import { CartContext } from '../contexts/CartContext'
 import { Link } from 'react-router-dom'
+import BitcoinHelp from './BitcoinHelp'
 
 const Cart = () => {
   const { cart } = useContext(CartContext)
@@ -149,6 +150,7 @@ const Cart = () => {
 
       {itemCount > 0 && (
         <div style={{ width: width, margin: '0 auto' }}>
+          <BitcoinHelp />
           <ul style={{ margin: '0 0 25px 0' }}>
             <li style={{ margin: '0' }}>Click the "Pay with Bitcoin" button</li>
             <li style={{ margin: '0' }}>
