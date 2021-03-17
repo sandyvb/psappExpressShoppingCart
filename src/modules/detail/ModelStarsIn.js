@@ -46,6 +46,7 @@ export default function ModelStarsIn(props) {
   if (vids.length > 0) {
     return (
       <div>
+        <hr style={{ margin: '0 0 40px 0' }} />
         {!twoNames ? (
           <p style={{ textAlign: 'left' }}>
             {name} stars in {vids.length} video

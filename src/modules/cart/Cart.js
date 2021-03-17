@@ -5,8 +5,9 @@ import '../../css/mylist.css'
 import WhyBanned from '../components/banned/WhyBanned'
 import ClearContinueButtons from './ClearContinueButtons'
 import { CartContext } from '../contexts/CartContext'
-import { Link } from 'react-router-dom'
 import BitcoinHelp from './BitcoinHelp'
+import MoreVideosPhotsButtons from './MoreVideosPhotosButtons'
+import BitcoinInfo from './BitcoinInfo'
 
 const Cart = () => {
   const { cart } = useContext(CartContext)
@@ -59,8 +60,8 @@ const Cart = () => {
       downloadLinks.push(link)
       return (
         <div key={item.id}>
-          <hr style={{ backgroundColor: 'lime' }} />
           <CartDetail key={item.id} item={item} />
+          <hr style={{ backgroundColor: 'lime' }} />
         </div>
       )
     } else {
@@ -97,7 +98,7 @@ const Cart = () => {
       justifyContent: 'space-between',
       padding: '0 45px',
       backgroundColor: '#221729',
-      border: '1px solid lime',
+      border: '2px solid lime',
       margin: '30px auto',
       flexWrap: 'wrap',
     },
@@ -107,10 +108,12 @@ const Cart = () => {
       fontSize: spanFont,
       paddingRight: '5px',
     },
-    videoPhotoButton: {
-      display: 'flex',
-      margin: '0 auto 50px auto',
-      justifyContent: 'center',
+    checkout: {
+      color: '#f0ad4e',
+      fontSize: '2rem',
+      textAlign: 'center',
+      marginBottom: '15px',
+      textTransform: 'uppercase',
     },
   }
 
@@ -150,11 +153,17 @@ const Cart = () => {
 
       {itemCount > 0 && (
         <div style={{ width: width, margin: '0 auto' }}>
-          <BitcoinHelp />
-          <ul style={{ margin: '0 0 25px 0' }}>
-            <li style={{ margin: '0' }}>Click the "Pay with Bitcoin" button</li>
+          <div style={{ marginBottom: '20px' }}>
+            <ClearContinueButtons />
+          </div>
+          <hr style={{ margin: '0px auto' }} />
+          <p style={styles.checkout}>checkout</p>
+          <ul style={{ margin: '0 0 50px 0' }}>
             <li style={{ margin: '0' }}>
-              When the form loads, follow the instructions
+              Click the "Pay with Bitcoin" button.
+            </li>
+            <li style={{ margin: '0' }}>
+              When the form pops up follow the instructions.
             </li>
             <li style={{ margin: '0' }}>
               As soon as your payment is confirmed, you'll get an email with
@@ -162,11 +171,15 @@ const Cart = () => {
             </li>
           </ul>
 
-          <ClearContinueButtons />
-          <div style={{ height: '20px' }}></div>
-
-          <ul style={styles.ul}>{generateList}</ul>
-          <hr style={{ backgroundColor: 'lime' }} />
+          <ul
+            style={{
+              ...styles.ul,
+              border: '2px solid lime',
+              borderBottom: '0',
+            }}
+          >
+            {generateList}
+          </ul>
           <div style={styles.totals}>
             <h2>
               <span style={styles.span}>Total Items: </span> {itemCount}
@@ -176,33 +189,42 @@ const Cart = () => {
             </h2>
           </div>
 
-          <div
-            style={{
-              display: 'flex',
-              justifyContent: 'center',
-              marginBottom: '30px',
-            }}
-          >
-            <div>
-              <Blockonomics
-                key={amtDue}
-                name={`Powershotz Cart | ${itemCount} item${s}`}
-                description={titles}
-                price={amtDue}
-                links={downloadLinks}
-              />
-            </div>
-          </div>
+          <Blockonomics
+            key={amtDue}
+            name={`Powershotz Cart | ${itemCount} item${s}`}
+            description={titles}
+            price={amtDue}
+            links={downloadLinks}
+          />
 
-          <div style={{ margin: '0 15px 30px 15px' }}>
+          <div style={{ marginTop: '75px' }}>
+            <BitcoinInfo />
+          </div>
+          <div style={{ marginTop: '40px' }}>
+            <BitcoinHelp />
+          </div>
+          <div style={{ marginTop: '40px' }}>
             <WhyBanned />
+          </div>
+          <div style={{ marginTop: '40px', marginBottom: '75px' }}>
+            <MoreVideosPhotsButtons />
           </div>
         </div>
       )}
       {saveForLaterList.length > 0 && (
-        <div style={{ width: width, margin: '150px auto 75px auto' }}>
-          <hr />
-          <h2 style={{ textAlign: 'center', fontSize: '2rem' }}>
+        <div
+          style={{
+            width: width,
+            margin: '100px auto 75px auto',
+            borderTop: '1px solid white',
+          }}
+        >
+          <h2
+            style={{
+              textAlign: 'center',
+              fontSize: '2rem',
+            }}
+          >
             Saved For Later
           </h2>
           <ul style={styles.ul}>{saveForLaterList}</ul>
@@ -210,14 +232,6 @@ const Cart = () => {
           <ClearContinueButtons />
         </div>
       )}
-      <div style={styles.videoPhotoButton}>
-        <Link to="/videos">
-          <button style={{ marginRight: '15px' }}>more Videos</button>
-        </Link>
-        <Link to="/photos">
-          <button style={{ marginLeft: '15px' }}>more Photos</button>
-        </Link>
-      </div>
     </div>
   )
 }

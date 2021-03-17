@@ -24,12 +24,8 @@
     <url>
         <loc>https://powershotz.com/contact</loc>
     </url>
-    <url>
-        <loc>https://powershotz.com/usc2257</loc>
-    </url>
-    <url>
-        <loc>https://powershotz.com/custrec</loc>
-    </url>
+    <!-- <url><loc>https://powershotz.com/usc2257</loc></url> -->
+    <!-- <url><loc>https://powershotz.com/custrec</loc></url> -->
     <url>
         <loc>https://powershotz.com/about</loc>
     </url>
@@ -39,9 +35,7 @@
     <url>
         <loc>https://powershotz.com/faqs</loc>
     </url>
-    <url>
-        <loc>https://powershotz.com/membership</loc>
-    </url>
+    <!-- <url><loc>https://powershotz.com/membership</loc></url> -->
     <url>
         <loc>https://powershotz.com/dvd</loc>
     </url>

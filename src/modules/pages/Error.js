@@ -12,7 +12,9 @@ export default function Error() {
           Try removing ".html" from the address bar, or...
         </p>
         <Link to="/home" className="homebtn">
-          <div className="homebtndiv">Click to Powershotz Home Page</div>
+          <button style={{ padding: '0 20px', marginBottom: '20px' }}>
+            Go to Powershotz Home Page
+          </button>
         </Link>
         <RandomGif />
       </div>

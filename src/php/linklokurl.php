@@ -14,9 +14,9 @@
 
 // General settings
 $LinklokKey = "7&}B]XTSjPv6";                                 // Set to random string used to encrypt links
-$LinklokLocation = "/home/pz/public_html/7xsT6AAvE1YM/";             // Location where files are securely stored
-$LinklokLocations['previews'] = "/home/pz/public_html/previews";  // 'filename.ext:previews'
-$LinklokLocations['4theBooBear'] = "/home/pz/public_html/4theBooBear";
+$LinklokLocation = "/home/powershotz.com/public_html/7xsT6AAvE1YM/";             // Location where files are securely stored
+$LinklokLocations['previews'] = "/home/powershotz.com/public_html/previews/";  // 'filename.ext:previews'
+$LinklokLocations['4theBooBear'] = "/home/pz/public_html/4theBooBear/";
 $ManualPassword = "4SabbathBailey*";                                  // password used to access manual entry form
 $ErrorTemplate = "";                                          // Optional error page template (html)
 
@@ -1297,7 +1297,7 @@ function linklokemaillinks($freem)
     $goto = $_REQUEST['g'];
   if (isset($_REQUEST['a']))
     $auth = $_REQUEST['a'];
-  // See if called from the manual entry form  
+  // See if called from the manual entry form
   $manualentryused = false;
   if (($auth == $ManualPassword) && ($ManualPassword != "")) {
     $manualentryused = true;
@@ -1642,7 +1642,7 @@ function linklokemaillinks($freem)
         $exists = 0;
         if ((isset($_REQUEST['username']) && ($_REQUEST['username'] != "")))
           $username = $_REQUEST['username'];
-        // See if user already exists  
+        // See if user already exists
         if ($username != "") {
           $exists = slapi_getuser(
             $username,
@@ -1766,7 +1766,7 @@ function linklokemaillinks($freem)
             $cus50
           );
           if ($exists == 0) {
-            // check if email exists         
+            // check if email exists
             $usernamearray = slapi_getusernamefromemail($clientemail);
             if ($usernamearray !== false) {
               $username = $usernamearray[0];
@@ -2970,7 +2970,7 @@ function linklokSendEmailOut($toemail, $fromemail, $fromname, $subject, $mailBod
     $mail->IsSMTP();
     $mail->Host = $EmailServer;
     $mail->Port = $EmailPort;
-    $mail->SMTPAutoTLS = false; // Needed on some servers        
+    $mail->SMTPAutoTLS = false; // Needed on some servers
     if ($EmailAuth == "0")
       $mail->SMTPAuth = false;
     else
@@ -3020,7 +3020,7 @@ function linklokSendEmailOut($toemail, $fromemail, $fromname, $subject, $mailBod
     }
     return (true);
   }
-  // If still here then use PHP mail() function  
+  // If still here then use PHP mail() function
   $headers = "From: " . $fromname . " <" . $fromemail . ">\r\n";
   $headers .= "Reply-To: " . $fromname . " <" . $fromemail . ">\r\n";
   $headers .= "MIME-Version: 1.0\r\n";

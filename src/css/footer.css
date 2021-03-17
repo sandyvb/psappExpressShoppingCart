@@ -67,11 +67,6 @@
     text-transform: uppercase;
 }
 
-.copyright {
-    font-size: 0.9rem;
-    float: left;
-}
-
 .alexandra {
     font-size: 0.9rem;
     float: right;
@@ -82,27 +77,11 @@
     padding: 20px 0;
 }
 
-.footer .heart {
-    color: red;
-}
-
 .footer .disclaimer {
     font-size: 0.9rem;
     text-align: justify;
     width: var(--contentWidth);
     margin: 30px auto;
-}
-
-.footer .twitter button {
-    display: block;
-    margin: 0 auto;
-    padding: 0;
-    width: 40px;
-    background-color: transparent;
-    border: none;
-    box-shadow: none;
-    transform: translateY(40px);
-    cursor: default;
 }
 
 @media screen and (max-width: 450px) {
@@ -128,26 +107,5 @@
     .footer .paymentMethods {
         width: 100%;
         max-width: 350px;
-    }
-
-    .footer .twitter button {
-        text-align: left;
-    }
-
-
-}
-
-@media screen and (max-width: 500px) {
-    .footer .twitter button {
-        width: 100%;
-        transform: translateY(5px);
-    }
-}
-
-@media screen and (max-width: 660px) {
-    .footer .otherWaysToPurchase button {
-        display: block;
-        width: 80%;
-        margin: 0 auto 25px auto;
     }
 }

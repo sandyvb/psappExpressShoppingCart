@@ -1,5 +1,6 @@
 import React, { useContext } from 'react'
 import { ListContext } from '../contexts/ListContext'
+import '../../css/cards.css'
 
 const Heart = (props) => {
   const { list, dispatch } = useContext(ListContext)
@@ -9,14 +10,12 @@ const Heart = (props) => {
   switch (pathname) {
     case 'videos':
       x = list.find((item) => item.id === props.props.id)
-      // x !== undefined && (classname = 'saved')
       if (x) {
         classname = 'saved'
       }
       break
     case 'photos':
       x = list.find((item) => item.model_name === props.props.model_name)
-      // x !== undefined && (classname = 'saved')
       if (x) {
         classname = 'saved'
       }
@@ -27,7 +26,6 @@ const Heart = (props) => {
       } else {
         x = list.find((item) => item.id === props.props.id)
       }
-      // x !== undefined && (classname = 'saved')
       if (x) {
         classname = 'saved'
       }

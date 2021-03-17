@@ -8,6 +8,8 @@ import twitter from '../../images/twitter.webp'
 import RandomGif from '../components/RandomGif'
 import WhyBanned from '../components/banned/WhyBanned'
 // import Chat from '../chat/chat'
+import newTab from '../../images/newTab.png'
+import tor from '../../images/tor.png'
 
 const Home = () => {
   const breakpointColumnsObj = {
@@ -21,6 +23,21 @@ const Home = () => {
     <div className="home">
       <header>
         <h1>Welcome to Powershotz!</h1>
+        <div
+          style={{
+            display: 'flex',
+            justifyContent: 'center',
+            alignItems: 'center',
+          }}
+        >
+          <img src={tor} width="25px" style={{ marginRight: '10px' }} />
+          <a
+            href="http://ifth65mhgyykhbhr5gwnp3kifqrmljsdgd2qudohnjcj6tfxqtmtpkyd.onion/"
+            title="For Tor Browsers Only"
+          >
+            Powershotz Onion
+          </a>
+        </div>
         <h3>
           All Original Videos & Photos Featuring Bondage, BDSM,
           Damsel-in-Distress, Rapeplay, Chloroform, Strugglefuck, Master/Slave &
@@ -48,8 +65,16 @@ const Home = () => {
           <p>What's new?</p>
           <ul>
             <li>
-              New <Link to="/faqs">FAQs</Link> about Bitcoin, downloads, and
-              more!
+              <img src={tor} width="20px" style={{ marginRight: '10px' }} />
+              <a href="http://ifth65mhgyykhbhr5gwnp3kifqrmljsdgd2qudohnjcj6tfxqtmtpkyd.onion/">
+                Powershotz Onion
+              </a>{' '}
+              hidden service is available! You <em>must</em> use a Tor browser
+              to access it otherwise you'll get a 404 error.
+            </li>
+            <li>
+              New <Link to="/faqs">FAQs</Link> about Bitcoin, downloads, onion,
+              and more!
             </li>
             <li>
               Reduced shipping & handling on <Link to="/dvd">DVDs</Link>
@@ -183,8 +208,12 @@ const Home = () => {
             target="_blank"
             rel="noopener noreferrer"
           >
-            <button style={{ width: '100%', margin: '0 auto' }}>
+            <button style={{ width: '100%', padding: '0', margin: '0 auto' }}>
               Follow & Share @powershotzz
+              <img
+                src={newTab}
+                style={{ opacity: '0.5', width: '12px', marginLeft: '7px' }}
+              />
             </button>
           </a>
         </section>

@@ -11,9 +11,8 @@ export default function BitcoinHelp() {
   const styles = {
     help: {
       display: 'block',
-      padding: '0',
-      height: '31px',
-      margin: '20px auto',
+      padding: '0 20px',
+      margin: '0px auto',
     },
     helpDiv: {
       width: '100%',
@@ -36,7 +35,7 @@ export default function BitcoinHelp() {
   return (
     <div style={styles.helpDiv} onClick={handleClick}>
       <button style={styles.help} title="Bitcoin Payment Help">
-        Help
+        Help with order form
       </button>
       <div
         style={{
@@ -57,9 +56,10 @@ export default function BitcoinHelp() {
         />
         <h3 style={styles.p}>Bitcoin Payment Help</h3>
         <small style={{ fontStyle: 'italic' }}>
-          Note: all Bitcoin wallets are different, so be sure to read the
-          instructions about how to use your wallet.
+          All Bitcoin wallets are different, so be sure to read the instructions
+          about how to use your wallet.
         </small>
+
         <p style={{ ...styles.p, marginTop: '20px' }}>In the first screen:</p>
         <div
           style={{
@@ -76,9 +76,6 @@ export default function BitcoinHelp() {
           />
           <ol style={styles.ol}>
             <li style={{ marginTop: '0' }}>
-              Make sure that your order is correct.
-            </li>
-            <li>
               Enter your the email address where you would like your download
               links sent.
             </li>
@@ -105,18 +102,15 @@ export default function BitcoinHelp() {
           />
           <ol style={styles.ol}>
             <li style={{ marginTop: '0' }}>
-              <span style={{ fontStyle: 'italic' }}>Optional: </span>
-              Use the QR code if you have a bitcoin wallet on your phone and you
-              would like to use the camera to capture payment information.
+              <span style={{ fontStyle: 'italic', color: 'red' }}>
+                Optional:{' '}
+              </span>
+              Use the QR to capture payment information.
             </li>
             <li>
-              Copy the Bitcoin amount and paste it into your wallet. This is the
-              amount of Bitcoin that you will be sending.
+              Copy &amp; paste the amount of Bitcoin that you will be sending.
             </li>
-            <li>
-              Copy our BTC address and paste it into your wallet. This is the
-              address where you will be sending the Bitcoin payment.
-            </li>
+            <li>Copy &amp; paste our BTC address.</li>
             <li>
               You have 30 minutes to complete the payment. Don't worry, if you
               don't complete the payment in time just refresh the page and try
@@ -132,15 +126,10 @@ export default function BitcoinHelp() {
           When you hit "send" in your wallet, you're done!
         </p>
 
-        <p>
-          You will automatically be taken to a "Thank You" page where you can
-          review your order and choose what to do with your cart contents (i.e.
-          move them to your list and mark them as "purchased" or just remove
-          them from the cart.)
-        </p>
+        <p>You will automatically be taken to a "Thank You" page.</p>
         <p>
           Usually the process only takes a few moments, but sometimes it can
-          take hours for the blockchain to process a payment. As soon as your
+          take longer for the blockchain to process a payment. As soon as your
           payment is confirmed, the links are automatically sent out.
         </p>
         <p>

@@ -26,7 +26,7 @@ const Blockonomics = ({ name, description, price, links }) => {
       .then((response) => {
         if (response.status === 200) {
           setData(response.data)
-          console.log('created: ', response.data)
+          // console.log('created: ', response.data)
         } else {
           console.log(`Error: ${response.status} ${response.message}`)
         }
@@ -37,7 +37,7 @@ const Blockonomics = ({ name, description, price, links }) => {
   const checkState = () => {
     if (document.visibilityState === 'hidden') {
       const urlDelete = `${pzDelete}${data}`
-      console.log('beacon: ', data)
+      // console.log('beacon: ', data)
       navigator.sendBeacon(urlDelete)
     } else {
       callBlockonomics()
@@ -51,7 +51,7 @@ const Blockonomics = ({ name, description, price, links }) => {
   const handleDelete = async () => {
     const urlDelete = `${pzDelete}${data}`
     await axios.post(urlDelete).then((response) => {
-      console.log('handleDelete: ', response)
+      // console.log('handleDelete: ', response)
     })
   }
 
@@ -59,8 +59,8 @@ const Blockonomics = ({ name, description, price, links }) => {
     button: {
       display: 'block',
       margin: '0px auto',
-      paddingLeft: '20px',
-      paddingRight: '20px',
+      width: '200px',
+      border: '2px solid lime',
     },
   }
 

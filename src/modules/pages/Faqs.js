@@ -4,6 +4,7 @@ import { Accordion, AccordionItem } from 'react-light-accordion'
 import 'react-light-accordion/demo/css/index.css'
 import '../../css/faqs.css'
 import { Link } from 'react-router-dom'
+import newTabBlue from '../../images/newTabBlue.png'
 
 export default function Faqs() {
   return (
@@ -21,6 +22,44 @@ export default function Faqs() {
           <p>
             If you find our videos elsewhere, they are stolen, illegal, and are
             probably low quality.
+          </p>
+        </AccordionItem>
+
+        <AccordionItem title="What is the Powershotz Onion?">
+          <p>
+            <a href="http://ifth65mhgyykhbhr5gwnp3kifqrmljsdgd2qudohnjcj6tfxqtmtpkyd.onion/">
+              Powershotz Onion
+            </a>{' '}
+            is a hidden service available only on the TOR (The Onion Router)
+            network. If you try to access it using a normal browser, you'll get
+            a 404 error (not found).
+          </p>
+          <p>
+            We{' '}
+            <em>
+              <b>strongly</b>
+            </em>{' '}
+            advise doing some research before trying to access any hidden
+            service or installing the Tor Browser.
+          </p>
+          <p>
+            More information about the Tor Browser can be found at{' '}
+            <a
+              href="https://www.torproject.org"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              torproject.org
+              <img
+                src={newTabBlue}
+                style={{
+                  opacity: '0.8',
+                  width: '10px',
+                  marginLeft: '3px',
+                }}
+              />
+            </a>
+            .
           </p>
         </AccordionItem>
 
@@ -61,8 +100,16 @@ export default function Faqs() {
         </AccordionItem>
 
         <AccordionItem title="Why isn't the buy button working?">
+          <p>Please refresh the page or Ctrl+F5.</p>
+        </AccordionItem>
+
+        <AccordionItem title="Do you accept altcoins?">
           <p>
-            Please refresh the page or Ctrl+F5 to revalidate your cart contents.
+            Besides Bitcoin (BTC), we can accept Bitcoin Cash (BCH), Bitcoin SV
+            (BSV), Ethereum (ETH), Monero (XMR), Zcash (ZEC), and Litecoin
+            (LTC). Just let us know if there is another currency you'd like to
+            use. Please <Link to="/contact">contact us</Link> and we'll try to
+            accommodate your payment method.
           </p>
         </AccordionItem>
 
@@ -96,6 +143,7 @@ export default function Faqs() {
           </ol>
           <p>What should you do about it?</p>
           <ol>
+            <li>Only download one video at a time.</li>
             <li>If available, press the 'resume' button.</li>
             <li>Download large files during off-peak hours.</li>
             <li>Try using a different web browser.</li>
@@ -187,6 +235,14 @@ export default function Faqs() {
           <p>The VL series contain penetration scenes.</p>
           <p>
             The PZV series <em>usually</em> do not.
+          </p>
+        </AccordionItem>
+
+        <AccordionItem title="Why are the previews fuzzy?">
+          <p>
+            The preview clips are in low-resolution for a smaller file size and
+            faster loading in browsers. The downloads are better quality and
+            have higher resolution.
           </p>
         </AccordionItem>
 

@@ -2,7 +2,7 @@
 header("Access-Control-Allow-Origin: *");
 header('Access-Control-Allow-Headers: Origin, X-Requested-With, Content-Type, Accept');
 
-// DO NOT RESET HTTP CALLBACK 
+// DO NOT RESET HTTP CALLBACK
 // https://www.blockonomics.co/pay-url/product_uid
 
 // GET DATA FROM BLOCKONOMICS API
@@ -99,10 +99,10 @@ $msg = "
     </head>
 <body>
     <h1>BLOCKONOMICS DATA</h1>
-    <hr />    
+    <hr />
     <p><b>Payment Status: </b> $status</p>
     <p><b>Date: </b>$date</p>
-    <p><b>Check Data: </b> $checkOrder</p>    
+    <p><b>Check Data: </b> $checkOrder</p>
     <p><b>Price: </b> $price $currency</p>
     <p><b>Customer Email: </b> $customerEmail</p>
     <p><b>Title: </b> $title</p>
@@ -129,7 +129,7 @@ $msg .= "</ul>
     <hr />
     <small>User's ip address: $ip</small>
     <small><a href='https://www.plus2net.com/php_tutorial/php_ip-demo2.php'> click for more info</a></small>
-</body>    
+</body>
 </html>
 ";
 
@@ -164,10 +164,17 @@ foreach ($downloadLinks as $downloadLink) {
     $response_msg .= "<li><h3><a href=$link>$description[$count]</a></h3></li>";
     $count++;
 }
-
+$faqs = "https://powershotz.com/faqs";
 $response_msg .= "</ul>
-     
-        <p>Please reply to this email if you have any questions or problems or visit powershotz.com/faqs for more information.</p>
+        <p>Some browsers will pause or fail a download in the event of a service interruption. Even a disconnection lasting a fraction of a second can cause the failure of a file download.</p>
+        <p>Here are some tips to successfully download your order:</p>
+        <ul>
+        <li>Only download one video at a time.</li>
+        <li>Download large files during off-peak hours.</li>
+        <li>Try using a different web browser.</li>
+        <li>Visit our <a href=$faqs>FAQs page</a> for more suggestions.</li>
+        </ul>
+        <p>Please reply to this email if you have any questions or problems.</p>
         <p>Thanks again from Powershotz and have a great day!
         <br/>
         <i>Alexandra</i> &hearts;

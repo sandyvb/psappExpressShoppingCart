@@ -1,9 +1,9 @@
 import React from 'react'
 import guarantee from '../images/guarantee.webp'
 import { Link } from 'react-router-dom'
-import Popup from '../modules/components/Popup'
 import '../css/footer.css'
 import twitterBird from '../images/twitter_bird.webp'
+import tor from '../images/tor.png'
 
 const Footer = () => {
   return (
@@ -79,26 +79,36 @@ const Footer = () => {
           site are 18 or older.
         </p>
 
-        <div className="twitter">
-          <Popup
-            url={'https://twitter.com/powershotzz'}
-            msg={
+        <div>
+          <div>
+            <a href="https://twitter.com/powershotzz" title="Twitter">
               <img
                 src={twitterBird}
                 alt="twitter"
-                style={{ width: '40px', cursor: 'pointer' }}
+                style={{
+                  width: '40px',
+                  cursor: 'pointer',
+                  marginRight: '15px',
+                }}
               />
-            }
-          />
-        </div>
-        <div className="copyright-alexandra">
-          <span className="copyright">
+            </a>
+            <a
+              title="For Tor Browsers Only"
+              href="http://ifth65mhgyykhbhr5gwnp3kifqrmljsdgd2qudohnjcj6tfxqtmtpkyd.onion/"
+            >
+              <img
+                src={tor}
+                alt="onion site"
+                style={{ height: '50px', cursor: 'pointer' }}
+              />
+            </a>
+          </div>
+          <p style={{ fontSize: '0.8rem', lineHeight: '20px' }}>
             &copy; 2000-2021 Powershotz.com &nbsp;
-          </span>
-          <span className="alexandra">
-            Made with <span className="heart"> &hearts; </span>
+            <br />
+            Made with <span style={{ color: 'red' }}> &hearts; </span>
             by Alexandra
-          </span>
+          </p>
         </div>
       </div>
     </div>

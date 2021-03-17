@@ -212,13 +212,15 @@ export default function Detail() {
 
   function oops() {
     return (
-      <div className="oops" style={{ maxWidth: '800px' }}>
+      <div className="oops" style={{ maxWidth: '500px' }}>
         <h1>Oops! Page Not Found!</h1>
         <p style={{ textAlign: 'center' }}>
           Try removing ".html" from the address bar, or...
         </p>
         <Link to="/home" className="homebtn">
-          <div className="homebtndiv">Click to Powershotz Home Page</div>
+          <button style={{ padding: '0 20px', marginBottom: '20px' }}>
+            Go to Powershotz Home Page
+          </button>
         </Link>
         <RandomGif />
       </div>

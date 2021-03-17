@@ -30,7 +30,7 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-size: 18px;
-  background-image: url('../images/background_body.webp');
+  background-image: url('../images/background_body.png');
   background-color: var(--backgroundColor);
   background-size: cover;
   background-repeat: no-repeat;

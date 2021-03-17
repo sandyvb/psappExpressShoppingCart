@@ -6,7 +6,7 @@ import ModalImage from 'react-modal-image'
 import ModelData from '../../data/ModelData'
 import { Link } from 'react-router-dom'
 import Heart from '../components/Heart'
-import BitcoinInfo from '../components/BitcoinInfo'
+import BitcoinInfo from '../cart/BitcoinInfo'
 import Iframe from '../components/Iframe'
 import CartButton from '../cart/CartButton'
 import BuyAll from '../cart/BuyAll'
@@ -77,7 +77,7 @@ function ModelDetail(props) {
 
       {isDetail && (
         <div>
-          <BitcoinInfo />
+          <hr />
           <div style={{ margin: '50px auto 20px auto' }}>
             <Iframe key={c4sCode} name={name} number={numPhotos} />
           </div>
@@ -89,8 +89,6 @@ function ModelDetail(props) {
           </div>
         </div>
       )}
-
-      <hr style={{ margin: '0 0 40px 0' }} />
 
       {!isDetail ? (
         <div

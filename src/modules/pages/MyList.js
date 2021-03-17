@@ -1,4 +1,4 @@
-import React, { useContext } from 'react'
+import React, { useContext, useState } from 'react'
 import { Link } from 'react-router-dom'
 import { ListContext } from '../contexts/ListContext'
 import MyListDetail from '../components/MyListDetail'
@@ -9,6 +9,17 @@ import ClearContinueListButtons from '../components/ClearContinueListButtons'
 const MyList = () => {
   const { list } = useContext(ListContext)
   const s = list.length === 1 ? '' : 's'
+  const [showPurchased, setShowPurchased] = useState(true)
+
+  let numberPurchased = 0
+  list.forEach((element) => {
+    element.checked && numberPurchased++
+  })
+  let isAre = numberPurchased === 1 ? 'is' : 'are'
+
+  const handleClick = () => {
+    setShowPurchased(!showPurchased)
+  }
 
   let sortedList = list.sort((a, b) => {
     if (
@@ -31,7 +42,13 @@ const MyList = () => {
   })
 
   const generateList = sortedList.map((item) => {
-    return <MyListDetail key={item.id || item.model_name} item={item} />
+    if (showPurchased === true) {
+      return <MyListDetail key={item.id || item.model_name} item={item} />
+    } else {
+      if (item.checked === false) {
+        return <MyListDetail key={item.id || item.model_name} item={item} />
+      }
+    }
   })
 
   const styles = {
@@ -47,7 +64,9 @@ const MyList = () => {
       <header>
         <h1>My List</h1>
         <h3>
-          Currently, you have {list.length} item{s} in your list.
+          Currently, you have {list.length} item{s} in your list
+          <br />
+          and {numberPurchased} {isAre} purchased.
         </h3>
         {list.length < 1 && (
           <small className="note">
@@ -60,6 +79,12 @@ const MyList = () => {
 
       {list.length ? (
         <div>
+          <button
+            style={{ display: 'block', margin: '0 auto', padding: '0 20px' }}
+            onClick={handleClick}
+          >
+            {showPurchased ? 'Hide purchased items' : 'Show all'}
+          </button>
           <ul style={{ marginBottom: '0' }}>
             <ClearContinueListButtons />
           </ul>

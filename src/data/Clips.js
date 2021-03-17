@@ -291,7 +291,7 @@ export default [
   {
     id: '20164467',
     pz_code: 'PZV030',
-    title: 'PZV030  Slave Trained Teens',
+    title: 'Slave Trained Teens',
     description:
       'Gorgeous 18 year old Mia is taken captive in her hotel room and forced into submissive servitude, bondage, and sexual slavery using corporal punishment and firm domination. From cock tease to cock sucker through controlled exploitation and firm discipline she is programmed to perform. Head harness and ball gag prepare her to suck cock. Over 1 hour of Mia... next comes senior high dance team member Rayne... bound in strict spread eagle nudity on the table... face up... face down... riding cropped and forced to flex those strong young muscles. This chick has curves in all the right places and the release of all those horny young hormones when those rough hands have their way with her hyper sensitive naked skin has her wondering whether she should be screaming for hard cock instead of trying to get loose. almost 1 hour 50 minutes of under 20 bondage and discipline.  ',
     categoryid: '31',
@@ -1558,7 +1558,7 @@ export default [
   {
     id: '19661237',
     pz_code: 'PZV103',
-    title: 'Strippers Repent',
+    title: "Stripper's Repent",
     description:
       "Stripper Lexi is coming home from work and is grabbed as she exits her car, she is thrown into a van and taken to a strange place, where she is forced to do a little strip tease in private. Only problem is that she won't be getting paid for this gig. She'll be taught a lesson instead. Using domination, corporal punishment, arm binders, nipple clamps, a vibrating crotch rope, and heavy handed tactics, her captor convinces her to seek other career options. In scene two, bondage first-timer Ally, only 18 years old, is taken through a very strict elbow cinching, crotch rope hog tie with ball gag and nose hook. Those fine white thighs look fantastic as she struggles her virgin ass off in strict rope bondage. Heavy fondling and domination top this bitch off.",
     categoryid: '3',
@@ -2144,7 +2144,7 @@ export default [
       "Delila is on her way to prom. All prettied up in a stunning full length golden gown. When she arrives at the school she is stunned to meet a stranger in the parking lot. The stunning so powerful that it takes her out, and he takes her in... to the back of his van. Prom night is going to take on special meaning for Delila. Now that she is free of her boyfriend and in the hands of Hoosier Daddy she can come without guilt or regret. Only problem is she'll be forced down on cock. Bound up and gagged, that gorgeous dress cut to ribbons... looking great... laying on the floor. Each time he uses her he stuns her. The poor girl is kicking with electrical excitement. She takes a rod up the ass and a vibrator in her pussy. Her gorgeous milky white body gets fucked and that mousy little face and turned up nose look great gagging on dick. The steel cuffs make sure she sticks around for the final dance.",
     categoryid: '14',
     keywords:
-      '18 & 19 YRS OLD, ELECTRIC PLAY, BONDAGE SEX, ANAL, BALLGAGGED     vibrator, bondage sex, steel cuffs, handcuffs, forced stripping, powershotz, delila, damsel in distress, domination, bdsm, anal training, vl047, fucking, spanking',
+      '18 & 19 YRS OLD, ELECTRIC PLAY, BONDAGE SEX, ANAL, BALLGAGGED     vibrator, bondage sex, steel cuffs, handcuffs, forced stripping, powershotz, delila, damsel in distress, domination, bdsm, anal training, vl047, fucking, spanking, delila darling, delila',
     price: '39.99',
     date: '2018-03-22 12:26:28',
     name: 'vl047_1.mp4',
