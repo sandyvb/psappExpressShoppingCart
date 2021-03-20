@@ -7,9 +7,6 @@ import { Link } from 'react-router-dom'
 import newTabBlue from '../../images/newTabBlue.png'
 
 export default function Faqs() {
-  const screenWidth = window.screen.width
-  let width = screenWidth < 650 ? '94%' : '75%'
-
   return (
     <div className="faqs">
       <header>

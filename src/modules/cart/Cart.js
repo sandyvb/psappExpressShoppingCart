@@ -179,7 +179,7 @@ const Cart = () => {
             name={`Powershotz Cart | ${itemCount} item${s}`}
             description={titles}
             price={amtDue}
-            links={downloadLinks}
+            codes={downloadLinks}
             date={Date.now()}
           />
 

@@ -2,7 +2,7 @@
 header("Access-Control-Allow-Origin: *");
 header('Access-Control-Allow-Headers: Origin, X-Requested-With, Content-Type, Accept');
 
-// post data = { name, description, price, coinPrice, id, links, date, email }
+// post data = { name, description, price, coinPrice, id, codes, date, email }
 
 // set response code - 200 OK
 http_response_code(200);
@@ -12,7 +12,6 @@ $_POST = json_decode($rest_json, true);
 
 // VARS
 $myEmail = 'alexandra@powershotz.com';
-$allData = $_POST;
 $customerEmail = $_POST['email'];
 $orderName = $_POST['name'];
 $description = $_POST['description'];
@@ -24,7 +23,7 @@ $myWalletAddress = $_POST['address'];
 $abbr = $_POST['coinAbbr'];
 $orderNumber = $_POST['date'];
 $date = date('m/d/Y');
-$orderLinks = $_POST['links'];
+$orderLinks = $_POST['codes'];
 
 if (sizeof($orderLinks) > 1) {
     $S = 'S';
@@ -60,13 +59,13 @@ function getUserIP()
 }
 
 $ip = getUserIP();
-$subject = "Powershotz Altcoin Order";
+$subject = "Powershotz $coinName Order";
 
 // temp message to customer
 $temp_msg = "
 <html>
     <head>
-        <title>Your Powershotz Order</title>
+        <title>Your Powershotz $coinName Order</title>
     </head>
     <body>
         <h1>YOUR POWERSHOTZ ORDER DETAILS</h1>
@@ -77,7 +76,7 @@ $temp_msg = "
         <p><b>Order Number:</b> #$orderNumber</p>
         <p><b>Order Total:</b> $$total USD</p>
         <p><b>Amount of $coinName:</b> $coinPrice $abbr</p>
-        <p><b>Order will be sent to:</b> $customerEmail</p>
+        <p><b>Your order will be sent to:</b> $customerEmail</p>
         <h2>You ordered:</h2>
         <ul>";
 
@@ -94,7 +93,7 @@ foreach ($orderLinks as $link) {
 }
 $faqs = "https://powershotz.com/faqs";
 $temp_msg .= "</ul>
-        <p>You will receive your download links when your payment is confirmed. If you sent the payment, I will keep checking on it. If this is in error, please disregard this email.</p>
+        <p>You will receive your download links when your payment is confirmed. If you placed this order in error, please disregard this email.</p>
         <p>If you need to resend your payment, please send the equivalent of <b>$$total</b> in $coinName ($abbr) to: <b>$myWalletAddress</b></p>        
         <p>Please reply to this email if you have any questions or problems.</p>
         <p>Thanks again from Powershotz and have a great day!

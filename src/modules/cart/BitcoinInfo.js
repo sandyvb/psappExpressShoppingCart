@@ -20,7 +20,7 @@ export default function BitcoinInfo() {
     <div>
       {/* <p style={styles.bitcoin}>Buy instant downloads using Bitcoin!</p> */}
       <p style={styles.whyCenter}>
-        New to Crypto? Read{' '}
+        <span style={{ color: 'lime' }}>New to Crypto?</span> Read{' '}
         <a
           href="https://bitcoin.org/en/getting-started"
           target="_blank"

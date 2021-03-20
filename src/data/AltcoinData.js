@@ -1,39 +1,40 @@
 import Altcoin from '../models/Altcoin'
 
-import btc from '../images/btc.png'
-import aave from '../images/aave.png'
-import bat from '../images/bat.png'
-import bnb from '../images/bnb.png'
-import bch from '../images/bch.png'
-import bsv from '../images/bsv.png'
-import ada from '../images/ada.png'
-import link from '../images/link.png'
-import atom from '../images/atom.png'
-import dai from '../images/dai.png'
-import dash from '../images/dash.png'
-import doge from '../images/doge.png'
-import eth from '../images/eth.png'
-import icx from '../images/icx.png'
-import knc from '../images/knc.png'
-import lsk from '../images/lsk.png'
-import ltc from '../images/ltc.png'
-import mkr from '../images/mkr.png'
-import xmr from '../images/xmr.png'
-import nano from '../images/nano.png'
-import xem from '../images/xem.png'
-import neo from '../images/neo.png'
-import omg from '../images/omg.png'
-import dot from '../images/dot.png'
-import qtum from '../images/qtum.png'
-import ren from '../images/ren.png'
-import snt from '../images/snt.png'
-import xlm from '../images/xlm.png'
-import usdt from '../images/usdt.png'
-import xtz from '../images/xtz.png'
-import trx from '../images/trx.png'
-import vet from '../images/vet.png'
-import xrp from '../images/xrp.png'
-import zec from '../images/zec.png'
+const btc = 'https://powershotz.com/qr/btc.png'
+const aave = 'https://powershotz.com/qr/aave.png'
+const bat = 'https://powershotz.com/qr/bat.png'
+const bnb = 'https://powershotz.com/qr/bnb.png'
+const bch = 'https://powershotz.com/qr/bch.png'
+const btg = 'https://powershotz.com/qr/btg.png'
+const bsv = 'https://powershotz.com/qr/bsv.png'
+const ada = 'https://powershotz.com/qr/ada.png'
+const link = 'https://powershotz.com/qr/link.png'
+const atom = 'https://powershotz.com/qr/atom.png'
+const dai = 'https://powershotz.com/qr/dai.png'
+const dash = 'https://powershotz.com/qr/dash.png'
+const doge = 'https://powershotz.com/qr/doge.png'
+const eth = 'https://powershotz.com/qr/eth.png'
+const icx = 'https://powershotz.com/qr/icx.png'
+const knc = 'https://powershotz.com/qr/knc.png'
+const lsk = 'https://powershotz.com/qr/lsk.png'
+const ltc = 'https://powershotz.com/qr/ltc.png'
+const mkr = 'https://powershotz.com/qr/mkr.png'
+const xmr = 'https://powershotz.com/qr/xmr.png'
+const nano = 'https://powershotz.com/qr/nano.png'
+const xem = 'https://powershotz.com/qr/xem.png'
+const neo = 'https://powershotz.com/qr/neo.png'
+const omg = 'https://powershotz.com/qr/omg.png'
+const dot = 'https://powershotz.com/qr/dot.png'
+const qtum = 'https://powershotz.com/qr/qtum.png'
+const ren = 'https://powershotz.com/qr/ren.png'
+const snt = 'https://powershotz.com/qr/snt.png'
+const xlm = 'https://powershotz.com/qr/xlm.png'
+const usdt = 'https://powershotz.com/qr/usdt.png'
+const xtz = 'https://powershotz.com/qr/xtz.png'
+const trx = 'https://powershotz.com/qr/trx.png'
+const vet = 'https://powershotz.com/qr/vet.png'
+const xrp = 'https://powershotz.com/qr/xrp.png'
+const zec = 'https://powershotz.com/qr/zec.png'
 
 // coinName, coinAbbr, address, qrImg
 
@@ -57,7 +58,7 @@ export const ALTCOINS = [
     bat
   ),
   new Altcoin(
-    'Binance-Coin',
+    'BinanceCoin',
     'BNB',
     'bnb1da3jfj09slwdfygzts60ljxa2d76v7cq4tkkjd',
     bnb
@@ -104,7 +105,7 @@ export const ALTCOINS = [
   ),
   new Altcoin('ICON', 'ICX', 'hx97544e74ec0678f916eee73ed64e20ca282de3e9', icx),
   new Altcoin(
-    'Kyber',
+    'Kyber-Network',
     'KNC',
     '0x3f7bC09733E74c471491c62328045D521CD994da',
     knc
@@ -130,8 +131,13 @@ export const ALTCOINS = [
     nano
   ),
   new Altcoin('NEM', 'XEM', 'NDZU5EH2NB3WXMM3LZIDFXEYGNYDM3FCOTKRSJLE', xem),
-  new Altcoin('Neo', 'neo', 'AXo4SfXwkZNwLmp54hZScpvTNUqYDHLuKV', neo),
-  new Altcoin('OMG', 'OMG', '0x3f7bC09733E74c471491c62328045D521CD994da', omg),
+  new Altcoin('Neo', 'NEO', 'AXo4SfXwkZNwLmp54hZScpvTNUqYDHLuKV', neo),
+  new Altcoin(
+    'Omisego',
+    'OMG',
+    '0x3f7bC09733E74c471491c62328045D521CD994da',
+    omg
+  ),
   new Altcoin(
     'Polkadot',
     'DOT',
@@ -139,7 +145,13 @@ export const ALTCOINS = [
     dot
   ),
   new Altcoin('Qtum', 'QTUM', 'QicBA1fWmeAmcqne7VbtA6m5TCfkYLhZqq', qtum),
-  new Altcoin('Ren', 'REN', '0x3f7bC09733E74c471491c62328045D521CD994da', ren),
+  new Altcoin(
+    'Republic-Protocol',
+    'REN',
+    '0x3f7bC09733E74c471491c62328045D521CD994da',
+    ren
+  ),
+  new Altcoin('Ripple', 'XRP', 'r3rKMMntN9We78ZmPyBso6MUJeRvWRHMxu', xrp),
   new Altcoin(
     'Status',
     'SNT',
@@ -153,7 +165,7 @@ export const ALTCOINS = [
     xlm
   ),
   new Altcoin(
-    'Tether USD',
+    'Tether',
     'USDT',
     '0x3f7bC09733E74c471491c62328045D521CD994da',
     usdt
@@ -166,6 +178,11 @@ export const ALTCOINS = [
     '0xb156c973476633e2Eb6634b65df2c2ca26f0ec90',
     vet
   ),
-  new Altcoin('XRP', 'XRP', 'r3rKMMntN9We78ZmPyBso6MUJeRvWRHMxu', xrp),
   new Altcoin('Zcash', 'ZEC', 't1aHKAqbFzoBxghvR1eGJE4LiixRQAx9DgK', zec),
 ]
+
+// coinName, coinAbbr, address, qrImg
+
+export const SelectCoin = ALTCOINS.map((item) => {
+  return { value: item, label: `${item.coinName} (${item.coinAbbr})` }
+})
