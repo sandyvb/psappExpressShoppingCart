@@ -21,7 +21,7 @@ const Terms = lazy(() => import('./pages/Terms'))
 const Faqs = lazy(() => import('./pages/Faqs'))
 const Membership = lazy(() => import('./pages/Membership'))
 const Dvd = lazy(() => import('./pages/Dvd'))
-// const Bitcoin = lazy(() => import('./pages/Bitcoin'))
+// const Altcoin = lazy(() => import('./pages/Altcoin'))
 const Detail = lazy(() => import('./pages/Detail'))
 const Error = lazy(() => import('./pages/Error'))
 const Footer = lazy(() => import('./Footer'))
@@ -58,8 +58,7 @@ const App = () => {
                 <Route path="/letter" component={Letter} />
                 <Route path="/dvd" component={Dvd} />
                 <Route path="/thankyou" component={ThankYou} />
-                {/* <Route path="/bitcoin" component={Bitcoin} /> */}
-
+                {/* <Route path="/altcoin" component={Altcoin} /> */}
                 <Route path="/:id" component={Detail} />
                 <Route component={Error} />
               </Switch>

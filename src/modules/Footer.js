@@ -17,7 +17,7 @@ const Footer = () => {
               shopping cart.
             </p>
             <h3>How quickly will I get my downloads?</h3>
-            <p>Your downloads will come to your inbox within a few minutes.</p>
+            <p>Your downloads will come to your inbox within 24 hours.</p>
             <h3>Why don't I see my downloads?</h3>
             <p>Check your junk/spam folder.</p>
           </div>

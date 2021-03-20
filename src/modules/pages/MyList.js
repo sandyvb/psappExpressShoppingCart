@@ -42,13 +42,15 @@ const MyList = () => {
   })
 
   const generateList = sortedList.map((item) => {
+    let listItem
     if (showPurchased === true) {
-      return <MyListDetail key={item.id || item.model_name} item={item} />
+      listItem = <MyListDetail key={item.id || item.model_name} item={item} />
     } else {
       if (item.checked === false) {
-        return <MyListDetail key={item.id || item.model_name} item={item} />
+        listItem = <MyListDetail key={item.id || item.model_name} item={item} />
       }
     }
+    return listItem
   })
 
   const styles = {

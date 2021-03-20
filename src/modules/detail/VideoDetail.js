@@ -4,7 +4,6 @@ import VideoSlider from '../components/VideoSlider'
 import ModalImage from 'react-modal-image'
 import { Link } from 'react-router-dom'
 import Heart from '../components/Heart'
-import BitcoinInfo from '../cart/BitcoinInfo'
 import Preview from '../components/Preview'
 import CartButton from '../cart/CartButton'
 

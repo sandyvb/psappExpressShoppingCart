@@ -57,10 +57,9 @@ const Blockonomics = ({ name, description, price, links }) => {
 
   const styles = {
     button: {
-      display: 'block',
-      margin: '0px auto',
-      width: '200px',
       border: '2px solid lime',
+      width: '100%',
+      marginBottom: '20px',
     },
   }
 

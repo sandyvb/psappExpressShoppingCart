@@ -3,6 +3,7 @@ import '../../css/mylist.css'
 import { CartContext } from '../contexts/CartContext'
 import MoveToListButton from './MoveToListButton'
 import RemoveFromCartButton from './RemoveFromCartButton'
+import { Link } from 'react-router-dom'
 
 const ThankYou = () => {
   const { cart } = useContext(CartContext)
@@ -80,17 +81,12 @@ const ThankYou = () => {
       <header>
         <h1>Thank you for your purchase!</h1>
         <div>
-          <h3 style={{ color: 'lime' }}>
-            Your Bitcoin payment is being processed.
-          </h3>
+          <h3 style={{ color: 'lime' }}>Your payment is being processed.</h3>
           <p>
             You will receive your download link{s} shortly.
             <br />
-            Please check your spam/junk mail if your links don't arrive within
-            10-15 minutes.
-            <br />
-            <a href="mailto:alexandra@powershotz.com">Email me</a> if you have
-            any problems.
+            <Link to="/contact">Contact me</Link> if you have any questions or
+            problems.
           </p>
           <h3>Button functions:</h3>
           <ul style={{ paddingLeft: '0', margin: '0 20px 10px 20px' }}>
@@ -99,8 +95,8 @@ const ThankYou = () => {
               your saved items
             </li>
             <li style={{ margin: '0' }}>
-              MOVE TO LIST: remove all items from your cart and move them to
-              your list marked as <em>"purchased"</em>
+              MOVE TO LIST: move items from your cart to your list and mark as{' '}
+              <em>"purchased"</em>
             </li>
           </ul>
 

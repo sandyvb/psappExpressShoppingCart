@@ -23,6 +23,7 @@ const Home = () => {
     <div className="home">
       <header>
         <h1>Welcome to Powershotz!</h1>
+
         <div
           style={{
             display: 'flex',
@@ -30,7 +31,12 @@ const Home = () => {
             alignItems: 'center',
           }}
         >
-          <img src={tor} width="25px" style={{ marginRight: '10px' }} />
+          <img
+            src={tor}
+            width="25px"
+            style={{ marginRight: '10px' }}
+            alt="tor"
+          />
           <a
             href="http://ifth65mhgyykhbhr5gwnp3kifqrmljsdgd2qudohnjcj6tfxqtmtpkyd.onion/"
             title="For Tor Browsers Only"
@@ -65,7 +71,17 @@ const Home = () => {
           <p>What's new?</p>
           <ul>
             <li>
-              <img src={tor} width="20px" style={{ marginRight: '10px' }} />
+              The old Bitcoin button is gone and Altcoin payments are finally
+              here! Your order won't time out anymore. Check out the new{' '}
+              <Link to="/cart">shopping cart</Link>!
+            </li>
+            <li>
+              <img
+                src={tor}
+                width="20px"
+                style={{ marginRight: '10px' }}
+                alt="tor"
+              />
               <a href="http://ifth65mhgyykhbhr5gwnp3kifqrmljsdgd2qudohnjcj6tfxqtmtpkyd.onion/">
                 Powershotz Onion
               </a>{' '}
@@ -73,28 +89,9 @@ const Home = () => {
               to access it otherwise you'll get a 404 error.
             </li>
             <li>
-              New <Link to="/faqs">FAQs</Link> about Bitcoin, downloads, onion,
-              and more!
-            </li>
-            <li>
-              Reduced shipping & handling on <Link to="/dvd">DVDs</Link>
-            </li>
-            <li>
               View <Link to="/videos">videos</Link> and{' '}
               <Link to="/photos">photos</Link> in grid or masonry format. Look
               for the button at the top of the page!
-            </li>
-            <li>
-              The <Link to="/cart">shopping cart</Link> is here! Click on the
-              icon in the lower-right corner for quick access to your cart.
-            </li>
-            <li>
-              <h3>Preview buttons!</h3>
-            </li>
-            <li>
-              Click on any heart to add a video or photo set to your{' '}
-              <Link to="/mylist">Personalized List</Link>. Click on the icon in
-              the lower-right corner for quick access to your list.
             </li>
           </ul>
         </section>
@@ -160,10 +157,11 @@ const Home = () => {
 
         <section>
           <img src={crypto} alt="Buy with Bitcoin" style={{ width: '100%' }} />
-          <h2>Buy with Bitcoin!</h2>
+          <h2>Buy with Bitcoin or Altcoins!</h2>
           <p>
-            Easily order clips, DVDs, and photos using Bitcoin! After payment
-            confirmation, check your inbox for download links!
+            Easily order clips, DVDs, and photos using Bitcoin and other
+            cryptocurrencies! After payment confirmation, check your inbox for
+            download links!
           </p>
           <WhyBanned />
         </section>
@@ -213,6 +211,7 @@ const Home = () => {
               <img
                 src={newTab}
                 style={{ opacity: '0.5', width: '12px', marginLeft: '7px' }}
+                alt="twitter"
               />
             </button>
           </a>

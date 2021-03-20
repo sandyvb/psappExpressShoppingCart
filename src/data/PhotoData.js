@@ -8,7 +8,7 @@ export default [
     price: '12.38',
     keywords:
       "Cute little pout and tits and ass that won't quit.  This babe was born for bondage.\r\n1768 incredible photos! teen 18 19 yo bondage spanking forced stripping damsel in distress did discipline domination bdsm rope whipping gagging ballgag big tits blonde ",
-    downloadLink: '4ce07fed0/efsu75b6-a24vsc3p-zjx2xw6b-pv7d6evw',
+    downloadLink: '89b7a8620/6drk62dm-fw68zm7k-a6tvx6gb-zuheyuan',
   },
   {
     id: '238861',

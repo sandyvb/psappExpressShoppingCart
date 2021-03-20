@@ -148,7 +148,7 @@ button {
 }
 
 /* shopping cart ---------------------------- */
-.hideWhy, .hideInvoice {
+.hideWhy, .hideInvoice, .hideAltcoin {
   display: none;
 }
 

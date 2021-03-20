@@ -1,6 +1,5 @@
 import React from 'react'
 import newTab from '../../images/newTab.png'
-import { Link } from 'react-router-dom'
 
 export default function BitcoinInfo() {
   // misc styles
@@ -19,9 +18,9 @@ export default function BitcoinInfo() {
 
   return (
     <div>
-      <p style={styles.bitcoin}>Buy instant downloads using Bitcoin!</p>
+      {/* <p style={styles.bitcoin}>Buy instant downloads using Bitcoin!</p> */}
       <p style={styles.whyCenter}>
-        New to Bitcoin? Read{' '}
+        New to Crypto? Read{' '}
         <a
           href="https://bitcoin.org/en/getting-started"
           target="_blank"
@@ -31,6 +30,7 @@ export default function BitcoinInfo() {
           <img
             src={newTab}
             style={{ opacity: '0.5', width: '10px', marginLeft: '3px' }}
+            alt=""
           />
         </a>{' '}
         or{' '}
@@ -43,10 +43,10 @@ export default function BitcoinInfo() {
           <img
             src={newTab}
             style={{ opacity: '0.5', width: '10px', marginLeft: '3px' }}
+            alt=""
           />
         </a>
-        . <br />
-        Want to easily buy Bitcoin with a credit card? Try{' '}
+        . Want to easily buy Crypto with a credit card? Try{' '}
         <a
           href="https://www.blockchain.com/"
           target="_blank"
@@ -56,6 +56,7 @@ export default function BitcoinInfo() {
           <img
             src={newTab}
             style={{ opacity: '0.5', width: '10px', marginLeft: '3px' }}
+            alt=""
           />
         </a>
         ,{' '}
@@ -68,6 +69,7 @@ export default function BitcoinInfo() {
           <img
             src={newTab}
             style={{ opacity: '0.5', width: '10px', marginLeft: '3px' }}
+            alt=""
           />
         </a>
         ,{' '}
@@ -80,6 +82,7 @@ export default function BitcoinInfo() {
           <img
             src={newTab}
             style={{ opacity: '0.5', width: '10px', marginLeft: '3px' }}
+            alt=""
           />
         </a>
         ,{' '}
@@ -91,6 +94,20 @@ export default function BitcoinInfo() {
           Binance
           <img
             src={newTab}
+            style={{ opacity: '0.5', width: '10px', marginLeft: '3px' }}
+            alt=""
+          />
+        </a>
+        ,{' '}
+        <a
+          href="https://www.benzinga.com/money/best-altcoin-exchanges/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Best Altcoin Exchanges
+          <img
+            src={newTab}
+            alt=""
             style={{ opacity: '0.5', width: '10px', marginLeft: '3px' }}
           />
         </a>
@@ -104,13 +121,10 @@ export default function BitcoinInfo() {
           <img
             src={newTab}
             style={{ opacity: '0.5', width: '10px', marginLeft: '3px' }}
+            alt=""
           />
         </a>
-        .<br />
-        Want to use altcoins like Monero or Zcash?{' '}
-        <Link to="/contact">Send us a message</Link> and we'll try to
-        accommodate you.
-        <br />
+        .
       </p>
     </div>
   )

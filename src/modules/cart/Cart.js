@@ -1,20 +1,18 @@
 import React, { useContext } from 'react'
 import CartDetail from './CartDetail'
-import Blockonomics from '../components/Blockonomics'
 import '../../css/mylist.css'
 import WhyBanned from '../components/banned/WhyBanned'
 import ClearContinueButtons from './ClearContinueButtons'
 import { CartContext } from '../contexts/CartContext'
-import BitcoinHelp from './BitcoinHelp'
-import MoreVideosPhotsButtons from './MoreVideosPhotosButtons'
 import BitcoinInfo from './BitcoinInfo'
+import { Altcoin } from './Altcoin'
 
 const Cart = () => {
   const { cart } = useContext(CartContext)
 
   const s = cart.length === 1 ? '' : 's'
   const screenWidth = window.screen.width
-  let width = screenWidth < 650 ? '94%' : screenWidth < 1300 ? '80%' : '50%'
+  let width = screenWidth < 650 ? '94%' : '75%'
   let spanFont = screenWidth < 1000 ? '1.2rem' : '1.3rem'
 
   let randomNumber = () => {
@@ -82,12 +80,6 @@ const Cart = () => {
   let amtDue = total.reduce((a, b) => a + b, 0).toFixed(2)
 
   const styles = {
-    button: {
-      display: 'block',
-      margin: '0px auto',
-      paddingLeft: '20px',
-      paddingRight: '20px',
-    },
     ul: {
       listStyleType: 'none',
       padding: '0',
@@ -95,11 +87,12 @@ const Cart = () => {
     },
     totals: {
       display: 'flex',
-      justifyContent: 'space-between',
-      padding: '0 45px',
+      flexDirection: 'row',
+      justifyContent: 'space-around',
+      width: '100%',
       backgroundColor: '#221729',
       border: '2px solid lime',
-      margin: '30px auto',
+      margin: '0px auto',
       flexWrap: 'wrap',
     },
     span: {
@@ -114,6 +107,23 @@ const Cart = () => {
       textAlign: 'center',
       marginBottom: '15px',
       textTransform: 'uppercase',
+    },
+    checkoutDiv: {
+      width: width,
+      maxWidth: '780px',
+      margin: '0 auto',
+      display: 'flex',
+      flex: 1,
+      flexDirection: 'column',
+      alignContent: 'center',
+      justifyContent: 'space-evenly',
+    },
+    getStarted: {
+      width: '80%',
+      textAlign: 'center',
+      margin: '0 auto 70px auto',
+      fontSize: '1.5rem',
+      color: 'lime',
     },
   }
 
@@ -137,30 +147,23 @@ const Cart = () => {
       </header>
       {cart.length === 0 && (
         <div>
-          <h5
-            style={{
-              width: '80%',
-              textAlign: 'center',
-              margin: '0 auto 70px auto',
-              fontSize: '1.5rem',
-              color: 'lime',
-            }}
-          >
+          <h5 style={styles.getStarted}>
             Click on any "ADD TO CART" button to get started!
           </h5>
         </div>
       )}
 
       {itemCount > 0 && (
-        <div style={{ width: width, margin: '0 auto' }}>
-          <div style={{ marginBottom: '20px' }}>
+        <div style={styles.checkoutDiv}>
+          <div style={{ marginBottom: '0px' }}>
             <ClearContinueButtons />
           </div>
           <hr style={{ margin: '0px auto' }} />
           <p style={styles.checkout}>checkout</p>
-          <ul style={{ margin: '0 0 50px 0' }}>
+
+          <ul style={{ margin: '0 0 30px 0' }}>
             <li style={{ margin: '0' }}>
-              Click the "Pay with Bitcoin" button.
+              Click the "Pay with Bitcoin or Altcoins" button.
             </li>
             <li style={{ margin: '0' }}>
               When the form pops up follow the instructions.
@@ -170,6 +173,15 @@ const Cart = () => {
               your download links!
             </li>
           </ul>
+
+          <Altcoin
+            key={Date.now()}
+            name={`Powershotz Cart | ${itemCount} item${s}`}
+            description={titles}
+            price={amtDue}
+            links={downloadLinks}
+            date={Date.now()}
+          />
 
           <ul
             style={{
@@ -189,25 +201,12 @@ const Cart = () => {
             </h2>
           </div>
 
-          <Blockonomics
-            key={amtDue}
-            name={`Powershotz Cart | ${itemCount} item${s}`}
-            description={titles}
-            price={amtDue}
-            links={downloadLinks}
-          />
-
-          <div style={{ marginTop: '75px' }}>
-            <BitcoinInfo />
-          </div>
-          <div style={{ marginTop: '40px' }}>
-            <BitcoinHelp />
-          </div>
-          <div style={{ marginTop: '40px' }}>
+          <div style={{ marginTop: '50px' }}>
             <WhyBanned />
           </div>
-          <div style={{ marginTop: '40px', marginBottom: '75px' }}>
-            <MoreVideosPhotsButtons />
+
+          <div style={{ margin: '40px 0' }}>
+            <BitcoinInfo />
           </div>
         </div>
       )}
@@ -215,7 +214,7 @@ const Cart = () => {
         <div
           style={{
             width: width,
-            margin: '100px auto 75px auto',
+            margin: '125px auto 75px auto',
             borderTop: '1px solid white',
           }}
         >
