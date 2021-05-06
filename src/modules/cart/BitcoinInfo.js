@@ -1,7 +1,7 @@
 import React from 'react'
 import newTab from '../../images/newTab.png'
 
-export default function BitcoinInfo() {
+export const BitcoinInfo = ({ heading = true }) => {
   // misc styles
   const styles = {
     whyCenter: {
@@ -19,8 +19,8 @@ export default function BitcoinInfo() {
   return (
     <div>
       {/* <p style={styles.bitcoin}>Buy instant downloads using Bitcoin!</p> */}
-      <p style={styles.whyCenter}>
-        <span style={{ color: 'lime' }}>New to Crypto?</span> Read{' '}
+      <p>
+        {heading && <span style={{ color: 'lime' }}>New to Crypto?</span>} Read{' '}
         <a
           href="https://bitcoin.org/en/getting-started"
           target="_blank"
@@ -46,13 +46,24 @@ export default function BitcoinInfo() {
             alt=""
           />
         </a>
-        . Want to easily buy Crypto with a credit card? Try{' '}
+      </p>
+      <p>
+        Want to easily buy Crypto with a credit card? Try{' '}
         <a
           href="https://www.blockchain.com/"
           target="_blank"
           rel="noopener noreferrer"
         >
           Blockchain
+          <img
+            src={newTab}
+            style={{ opacity: '0.5', width: '10px', marginLeft: '3px' }}
+            alt=""
+          />
+        </a>
+        ,{' '}
+        <a href="https://bitpay.com/" target="_blank" rel="noopener noreferrer">
+          Bitpay
           <img
             src={newTab}
             style={{ opacity: '0.5', width: '10px', marginLeft: '3px' }}
@@ -129,3 +140,5 @@ export default function BitcoinInfo() {
     </div>
   )
 }
+
+export default BitcoinInfo

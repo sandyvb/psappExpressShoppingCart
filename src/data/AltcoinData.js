@@ -1,4 +1,5 @@
 import Altcoin from '../models/Altcoin'
+// import firebase from 'firebase'
 
 const btc = 'https://powershotz.com/qr/btc.png'
 const aave = 'https://powershotz.com/qr/aave.png'
@@ -35,6 +36,8 @@ const trx = 'https://powershotz.com/qr/trx.png'
 const vet = 'https://powershotz.com/qr/vet.png'
 const xrp = 'https://powershotz.com/qr/xrp.png'
 const zec = 'https://powershotz.com/qr/zec.png'
+const zelle = 'https://powershotz.com/qr/zelle.png'
+const cashApp = 'https://powershotz.com/qr/cashApp.png'
 
 // coinName, coinAbbr, address, qrImg
 
@@ -82,6 +85,7 @@ export const ALTCOINS = [
     'addr1q95funmpvjnpq9xyv3gmgzuvlg92pnyn7p07mz2uaxuefxmgne8kze9xzq2vgez3ks9ce7s25rxf8uzlaky4e6dejjdsun3p7t',
     ada
   ),
+  new Altcoin('Cash App', 'USD', '$Powershotz', cashApp),
   new Altcoin(
     'Chainlink',
     'LINK',
@@ -179,6 +183,7 @@ export const ALTCOINS = [
     vet
   ),
   new Altcoin('Zcash', 'ZEC', 't1aHKAqbFzoBxghvR1eGJE4LiixRQAx9DgK', zec),
+  new Altcoin('Zelle', 'USD', 'alexandra@powershotz.com', zelle),
 ]
 
 // coinName, coinAbbr, address, qrImg
@@ -186,3 +191,35 @@ export const ALTCOINS = [
 export const SelectCoin = ALTCOINS.map((item) => {
   return { value: item, label: `${item.coinName} (${item.coinAbbr})` }
 })
+
+// export const fetchCoins = () => {
+//   const allCoins = []
+//   firebase
+//     .database()
+//     .ref()
+//     .child('altcoin')
+//     .get()
+//     .then((snapshot) => {
+//       if (snapshot.exists()) {
+//         const resData = snapshot.val()
+//         console.log(resData)
+//         for (const key in resData) {
+//           console.log(resData)
+//           allCoins.push(
+//             new Altcoin(
+//               resData[key],
+//               resData[key].value,
+//               resData[key].address,
+//               resData[key].image
+//             )
+//           )
+//         }
+//       } else {
+//         console.log('Cannot load altcoins')
+//       }
+//     })
+//     .catch((e) => {
+//       console.log('Error loading altcoins', e.message)
+//     })
+//   return allCoins
+// }

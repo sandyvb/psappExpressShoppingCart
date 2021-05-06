@@ -27,8 +27,10 @@ const VideoSlider = (props) => {
     }
   }
 
+  // <div id="slider" onContextMenu={(e) => e.preventDefault()}>
+
   return (
-    <div id="slider" onContextMenu={(e) => e.preventDefault()}>
+    <div id="slider">
       <div className="slider">
         <div style={{ display: 'block', margin: '0 auto' }}>
           <img src={props.poster} alt={pzcode} loading="eager" />

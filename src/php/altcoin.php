@@ -4,8 +4,13 @@ header('Access-Control-Allow-Headers: Origin, X-Requested-With, Content-Type, Ac
 
 // post data = { name, description, price, coinPrice, id, codes, date, email }
 
+// https://stackoverflow.com/questions/29509934/encrypt-with-cryptojs-and-decrypt-with-php
+
 // set response code - 200 OK
 http_response_code(200);
+
+$key = pack("H*", "f9292b429191662f2dd3872ebd64d364");
+$iv =  pack("H*", "67062bc9da6482af0aa6872710461ab7");
 
 $rest_json = file_get_contents("php://input");
 $_POST = json_decode($rest_json, true);
@@ -23,7 +28,10 @@ $myWalletAddress = $_POST['address'];
 $abbr = $_POST['coinAbbr'];
 $orderNumber = $_POST['date'];
 $date = date('m/d/Y');
-$orderLinks = $_POST['codes'];
+$cipher = $_POST['cipher']; //encoded
+$orderLinks = openssl_decrypt($cipher, 'AES-128-CBC', $key, OPENSSL_ZERO_PADDING, $iv);
+$orderLinks = trim($orderLinks);
+$orderLinks = json_decode($orderLinks);
 
 if (sizeof($orderLinks) > 1) {
     $S = 'S';
@@ -92,14 +100,16 @@ foreach ($orderLinks as $link) {
     $count++;
 }
 $faqs = "https://powershotz.com/faqs";
+$previewUrl = "https://ln.sync.com/dl/407e3bb40/2z3d8fny-cc6bh947-rjqtdspa-vjvtnn29/view/default/11188225250008";
 $temp_msg .= "</ul>
-        <p>You will receive your download links when your payment is confirmed. If you placed this order in error, please disregard this email.</p>
+        <p>You will receive your stream or download links when your payment is confirmed. If you placed this order in error, please disregard this email.</p>
         <p>If you need to resend your payment, please send the equivalent of <b>$$total</b> in $coinName ($abbr) to: <b>$myWalletAddress</b></p>        
         <p>Please reply to this email if you have any questions or problems.</p>
         <p>Thanks again from Powershotz and have a great day!
         <br/>
         <i>Alexandra</i> &hearts;
         </p>
+        <p>p.s. Here is a <a href=$previewUrl>preview video</a> to watch while you are waiting for your order!</p>
     </body>
 </html>
 ";
@@ -108,10 +118,10 @@ $temp_msg .= "</ul>
 $response_msg = "
 <html>
     <head>
-        <title>Your Powershotz Download$s</title>
+        <title>Your Powershotz Order</title>
     </head>
     <body>
-        <h1>YOUR POWERSHOTZ DOWNLOAD$S $is HERE!</h1>
+        <h1>YOUR POWERSHOTZ LINK$S $is HERE!</h1>
         <hr/>
         <h3><i>Thank you for your $coinName order!</i></h3>
         <p>$orderName</p>
@@ -120,7 +130,7 @@ $response_msg = "
         <p><b>Order Total:</b> $$total USD</p>
         <p><b>Paid:</b> $coinPrice $abbr</p>
         <p><b>Your order sent to:</b> $customerEmail </p>
-        <h2>Click on the link$s below to download your product$s!</h2>
+        <h2>Click on the link$s below to stream or download your product$s!</h2>
         <ul>";
 
 $count = 0;
@@ -131,9 +141,7 @@ foreach ($orderLinks as $link) {
     if ($description[$count] === null) {
         $description[$count] = 'Error! Please contact Alexandra :)';
     }
-    $string = substr($link, 2);
-    $downloadLink = "https://ln2.sync.com/dl/{$string}";
-    $response_msg .= "<li><h3><a href=$downloadLink>$description[$count]</a></h3></li>";
+    $response_msg .= "<li><h3><a href=$link>$description[$count]</a></h3></li>";
     $count++;
 }
 $faqs = "https://powershotz.com/faqs";

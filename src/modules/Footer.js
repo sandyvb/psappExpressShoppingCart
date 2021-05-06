@@ -11,20 +11,26 @@ const Footer = () => {
       <div className="main">
         <div className="columns">
           <div className="column1">
-            <h3>How do I order downloads?</h3>
+            <h3>How do I order?</h3>
             <p>
-              Click on any "ADD TO CART" button. Follow the directions in the
+              Click on any "ADD TO CART" button. Follow the instructions in the
               shopping cart.
             </p>
-            <h3>How quickly will I get my downloads?</h3>
-            <p>Your downloads will come to your inbox within 24 hours.</p>
-            <h3>Why don't I see my downloads?</h3>
+            <h3>How quickly will I get my links?</h3>
+            <p>
+              Your download or streaming links will usually come to your inbox
+              within a few minutes, but always within 24 hours.
+            </p>
+            <h3>Why don't I see my links?</h3>
             <p>Check your junk/spam folder.</p>
           </div>
 
           <div className="column2">
             <h3>Delivery</h3>
-            <p>All download and DVD orders are are delivered by Powershotz.</p>
+            <p>
+              All download, streaming and DVD orders are are delivered by
+              Powershotz.
+            </p>
             <h3>Guarantee</h3>
             <p>
               We want you to be satisfied and happy with your purchase! We will
@@ -94,7 +100,7 @@ const Footer = () => {
             </a>
             <a
               title="For Tor Browsers Only"
-              href="http://ifth65mhgyykhbhr5gwnp3kifqrmljsdgd2qudohnjcj6tfxqtmtpkyd.onion/"
+              href="http://gug57oxjp5pvsjwfqurtutlv23sym2idlq5ywxfczmow6brjktb6tcad.onion/"
             >
               <img
                 src={tor}

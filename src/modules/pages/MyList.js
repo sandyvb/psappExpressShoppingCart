@@ -74,7 +74,9 @@ const MyList = () => {
           <small className="note">
             Use the same device and browser to maintain a list.
             <br />
-            Or, use different browsers and devices to create multiple lists.
+            Or, use different browsers and devices to create multiple lists.{' '}
+            <br />
+            This feature is not available for multiple sessions in Tor browsers.
           </small>
         )}
       </header>

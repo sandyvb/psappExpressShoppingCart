@@ -862,7 +862,7 @@ export default [
   },
   {
     vid_id: '17327624',
-    model_name: 'Nikki',
+    model_name: 'Nikki T',
     id: '173',
   },
   {

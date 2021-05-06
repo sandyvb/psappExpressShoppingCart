@@ -1,5 +1,7 @@
 import React, { Suspense, lazy } from 'react'
 import { Route, Switch } from 'react-router-dom'
+// import firebase from 'firebase/app'
+// import { firebaseConfig } from '../secret'
 
 //https://reactjs.org/docs/code-splitting.html#route-based-code-splitting
 
@@ -31,6 +33,8 @@ const Letter = lazy(() => import('./components/banned/Letter'))
 
 // FIX FOR ROUTER PROBLEMS WHEN DEPLOYING APP!
 // https://dev.to/crishanks/deploy-host-your-react-app-with-cpanel-in-under-5-minutes-4mf6
+
+// firebase.apps.length === 0 && firebase.initializeApp(firebaseConfig)
 
 const App = () => {
   return (

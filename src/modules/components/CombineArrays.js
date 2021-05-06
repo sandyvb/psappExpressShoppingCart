@@ -1,9 +1,9 @@
-import Clips from '../../data/Clips'
+import { CLIPS } from '../../data/Clips'
 // import VideoData from '../../data/VideoData'
 
 const CombineArrays = () => {
   // change length format of Clips
-  const splitTimeClips = Clips.map((item) => {
+  const splitTimeClips = CLIPS.map((item) => {
     if (item.length.includes(':')) {
       let a = item.length.split(':')
       let h = Number(a[0]) * 60

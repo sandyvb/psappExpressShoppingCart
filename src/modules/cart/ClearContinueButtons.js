@@ -2,7 +2,7 @@ import React, { useContext } from 'react'
 import { CartContext } from '../contexts/CartContext'
 import { useHistory } from 'react-router-dom'
 
-const ClearContinueButtons = () => {
+const ClearContinueButtons = (props) => {
   const { cartDispatch } = useContext(CartContext)
   const history = useHistory()
   const screenWidth = window.screen.width
@@ -42,6 +42,7 @@ const ClearContinueButtons = () => {
       >
         Clear Cart
       </button>
+      {props.children}
       <button style={styles.continue} onClick={() => history.goBack()}>
         continue shopping
       </button>

@@ -34,15 +34,15 @@ const Blockonomics = ({ name, description, price, links }) => {
       .catch((err) => console.log(`callBlockonomics error: ${err}`))
   }
 
-  const checkState = () => {
-    if (document.visibilityState === 'hidden') {
-      const urlDelete = `${pzDelete}${data}`
-      // console.log('beacon: ', data)
-      navigator.sendBeacon(urlDelete)
-    } else {
-      callBlockonomics()
-    }
-  }
+  // const checkState = () => {
+  //   if (document.visibilityState === 'hidden') {
+  //     const urlDelete = `${pzDelete}${data}`
+  //     // console.log('beacon: ', data)
+  //     navigator.sendBeacon(urlDelete)
+  //   } else {
+  //     callBlockonomics()
+  //   }
+  // }
 
   window.addEventListener('visibilitychange', () => checkState(), {
     capture: true,

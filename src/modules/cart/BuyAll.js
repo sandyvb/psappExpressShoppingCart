@@ -1,7 +1,7 @@
 import React, { useContext, useState, useEffect } from 'react'
 import StarsInData from '../../data/StarsInData'
-import PhotoData from '../../data/PhotoData'
-import clips from '../../data/Clips'
+import { PHOTODATA } from '../../data/PhotoData'
+import { CLIPS } from '../../data/Clips'
 import { CartContext } from '../contexts/CartContext'
 
 const BuyAll = ({ name }) => {
@@ -17,7 +17,7 @@ const BuyAll = ({ name }) => {
   const addAllToCart = () => {
     // get all the model's videos & photos
     let lcName = name.toLowerCase().replace(/ /g, '')
-    let model = PhotoData.find((item) => {
+    let model = PHOTODATA.find((item) => {
       return item.model_name.toLowerCase().replace(/ /g, '') === lcName
     })
     let videoIds = StarsInData.filter(
@@ -28,7 +28,7 @@ const BuyAll = ({ name }) => {
     cartDispatch({ type: 'REMOVE_CART_ITEM', item: model })
     cartDispatch({ type: 'ADD_CART_ITEM', item: model })
     videoIds.forEach((item) => {
-      let object = clips.find((obj) => {
+      let object = CLIPS.find((obj) => {
         return obj.id === item.vid_id
       })
       cartDispatch({ type: 'REMOVE_CART_ITEM', item: object })

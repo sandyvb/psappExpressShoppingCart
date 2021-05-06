@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react'
+import React, { useState, useEffect, useCallback } from 'react'
 import { Link } from 'react-router-dom'
 import { CopyToClipboard } from 'react-copy-to-clipboard'
 import axios from 'axios'
@@ -6,6 +6,13 @@ import Select from 'react-select'
 import { SelectCoin } from '../../data/AltcoinData'
 import bluex from '../../images/bluex.webp'
 import copyImg from '../../images/copy-to-clipboard.png'
+import AltcoinHelp from './AltcoinHelp'
+import { ToastContainer, toast } from 'react-toastify'
+import 'react-toastify/dist/ReactToastify.css'
+import CryptoJS from 'crypto-js'
+import padZeroPadding from 'crypto-js/pad-zeropadding'
+import { secretKey, secretIv } from '../../secret'
+import newTab from '../../images/newTabBlue.png'
 
 export const Altcoin = ({ name, description, price, codes, date }) => {
   const [hideDiv, setHideDiv] = useState(true)
@@ -20,10 +27,34 @@ export const Altcoin = ({ name, description, price, codes, date }) => {
   const [coinPriceText, setCoinPriceText] = useState('')
   const [addressText, setAddressText] = useState('')
 
+  const screenWidth = window.screen.width
+
+  //TODO: add bitpay to list
+  //TODO: only change isSale for sale
+  const [isSale, setIsSale] = useState(true)
+  price = isSale ? (price / 2).toFixed(2) : price
+
+  const atMidnight = useCallback(() => setIsSale(false), [setIsSale])
+
+  const timeAtMidnight = isSale && new Date('4/26/2021 12:01:00 AM').getTime()
+  let timeNow = isSale && new Date().getTime()
+  let offsetMs = isSale && timeAtMidnight - timeNow
+
+  useEffect(() => {
+    const timeout = isSale && setTimeout(atMidnight, offsetMs)
+    return () => {
+      isSale && clearTimeout(timeout)
+    }
+  }, [offsetMs, isSale, atMidnight])
+
   useEffect(() => {
     const coingeckoUrl = `https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&ids=${coinName.toLowerCase()}&order=market_cap_desc&per_page=1&page=1&sparkline=false`
 
     async function getPrice() {
+      if (coinName === 'Cash App' || coinName === 'Zelle') {
+        setCoinPrice(`$${price}`)
+        return
+      }
       setCoinPrice('Loading... ')
       await axios
         .get(coingeckoUrl, {
@@ -46,6 +77,17 @@ export const Altcoin = ({ name, description, price, codes, date }) => {
     setHideDiv(!hideDiv)
   }
 
+  const handleToast = () =>
+    toast.success('Copied to clipboard', {
+      position: 'top-right',
+      autoClose: 2000,
+      hideProgressBar: false,
+      closeOnClick: true,
+      pauseOnHover: true,
+      draggable: true,
+      progress: undefined,
+    })
+
   const handleChangeCoin = (item) => {
     setCoinAbbr(item.value.coinAbbr)
     setCoinName(item.value.coinName)
@@ -54,6 +96,14 @@ export const Altcoin = ({ name, description, price, codes, date }) => {
   }
 
   const handleOrder = () => {
+    const key = CryptoJS.enc.Hex.parse(secretKey)
+    const iv = CryptoJS.enc.Hex.parse(secretIv)
+    let cipher = CryptoJS.AES.encrypt(JSON.stringify(codes), key, {
+      iv: iv,
+      padding: padZeroPadding,
+    })
+    cipher = cipher.ciphertext.toString(CryptoJS.enc.Base64)
+
     const data = {
       name,
       description,
@@ -61,7 +111,7 @@ export const Altcoin = ({ name, description, price, codes, date }) => {
       coinPrice,
       coinName,
       coinAbbr,
-      codes,
+      cipher,
       date,
       email,
       address,
@@ -73,7 +123,7 @@ export const Altcoin = ({ name, description, price, codes, date }) => {
     }).then((response) => {
       if (response.data.sent === true) {
         console.log({
-          successMsg: 'Thank you! Your message has been sent!',
+          successMsg: 'Thank you! Your order has been sent!',
         })
       } else {
         console.log({ successMsg: 'Server Error: please try again' })
@@ -81,16 +131,27 @@ export const Altcoin = ({ name, description, price, codes, date }) => {
     })
   }
 
-  //TODO: visual cue on copy to clipboard
-
   return (
     <div>
+      <ToastContainer
+        position="top-right"
+        autoClose={2000}
+        hideProgressBar={false}
+        newestOnTop={false}
+        closeOnClick
+        rtl={false}
+        pauseOnFocusLoss
+        draggable
+        pauseOnHover
+        closeButton="false"
+        style={{ width: '200px', position: 'fixed', top: '10%' }}
+      />
       <button
         style={styles.button}
         title="Pay with Altcoins"
         onClick={handleHide}
       >
-        Pay with Bitcoin or Altcoins
+        Click here to Pay
       </button>
       <div className={hideDiv ? 'hideAltcoin' : ''} style={styles.hiddenDiv}>
         <img
@@ -103,11 +164,12 @@ export const Altcoin = ({ name, description, price, codes, date }) => {
           }}
           onClick={handleHide}
         />
-        <div style={styles.box}>
-          <p style={{ margin: '0', fontStyle: 'italic' }}>
-            No more expired payments!
-          </p>
-
+        <div
+          style={{
+            ...styles.box,
+            padding: screenWidth < 450 ? '3% 5%' : '3% 10%',
+          }}
+        >
           <h3>{name}</h3>
           <p>
             {description.map((item) => {
@@ -119,14 +181,21 @@ export const Altcoin = ({ name, description, price, codes, date }) => {
               )
             })}
           </p>
-          <p style={{ border: '1px solid black', padding: '5px 0' }}>
+          <p
+            style={{
+              border: '1px solid black',
+              padding: '5px 0',
+              borderRadius: '3px',
+            }}
+          >
             Order total:{' '}
-            <span style={{ color: 'green', fontWeight: '600' }}>${price}</span>{' '}
+            <span style={{ color: 'green', fontWeight: '600' }}>${price} </span>
             USD
             <br />
             Order #{date}
           </p>
-          <h3>Choose a wallet:</h3>
+
+          <h3>Choose a Coin, Cash App, or Zelle:</h3>
           <div style={{ textAlign: 'left' }}>
             <Select
               name="coin"
@@ -143,9 +212,15 @@ export const Altcoin = ({ name, description, price, codes, date }) => {
             text={coinPrice}
             onCopy={() => {
               setCoinPriceText('grey')
+              handleToast()
             }}
           >
-            <p style={{ ...styles.copyText, color: coinPriceText }}>
+            <p
+              style={{
+                ...styles.copyText,
+                color: coinPriceText,
+              }}
+            >
               {coinPrice} {coinAbbr}
               <img
                 title="copy to clipboard"
@@ -160,6 +235,7 @@ export const Altcoin = ({ name, description, price, codes, date }) => {
             text={address}
             onCopy={() => {
               setAddressText('grey')
+              handleToast()
             }}
           >
             <p style={{ ...styles.copyText, color: addressText }}>
@@ -186,18 +262,54 @@ export const Altcoin = ({ name, description, price, codes, date }) => {
           </Link>
         </div>
 
-        <p style={{ fontSize: '1rem', margin: '20px auto', width: '70%' }}>
-          An email containing your download link(s) will be sent to you within
-          24 hours upon receipt of payment.
-          <br />
-          <i>
-            <small style={{ fontSize: '15px' }}>
-              (I'm working on automating this...)
-            </small>
-          </i>
-          <br />
-          <Link to="/contact">Ask me about more payment options!</Link>
+        <p style={{ margin: '0 10%' }}>
+          If you'd like to use{' '}
+          <a
+            href="https://cash.app/"
+            target="_blank"
+            rel="noopener noreferrer"
+            alt="Cash App"
+          >
+            <b style={{ fontSize: '1.3rem' }}>Cash App</b>{' '}
+            <img
+              src={newTab}
+              style={{ opacity: '0.5', width: '10px', marginLeft: '5px' }}
+              alt=""
+            />
+          </a>{' '}
+          or{' '}
+          <a
+            href="https://www.zellepay.com/"
+            target="_blank"
+            rel="noopener noreferrer"
+            alt="Zelle"
+          >
+            <b style={{ fontSize: '1.3rem' }}>Zelle</b>{' '}
+            <img
+              src={newTab}
+              style={{ opacity: '0.5', width: '10px', marginLeft: '5px' }}
+              alt=""
+            />
+          </a>
+          , you need to install that app on your phone.{' '}
+          <b style={{ fontSize: '1.2rem' }}>Easy!</b>
         </p>
+
+        <p style={{ marginTop: 10, marginBottom: 0 }}>
+          <Link to="/contact">
+            <span style={{ fontSize: '1.3rem', fontWeight: 'bold' }}>
+              Ask me about other payment options!
+            </span>
+          </Link>
+        </p>
+        <div style={{ marginBottom: 20 }}>
+          <p style={{ margin: 0 }}>
+            <small style={{ fontSize: '15px' }}>
+              (cash, check, money order, gold... &#128521;)
+            </small>
+          </p>
+        </div>
+        <AltcoinHelp />
       </div>
     </div>
   )
@@ -234,7 +346,8 @@ const styles = {
   box: {
     border: '1px solid black',
     margin: '50px 10px 20px 10px',
-    padding: '3% 10%',
+    borderRadius: '3px',
+    paddingBottom: 30,
   },
   label: {
     display: 'flex',
@@ -242,15 +355,6 @@ const styles = {
     fontWeight: 'bold',
     color: 'green',
     justifyContent: 'flex-start',
-  },
-  radioContainer: {
-    display: 'flex',
-    flexDirection: 'column',
-    margin: '0 auto',
-    width: '210px',
-  },
-  radio: {
-    marginRight: '10px',
   },
   copyImg: {
     width: '20px',

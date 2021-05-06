@@ -1,7 +1,7 @@
 import React, { useContext } from 'react'
 import { ListContext } from '../contexts/ListContext'
 import { Link } from 'react-router-dom'
-import PhotoData from '../../data/PhotoData'
+import { PHOTODATA } from '../../data/PhotoData'
 import Checkbox from '../components/Checkbox'
 import CartButton from '../cart/CartButton'
 
@@ -45,7 +45,7 @@ const MyListDetail = (props) => {
   if (props.item.model_name) {
     name = props.item.model_name
     type = ' (photo set)'
-    const model = PhotoData.find(
+    const model = PHOTODATA.find(
       (item) => item.model_name === props.item.model_name
     )
     toCart = model

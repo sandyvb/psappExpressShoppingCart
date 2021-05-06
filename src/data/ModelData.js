@@ -338,7 +338,7 @@ export default [
   {
     model_name: 'Delila Darling',
     description:
-      "Big clear eyes and a sweet angelic face augment that perfect body to form this damsel delight.  Pin this one to the wall with a hard dick and hold her there.  She's a bit on the feisty side.",
+      "This Penthouse Pet has big clear eyes and a sweet angelic face augment that perfect body to form this damsel delight.  Pin this one to the wall with a hard dick and hold her there.  She's a bit on the feisty side.",
     ae_clip: 'delila_sm.mp4',
   },
   {

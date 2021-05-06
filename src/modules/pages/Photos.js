@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react'
 import '../../css/cards.css'
-import PhotoData from '../../data/PhotoData'
+import { PHOTODATA } from '../../data/PhotoData'
 import ModelDetail from '../detail/ModelDetail'
 import Masonry from 'react-masonry-css'
 import FilterModels from '../components/FilterModels'
@@ -8,9 +8,9 @@ import SortModels from '../components/SortModels'
 import { Link } from 'react-router-dom'
 
 const Photos = () => {
-  const list = PhotoData
+  const list = PHOTODATA
   const [q, setQ] = useState('')
-  const [display, setDisplay] = useState(PhotoData)
+  const [display, setDisplay] = useState(PHOTODATA)
   const [showItems, setShowItems] = useState(25)
   const [incr, setIncr] = useState(25)
   const [reset, setReset] = useState(null)

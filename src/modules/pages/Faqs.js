@@ -27,7 +27,7 @@ export default function Faqs() {
 
           <AccordionItem title="What is the Powershotz Onion?">
             <p>
-              <a href="http://ifth65mhgyykhbhr5gwnp3kifqrmljsdgd2qudohnjcj6tfxqtmtpkyd.onion/">
+              <a href="hhttp://gug57oxjp5pvsjwfqurtutlv23sym2idlq5ywxfczmow6brjktb6tcad.onion/">
                 Powershotz Onion
               </a>{' '}
               is a hidden service available only on the TOR (The Onion Router)
@@ -64,7 +64,7 @@ export default function Faqs() {
             </p>
           </AccordionItem>
 
-          <AccordionItem title="How do I order?">
+          <AccordionItem title="How do I order and pay?">
             <p>It's Easy!</p>
             <p>
               <b>Downloads:</b>
@@ -82,9 +82,12 @@ export default function Faqs() {
               <li>Check your email for download links.</li>
             </ol>
             <p>
-              <b>Can I order downloads with cash, check, or money order?</b>
+              <b>How else can I pay?</b>
             </p>
             <ol>
+              <li>
+                Zelle, Cash app, cash, check, money order, or gold &#128521;
+              </li>
               <li>
                 <Link to="/contact">Contact me</Link>
               </li>
@@ -95,22 +98,21 @@ export default function Faqs() {
             <ol>
               <li>
                 Go to the <Link to="/dvd">DVD order form</Link> and follow the
-                directions
+                instructions.
               </li>
             </ol>
           </AccordionItem>
 
           <AccordionItem title="Do you accept other altcoins?">
             <p>
-              Besides Bitcoin (BTC), we can accept Bitcoin Cash (BCH), Bitcoin
-              SV (BSV), Ethereum (ETH), Monero (XMR), Zcash (ZEC), and Litecoin
-              (LTC). Just let us know if there is another currency you'd like to
-              use. Please <Link to="/contact">contact us</Link> and we'll try to
-              accommodate your payment method.
+              Besides Bitcoin (BTC), we accept 34 different altcoins. Just let
+              us know if there is another currency you'd like to use. Please{' '}
+              <Link to="/contact">contact us</Link> and we'll try to accommodate
+              your payment method.
             </p>
           </AccordionItem>
 
-          <AccordionItem title="How do I download my videos?">
+          <AccordionItem title="How do I download or stream my purchases?">
             <p>
               <b>DOWNLOAD INSTRUCTIONS:</b>
             </p>
@@ -118,7 +120,30 @@ export default function Faqs() {
               <li>
                 Click on a link in your email from alexandra@powershotz.com
               </li>
-              <li>Save the file somewhere on your computer</li>
+              <li>Download and save the file somewhere on your computer</li>
+            </ol>
+            <p>
+              <b>STREAMING INSTRUCTIONS:</b>
+            </p>
+            <ol>
+              <li>
+                Click on a link in your email from alexandra@powershotz.com
+              </li>
+              <li>
+                If the video is available to stream, click on{' '}
+                <b>
+                  "
+                  <img
+                    src={newTabBlue}
+                    alt=""
+                    style={{
+                      width: '11px',
+                      marginRight: '3px',
+                    }}
+                  />
+                  Open"
+                </b>
+              </li>
             </ol>
           </AccordionItem>
 
@@ -321,8 +346,8 @@ export default function Faqs() {
 
           <AccordionItem title="Can I sell my videos on your site?">
             <p>
-              We are thinking about expanding our site to include other studios
-              if there is enough interest.
+              We are working on expanding our site to include other studios and
+              artists. More information to come!
             </p>
             <p>
               If you need server or website services, please{' '}

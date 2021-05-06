@@ -1,6 +1,6 @@
 import React from 'react'
 import ModelStarsIn from './ModelStarsIn'
-import PhotoData from '../../data/PhotoData'
+import { PHOTODATA } from '../../data/PhotoData'
 import ModelSlider from '../components/ModelSlider'
 import ModalImage from 'react-modal-image'
 import ModelData from '../../data/ModelData'
@@ -13,7 +13,7 @@ import BuyAll from '../cart/BuyAll'
 function ModelDetail(props) {
   const num = Math.floor(Math.random() * 4 + 1)
   const name = props.model.model_name
-  const model = PhotoData.find((item) => item.model_name === name)
+  const model = PHOTODATA.find((item) => item.model_name === name)
   const price = model.price
   const description = ModelData.find((item) => item.model_name === name)
     .description

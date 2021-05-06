@@ -21,7 +21,7 @@ function Terms(props) {
         alt="close"
         style={{ width: '50px', float: 'right', cursor: 'pointer' }}
       />
-      <h2>TERMS & CONDITIONS OF USE</h2>
+      <h2 style={{ color: 'black' }}>TERMS & CONDITIONS OF USE</h2>
       <p style={{ textTransform: 'uppercase' }}>
         You must be at least 18 years of age (21 years of age where 18 is not
         the age of majority) to view this website. You are responsible for the
@@ -33,7 +33,7 @@ function Terms(props) {
         have use for so that it may not fall inadvertently into the hands of
         minors.
       </p>
-      <h2>PRIVACY POLICY</h2>
+      <h2 style={{ color: 'black' }}>PRIVACY POLICY</h2>
       <p>
         Powershotz.com (the "Website") has created this privacy policy
         ("Policy") in order to demonstrate our company's commitment to privacy.

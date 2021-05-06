@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { useState, useCallback, useEffect } from 'react'
 import '../../css/home.css'
 import RandomImg from '../components/RandomImg'
 import Masonry from 'react-masonry-css'
@@ -12,6 +12,22 @@ import newTab from '../../images/newTab.png'
 import tor from '../../images/tor.png'
 
 const Home = () => {
+  //TODO: only change isSale for sale
+  const [isSale, setIsSale] = useState(true)
+
+  const atMidnight = useCallback(() => setIsSale(false), [setIsSale])
+
+  const timeAtMidnight = isSale && new Date('4/26/2021 12:01:00 AM').getTime()
+  let timeNow = isSale && new Date().getTime()
+  let offsetMs = isSale && timeAtMidnight - timeNow
+
+  useEffect(() => {
+    const timeout = isSale && setTimeout(atMidnight, offsetMs)
+    return () => {
+      isSale && clearTimeout(timeout)
+    }
+  }, [offsetMs, isSale, atMidnight])
+
   const breakpointColumnsObj = {
     default: 4,
     1400: 3,
@@ -38,7 +54,7 @@ const Home = () => {
             alt="tor"
           />
           <a
-            href="http://ifth65mhgyykhbhr5gwnp3kifqrmljsdgd2qudohnjcj6tfxqtmtpkyd.onion/"
+            href="http://gug57oxjp5pvsjwfqurtutlv23sym2idlq5ywxfczmow6brjktb6tcad.onion/"
             title="For Tor Browsers Only"
           >
             Powershotz Onion
@@ -61,8 +77,8 @@ const Home = () => {
           <h2>News & Updates</h2>
 
           <p>
-            REFRESH YOUR BROWSER OFTEN! The images always change and there may
-            be new features!{' '}
+            <span style={{ color: 'red' }}>REFRESH YOUR BROWSER OFTEN!</span>{' '}
+            The images always change and there may be new features!{' '}
             <span style={{ fontSize: '0.9rem' }}>
               (Ctrl+F5 or Apple Key+Shift+R)
             </span>
@@ -70,10 +86,31 @@ const Home = () => {
 
           <p>What's new?</p>
           <ul>
+            {isSale && (
+              <li style={{ color: 'lime' }}>
+                <h3 style={{ marginBottom: 0 }}>
+                  This weekend only... 50% off!
+                </h3>
+                April 24-25 until midnight <br />
+                Discount applied at checkout
+              </li>
+            )}
+
+            <li>Zelle & Cash App are now available!</li>
             <li>
-              The old Bitcoin button is gone and Altcoin payments are finally
-              here! Your order won't time out anymore. Check out the new{' '}
-              <Link to="/cart">shopping cart</Link>!
+              Do you make floggers, whips, or other fun things? A new shopping
+              app is coming where you can easily sell your adult products! Keep
+              checking back for more information.
+            </li>
+            <li>
+              Don't want to have Powershotz videos saved on your machine? Check
+              the video detail pages to find out if a video is available to
+              stream.
+            </li>
+            <li>
+              <span style={{ color: 'lime' }}>35 ways to pay!</span> Altcoin
+              payments are here! Check out the{' '}
+              <Link to="/cart">shopping cart</Link> for more information.
             </li>
             <li>
               <img
@@ -82,7 +119,7 @@ const Home = () => {
                 style={{ marginRight: '10px' }}
                 alt="tor"
               />
-              <a href="http://ifth65mhgyykhbhr5gwnp3kifqrmljsdgd2qudohnjcj6tfxqtmtpkyd.onion/">
+              <a href="http://gug57oxjp5pvsjwfqurtutlv23sym2idlq5ywxfczmow6brjktb6tcad.onion/">
                 Powershotz Onion
               </a>{' '}
               hidden service is available! You <em>must</em> use a Tor browser
@@ -122,20 +159,59 @@ const Home = () => {
             * Messages are not saved and are lost when you leave this page.
           </small>
         </section> */}
+        <section>
+          <RandomGif />
+          <h2>5 Things To Know About Cryptocurrency</h2>
+          <p>
+            Due to the rapid advancement of technology, people all over the
+            world continually adapt to more convenient and hassle-free ways of
+            working, communicating, and shopping. It’s also because of that same
+            development that companies—be they start-ups or established
+            entities—and consumers alike may no longer prefer paying in cash.
+            This inclination has given way to many […]
+          </p>
+          <a
+            href="https://www.dcforecasts.com/sponsored-stories/5-things-to-know-about-cryptocurrency/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Read on...
+            <img
+              src={newTab}
+              style={{ opacity: '0.5', width: '10px', marginLeft: '5px' }}
+              alt=""
+            />
+          </a>
+          <h2>What is the lowest fee cryptocurrency?</h2>
+          <p>
+            With the recent increase in fees for both Bitcoin and Ethereum, this
+            is a question coming by more recently. So let’s dive right in. [...]
+          </p>
+          <p style={{ marginBottom: 40 }}>
+            <a
+              href="https://medium.com/nanocurrency/cryptocurrency-fee-comparison-which-crypto-has-the-lowest-fees-4e9118590e1f"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Read on...
+              <img
+                src={newTab}
+                style={{ opacity: '0.5', width: '10px', marginLeft: '5px' }}
+                alt=""
+              />
+            </a>
+          </p>
+          <WhyBanned />
+        </section>
 
         <section>
           <RandomGif />
           <Link to="/videos" className="title">
             <h2>Full-length Videos and Clips</h2>
           </Link>
+          <p>Watch the previews or gifs for free!</p>
           <p>
-            Search and preview <Link to="/videos">videos</Link> quickly and
-            easily.
-          </p>
-          <p>
-            Press any "ADD TO CART" button then go to the{' '}
-            <Link to="/cart">cart</Link> to purchase a download. Full-length
-            titles are available on <Link to="/dvd">DVDs</Link>.
+            Full-length titles are available on <Link to="/dvd">DVDs</Link>.
           </p>
         </section>
 
@@ -145,13 +221,8 @@ const Home = () => {
             <h2>Models & Photos</h2>
           </Link>
           <p>
-            Search the <Link to="/photos">photos page</Link> for your favorite
-            models.
-          </p>
-          <p>
-            Press any "ADD TO CART" button then go to the{' '}
-            <Link to="/cart">cart</Link> to purchase a download. Press any
-            "PREVIEW" to see a preview!
+            Up to 50 preview photos are available for each model! Refresh the
+            page to see a new batch!
           </p>
         </section>
 
@@ -159,9 +230,16 @@ const Home = () => {
           <img src={crypto} alt="Buy with Bitcoin" style={{ width: '100%' }} />
           <h2>Buy with Bitcoin or Altcoins!</h2>
           <p>
-            Easily order clips, DVDs, and photos using Bitcoin and other
-            cryptocurrencies! After payment confirmation, check your inbox for
-            download links!
+            Easily order clips, DVDs, and photos using 35 different
+            cryptocurrencies!
+          </p>
+          <p>
+            <Link to="/contact">Contact us</Link> if your cryptocurrency is not
+            listed. We'll try to accomodate you.
+          </p>
+          <p>
+            After payment confirmation, check your inbox for download or stream
+            links!
           </p>
           <WhyBanned />
         </section>

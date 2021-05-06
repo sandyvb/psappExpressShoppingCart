@@ -51,37 +51,19 @@ const CartDetail = ({ item }) => {
     thumb = 'https://powershotz.com/models2/thumbs/' + lcName + '-1.jpg'
   }
 
-  const styles = {
-    delete: {
-      minWidth: '75px',
-      fontSize: '11px',
-      height: '25px',
-      padding: '0px',
-    },
-    type: {
-      fontSize: '1rem',
-      fontWeight: '100',
-    },
-    row: {
-      display: 'flex',
-      flexDirection: 'row',
-      justifyContent: 'space-between',
-      alignItems: 'center',
-      margin: '0',
-      padding: '10px 20px',
-      backgroundColor: '#221729',
-    },
-    col: {
-      display: 'flex',
-      flexDirection: 'column',
-      alignItems: 'flex-end',
-    },
-  }
-
   return (
-    <li style={{ listStyleType: 'none', fontSize: fontSz }}>
+    <li
+      style={{
+        listStyleType: 'none',
+        fontSize: fontSz,
+        border: '1px solid lime',
+      }}
+    >
       <div style={styles.row}>
-        <div onContextMenu={(e) => e.preventDefault()} style={styles.col}>
+        <div
+          onContextMenu={(e) => e.preventDefault()}
+          style={{ ...styles.col, alignItems: 'flex-start' }}
+        >
           <Link to={`/${linkTo}`}>
             <img
               width="75px"
@@ -102,7 +84,7 @@ const CartDetail = ({ item }) => {
             Delete
           </button>
         </div>
-        <div style={{ margin: '0 15px' }}>
+        <div style={{ margin: '0 15px', flex: 4 }}>
           <h4>
             <Link style={{ fontSize: fontSz }} to={`/${linkTo}`}>
               {name}
@@ -116,8 +98,8 @@ const CartDetail = ({ item }) => {
           </h4>
           <p>{productDescription}</p>
         </div>
-        <div style={styles.col}>
-          <p>
+        <div style={{ ...styles.col, alignItems: 'flex-end' }}>
+          <p style={{ marginTop: 0 }}>
             ${price} <span>USD</span>
           </p>
           <SaveForLater item={item} />
@@ -125,6 +107,33 @@ const CartDetail = ({ item }) => {
       </div>
     </li>
   )
+}
+
+const styles = {
+  delete: {
+    minWidth: '75px',
+    fontSize: '11px',
+    height: '25px',
+    padding: '0px',
+  },
+  type: {
+    fontSize: '1rem',
+    fontWeight: '100',
+  },
+  row: {
+    display: 'flex',
+    flexDirection: 'row',
+    justifyContent: 'space-between',
+    alignItems: 'center',
+    margin: '0',
+    padding: '10px 20px',
+    backgroundColor: '#221729',
+  },
+  col: {
+    display: 'flex',
+    flex: 2,
+    flexDirection: 'column',
+  },
 }
 
 export default CartDetail

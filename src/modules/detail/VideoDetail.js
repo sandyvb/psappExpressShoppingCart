@@ -27,6 +27,11 @@ const VideoDetail = (props) => {
   let runtime = props.video.length || props.video.runtime
   let c4sCode = props.video.id
   let price = props.video.price
+  let stream = !props.video.streaming
+    ? 'Download Only'
+    : props.video.streaming && props.video.pz_code
+    ? 'DVD, Download, or Stream'
+    : 'Download or Stream'
 
   // are we on videos page (0) or detail page (-1)?
   const pathname = document.location.pathname.indexOf('/videos')
@@ -99,6 +104,7 @@ const VideoDetail = (props) => {
               </Link>
             </div>
           )}
+          <p style={{ textAlign: 'center', fontStyle: 'italic' }}>{stream}</p>
         </div>
       )}
     </div>
