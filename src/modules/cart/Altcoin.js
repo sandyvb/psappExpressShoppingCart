@@ -12,7 +12,8 @@ import 'react-toastify/dist/ReactToastify.css'
 import CryptoJS from 'crypto-js'
 import padZeroPadding from 'crypto-js/pad-zeropadding'
 import { secretKey, secretIv } from '../../secret'
-import newTab from '../../images/newTabBlue.png'
+import { GoQuestion } from '@react-icons/all-files/go/GoQuestion'
+import { RiCloseCircleLine } from '@react-icons/all-files/ri/RiCloseCircleLine.esm'
 
 export const Altcoin = ({ name, description, price, codes, date }) => {
   const [hideDiv, setHideDiv] = useState(true)
@@ -24,35 +25,46 @@ export const Altcoin = ({ name, description, price, codes, date }) => {
   )
   const [qr, setQr] = useState('https://powershotz.com/qr/btc.png')
   const [coinPrice, setCoinPrice] = useState('0.0')
+  const [origCoinPrice, setOrigCoinPrice] = useState()
   const [coinPriceText, setCoinPriceText] = useState('')
   const [addressText, setAddressText] = useState('')
+  const [savings, setSavings] = useState()
+  const [showSavings, setShowSavings] = useState(false)
+  const [displaySavingsInfo, setDisplaySavingsInfo] = useState(false)
+  const [timeUpdated, setTimeUpdated] = useState()
+  const [priceChange, setPriceChange] = useState()
+  const [cashOrZelle, setCashOrZelle] = useState(false)
 
   const screenWidth = window.screen.width
 
-  //TODO: add bitpay to list
-  //TODO: only change isSale for sale
-  const [isSale, setIsSale] = useState(true)
-  price = isSale ? (price / 2).toFixed(2) : price
+  // only change isSale for sale
+  // const [isSale, setIsSale] = useState(true)
+  // price = isSale ? (price / 2).toFixed(2) : price
 
-  const atMidnight = useCallback(() => setIsSale(false), [setIsSale])
+  // const atMidnight = useCallback(() => setIsSale(false), [setIsSale])
 
-  const timeAtMidnight = isSale && new Date('4/26/2021 12:01:00 AM').getTime()
-  let timeNow = isSale && new Date().getTime()
-  let offsetMs = isSale && timeAtMidnight - timeNow
+  // const timeAtMidnight = isSale && new Date('4/26/2021 12:01:00 AM').getTime()
+  // let timeNow = isSale && new Date().getTime()
+  // let offsetMs = isSale && timeAtMidnight - timeNow
 
-  useEffect(() => {
-    const timeout = isSale && setTimeout(atMidnight, offsetMs)
-    return () => {
-      isSale && clearTimeout(timeout)
-    }
-  }, [offsetMs, isSale, atMidnight])
+  // useEffect(() => {
+  //   const timeout = isSale && setTimeout(atMidnight, offsetMs)
+  //   return () => {
+  //     isSale && clearTimeout(timeout)
+  //   }
+  // }, [offsetMs, isSale, atMidnight])
 
   useEffect(() => {
     const coingeckoUrl = `https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&ids=${coinName.toLowerCase()}&order=market_cap_desc&per_page=1&page=1&sparkline=false`
 
     async function getPrice() {
+      setShowSavings(false)
+      setDisplaySavingsInfo(true)
+      setCashOrZelle(false)
       if (coinName === 'Cash App' || coinName === 'Zelle') {
         setCoinPrice(`$${price}`)
+        setDisplaySavingsInfo(false)
+        setCashOrZelle(true)
         return
       }
       setCoinPrice('Loading... ')
@@ -62,8 +74,23 @@ export const Altcoin = ({ name, description, price, codes, date }) => {
         })
         .then((response) => {
           if (response.status === 200) {
-            const conversionRate = response.data[0].current_price
-            setCoinPrice((price / conversionRate).toFixed(10))
+            const currentPrice = response.data[0].current_price
+            const coinPrices = price / currentPrice
+            let priceChanged = response.data[0].price_change_percentage_24h
+            const updated = response.data[0].last_updated
+            const formatUpdated = new Date(Date.parse(updated))
+            let discount = priceChanged
+            if (priceChanged > 0) {
+              discount = 0
+              setDisplaySavingsInfo(false)
+            }
+            const adjustedPrice =
+              coinPrices - Math.abs(coinPrices * (discount / 100))
+            setTimeUpdated(formatUpdated.toString())
+            setCoinPrice(adjustedPrice.toFixed(10))
+            setOrigCoinPrice(coinPrices.toFixed(10))
+            setSavings(discount)
+            setPriceChange(priceChanged)
           } else {
             console.log(`Error: ${response.status} ${response.message}`)
           }
@@ -194,7 +221,6 @@ export const Altcoin = ({ name, description, price, codes, date }) => {
             <br />
             Order #{date}
           </p>
-
           <h3>Choose a Coin, Cash App, or Zelle:</h3>
           <div style={{ textAlign: 'left' }}>
             <Select
@@ -206,8 +232,79 @@ export const Altcoin = ({ name, description, price, codes, date }) => {
               }}
             />
           </div>
+          <h3 style={{ marginBottom: 0 }}>Send this amount:</h3>
 
-          <h3>Send this amount:</h3>
+          {displaySavingsInfo ? (
+            <small style={{ color: 'green', fontWeight: 'bold' }}>
+              You saved {Math.abs(savings).toFixed(2)}%
+            </small>
+          ) : (
+            <small style={{ color: 'green', fontWeight: 'bold' }}>
+              {cashOrZelle
+                ? ''
+                : `Today, ${coinName} has increased in value by${' '}
+              ${Math.abs(priceChange).toFixed(2)}%`}
+            </small>
+          )}
+
+          {!showSavings && displaySavingsInfo && (
+            <GoQuestion
+              size={20}
+              color="green"
+              style={{ marginLeft: 5, transform: `translate(${0}px, ${3}px)` }}
+              onClick={() => {
+                setShowSavings(!showSavings)
+              }}
+            />
+          )}
+
+          {showSavings && displaySavingsInfo && (
+            <RiCloseCircleLine
+              size={20}
+              color="red"
+              style={{ marginLeft: 5, transform: `translate(${0}px, ${3}px)` }}
+              onClick={() => {
+                setShowSavings(!showSavings)
+              }}
+            />
+          )}
+
+          {showSavings && displaySavingsInfo && (
+            <div
+              style={{
+                border: '1px solid green',
+                borderRadius: 4,
+                padding: 10,
+                marginTop: 10,
+              }}
+            >
+              <small style={{ fontSize: 15 }}>
+                Discount has been calculated using the{' '}
+                <a
+                  href="https://www.coingecko.com/en"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  style={{ fontSize: 15 }}
+                >
+                  CoinGecko
+                </a>{' '}
+                API on:
+                <br />
+                {timeUpdated}
+                <br />
+                Original price: {origCoinPrice} {coinAbbr}
+                <br />
+                {coinName} price change in last 24hrs: {savings}%
+                <br />
+                You saved: {Math.abs(savings).toFixed(2)}% <br />
+                Discount price: {coinPrice} {coinAbbr}
+                <br />
+                <i style={{ fontWeight: 'bold' }}>
+                  The more the market goes down, the more you save!
+                </i>
+              </small>
+            </div>
+          )}
           <CopyToClipboard
             text={coinPrice}
             onCopy={() => {
@@ -249,7 +346,6 @@ export const Altcoin = ({ name, description, price, codes, date }) => {
             </p>
           </CopyToClipboard>
           <img src={qr} alt="qr code" width={175} />
-
           <h3>Then, enter your email address and hit send.</h3>
           <input
             style={styles.input}
@@ -262,53 +358,6 @@ export const Altcoin = ({ name, description, price, codes, date }) => {
           </Link>
         </div>
 
-        <p style={{ margin: '0 10%' }}>
-          If you'd like to use{' '}
-          <a
-            href="https://cash.app/"
-            target="_blank"
-            rel="noopener noreferrer"
-            alt="Cash App"
-          >
-            <b style={{ fontSize: '1.3rem' }}>Cash App</b>{' '}
-            <img
-              src={newTab}
-              style={{ opacity: '0.5', width: '10px', marginLeft: '5px' }}
-              alt=""
-            />
-          </a>{' '}
-          or{' '}
-          <a
-            href="https://www.zellepay.com/"
-            target="_blank"
-            rel="noopener noreferrer"
-            alt="Zelle"
-          >
-            <b style={{ fontSize: '1.3rem' }}>Zelle</b>{' '}
-            <img
-              src={newTab}
-              style={{ opacity: '0.5', width: '10px', marginLeft: '5px' }}
-              alt=""
-            />
-          </a>
-          , you need to install that app on your phone.{' '}
-          <b style={{ fontSize: '1.2rem' }}>Easy!</b>
-        </p>
-
-        <p style={{ marginTop: 10, marginBottom: 0 }}>
-          <Link to="/contact">
-            <span style={{ fontSize: '1.3rem', fontWeight: 'bold' }}>
-              Ask me about other payment options!
-            </span>
-          </Link>
-        </p>
-        <div style={{ marginBottom: 20 }}>
-          <p style={{ margin: 0 }}>
-            <small style={{ fontSize: '15px' }}>
-              (cash, check, money order, gold... &#128521;)
-            </small>
-          </p>
-        </div>
         <AltcoinHelp />
       </div>
     </div>

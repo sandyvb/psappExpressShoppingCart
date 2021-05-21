@@ -3,18 +3,18 @@ import newTab from '../../images/newTab.png'
 
 export const BitcoinInfo = ({ heading = true }) => {
   // misc styles
-  const styles = {
-    whyCenter: {
-      textAlign: 'center',
-    },
-    bitcoin: {
-      color: '#f0ad4e',
-      fontSize: '2rem',
-      textAlign: 'center',
-      marginBottom: '15px',
-      display: 'block',
-    },
-  }
+  // const styles = {
+  //   whyCenter: {
+  //     textAlign: 'center',
+  //   },
+  //   bitcoin: {
+  //     color: '#f0ad4e',
+  //     fontSize: '2rem',
+  //     textAlign: 'center',
+  //     marginBottom: '15px',
+  //     display: 'block',
+  //   },
+  // }
 
   return (
     <div>

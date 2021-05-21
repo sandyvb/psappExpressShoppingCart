@@ -15,7 +15,7 @@ export const BitcoinHelp = () => {
   return (
     <div style={styles.helpDiv} onClick={handleClick}>
       <button style={styles.help} title="Bitcoin Payment Help">
-        Help me with crypto!
+        Help me!
       </button>
       <div
         style={{
@@ -34,57 +34,68 @@ export const BitcoinHelp = () => {
           alt="close"
           style={{ width: '50px', float: 'right', cursor: 'pointer' }}
         />
-        <h3 style={styles.p}>Help me, I'm new to Cryptocurrency!</h3>
+
+        <h2>Available Apps</h2>
+        <p>
+          If you'd like to use{' '}
+          <a
+            href="https://cash.app/"
+            target="_blank"
+            rel="noopener noreferrer"
+            alt="Cash App"
+          >
+            <b style={{ fontSize: '1.3rem' }}>Cash App</b>{' '}
+            <img
+              src={newTab}
+              style={{ opacity: '0.5', width: '10px', marginLeft: '5px' }}
+              alt=""
+            />
+          </a>{' '}
+          or{' '}
+          <a
+            href="https://www.zellepay.com/"
+            target="_blank"
+            rel="noopener noreferrer"
+            alt="Zelle"
+          >
+            <b style={{ fontSize: '1.3rem' }}>Zelle</b>{' '}
+            <img
+              src={newTab}
+              style={{ opacity: '0.5', width: '10px', marginLeft: '5px' }}
+              alt=""
+            />
+          </a>
+          , you need to install that app on your phone.{' '}
+          <b style={{ fontSize: '1.2rem', color: 'lime' }}>Easy!</b>
+        </p>
+
+        <h2>Help me, I'm new to Cryptocurrency!</h2>
         <BitcoinInfo heading={false} />
 
         <em>
           All cryptocurrency wallets are different, so be sure to read the
           instructions about how to use your wallet.
         </em>
+        <p>On the Powershotz order form:</p>
         <ol>
-          <li>
-            <u>Choose a coin:</u> Which coin-type(s) does your wallet support?
-            (Bitcoin, Litecoin, Tron, etc.)
-          </li>
-          <li>
-            <u>Send this amount:</u> Copy and paste the amount to your wallet's
-            'send' section. The amount has been calculated using the{' '}
-            <a
-              href="https://www.coingecko.com/en"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              CoinGecko API.
-            </a>{' '}
-            <img
-              src={newTab}
-              style={{ opacity: '0.5', width: '10px', marginLeft: '3px' }}
-              alt=""
-            />{' '}
-          </li>
-          <li>
-            <u>To this address:</u> Copy and paste our wallet address to your
-            wallet's 'send' section.
-          </li>
-          <li>Hit 'send' in your wallet.</li>
-          <li>
-            Make sure you entered your email so we know where to send your
-            order.
-          </li>
-          <li>Hit 'send' on this form.</li>
+          <li>Choose a coin and send the amount to our address.</li>
+          <li>Enter your email so we know where to send your order.</li>
+          <li>Click 'SEND' on our form.</li>
         </ol>
         <p style={{ ...styles.p, marginTop: '25px' }}>You're done!</p>
 
-        <p>You will automatically be taken to a "Thank You" page.</p>
-        <p>
-          Usually the process only takes a few moments, but sometimes it can
-          take longer to process a payment. As soon as your payment is
-          confirmed, the links are sent out.
-        </p>
+        <p>As soon as your payment is confirmed, the links are sent out.</p>
 
         <p>
           Don't hesitate to <Link to="/contact">contact us</Link> if you have
-          any questions or you would like to request another way to pay.
+          any questions.
+        </p>
+
+        <Link to="/contact">
+          <h2>Click to ask me about other payment options!</h2>
+        </Link>
+        <p style={{ marginBottom: 30 }}>
+          (cash, check, money order, gold... &#128521;)
         </p>
       </div>
     </div>

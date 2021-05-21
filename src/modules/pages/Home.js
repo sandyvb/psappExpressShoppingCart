@@ -40,7 +40,7 @@ const Home = () => {
       <header>
         <h1>Welcome to Powershotz!</h1>
 
-        <div
+        {/* <div
           style={{
             display: 'flex',
             justifyContent: 'center',
@@ -59,7 +59,7 @@ const Home = () => {
           >
             Powershotz Onion
           </a>
-        </div>
+        </div> */}
         <h3>
           All Original Videos & Photos Featuring Bondage, BDSM,
           Damsel-in-Distress, Rapeplay, Chloroform, Strugglefuck, Master/Slave &
@@ -77,14 +77,16 @@ const Home = () => {
           <h2>News & Updates</h2>
 
           <p>
-            <span style={{ color: 'red' }}>REFRESH YOUR BROWSER OFTEN!</span>{' '}
-            The images always change and there may be new features!{' '}
+            <span style={{ color: 'red' }}>
+              REFRESH YOUR BROWSER OFTEN!
+              <br />
+            </span>
             <span style={{ fontSize: '0.9rem' }}>
               (Ctrl+F5 or Apple Key+Shift+R)
             </span>
           </p>
 
-          <p>What's new?</p>
+          <h6>What's new?</h6>
           <ul>
             {isSale && (
               <li style={{ color: 'lime' }}>
@@ -96,22 +98,40 @@ const Home = () => {
               </li>
             )}
 
-            <li>Zelle & Cash App are now available!</li>
+            <li>
+              The more the market goes down today, the more you save using
+              cryptocurrency!{' '}
+              <span style={{ color: 'lime' }}>
+                Discounts are automatically calculated and applied during
+                checkout.
+              </span>{' '}
+              We use the{' '}
+              <a
+                href="https://www.coingecko.com/en"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                CoinGecko
+              </a>
+              <img
+                src={newTab}
+                style={{ opacity: '0.5', width: '10px', marginLeft: '5px' }}
+                alt=""
+              />{' '}
+              API to calculate your savings in real time.{' '}
+              <span style={{ color: 'lime' }}>37+ ways to pay!</span>
+            </li>
             <li>
               Do you make floggers, whips, or other fun things? A new shopping
-              app is coming where you can easily sell your adult products! Keep
-              checking back for more information.
+              app is coming where you can easily sell your adult products!{' '}
+              <span style={{ color: 'lime' }}>We are close to launching!</span>
             </li>
             <li>
               Don't want to have Powershotz videos saved on your machine? Check
               the video detail pages to find out if a video is available to
               stream.
             </li>
-            <li>
-              <span style={{ color: 'lime' }}>35 ways to pay!</span> Altcoin
-              payments are here! Check out the{' '}
-              <Link to="/cart">shopping cart</Link> for more information.
-            </li>
+
             <li>
               <img
                 src={tor}
@@ -119,16 +139,20 @@ const Home = () => {
                 style={{ marginRight: '10px' }}
                 alt="tor"
               />
-              <a href="http://gug57oxjp5pvsjwfqurtutlv23sym2idlq5ywxfczmow6brjktb6tcad.onion/">
+              <a
+                href="http://gug57oxjp5pvsjwfqurtutlv23sym2idlq5ywxfczmow6brjktb6tcad.onion/"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
                 Powershotz Onion
-              </a>{' '}
+              </a>
+              <img
+                src={newTab}
+                style={{ opacity: '0.5', width: '10px', marginLeft: '5px' }}
+                alt=""
+              />{' '}
               hidden service is available! You <em>must</em> use a Tor browser
               to access it otherwise you'll get a 404 error.
-            </li>
-            <li>
-              View <Link to="/videos">videos</Link> and{' '}
-              <Link to="/photos">photos</Link> in grid or masonry format. Look
-              for the button at the top of the page!
             </li>
           </ul>
         </section>
@@ -161,17 +185,15 @@ const Home = () => {
         </section> */}
         <section>
           <RandomGif />
-          <h2>5 Things To Know About Cryptocurrency</h2>
+          <h2>Top 5 Cryptocurrencies besides bitcoin for 2021</h2>
           <p>
-            Due to the rapid advancement of technology, people all over the
-            world continually adapt to more convenient and hassle-free ways of
-            working, communicating, and shopping. It’s also because of that same
-            development that companies—be they start-ups or established
-            entities—and consumers alike may no longer prefer paying in cash.
-            This inclination has given way to many […]
+            Apart from bitcoin, there have been hundreds of cryptocurrencies
+            that have come into existence in the past decade. With so many
+            altcoins how does one decide which project is promising and which is
+            not? […]
           </p>
           <a
-            href="https://www.dcforecasts.com/sponsored-stories/5-things-to-know-about-cryptocurrency/"
+            href="https://blog.blockonomics.co/top-5-cryptocurrencies-besides-bitcoin-for-2021-b84bfb2b8ccb"
             target="_blank"
             rel="noopener noreferrer"
           >

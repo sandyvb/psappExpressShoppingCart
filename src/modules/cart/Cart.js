@@ -4,7 +4,6 @@ import '../../css/mylist.css'
 import WhyBanned from '../components/banned/WhyBanned'
 import ClearContinueButtons from './ClearContinueButtons'
 import { CartContext } from '../contexts/CartContext'
-import BitcoinInfo from './BitcoinInfo'
 import { Altcoin } from './Altcoin'
 
 const screenWidth = window.screen.width
@@ -116,9 +115,8 @@ const Cart = () => {
       {itemCount > 0 && (
         <div style={styles.checkoutDiv}>
           <div style={{ marginBottom: '0px' }}>
-            <ClearContinueButtons>
-              <p style={styles.checkout}>checkout</p>
-            </ClearContinueButtons>
+            <ClearContinueButtons />
+            <p style={styles.checkout}>checkout</p>
           </div>
 
           {isSale && (
@@ -183,9 +181,7 @@ const Cart = () => {
             <WhyBanned />
           </div>
 
-          <div style={{ margin: '30px 0' }}>
-            <BitcoinInfo />
-          </div>
+          <div style={{ margin: '30px 0' }}>{/* <BitcoinInfo /> */}</div>
         </div>
       )}
       {saveForLaterList.length > 0 && (

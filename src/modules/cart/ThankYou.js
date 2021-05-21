@@ -95,8 +95,8 @@ const ThankYou = () => {
               your saved items
             </li>
             <li style={{ margin: '0' }}>
-              MOVE TO LIST: move items from your cart to your list and mark as{' '}
-              <em>"purchased"</em>
+              MOVE TO LIST: move these items from your cart to your list and
+              mark as <em>"purchased"</em>
             </li>
           </ul>
 

@@ -3776,7 +3776,7 @@ export const CLIPS = [
     pz_code: 'PZV022',
     title: "Amy's Bondage Experience",
     description:
-      "Young blonde model Amy tries out bondage for the extra money it pays and finds herself begging for cock to obtain ball gag relief and getting her ass lubed while bound spread eagle face down to the floor. Apparently she didn't read the fine print in the contract where it clearly stated that ass discipline, ball gagged begging, riding crop domination and institutional slavery were part of the job. Poor girl. She'll be fine once the soreness goes away. And the spoiled little brat neededa lesson she could rehearse over and over again in her mind... to keep her from fucking up!",
+      "Young blonde model Amy tries out bondage for the extra money it pays and finds herself begging for cock to obtain ball gag relief and getting her ass lubed while bound spread eagle face down to the floor. Apparently she didn't read the fine print in the contract where it clearly stated that ass discipline, ball gagged begging, riding crop domination and institutional slavery were part of the job. Poor girl. She'll be fine once the soreness goes away. And the spoiled little brat needed a lesson she could rehearse over and over again in her mind... to keep her from fucking up!",
     categoryid: '4',
     keywords:
       'FORCED STRIPPING, BALLGAGGED, WHIPPING, DOMINATION, DAMSEL IN DISTRESS     Powershotz, Amy, Rope, Hog Tie, gag, neck choke, abuse, punish, crop, discipline',
@@ -5137,6 +5137,8 @@ export const CLIPS = [
     displayorder: '2048',
     length: '00:28:54',
     resolution: '640x480',
+    downloadLink:
+      'https://ln3.sync.com/dl/a5811dc60/m59tn4j7-cb7u7ca2-psbfgwe4-yh2hcjyw',
   },
   {
     id: '15133741',

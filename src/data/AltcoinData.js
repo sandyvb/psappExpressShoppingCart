@@ -187,7 +187,6 @@ export const ALTCOINS = [
 ]
 
 // coinName, coinAbbr, address, qrImg
-
 export const SelectCoin = ALTCOINS.map((item) => {
   return { value: item, label: `${item.coinName} (${item.coinAbbr})` }
 })
