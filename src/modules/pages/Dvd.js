@@ -209,8 +209,8 @@ class Dvd extends Component {
         <ul>
           {/* <li>Payment methods: CASH, CHECK, MONEY ORDER, or BITCOIN</li> */}
           <li>
-            Payment methods: BITCOIN, ALTCOIN, ZELLE, CASH APP, CASH, CHECK, or
-            MONEY ORDER.
+            Payment methods: BITCOIN, ALTCOIN, ZELLE, WISE, CASH APP, CASH,
+            CHECK, or MONEY ORDER.
           </li>
           <li>We will email you an invoice with payment instructions.</li>
           <li>U.S. shipping only.</li>

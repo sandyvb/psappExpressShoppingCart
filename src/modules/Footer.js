@@ -7,7 +7,7 @@ import tor from '../images/tor.png'
 
 const Footer = () => {
   return (
-    <div className="footer">
+    <div className="footer" style={{ marginBottom: 100 }}>
       <div className="main">
         <div className="columns">
           <div className="column1">

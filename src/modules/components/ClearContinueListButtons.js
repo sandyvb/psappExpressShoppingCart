@@ -6,23 +6,24 @@ const ClearContinueListButtons = () => {
   const { dispatch } = useContext(ListContext)
   const history = useHistory()
   const screenWidth = window.screen.width
-  const margin = screenWidth < 650 ? '10px' : '0'
-  const minWidth = screenWidth < 400 ? '77px' : '140px'
+  const width = screenWidth < 400 ? '120px' : ''
 
   const styles = {
     clearCart: {
-      minWidth: minWidth,
+      minWidth: width,
+      maxWidth: width,
       fontSize: '11px',
       height: '30px',
-      padding: '0px',
-      marginLeft: margin,
+      padding: 0,
+      marginRight: 5,
     },
     continue: {
-      minWidth: minWidth,
+      minWidth: width,
+      maxWidth: width,
       fontSize: '11px',
       height: '30px',
-      padding: '0px 10px',
-      marginRight: margin,
+      padding: 0,
+      marginRight: 5,
     },
   }
 
@@ -30,13 +31,13 @@ const ClearContinueListButtons = () => {
     <div
       style={{
         display: 'flex',
-        justifyContent: 'space-between',
+        justifyContent: 'center',
         marginTop: '20px',
-        width: '100%',
       }}
     >
       <div>
         <button
+          title="Clears EVERYTHING in your list"
           style={styles.clearCart}
           onClick={() => {
             dispatch({
@@ -48,8 +49,12 @@ const ClearContinueListButtons = () => {
         </button>
       </div>
       <div>
-        <button style={styles.continue} onClick={() => history.goBack()}>
-          continue shopping
+        <button
+          title="Go Back"
+          style={styles.continue}
+          onClick={() => history.goBack()}
+        >
+          {screenWidth < 400 ? 'shop' : 'continue shopping'}
         </button>
       </div>
     </div>

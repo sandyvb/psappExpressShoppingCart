@@ -6,6 +6,9 @@ import '../../css/mylist.css'
 import heart from '../../images/heartWhite.png'
 import ClearContinueListButtons from '../components/ClearContinueListButtons'
 
+const screenWidth = window.screen.width
+const width = screenWidth < 400 ? '120px' : ''
+
 const MyList = () => {
   const { list } = useContext(ListContext)
   const s = list.length === 1 ? '' : 's'
@@ -59,6 +62,14 @@ const MyList = () => {
       margin: '0 auto 50px auto',
       justifyContent: 'center',
     },
+    button: {
+      minWidth: width,
+      maxWidth: width,
+      fontSize: '11px',
+      height: '30px',
+      padding: 0,
+      marginRight: 5,
+    },
   }
 
   return (
@@ -84,7 +95,12 @@ const MyList = () => {
       {list.length ? (
         <div>
           <button
-            style={{ display: 'block', margin: '0 auto', padding: '0 20px' }}
+            title="Toggle between ALL items and UNPURCHASED items"
+            style={{
+              display: 'block',
+              margin: '0 auto',
+              padding: '0 20px',
+            }}
             onClick={handleClick}
           >
             {showPurchased ? 'Hide purchased items' : 'Show all'}
@@ -119,10 +135,10 @@ const MyList = () => {
       )}
       <div style={styles.videoPhotoButton}>
         <Link to="/videos">
-          <button style={{ marginRight: '15px' }}>more Videos</button>
+          <button style={styles.button}>more Videos</button>
         </Link>
         <Link to="/photos">
-          <button style={{ marginLeft: '15px' }}>more Photos</button>
+          <button style={styles.button}>more Photos</button>
         </Link>
       </div>
     </div>

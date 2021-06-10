@@ -45,7 +45,7 @@ if ($_POST) {
         <p><b>City, State, Zip: </b> $address2</p>
         <h3><b>Payment Method: </b> Bitcoin</h3>
         <p><b>Order Details: </b> $videos</p>
-        <p>Send customer bitcoin invoice.</p>
+        <h2>Send customer invoice.</h2>
         <hr/>
         <small>User's ip address: $ip</small>
         <small><a href='https://www.plus2net.com/php_tutorial/php_ip-demo2.php'>click for more info</a></small>

@@ -14,8 +14,8 @@ export const BitcoinHelp = () => {
 
   return (
     <div style={styles.helpDiv} onClick={handleClick}>
-      <button style={styles.help} title="Bitcoin Payment Help">
-        Help me!
+      <button style={styles.help} title="Payment Options">
+        {hide ? 'Help me choose' : 'close'}
       </button>
       <div
         style={{
@@ -44,21 +44,35 @@ export const BitcoinHelp = () => {
             rel="noopener noreferrer"
             alt="Cash App"
           >
-            <b style={{ fontSize: '1.3rem' }}>Cash App</b>{' '}
+            <b style={{ fontSize: '1.3rem' }}>Cash App</b>
             <img
               src={newTab}
               style={{ opacity: '0.5', width: '10px', marginLeft: '5px' }}
               alt=""
             />
-          </a>{' '}
-          or{' '}
+          </a>
+          ,{' '}
+          <a
+            href="https://wise.com/"
+            target="_blank"
+            rel="noopener noreferrer"
+            alt="Cash App"
+          >
+            <b style={{ fontSize: '1.3rem' }}>Wise</b>
+            <img
+              src={newTab}
+              style={{ opacity: '0.5', width: '10px', marginLeft: '5px' }}
+              alt=""
+            />
+          </a>
+          , or{' '}
           <a
             href="https://www.zellepay.com/"
             target="_blank"
             rel="noopener noreferrer"
             alt="Zelle"
           >
-            <b style={{ fontSize: '1.3rem' }}>Zelle</b>{' '}
+            <b style={{ fontSize: '1.3rem' }}>Zelle</b>
             <img
               src={newTab}
               style={{ opacity: '0.5', width: '10px', marginLeft: '5px' }}
@@ -69,8 +83,7 @@ export const BitcoinHelp = () => {
           <b style={{ fontSize: '1.2rem', color: 'lime' }}>Easy!</b>
         </p>
 
-        <h2>Help me, I'm new to Cryptocurrency!</h2>
-        <BitcoinInfo heading={false} />
+        <h2>Cryptocurrency</h2>
 
         <em>
           All cryptocurrency wallets are different, so be sure to read the
@@ -78,14 +91,41 @@ export const BitcoinHelp = () => {
         </em>
         <p>On the Powershotz order form:</p>
         <ol>
-          <li>Choose a coin and send the amount to our address.</li>
-          <li>Enter your email so we know where to send your order.</li>
-          <li>Click 'SEND' on our form.</li>
+          <li>Choose a coin</li>
+          <li>Send the amount to our address from your wallet.</li>
+          <li>
+            Enter your email and click "SEND" so we know where to send your
+            order.
+          </li>
         </ol>
-        <p style={{ ...styles.p, marginTop: '25px' }}>You're done!</p>
+        <p
+          style={{
+            ...styles.p,
+            marginTop: '25px',
+            fontSize: '1.25rem',
+            color: 'lime',
+          }}
+        >
+          You're done!
+        </p>
 
         <p>As soon as your payment is confirmed, the links are sent out.</p>
 
+        <p
+          style={{
+            ...styles.p,
+            marginTop: '25px',
+            fontSize: '1.25rem',
+          }}
+        >
+          Need more help with crypto?
+        </p>
+        <BitcoinInfo heading={false} />
+        <p>
+          We accept over 35 different cryptocurrencies. If you don't see your
+          coin, <Link to="/contact">contact us</Link> and we'll try to
+          accommodate you.
+        </p>
         <p>
           Don't hesitate to <Link to="/contact">contact us</Link> if you have
           any questions.
@@ -107,6 +147,8 @@ const styles = {
     display: 'block',
     margin: '0px auto',
     padding: '0 20px',
+    height: 30,
+    fontSize: '0.9rem',
   },
   helpDiv: {
     width: '100%',

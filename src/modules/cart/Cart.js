@@ -12,7 +12,8 @@ let spanFont = screenWidth < 1000 ? '1.2rem' : '1.3rem'
 
 const Cart = () => {
   //TODO: only change isSale for sale
-  const [isSale, setIsSale] = useState(true)
+  // and on home page
+  const [isSale, setIsSale] = useState(false)
 
   const atMidnight = useCallback(() => setIsSale(false), [setIsSale])
 

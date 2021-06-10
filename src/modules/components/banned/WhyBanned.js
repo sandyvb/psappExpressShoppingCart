@@ -70,6 +70,7 @@ export default function WhyBanned() {
           We are sorry for the inconvenience, the puritanical nature of our
           society, and the legislation of your morality...
         </p>
+
         {/* <Link to={'/letter'}>
           <button style={{ paddingRight: '20px', paddingLeft: '20px' }}>
             Steve's Letter to MasterCard

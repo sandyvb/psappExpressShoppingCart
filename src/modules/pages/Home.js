@@ -13,7 +13,8 @@ import tor from '../../images/tor.png'
 
 const Home = () => {
   //TODO: only change isSale for sale
-  const [isSale, setIsSale] = useState(true)
+  // and in cart
+  const [isSale, setIsSale] = useState(false)
 
   const atMidnight = useCallback(() => setIsSale(false), [setIsSale])
 
@@ -97,7 +98,50 @@ const Home = () => {
                 Discount applied at checkout
               </li>
             )}
-
+            <li>
+              We now accept{' '}
+              <a
+                href="https://wise.com/"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Wise
+              </a>
+              <img
+                src={newTab}
+                style={{ opacity: '0.5', width: '10px', marginLeft: '5px' }}
+                alt=""
+              />
+              ,{' '}
+              <a
+                href="https://cash.app/"
+                target="_blank"
+                rel="noopener noreferrer"
+                alt="Cash App"
+              >
+                Cash App
+                <img
+                  src={newTab}
+                  style={{ opacity: '0.5', width: '10px', marginLeft: '5px' }}
+                  alt=""
+                />
+              </a>
+              , and{' '}
+              <a
+                href="https://www.zellepay.com/"
+                target="_blank"
+                rel="noopener noreferrer"
+                alt="Zelle"
+              >
+                Zelle
+                <img
+                  src={newTab}
+                  style={{ opacity: '0.5', width: '10px', marginLeft: '5px' }}
+                  alt=""
+                />
+              </a>{' '}
+              payments!
+            </li>
             <li>
               The more the market goes down today, the more you save using
               cryptocurrency!{' '}
@@ -119,7 +163,7 @@ const Home = () => {
                 alt=""
               />{' '}
               API to calculate your savings in real time.{' '}
-              <span style={{ color: 'lime' }}>37+ ways to pay!</span>
+              <span style={{ color: 'lime' }}>38+ ways to pay!</span>
             </li>
             <li>
               Do you make floggers, whips, or other fun things? A new shopping
@@ -185,6 +229,27 @@ const Home = () => {
         </section> */}
         <section>
           <RandomGif />
+          <h2>
+            Average BTC Transaction Fees Hit Lowest Level Since The Start Of
+            2021
+          </h2>
+          <p>
+            The average BTC transaction fees hit the lowest levels since the
+            start of 2021 and all thanks to the latest restrictions on BTC
+            mining in China […]
+          </p>
+          <a
+            href="https://www.dcforecasts.com/bitcoin-news/average-btc-transaction-fees-hit-lowest-level-since-the-start-of-2021/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Read on...
+            <img
+              src={newTab}
+              style={{ opacity: '0.5', width: '10px', marginLeft: '5px' }}
+              alt=""
+            />
+          </a>
           <h2>Top 5 Cryptocurrencies besides bitcoin for 2021</h2>
           <p>
             Apart from bitcoin, there have been hundreds of cryptocurrencies

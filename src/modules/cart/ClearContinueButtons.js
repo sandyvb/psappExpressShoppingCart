@@ -6,22 +6,24 @@ const ClearContinueButtons = (props) => {
   const { cartDispatch } = useContext(CartContext)
   const history = useHistory()
   const screenWidth = window.screen.width
-  const margin = screenWidth < 650 ? '10px' : '0'
+  const width = screenWidth < 400 ? '120px' : ''
 
   const styles = {
     clearCart: {
-      minWidth: '140px',
+      minWidth: width,
+      maxWidth: width,
       fontSize: '11px',
       height: '30px',
-      padding: '0px',
-      marginLeft: margin,
+      padding: 0,
+      marginRight: 5,
     },
     continue: {
-      minWidth: '140px',
+      minWidth: width,
+      maxWidth: width,
       fontSize: '11px',
       height: '30px',
-      padding: '0px 10px',
-      marginRight: margin,
+      padding: 0,
+      marginLeft: 5,
     },
   }
 
@@ -29,10 +31,11 @@ const ClearContinueButtons = (props) => {
     <div
       style={{
         display: 'flex',
-        justifyContent: 'space-between',
+        justifyContent: 'center',
       }}
     >
       <button
+        title="Clears EVERYTHING in cart including saved items"
         style={styles.clearCart}
         onClick={() => {
           cartDispatch({
@@ -43,8 +46,12 @@ const ClearContinueButtons = (props) => {
         Clear Cart
       </button>
       {props.children}
-      <button style={styles.continue} onClick={() => history.goBack()}>
-        continue shopping
+      <button
+        title="Go Back"
+        style={styles.continue}
+        onClick={() => history.goBack()}
+      >
+        {screenWidth < 400 ? 'shop' : 'continue shopping'}
       </button>
     </div>
   )

@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useCallback } from 'react'
+import React, { useState, useEffect } from 'react'
 import { Link } from 'react-router-dom'
 import { CopyToClipboard } from 'react-copy-to-clipboard'
 import axios from 'axios'
@@ -61,7 +61,11 @@ export const Altcoin = ({ name, description, price, codes, date }) => {
       setShowSavings(false)
       setDisplaySavingsInfo(true)
       setCashOrZelle(false)
-      if (coinName === 'Cash App' || coinName === 'Zelle') {
+      if (
+        coinName === 'Cash App' ||
+        coinName === 'Zelle' ||
+        coinName === 'Wise'
+      ) {
         setCoinPrice(`$${price}`)
         setDisplaySavingsInfo(false)
         setCashOrZelle(true)
@@ -178,7 +182,7 @@ export const Altcoin = ({ name, description, price, codes, date }) => {
         title="Pay with Altcoins"
         onClick={handleHide}
       >
-        Click here to Pay
+        {hideDiv ? 'Click here to Pay' : 'Close'}
       </button>
       <div className={hideDiv ? 'hideAltcoin' : ''} style={styles.hiddenDiv}>
         <img
@@ -221,8 +225,11 @@ export const Altcoin = ({ name, description, price, codes, date }) => {
             <br />
             Order #{date}
           </p>
-          <h3>Choose a Coin, Cash App, or Zelle:</h3>
-          <div style={{ textAlign: 'left' }}>
+          <h3>Choose a Coin, Cash App, Wise, or Zelle:</h3>
+
+          <AltcoinHelp />
+
+          <div style={{ textAlign: 'left', marginTop: 20 }}>
             <Select
               name="coin"
               defaultValue={SelectCoin[0]}
@@ -278,13 +285,13 @@ export const Altcoin = ({ name, description, price, codes, date }) => {
                 marginTop: 10,
               }}
             >
-              <small style={{ fontSize: 15 }}>
+              <small style={{ fontSize: 13 }}>
                 Discount has been calculated using the{' '}
                 <a
                   href="https://www.coingecko.com/en"
                   target="_blank"
                   rel="noopener noreferrer"
-                  style={{ fontSize: 15 }}
+                  style={{ fontSize: 13 }}
                 >
                   CoinGecko
                 </a>{' '}
@@ -296,7 +303,7 @@ export const Altcoin = ({ name, description, price, codes, date }) => {
                 <br />
                 {coinName} price change in last 24hrs: {savings}%
                 <br />
-                You saved: {Math.abs(savings).toFixed(2)}% <br />
+                You are saving: {Math.abs(savings).toFixed(2)}% <br />
                 Discount price: {coinPrice} {coinAbbr}
                 <br />
                 <i style={{ fontWeight: 'bold' }}>
@@ -345,8 +352,12 @@ export const Altcoin = ({ name, description, price, codes, date }) => {
               />
             </p>
           </CopyToClipboard>
-          <img src={qr} alt="qr code" width={175} />
-          <h3>Then, enter your email address and hit send.</h3>
+          <img src={qr} alt="qr code" width={175} style={{ marginTop: 10 }} />
+          <h3>
+            First pay...
+            <br />
+            Then, enter your email address and hit send.
+          </h3>
           <input
             style={styles.input}
             onChange={(e) => setEmail(e.target.value)}
@@ -357,8 +368,6 @@ export const Altcoin = ({ name, description, price, codes, date }) => {
             <button onClick={handleOrder}>SEND</button>
           </Link>
         </div>
-
-        <AltcoinHelp />
       </div>
     </div>
   )

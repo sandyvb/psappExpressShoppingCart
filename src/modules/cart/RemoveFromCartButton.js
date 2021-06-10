@@ -24,7 +24,11 @@ const RemoveFromCartButton = () => {
   }
 
   return (
-    <button style={styles.clearCart} onClick={deleteItems}>
+    <button
+      title="Remove all the items from your cart, but keep your saved items"
+      style={styles.clearCart}
+      onClick={deleteItems}
+    >
       Remove from cart
     </button>
   )

@@ -47,8 +47,19 @@ export const BitcoinInfo = ({ heading = true }) => {
           />
         </a>
       </p>
+
+      <p
+        style={{
+          ...styles.p,
+          marginTop: '25px',
+          fontSize: '1.25rem',
+        }}
+      >
+        {' '}
+        Want to easily buy crypto with a credit card?
+      </p>
       <p>
-        Want to easily buy Crypto with a credit card? Try{' '}
+        Try{' '}
         <a
           href="https://www.blockchain.com/"
           target="_blank"
@@ -137,8 +148,19 @@ export const BitcoinInfo = ({ heading = true }) => {
         </a>
         .
       </p>
+      <p>
+        We aren't recommending any particular exchange or wallet. These links
+        are just a place to get started.
+      </p>
     </div>
   )
+}
+
+const styles = {
+  p: {
+    margin: '10px 0',
+    fontWeight: 'bold',
+  },
 }
 
 export default BitcoinInfo

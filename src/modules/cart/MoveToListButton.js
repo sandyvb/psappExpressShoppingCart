@@ -33,7 +33,11 @@ const MoveToListButton = () => {
   }
 
   return (
-    <button style={styles.move} onClick={moveItems}>
+    <button
+      title='Move these items from your cart to your list and mark as "purchased"'
+      style={styles.move}
+      onClick={moveItems}
+    >
       Move to list
     </button>
   )

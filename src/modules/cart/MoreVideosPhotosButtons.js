@@ -6,17 +6,21 @@ const MoreVideosPhotsButtons = () => {
     videoPhotoButton: {
       display: 'flex',
       margin: '0 auto',
-      justifyContent: 'center',
+      justifyContent: 'space-evenly',
     },
   }
 
   return (
     <div style={styles.videoPhotoButton}>
       <Link to="/videos">
-        <button style={{ marginRight: '15px' }}>more Videos</button>
+        <button style={{ minWidth: 120, fontSize: '12px', maxWidth: 120 }}>
+          more Videos
+        </button>
       </Link>
       <Link to="/photos">
-        <button style={{ marginLeft: '15px' }}>more Photos</button>
+        <button style={{ minWidth: 120, fontSize: '12px', maxWidth: 120 }}>
+          more Photos
+        </button>
       </Link>
     </div>
   )

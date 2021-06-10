@@ -86,7 +86,8 @@ export default function Faqs() {
             </p>
             <ol>
               <li>
-                Zelle, Cash app, cash, check, money order, or gold &#128521;
+                Zelle, Wise, Cash app, cash, check, money order, or gold
+                &#128521;
               </li>
               <li>
                 <Link to="/contact">Contact me</Link>

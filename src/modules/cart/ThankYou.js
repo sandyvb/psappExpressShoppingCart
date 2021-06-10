@@ -89,7 +89,13 @@ const ThankYou = () => {
             problems.
           </p>
           <h3>Button functions:</h3>
-          <ul style={{ paddingLeft: '0', margin: '0 20px 10px 20px' }}>
+          <ul
+            style={{
+              paddingLeft: '0',
+              margin: '0 20px 10px 20px',
+              listStyleType: 'none',
+            }}
+          >
             <li style={{ margin: '0' }}>
               REMOVE FROM CART: remove all the items from your cart, but keep
               your saved items

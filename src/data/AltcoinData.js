@@ -2,6 +2,7 @@ import Altcoin from '../models/Altcoin'
 // import firebase from 'firebase'
 
 const btc = 'https://powershotz.com/qr/btc.png'
+const wise = 'https://shotz.site/shopz/altcoin/wise.png'
 const aave = 'https://powershotz.com/qr/aave.png'
 const bat = 'https://powershotz.com/qr/bat.png'
 const bnb = 'https://powershotz.com/qr/bnb.png'
@@ -182,6 +183,7 @@ export const ALTCOINS = [
     '0xb156c973476633e2Eb6634b65df2c2ca26f0ec90',
     vet
   ),
+  new Altcoin('Wise', 'USD', 'alexandra@powershotz.com', wise),
   new Altcoin('Zcash', 'ZEC', 't1aHKAqbFzoBxghvR1eGJE4LiixRQAx9DgK', zec),
   new Altcoin('Zelle', 'USD', 'alexandra@powershotz.com', zelle),
 ]
