@@ -31,7 +31,6 @@ $orderLinks = openssl_decrypt($cipher, 'AES-128-CBC', $key, OPENSSL_ZERO_PADDING
 $orderLinks = trim($orderLinks);
 $orderLinks = json_decode($orderLinks);
 $sortedList = $_POST['sortedList']; //array
-$faqs = "https://powershotz.com/faqs";
 
 if (sizeof($orderLinks) > 1) {
     $S = 'S';
@@ -68,7 +67,6 @@ function getUserIP()
 
 $ip = getUserIP();
 $subject = "Powershotz $coinName Order";
-$test_subject = "Test subject";
 
 // temp message to customer
 $customer_msg = "
@@ -77,8 +75,6 @@ $customer_msg = "
         <title>Your Powershotz $coinName Order</title>
     </head>
     <body style='height:100%;padding:0px;margin:0px;height:100%;background-color:#eeeeef;'>
-    <p style='display:none;'>Thank you for your $coinName order!</p>
-
     <center>
 
     <table cellpadding='0' cellspacing='0'>
@@ -124,7 +120,6 @@ foreach ($sortedList as $item) {
     if ($item === null) {
         $customer_msg .= "<p>Oops! Please respond to this email and let us know about this error!</p>";
     } else {
-        $savedItem = $item['checked'];
         $description = "";
         $downloadLink = $item['downloadLink'];
         $id = $item['id'];
@@ -167,11 +162,10 @@ foreach ($sortedList as $item) {
             $title = $item['title'];
         }
 
-        if ($savedItem === false) {
-            $customer_msg .= "<div style='display:flex;flex-direction:column;border:1px solid #8b3679; padding:25px;-webkit-border-radius: 10px; -moz-border-radius: 10px; border-radius: 10px;'>
+        $customer_msg .= "<div style='display:flex;flex-direction:column;border:1px solid #8b3679; padding:25px;-webkit-border-radius: 10px; -moz-border-radius: 10px; border-radius: 10px;'>
                 <h3><i>$title</i></h3>
                 <div style='display:flex;flex-direction:column;'>
-                <a href=$linkTo>
+                <a href=$linkTo alt=$title>
                 <img alt=$title src=$imageUrl width='200'/>
                 </a>
                 </div>
@@ -184,32 +178,14 @@ foreach ($sortedList as $item) {
                 $$formatPrice<br/>
                 <i>$streaming</i>        
                 </div>";
-        }
     }
 }
 
-if ($total > 20) {
-    $customer_msg .= "<div style='display:flex;flex-direction:column;border:1px solid #8b3679; padding:25px;-webkit-border-radius: 10px; -moz-border-radius: 10px; border-radius: 10px;'>
-        <h3><i>Powershotz Preview Video, Part 2</i></h3>
-        <a href='https://powershotz.com/14667255'>
-        <img alt='Powershotz Preview Video, Part 2' src='https://shotz.site/shopz/dvdlabels/prev02coverad.jpg' width='200'/>
-        </a>
-        <div style='margin-top:15;'>
-        <a href='https://ln2.sync.com/dl/407e3bb40/2z3d8fny-cc6bh947-rjqtdspa-vjvtnn29' style='color:#8b3679;font-size:28px;font-weight:bold;background-color:yellow;'>Download Now</a>
-        </div>
-        <p><b>While you wait for your order to arrive:</b> Preview video clips covering 21 DVD titles! Kick ass stuff! Over 20 super hot female subjugates captured, dominated, bound, spanked, whipped, slave trained, gagged, anal trained, vibrated to forced orgasm and penetrated in strict bondage! This is a composite of 21 preview videos, each about 3 minutes long with excerpts showing the scenes available on 21 DVD titles.<br/>       
-        <b>ID:</b> 14667255<br/>               
-        <b>Length:</b> 66 min<br/> 
-        <b>Price:</b> <b style='color:red;'>FREE</b><br/>
-        <i>Download and Streaming</i>        
-        </div>";
-}
-
+$faqs = "https://powershotz.com/faqs";
+$previewUrl = "https://ln.sync.com/dl/407e3bb40/2z3d8fny-cc6bh947-rjqtdspa-vjvtnn29/view/default/11188225250008";
 $customer_msg .= "       
         <p>If you placed this order in error, please disregard this email.</p>       
-
-        <p>If you have any questions or concerns, please respond to this email.</p>   
-           
+        <p>If you have any questions or concerns, please respond to this email.</p>      
         <p style='margin-bottom:30px;'>Thank you from Powershotz and have a great day!<br/><i style='line-height:2;'>Alexandra</i> <span style='color:red;font-size:1.2em;'>&hearts;</span></p> 
 
         </font>
@@ -240,16 +216,13 @@ $customer_msg .= "
 ";
 
 // MESSAGE TO ME For now...
-$links_msg = "
+$my_msg = "
 <html style='height:100%;padding:0px;margin:0px;'>
     <head>
         <title>Your Powershotz Order</title>
     </head>
     <body style='height:100%;padding:0px;margin:0px;height:100%;background-color:#eeeeef;'>
-    <p style='display:none;'>Thank you for your $coinName order!</p>
-
     <center>
-
     <table cellpadding='0' cellspacing='0'>
     <tr>
     <td style='font-size: 1px; line-height: 1px;' height='20'>&nbsp;</td>
@@ -287,9 +260,8 @@ $links_msg = "
 
 foreach ($sortedList as $item) {
     if ($item === null) {
-        $links_msg .= "<p>Error! Please respond to this email and let us know!</p>";
+        $my_msg .= "<p>Error! Please respond to this email and let us know!</p>";
     } else {
-        $savedItem = $item['checked'];
         $description = "";
         $downloadLink = $item['downloadLink'];
         $id = $item['id'];
@@ -331,30 +303,47 @@ foreach ($sortedList as $item) {
             $description = $item['description'];
             $title = $item['title'];
         }
-
-        if ($savedItem === false) {
-            $links_msg .= "<div style='display:flex;flex-direction:column;border:1px solid #8b3679; padding:25px;-webkit-border-radius: 10px; -moz-border-radius: 10px; border-radius: 10px;'>
-            <h3><i>$title</i></h3>
-            <a href=$linkTo>
-            <img alt=$title src=$imageUrl width='200'/>
-            </a>
-            <div style='margin-top:15;'>
-            <a href=$downloadLink style='color:#8b3679;font-size:28px;font-weight:bold;background-color:yellow;'>Download Now</a>
-            </div>
-            <p><b>Description:</b> 
-            $description<br/>       
-            <b>ID:</b> 
-            $id<br/>               
-            $length 
-            <b>Price:</b> 
-            $$formatPrice<br/>
-            <i>$streaming</i>        
+        $downloadButton = "
+            <div style='margin: 10px 0;'>          
+            <!--[if mso]>
+            <v:roundrect xmlns:v='urn:schemas-microsoft-com:vml' xmlns:w='urn:schemas-microsoft-com:office:word' href='$downloadLink' style='height:50px;v-text-anchor:middle;width:200px;' arcsize='8%' stroke='f' fillcolor='#8b3679'>
+            <w:anchorlock/>
+            <center>
+            <![endif]-->
+            <a href=$downloadLink
+            style='background-color:#8b3679;border-radius:4px;color:#ffffff;display:inline-block;font-family:sans-serif;font-size:23px;font-weight:bold;line-height:50px;text-align:center;text-decoration:none;width:200px;-webkit-text-size-adjust:none;'>Download</a>
+            <!--[if mso]>
+            </center>
+            </v:roundrect>
+            <![endif]-->
             </div>";
-        }
+
+        $downloadButton2 = "<div style='display:flex;flex-direction:row;font-size:23px;text-decoration:none;'><a href=$downloadLink style='text-decoration:none;'><p style='background-color:purple;color:white;line-height:2.5;'>&emsp;Download Now&emsp;</p></a></div>";
+
+
+        $my_msg .= "<div style='display:flex;flex-direction:column;border:1px solid #8b3679; padding:25px;-webkit-border-radius: 10px; -moz-border-radius: 10px; border-radius: 10px;'>
+        <h3><i>$title</i></h3>
+        <div style='display:flex;flex-direction:column;'>
+        <a href=$linkTo alt=$title>
+        <img alt=$title src=$imageUrl width='200'/>
+        </a>
+        $downloadButton2
+        </div>
+        <p><b>Description:</b> 
+        $description<br/>       
+        <b>ID:</b> 
+        $id<br/>               
+        $length 
+        <b>Price:</b> 
+        $$formatPrice<br/>
+        <i>$streaming</i>        
+        </div>";
     }
 }
 
-$links_msg .= "
+
+$faqs = "https://powershotz.com/faqs";
+$my_msg .= "
         <p>The files are large and it is normal for downloads to take a long time.</p>
         <p>Some browsers will pause or fail a download in the event of a service interruption. Even a disconnection lasting a fraction of a second can cause the failure of a file download.</p>
         <p>Here are some tips to successfully download your order:</p>
@@ -394,7 +383,6 @@ $links_msg .= "
 </html>
 ";
 
-
 // HEADERS TO ME
 $my_headers = "MIME-Version: 1.0\r\n";
 $my_headers .= "Content-type: text/html; charset=UTF-8\r\n";
@@ -406,8 +394,8 @@ $customer_headers .= "Content-type: text/html; charset=UTF-8\r\n";
 $customer_headers .= "From: <" . $myEmail . ">";
 
 // SEND EMAILS
-mail($myEmail, $subject, $links_msg, $my_headers); //links to me
-mail($customerEmail, $subject, $customer_msg, $customer_headers); // thank you to customer
+mail($myEmail, $subject, $my_msg, $my_headers); //to me
+mail($customerEmail, $subject, $customer_msg, $customer_headers); //to customer
 
 echo json_encode(array(
     "sent" => true

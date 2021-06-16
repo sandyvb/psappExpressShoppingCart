@@ -7,6 +7,7 @@ import bluex from '../../images/bluex.webp'
 import SelectVideos from '../components/SelectVideos'
 // import SelectVideos2 from '../components/SelectVideos2'
 import Terms from '../components/forms/Terms'
+import AltcoinForDvds from '../cart/AltcoinForDvds'
 
 const validNameRegex = RegExp(/^[a-z\d\s]{1,50}$/i)
 const validEmailRegex = RegExp(
@@ -23,7 +24,6 @@ const validateForm = (state) => {
     state.address1 === '' ||
     state.address2 === '' ||
     state.order === '' ||
-    // state.payment === '' ||
     state.agreeToTerms === false ||
     state.nameError.length > 0 ||
     state.emailError.length > 0 ||
@@ -47,7 +47,6 @@ class Dvd extends Component {
       address1: '',
       address2: '',
       order: [],
-      // payment: '',
       agreeToTerms: false,
       hide: 'hide',
       hideErrorMsg: 'hideErrorMsg',
@@ -66,12 +65,25 @@ class Dvd extends Component {
       orderError: '',
       hideG: true,
       hideT: true,
+      coinName: '',
+      coinPrice: '',
+      coinAbbr: '',
+      address: '',
+      orderTotal: 0,
     }
     this.handleChange = this.handleChange.bind(this)
     this.handleSubmit = this.handleSubmit.bind(this)
     this.handleClick = this.handleClick.bind(this)
     this.hideGuarantee = this.hideGuarantee.bind(this)
     this.hideTerms = this.hideTerms.bind(this)
+    this.setPaymentData = this.setPaymentData.bind(this)
+  }
+
+  setPaymentData(coinName, coinPrice, coinAbbr, address) {
+    this.setState({ coinName: coinName })
+    this.setState({ coinPrice: coinPrice })
+    this.setState({ coinAbbr: coinAbbr })
+    this.setState({ address: address })
   }
 
   hideTerms() {
@@ -131,9 +143,6 @@ class Dvd extends Component {
           : this.setState({ address2Error: 'Invalid character' })
         this.setState({ address2IsEmpty: false })
         break
-      // case 'payment':
-      //   this.setState({ paymentError: '' })
-      //   break
       default:
         break
     }
@@ -157,8 +166,6 @@ class Dvd extends Component {
         }
       })
     } else {
-      // this.state.payment === '' &&
-      //   this.setState({ paymentError: 'You must select a payment method' })
       this.state.agreeToTerms === false &&
         this.setState({
           agreeToTermsError: 'You must agree to the terms & condtions',
@@ -186,8 +193,9 @@ class Dvd extends Component {
   }
 
   selectFunction = (childData) => {
-    this.setState({ order: [childData] })
+    this.setState({ order: [childData.order] })
     this.setState({ orderError: '' })
+    this.setState({ orderTotal: childData.total })
   }
 
   render() {
@@ -206,17 +214,9 @@ class Dvd extends Component {
           <h1>Full-Length DVDs</h1>
         </header>
 
-        <ul>
-          {/* <li>Payment methods: CASH, CHECK, MONEY ORDER, or BITCOIN</li> */}
-          <li>
-            Payment methods: BITCOIN, ALTCOIN, ZELLE, WISE, CASH APP, CASH,
-            CHECK, or MONEY ORDER.
-          </li>
-          <li>We will email you an invoice with payment instructions.</li>
-          <li>U.S. shipping only.</li>
-        </ul>
+        <h4 style={{ color: 'red' }}>US SHIPPING ONLY!</h4>
 
-        <div onClick={this.hideGuarantee}>
+        <div onClick={this.hideGuarantee} style={{ marginBottom: 50 }}>
           <h4>
             All orders are 100% <span className="guarantee">GUARANTEED!</span>
           </h4>
@@ -236,10 +236,13 @@ class Dvd extends Component {
               alt="close"
               style={{ width: '50px', float: 'right', cursor: 'pointer' }}
             />
-            <h2>GUARANTEE & RETURN POLICY</h2>
+            <h2 style={{ color: 'var(--backgroundColor)' }}>
+              GUARANTEE & RETURN POLICY
+            </h2>
             <p>
-              Satisfaction is 100% guaranteed. It's simple. We will work with
-              you to solve your problems or you get your money back.
+              Satisfaction is 100% guaranteed. It's simple.
+              <br /> We will work with you to solve your problems or you get
+              your money back.
             </p>
           </div>
         </div>
@@ -250,6 +253,24 @@ class Dvd extends Component {
           className="dvdForm"
           style={this.state.successMsg.length > 0 ? successStyle : null}
         >
+          <h2>First, choose your DVDs:</h2>
+          <SelectVideos
+            parentCallback={this.selectFunction}
+            name="order"
+            style={
+              this.state.orderError.length > 0 || this.state.orderIsEmpty
+                ? errorStyle
+                : null
+            }
+          />
+          <h2>Second, pay for your DVDs:</h2>
+
+          <AltcoinForDvds
+            price={this.state.orderTotal}
+            setPaymentData={this.setPaymentData}
+          />
+
+          <h2>Third, fill out this form and click "ORDER NOW!"</h2>
           <input
             placeholder="Your Name"
             onChange={this.handleChange}
@@ -321,59 +342,11 @@ class Dvd extends Component {
             <span className="error">{this.state.address2Error}</span>
           )}
 
-          <br />
-
-          {/* <label>
-            Select payment type:{' '}
-            <select
-              name="payment"
-              onChange={this.handleChange}
-              value={this.state.payment}
-              noValidate
-              style={this.state.paymentError.length > 0 ? errorStyle : null}
-            >
-              <option value="">Choose</option>
-              <option value="cash">Cash</option>
-              <option value="check">Check</option>
-              <option value="moneyorder">Money Order</option>
-              <option value="credit">Credit Card</option>
-              <option value="cryptocurrency">Bitcoin</option>
-            </select>
-          </label>
-          {this.state.payment === '' && (
-            <span className="error">{this.state.paymentError}</span>
-          )} */}
-
-          {/* <br /> */}
-
-          <SelectVideos
-            parentCallback={this.selectFunction}
-            isCC={this.state.payment}
-            name="order"
-            style={
-              this.state.orderError.length > 0 || this.state.orderIsEmpty
-                ? errorStyle
-                : null
-            }
-          />
-
-          {/* <SelectVideos2
-            parentCallback={this.selectFunction}
-            name="order"
-            style={
-              this.state.orderError.length > 0 || this.state.orderIsEmpty
-                ? errorStyle
-                : null
-            }
-          /> */}
-
           {this.state.orderError.length > 0 && (
             <span className="error" style={{ marginTop: '20px' }}>
               {this.state.orderError}
             </span>
           )}
-
-          <br />
 
           <div className="agreeToTermsSection">
             <div

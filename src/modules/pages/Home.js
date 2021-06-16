@@ -83,6 +83,8 @@ const Home = () => {
               <br />
             </span>
             <span style={{ fontSize: '0.9rem' }}>
+              You won't lose any data.
+              <br />
               (Ctrl+F5 or Apple Key+Shift+R)
             </span>
           </p>
@@ -98,6 +100,9 @@ const Home = () => {
                 Discount applied at checkout
               </li>
             )}
+            <li>
+              The <Link to="/dvd">DVD order form</Link> is NEW!
+            </li>
             <li>
               We now accept{' '}
               <a

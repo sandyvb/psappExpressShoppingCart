@@ -144,6 +144,7 @@ const Cart = () => {
             price={amtDue}
             codes={downloadLinks}
             date={Date.now()}
+            sortedList={sortedList}
           />
 
           <div style={styles.totals}>

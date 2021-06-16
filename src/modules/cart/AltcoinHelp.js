@@ -4,7 +4,7 @@ import x from '../../images/x.webp'
 import BitcoinInfo from '../cart/BitcoinInfo'
 import newTab from '../../images/newTab.png'
 
-export const BitcoinHelp = () => {
+export const AltcoinHelp = () => {
   const [hide, setHide] = useState(true)
   let displayType = hide ? 'none' : ''
 
@@ -36,7 +36,7 @@ export const BitcoinHelp = () => {
         />
 
         <h2>Available Apps</h2>
-        <p>
+        <p style={{ color: '#eee', textAlign: 'left', fontStyle: 'normal' }}>
           If you'd like to use{' '}
           <a
             href="https://cash.app/"
@@ -89,7 +89,9 @@ export const BitcoinHelp = () => {
           All cryptocurrency wallets are different, so be sure to read the
           instructions about how to use your wallet.
         </em>
-        <p>On the Powershotz order form:</p>
+        <p style={{ color: '#eee', textAlign: 'left', fontStyle: 'normal' }}>
+          On the Powershotz order form:
+        </p>
         <ol>
           <li>Choose a coin</li>
           <li>Send the amount to our address from your wallet.</li>
@@ -102,39 +104,31 @@ export const BitcoinHelp = () => {
           style={{
             ...styles.p,
             marginTop: '25px',
-            fontSize: '1.25rem',
+            fontSize: '2rem',
             color: 'lime',
           }}
         >
           You're done!
         </p>
 
-        <p>As soon as your payment is confirmed, the links are sent out.</p>
+        <p style={{ color: '#eee', textAlign: 'left', fontStyle: 'normal' }}>
+          As soon as your payment is confirmed, the links are sent out.
+        </p>
 
-        <p
-          style={{
-            ...styles.p,
-            marginTop: '25px',
-            fontSize: '1.25rem',
-          }}
-        >
-          Need more help with crypto?
-        </p>
+        <h2 style={{ fontSize: '1.25rem' }}>Need more help with crypto?</h2>
         <BitcoinInfo heading={false} />
-        <p>
-          We accept over 35 different cryptocurrencies. If you don't see your
-          coin, <Link to="/contact">contact us</Link> and we'll try to
-          accommodate you.
-        </p>
-        <p>
-          Don't hesitate to <Link to="/contact">contact us</Link> if you have
-          any questions.
+        <h2 style={{ fontSize: '1.25rem' }}>
+          We accept over 35 different cryptocurrencies.
+        </h2>
+        <p style={{ color: '#eee', textAlign: 'left', fontStyle: 'normal' }}>
+          If you don't see your coin, <Link to="/contact">contact us</Link> and
+          we'll try to accommodate you.
         </p>
 
         <Link to="/contact">
           <h2>Click to ask me about other payment options!</h2>
         </Link>
-        <p style={{ marginBottom: 30 }}>
+        <p style={{ marginBottom: 30, color: '#eee', fontStyle: 'normal' }}>
           (cash, check, money order, gold... &#128521;)
         </p>
       </div>
@@ -153,6 +147,7 @@ const styles = {
   helpDiv: {
     width: '100%',
     margin: '0 auto 10px auto',
+    lineHeight: 1.5,
   },
   p: {
     margin: '10px 0',
@@ -164,4 +159,4 @@ const styles = {
   },
 }
 
-export default BitcoinHelp
+export default AltcoinHelp

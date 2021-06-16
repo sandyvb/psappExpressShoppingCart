@@ -10,6 +10,12 @@
 
 # production
 /build
+/unused
+/php
+/cloudfare
+/serveImages
+/SVG 
+/chat
 
 # misc
 .DS_Store

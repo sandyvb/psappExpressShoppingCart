@@ -19,7 +19,7 @@ export const BitcoinInfo = ({ heading = true }) => {
   return (
     <div>
       {/* <p style={styles.bitcoin}>Buy instant downloads using Bitcoin!</p> */}
-      <p>
+      <p style={{ color: '#eee', textAlign: 'left', fontStyle: 'normal' }}>
         {heading && <span style={{ color: 'lime' }}>New to Crypto?</span>} Read{' '}
         <a
           href="https://bitcoin.org/en/getting-started"
@@ -48,17 +48,11 @@ export const BitcoinInfo = ({ heading = true }) => {
         </a>
       </p>
 
-      <p
-        style={{
-          ...styles.p,
-          marginTop: '25px',
-          fontSize: '1.25rem',
-        }}
-      >
+      <h2 style={{ fontSize: '1.25rem' }}>
         {' '}
         Want to easily buy crypto with a credit card?
-      </p>
-      <p>
+      </h2>
+      <p style={{ color: '#eee', textAlign: 'left', fontStyle: 'normal' }}>
         Try{' '}
         <a
           href="https://www.blockchain.com/"
@@ -148,19 +142,12 @@ export const BitcoinInfo = ({ heading = true }) => {
         </a>
         .
       </p>
-      <p>
+      <p style={{ color: '#eee', textAlign: 'left', fontStyle: 'italic' }}>
         We aren't recommending any particular exchange or wallet. These links
         are just a place to get started.
       </p>
     </div>
   )
-}
-
-const styles = {
-  p: {
-    margin: '10px 0',
-    fontWeight: 'bold',
-  },
 }
 
 export default BitcoinInfo

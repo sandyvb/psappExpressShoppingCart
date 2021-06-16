@@ -1,5 +1,4 @@
 import React, { useState, useEffect } from 'react'
-import { Link } from 'react-router-dom'
 import { CopyToClipboard } from 'react-copy-to-clipboard'
 import axios from 'axios'
 import Select from 'react-select'
@@ -9,22 +8,15 @@ import copyImg from '../../images/copy-to-clipboard.png'
 import AltcoinHelp from './AltcoinHelp'
 import { ToastContainer, toast } from 'react-toastify'
 import 'react-toastify/dist/ReactToastify.css'
-import CryptoJS from 'crypto-js'
-import padZeroPadding from 'crypto-js/pad-zeropadding'
-import { secretKey, secretIv } from '../../secret'
 import { GoQuestion } from '@react-icons/all-files/go/GoQuestion'
 import { RiCloseCircleLine } from '@react-icons/all-files/ri/RiCloseCircleLine.esm'
 
-export const Altcoin = ({
-  name,
-  description,
-  price,
-  codes,
-  date,
-  sortedList,
-}) => {
+const orderNumber = Date.now()
+const screenWidth = window.screen.width
+
+const AltcoinForDvds = ({ price, setPaymentData }) => {
+  const [total, setTotal] = useState(0)
   const [hideDiv, setHideDiv] = useState(true)
-  const [email, setEmail] = useState('')
   const [coinAbbr, setCoinAbbr] = useState('BTC')
   const [coinName, setCoinName] = useState('Bitcoin')
   const [address, setAddress] = useState(
@@ -33,8 +25,6 @@ export const Altcoin = ({
   const [qr, setQr] = useState('https://powershotz.com/qr/btc.png')
   const [coinPrice, setCoinPrice] = useState('0.0')
   const [origCoinPrice, setOrigCoinPrice] = useState()
-  const [coinPriceText, setCoinPriceText] = useState('')
-  const [addressText, setAddressText] = useState('')
   const [savings, setSavings] = useState()
   const [showSavings, setShowSavings] = useState(false)
   const [displaySavingsInfo, setDisplaySavingsInfo] = useState(false)
@@ -42,24 +32,10 @@ export const Altcoin = ({
   const [priceChange, setPriceChange] = useState()
   const [cashOrZelle, setCashOrZelle] = useState(false)
 
-  const screenWidth = window.screen.width
-
-  // only change isSale for sale
-  // const [isSale, setIsSale] = useState(true)
-  // price = isSale ? (price / 2).toFixed(2) : price
-
-  // const atMidnight = useCallback(() => setIsSale(false), [setIsSale])
-
-  // const timeAtMidnight = isSale && new Date('4/26/2021 12:01:00 AM').getTime()
-  // let timeNow = isSale && new Date().getTime()
-  // let offsetMs = isSale && timeAtMidnight - timeNow
-
-  // useEffect(() => {
-  //   const timeout = isSale && setTimeout(atMidnight, offsetMs)
-  //   return () => {
-  //     isSale && clearTimeout(timeout)
-  //   }
-  // }, [offsetMs, isSale, atMidnight])
+  // get order total
+  useEffect(() => {
+    setTotal(price)
+  }, [price])
 
   useEffect(() => {
     const coingeckoUrl = `https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&ids=${coinName.toLowerCase()}&order=market_cap_desc&per_page=1&page=1&sparkline=false`
@@ -73,7 +49,7 @@ export const Altcoin = ({
         coinName === 'Zelle' ||
         coinName === 'Wise'
       ) {
-        setCoinPrice(`$${price}`)
+        setCoinPrice(`$${total}`)
         setDisplaySavingsInfo(false)
         setCashOrZelle(true)
         return
@@ -86,7 +62,7 @@ export const Altcoin = ({
         .then((response) => {
           if (response.status === 200) {
             const currentPrice = response.data[0].current_price
-            const coinPrices = price / currentPrice
+            const coinPrices = total / currentPrice
             let priceChanged = response.data[0].price_change_percentage_24h
             const updated = response.data[0].last_updated
             const formatUpdated = new Date(Date.parse(updated))
@@ -109,7 +85,11 @@ export const Altcoin = ({
         .catch((err) => console.log(`callCoinGecko error: ${err}`))
     }
     getPrice()
-  }, [coinName, price])
+  }, [coinName, total])
+
+  useEffect(() => {
+    setPaymentData(coinName, coinPrice, coinAbbr, address)
+  }, [setPaymentData, coinName, coinPrice, coinAbbr, address])
 
   const handleHide = () => {
     setHideDiv(!hideDiv)
@@ -132,45 +112,6 @@ export const Altcoin = ({
     setAddress(item.value.address)
     setQr(item.value.qrImg)
   }
-
-  const handleOrder = () => {
-    const key = CryptoJS.enc.Hex.parse(secretKey)
-    const iv = CryptoJS.enc.Hex.parse(secretIv)
-    let cipher = CryptoJS.AES.encrypt(JSON.stringify(codes), key, {
-      iv: iv,
-      padding: padZeroPadding,
-    })
-    cipher = cipher.ciphertext.toString(CryptoJS.enc.Base64)
-
-    const data = {
-      name,
-      description,
-      price,
-      coinPrice,
-      coinName,
-      coinAbbr,
-      cipher,
-      date,
-      email,
-      address,
-      sortedList,
-    }
-    axios({
-      method: 'post',
-      url: 'https://powershotz.com/php/altcoin.php',
-      data: data,
-    }).then((response) => {
-      if (response.data.sent === true) {
-        console.log({
-          successMsg: 'Thank you! Your order has been sent!',
-        })
-      } else {
-        console.log({ successMsg: 'Server Error: please try again' })
-      }
-    })
-  }
-
-  console.log(sortedList)
 
   return (
     <div>
@@ -207,29 +148,20 @@ export const Altcoin = ({
             padding: screenWidth < 450 ? '3% 5%' : '3% 10%',
           }}
         >
-          <h3>{name}</h3>
-          <p>
-            {description.map((item) => {
-              return (
-                <span key={item}>
-                  <span style={{ padding: '0 5px 0 10px' }}>&bull;</span>
-                  {item}
-                </span>
-              )
-            })}
-          </p>
           <p
             style={{
               border: '1px solid black',
               padding: '5px 0',
               borderRadius: '3px',
+              color: 'var(--backgroundColor)',
+              fontStyle: 'normal',
             }}
           >
             Order total:{' '}
-            <span style={{ color: 'green', fontWeight: '600' }}>${price} </span>
+            <span style={{ color: 'green', fontWeight: '600' }}>${total} </span>
             USD
             <br />
-            Order #{date}
+            Order #{orderNumber}
           </p>
           <h3>Choose a Coin, Cash App, Wise, or Zelle:</h3>
 
@@ -321,14 +253,14 @@ export const Altcoin = ({
           <CopyToClipboard
             text={coinPrice}
             onCopy={() => {
-              setCoinPriceText('grey')
               handleToast()
             }}
           >
             <p
               style={{
                 ...styles.copyText,
-                color: coinPriceText,
+                color: 'var(--backgroundColor)',
+                fontStyle: 'normal',
               }}
             >
               {coinPrice} {coinAbbr}
@@ -344,11 +276,16 @@ export const Altcoin = ({
           <CopyToClipboard
             text={address}
             onCopy={() => {
-              setAddressText('grey')
               handleToast()
             }}
           >
-            <p style={{ ...styles.copyText, color: addressText }}>
+            <p
+              style={{
+                ...styles.copyText,
+                color: 'var(--backgroundColor)',
+                fontStyle: 'normal',
+              }}
+            >
               {address}
               <img
                 title="copy to clipboard"
@@ -359,20 +296,6 @@ export const Altcoin = ({
             </p>
           </CopyToClipboard>
           <img src={qr} alt="qr code" width={175} style={{ marginTop: 10 }} />
-          <h3>
-            First pay...
-            <br />
-            Then, enter your email address and hit send.
-          </h3>
-          <input
-            style={styles.input}
-            onChange={(e) => setEmail(e.target.value)}
-            value={email}
-            placeholder="Your Email"
-          />
-          <Link to="/thankyou">
-            <button onClick={handleOrder}>SEND</button>
-          </Link>
         </div>
       </div>
     </div>
@@ -432,3 +355,5 @@ const styles = {
     borderRadius: '2px',
   },
 }
+
+export default AltcoinForDvds
